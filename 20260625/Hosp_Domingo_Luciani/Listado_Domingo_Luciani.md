@@ -1,5 +1,8 @@
 # Listado de pacientes admitidos en el Hospital Domingo Luciani
 
+Link: https://x.com/NaguiCorrea/status/2070146939694313982
+
+
 Imagenes: 
 <img src="img_2.png" alt="img_2.png" width="400">
 <img src="img_3.png" alt="img_3.png" width="400">
