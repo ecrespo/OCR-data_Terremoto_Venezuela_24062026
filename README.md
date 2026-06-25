@@ -14,6 +14,7 @@ Transcripción de listas manuscritas de pacientes atendidos en hospitales tras e
 | Hospital Miguel Pérez Carreño | Pediatría — niños (1–17) | [Lista_Niños_Hosp_Perez_Carreño.md](20260625/Hosp_Perez_Carreño/Lista_Niños_Hosp_Perez_Carreño.md) |
 | Hospital Miguel Pérez Carreño (La Yaguara) | Heridos trasladados desde La Guaira (82 registros, 5 nuevos) | [Hosp_Perez_Carreño_La_Yaguara.md](20260625/Hosp_Perez_Carreño/Hosp_Perez_Carreño_La_Yaguara.md) |
 | Hospital Miguel Pérez Carreño | Pediatría — procedencia, registros nuevos (1–14) | [lista2.md](20260625/Hosp_Perez_Carreño/lista2.md) |
+| Alcaldía de Chacao (Los Palos Grandes / Bellocampo) | Reporte de rescatados (17 rescatados, 12 fallecidos) | [reporte_rescatados_chacao.md](20260625/Alcaldia_Chacao/reporte_rescatados_chacao.md) |
 | Periférico de Catia (heridos de La Guaira) | Registro de emergencia (correlativos 679–740) | [PersonasRescatadas.md](20260625/LaGuaira/PersonasRescatadas.md) |
 | Hospital Dr. Domingo Luciani (Llanito) | Pacientes ingresados por sismo (1–37) | [PersonasHeridas.md](20260625/Hosp_Domingo_Luciani/PersonasHeridas.md) |
 | Hospital Dr. Domingo Luciani (Llanito) | Niños solos en Cirugía Pediátrica (1–5) | [CirugiaPediatrica.md](20260625/Hosp_Domingo_Luciani/CirugiaPediatrica.md) |
