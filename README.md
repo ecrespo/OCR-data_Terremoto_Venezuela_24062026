@@ -12,3 +12,4 @@ Transcripción de listas manuscritas de pacientes atendidos en hospitales tras e
 |-------------------|--------|-----------|
 | Hospital Miguel Pérez Carreño | Lista 1–4, Triaje, Traumashock | [Hosp_Perez_Carreño.md](20260625/Hosp_Perez_Carreño/Hosp_Perez_Carreño.md) |
 | Periférico de Catia (heridos de La Guaira) | Registro de emergencia (correlativos 679–740) | [PersonasRescatadas.md](20260625/LaGuaira/PersonasRescatadas.md) |
+| Hospital Dr. Domingo Luciani (Llanito) | Pacientes ingresados por sismo (1–37) | [PersonasHeridas.md](20260625/Hosp_Domingo_Luciani/PersonasHeridas.md) |
