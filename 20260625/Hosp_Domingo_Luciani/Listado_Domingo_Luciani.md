@@ -2,7 +2,8 @@
 
 Imagenes: 
 <img src="img_2.png" alt="img_2.png" width="400">
-
+<img src="img_3.png" alt="img_3.png" width="400">
+<img src="img_4.png" alt="img_4.png" width="400">
 
 # Domingo Luciani — Registros nuevos (no repetidos)
 
