@@ -1,7 +1,7 @@
 # Niños sólos en Cirugia Pediatrica Domingo Luciani
 
 Image:
-![img_1.png](img_1.png)
+<img src="img_1.png" alt="img_1.png" width="400">
 
 
 Aquí está la transcripción:
