@@ -14,3 +14,4 @@ Transcripción de listas manuscritas de pacientes atendidos en hospitales tras e
 | Periférico de Catia (heridos de La Guaira) | Registro de emergencia (correlativos 679–740) | [PersonasRescatadas.md](20260625/LaGuaira/PersonasRescatadas.md) |
 | Hospital Dr. Domingo Luciani (Llanito) | Pacientes ingresados por sismo (1–37) | [PersonasHeridas.md](20260625/Hosp_Domingo_Luciani/PersonasHeridas.md) |
 | Hospital Dr. Domingo Luciani (Llanito) | Niños solos en Cirugía Pediátrica (1–5) | [CirugiaPediatrica.md](20260625/Hosp_Domingo_Luciani/CirugiaPediatrica.md) |
+| Hospital Dr. Domingo Luciani (Llanito) | Registros nuevos no repetidos + triaje de cirugía | [Listado_Domingo_Luciani.md](20260625/Hosp_Domingo_Luciani/Listado_Domingo_Luciani.md) |
