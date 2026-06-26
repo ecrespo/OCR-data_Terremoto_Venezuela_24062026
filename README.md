@@ -13,20 +13,34 @@ El repositorio usa **[uv](https://docs.astral.sh/uv/)** como gestor de paquetes
 uv sync                 # instala dependencias
 ```
 
-Salidas de datos: `consolidado.md`, `consolidado.xlsx`, `consolidado.csv`,
-`consolidado.db` (SQLite) y `consolidado_vec.db` (SQLite + sqlite-vec).
-La app de **búsqueda semántica** está en [`consolidado_app/`](consolidado_app/README.md):
-
-```bash
-uv run python consolidado_app/ingest.py     # genera la base vectorial
-uv run python consolidado_app/app.py        # interfaz web de búsqueda
-```
-
 ## 📋 Documento principal — Lista consolidada
 
-➡️ **[Lista de heridos consolidada por hospitales](data/20260626/Lista_GCal_Consolidada/Lista_heridos_consolidada.md)**
+➡️ **[consolidado.md](consolidado.md)** — listado unificado y **deduplicado** de todas las listas (**1.117 personas** en 12 centros asistenciales), con una columna *Hospital / Área*, un resumen por centro y notas de consolidación.
 
-Listado unificado de heridos de todos los hospitales en un solo documento. Es el punto de entrada principal mientras se completa el procesamiento día por día (ver el índice por fecha más abajo).
+## 🔎 Archivos consolidados (salidas)
+
+El mismo conjunto de datos en varios formatos (todos se generan a partir de las listas de `data/`):
+
+| Archivo | Formato | Uso |
+|---------|---------|-----|
+| [consolidado.md](consolidado.md) | Markdown | Tabla legible con columna *Hospital / Área*, resumen y notas. |
+| [consolidado.csv](consolidado.csv) | CSV (UTF-8 con BOM) | Importable directo en Excel / Google Sheets / pandas. |
+| [consolidado.xlsx](consolidado.xlsx) | Excel | Hoja *Resumen* (con fórmulas) + hoja *Consolidado* con filtros; filas nuevas del registro UCV resaltadas. |
+| [consolidado.db](consolidado.db) | SQLite | Tabla `pacientes` + vista `resumen_hospital`. Ej.: `SELECT * FROM pacientes WHERE cedula='15720959';` |
+| [consolidado_vec.db](consolidado_vec.db) | SQLite + sqlite-vec | Base **vectorial** para búsqueda semántica (la consume la app). |
+
+> Para regenerar todo tras cambiar las listas: actualizar `consolidado.md` y reconstruir CSV/XLSX/DB; la base vectorial se rehace con `uv run python consolidado_app/ingest.py`.
+
+## 🤖 App de búsqueda semántica — [`consolidado_app/`](consolidado_app/README.md)
+
+Búsqueda por similitud (**sqlite-vec**) sobre los pacientes, con CLI e interfaz web. Backends de embeddings: *fastembed* (semántico, local, por defecto) · *OpenAI* (opcional) · *hashing* (respaldo offline). Detalles en [consolidado_app/README.md](consolidado_app/README.md).
+
+```bash
+uv sync                                                       # instala dependencias
+uv run python consolidado_app/ingest.py                       # genera consolidado_vec.db (embeddings)
+uv run python consolidado_app/search.py "fractura de fémur" --hospital Vargas   # búsqueda por consola
+uv run python consolidado_app/app.py                          # interfaz web: http://127.0.0.1:5000
+```
 
 ## Índice por fecha y hospital
 
@@ -36,6 +50,8 @@ Listado unificado de heridos de todos los hospitales en un solo documento. Es el
 |-------------------|--------|-----------|
 | Hospital General Regional Dr. José María Vargas (IVSS, La Guaira) | Lista de pacientes atendidos (172 pacientes — 8 listas de 20 + continuación de 12) | [Hosp_Jose_Maria_Vargas.md](data/20260626/Hosp_General_DR_Jose_Maria_Vargas_La_Guaira/Hosp_Jose_Maria_Vargas.md) |
 | Consolidado por hospitales | Lista de heridos consolidada (primeras 100 filas de la hoja de Google Sheets) | [Lista_heridos_consolidada.md](data/20260626/Lista_GCal_Consolidada/Lista_heridos_consolidada.md) |
+| Registro Maestro oficial (11 centros) | Consolidado UCV — pacientes por hospital (906 registros, corte 25JUN26 19:00) | [Consolidado_UCV.md](data/20260626/Consolidado_UCV/Consolidado_UCV.md) |
+| Cruz Roja Venezolana (sede La Candelaria, Caracas) | Lista de personas atendidas (31 personas) | [Cruz_Roja_Candelaria.md](data/20260626/Cruz_Roja/Cruz_Roja_Candelaria.md) |
 
 ### 2026-06-25
 

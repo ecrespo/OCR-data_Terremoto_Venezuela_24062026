@@ -6,6 +6,8 @@
 
 > 🆕 En esta actualización se incorporaron **657 personas nuevas** del registro UCV (se descartaron 142 coincidencias por cédula y 107 por nombre ya presentes). Las filas nuevas llevan «Fuente: Consolidado UCV 25JUN26» en la columna Nota.
 
+> 🆕 **Actualización 26JUN26 (Cruz Roja · La Candelaria):** se incorporaron **3 personas nuevas** de la lista de la Cruz Roja Venezolana (sede La Candelaria, Caracas). Las otras 28 de esa lista ya estaban registradas (variantes de transcripción). Las nuevas llevan «Fuente: Cruz Roja La Candelaria 26JUN26» en la columna Nota.
+
 ## Resumen
 
 | Hospital / Área | Personas (únicas) | De ellas, nuevas (UCV) |
@@ -19,10 +21,10 @@
 | Hosp. Universitario de Caracas (UCV) | 102 | 102 |
 | Hosp. Vargas de Caracas | 122 | 122 |
 | Hosp. Militar Univ. Dr. Carlos Arvelo | 137 | 137 |
-| Cruz Roja (Caracas) | 27 | 27 |
+| Cruz Roja (Caracas) | 30 | 27 |
 | Hosp. Ana Francisca Pérez de León II | 22 | 22 |
 | Clínica El Ávila | 34 | 34 |
-| **TOTAL** | **1114** | **657** |
+| **TOTAL** | **1117** | **657** |
 
 ## Listado consolidado
 
@@ -1066,9 +1068,11 @@
 | Cruz Roja (Caracas) | Belandria Joffre | 63 |  | Valles del Tuy | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Cruz Roja (Caracas) | Cedeño Carlos | 76 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Cruz Roja (Caracas) | Chen Boye | 21 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Cruz Roja (Caracas) | Eliana Contreras |  |  | La Candelaria | Lista atendidos Cruz Roja | Fuente: Cruz Roja La Candelaria 26JUN26 |
 | Cruz Roja (Caracas) | Franco Antonio | 63 |  | Av Fuerzas Armadas | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Cruz Roja (Caracas) | García Antonio | 36 |  | Barinas | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: 20101410 |
 | Cruz Roja (Caracas) | Guerra Petra | 72 |  | La Candelaria | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: 4806707 |
+| Cruz Roja (Caracas) | Helena Acevedo |  |  | La Candelaria | Lista atendidos Cruz Roja | Fuente: Cruz Roja La Candelaria 26JUN26 |
 | Cruz Roja (Caracas) | Hernández Jackeline | 62 |  | Misión Vivienda | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Cruz Roja (Caracas) | Lloret Laura | 85 |  | La Candelaria | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Cruz Roja (Caracas) | Lloret Liliana | 59 |  | La Candelaria | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
@@ -1084,6 +1088,7 @@
 | Cruz Roja (Caracas) | Rodríguez Marbelis | 52 |  | Av Lecuna | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Cruz Roja (Caracas) | Rodríguez Yalitza | 57 |  | Av Lecuna | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Cruz Roja (Caracas) | Tingy José | 44 |  | La Candelaria | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Cruz Roja (Caracas) | Valeria Castillo |  |  | La Candelaria | Lista atendidos Cruz Roja | Fuente: Cruz Roja La Candelaria 26JUN26 |
 | Cruz Roja (Caracas) | Varela Angel | 47 |  | Sarria | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Cruz Roja (Caracas) | Zhangyou Chen | 57 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Ana Francisca Pérez de León II | Abarca Neiulan | 12 | 15881615 | La Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
@@ -1150,3 +1155,4 @@
 - **Hosp. Pérez Carreño:** se unificaron las apariciones repetidas en Lista 1–4, Triaje y Traumashock. De la lista «La Yaguara» (82 registros, 77 previos) solo se añadieron los 5 nuevos.
 - **Hosp. Domingo Luciani:** lista OCR inicial + registros nuevos del registro UCV.
 - Las uniones se hicieron **dentro de cada hospital**. Cuando una misma cédula aparece con nombres muy distintos (probable error de transcripción) **no** se fusionaron los registros; se marcó con `⚠`.
+- **Actualización 26JUN26 (Cruz Roja · La Candelaria):** de las 31 personas del cartel de la Cruz Roja, 28 ya constaban (la lista coincide con el registro previo de «Cruz Roja»; incluye variantes como Nairubis/Nairobis Alvarado, Quedales/Querales, Bagochoa/Begochea y «Ángel Barela»≈«Ángel Varela»). Solo se añadieron 3 nombres no repetidos.
