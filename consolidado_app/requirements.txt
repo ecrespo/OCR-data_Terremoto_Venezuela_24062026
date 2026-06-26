@@ -1,0 +1,10 @@
+# Núcleo (obligatorio)
+sqlite-vec>=0.1.6
+flask>=3.0
+
+# Embeddings semánticos locales, recomendado (sin API key).
+# Descarga un modelo multilingüe la primera vez (~470 MB).
+fastembed>=0.4
+
+# Opcional: embeddings vía API de OpenAI (requiere OPENAI_API_KEY)
+# openai>=1.0
