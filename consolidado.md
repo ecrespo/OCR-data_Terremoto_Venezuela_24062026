@@ -1,20 +1,28 @@
 # Consolidado — Heridos y pacientes · Terremoto Venezuela (24/06/2026)
 
-> Documento generado a partir de **todos los archivos markdown** del repositorio. Cada fila corresponde a **una persona**; los registros repetidos dentro de un mismo hospital se unificaron por cédula y/o nombre. La columna **Hospital / Área** indica dónde se encuentra (o fue atendida / rescatada) la persona.
+> Documento generado a partir de **todos los archivos markdown** del repositorio y **actualizado con el Registro Maestro oficial** `25JUN26 7PM Pacientes Consolidados Hospitales Venezuela.xlsx` (corte 25JUN26 19:00). Cada fila corresponde a **una persona**; los registros repetidos se unificaron por cédula y/o nombre dentro de cada hospital. La columna **Hospital / Área** indica dónde se encuentra (o fue atendida / rescatada) la persona.
 
-> ⚠ Datos transcritos por OCR de listas manuscritas: cédulas y nombres pueden contener errores de lectura. Las marcas `(?)` y `⚠` señalan incertidumbre. Para confirmar el estado de una persona, dirigirse directamente al centro asistencial.
+> ⚠ Datos transcritos por OCR de listas manuscritas y del registro oficial: cédulas y nombres pueden contener errores de lectura. Las marcas `(?)` y `⚠` señalan incertidumbre. Para confirmar el estado de una persona, dirigirse directamente al centro asistencial.
+
+> 🆕 En esta actualización se incorporaron **657 personas nuevas** del registro UCV (se descartaron 142 coincidencias por cédula y 107 por nombre ya presentes). Las filas nuevas llevan «Fuente: Consolidado UCV 25JUN26» en la columna Nota.
 
 ## Resumen
 
-| Hospital / Área | Personas (únicas) | Registros originales |
+| Hospital / Área | Personas (únicas) | De ellas, nuevas (UCV) |
 | --- | ---: | ---: |
-| Hosp. José Gregorio Hernández (Magallanes) | 17 | 17 |
-| Hosp. Gral. Dr. José María Vargas (La Guaira) | 172 | 172 |
-| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | 132 | 151 |
-| Hosp. Dr. Domingo Luciani (Llanito) | 58 | 58 |
-| Periférico de Catia | 61 | 61 |
-| Rescatados — Alcaldía de Chacao (Los Palos Grandes / Bellocampo) | 17 | 17 |
-| **TOTAL** | **457** | **476** |
+| Hosp. José Gregorio Hernández (Magallanes) | 19 | 2 |
+| Hosp. Gral. Dr. José María Vargas (La Guaira) | 172 | 0 |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | 138 | 6 |
+| Hosp. Dr. Domingo Luciani (Llanito) | 197 | 139 |
+| Periférico de Catia | 127 | 66 |
+| Rescatados — Alcaldía de Chacao (Los Palos Grandes / Bellocampo) | 17 | 0 |
+| Hosp. Universitario de Caracas (UCV) | 102 | 102 |
+| Hosp. Vargas de Caracas | 122 | 122 |
+| Hosp. Militar Univ. Dr. Carlos Arvelo | 137 | 137 |
+| Cruz Roja (Caracas) | 27 | 27 |
+| Hosp. Ana Francisca Pérez de León II | 22 | 22 |
+| Clínica El Ávila | 34 | 34 |
+| **TOTAL** | **1114** | **657** |
 
 ## Listado consolidado
 
@@ -25,7 +33,9 @@
 | Hosp. José Gregorio Hernández (Magallanes) | Arrieta José | 45 | 15720959 | Catia La Mar | Reporte pacientes atendidos | Fractura de fémur |
 | Hosp. José Gregorio Hernández (Magallanes) | Bermúdez Génesis | 33 | 20925605 | La Guaira | Reporte pacientes atendidos | Fractura de miembros inferiores |
 | Hosp. José Gregorio Hernández (Magallanes) | Daren Elianyelis | 15 |  | Maiquetía | Reporte pacientes atendidos | Contusión craneal |
+| Hosp. José Gregorio Hernández (Magallanes) | Genire Eliangelis |  | 33916827 | Maiquetía | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. José Gregorio Hernández (Magallanes) | Gil Michel | 22 | 30091537 | Playa Grande | Reporte pacientes atendidos |  |
+| Hosp. José Gregorio Hernández (Magallanes) | Gil Michelle |  | 30041537 | Playa Grande | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. José Gregorio Hernández (Magallanes) | Gueira Juan | 40 | 17755824 | Guarenas | Reporte pacientes atendidos | Politraumatismos |
 | Hosp. José Gregorio Hernández (Magallanes) | Hernández Esteban | 47 | 14935718 | Playa Verde | Reporte pacientes atendidos | Fractura de tibia y peroné |
 | Hosp. José Gregorio Hernández (Magallanes) | Infante Jaimes | 59 | 6261045 | Catia La Mar | Reporte pacientes atendidos | Politraumatismos |
@@ -224,11 +234,13 @@
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Anabela Morillo |  | 34588981 |  | Adultos (Triaje) |  |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Anderson Mendoza |  |  |  | Pediatría (AMPC) | ¿cédula? 27399202 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Angel Fernandez |  | 16310014 |  | Adultos (L2) |  |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Arana Eduar |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Sin cédula |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Aron Isaac Villalobos | 8 |  | Tanaguarena | Pediatría (procedencia) | sin familiar |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Ashly Carreño | 8 |  |  | Pediatría (AMPC) | hermano de Dereck Carreño |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Ayari Castillo |  | 26327913 |  | Adultos (L2) |  |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Barbara Quintero |  | 13422890 |  | Adultos (L2) |  |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Barbara Ramirez |  | 18461886 |  | Adultos (L4) |  |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Bastardo Veronica |  | 30170686 |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Beronica Bastardo |  | 30170626 |  | Adultos (Traumashock) |  |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Brito Antonella | 11 |  | Catia la Mar | Pediatría (procedencia) |  |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Candelario Vovis |  | 9416493 |  | Adultos (L2) |  |
@@ -237,6 +249,7 @@
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Cenaida Paredez |  | 6405488 |  | Adultos (L1) / Adultos (Traumashock) | unificado de 2 registros |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Cesar Charneco (?) | 5 |  |  | Pediatría (AMPC) |  |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Cesar Pacheco |  | 26327366 |  | Adultos (L1) |  |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Chacon Elizabeth |  | 2734286 |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Crisbel Granado |  | 23926261 |  | Adultos (L2) |  |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Crisdeilis Quintero |  | 32865296 |  | Adultos (L1) |  |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Cruz Hernandez |  | 4636722 |  | Adultos (L1) / Adultos (Traumashock) | unificado de 2 registros |
@@ -293,6 +306,7 @@
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Maria Zamora |  | 27044236 |  | Adultos (L1) | ⚠ cédula 27044236 compartida con otro registro del mismo hospital (posible error OCR) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Marlene Davila |  | 19102824 |  | Adultos (L4) |  |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Marlin Martinez |  | 10576899 |  | Adultos (L4) |  |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Martinez Gabriel |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Maryuri Sedeño |  | 14194021 |  | Adultos (L4) |  |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Matías Jiménez | 13 |  |  | Pediatría (AMPC) | C.I. (?) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Maximiliano Quiñones | 6 |  |  | Pediatría (AMPC) |  |
@@ -317,6 +331,7 @@
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Samuel Peroza |  | 33020891 |  | Adultos (L2) |  |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Sandra Dias |  | 11638321 |  | Adultos (L4) |  |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Sanna Malave (?) | 10 |  |  | Pediatría (AMPC) |  |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Sucre Francis Medina |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · 18 años |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Thais Lopez |  | 13641870 |  | Adultos (L2) |  |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Toribelbys Rodríguez (?) | 1 |  |  | Pediatría (AMPC) | hermano de Yosbeilys |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Valeria Azocar |  | 28544619 |  | Adultos (Triaje) |  |
@@ -328,6 +343,7 @@
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Wuilliams Martinez |  | 19367804 |  | Adultos (L2) |  |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Yadira Cordero |  | 12763837 |  | Adultos (L1) |  |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Yaneli Acosta |  | 31760907 |  | Adultos (Triaje) |  |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Yaptista Yermin |  | 13948173 |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Yenni Marcano |  | 10384289 |  | Adultos (L3) / Adultos (Triaje) | cédulas distintas transcritas: 10384289, 18384289; unificado de 2 registros |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Yermin Vaptista |  | 31948173 |  | Adultos (L4) |  |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Yoandri Colina |  | 25872328 |  | Adultos (L4) |  |
@@ -341,103 +357,284 @@
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Zamora Valentina del Monte | 10 |  | La Guaira | Pediatría (procedencia) | rescatada bajo escombros |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Zoraida Martinez |  | 6092167 | La Guaira | La Yaguara (nuevo) |  |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Zuvanyeli Valentina Pérez | 1 |  | La Guaira | Pediatría (procedencia) |  |
+| Hosp. Dr. Domingo Luciani (Llanito) | Abello Matilde | 36 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Fallecida |
 | Hosp. Dr. Domingo Luciani (Llanito) | Abello Wilmari | 36 |  | Petare | Ingresados por sismo | ✚ posible fallecida (marca en lista) |
+| Hosp. Dr. Domingo Luciani (Llanito) | Abreu Paulina | 8 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Acosta Alexander | 47 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Acosta Alí | 47 |  | Baruta | Ingresados por sismo |  |
 | Hosp. Dr. Domingo Luciani (Llanito) | Acosta Hasael | 13 |  | Baruta | Ingresados por sismo |  |
 | Hosp. Dr. Domingo Luciani (Llanito) | Acosta Isael | 10 |  | Baruta | Ingresados por sismo |  |
+| Hosp. Dr. Domingo Luciani (Llanito) | Acosta Israel | 10 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Alayon Suhyn | 25 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Albe Manuel (?) | 74 |  | N.A. | Ingresados por sismo |  |
+| Hosp. Dr. Domingo Luciani (Llanito) | Andreina Vasconulo |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Politrauma |
 | Hosp. Dr. Domingo Luciani (Llanito) | Arrieta Doris | 65 |  | Baruta | Ingresados por sismo |  |
+| Hosp. Dr. Domingo Luciani (Llanito) | Arteaga Aide |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Politrauma – Rx |
+| Hosp. Dr. Domingo Luciani (Llanito) | Arteaga Gladys | 72 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Aurora Ordoz |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Politrauma |
+| Hosp. Dr. Domingo Luciani (Llanito) | Balas Laura | 33 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Politrauma Emerg. Nueva |
 | Hosp. Dr. Domingo Luciani (Llanito) | Balbuena Wilmer | 37 |  | Petare | Ingresados por sismo |  |
+| Hosp. Dr. Domingo Luciani (Llanito) | Balbueno Wilmed | 37 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Baras Esmeralda | 54 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Politrauma Emerg. Nueva |
+| Hosp. Dr. Domingo Luciani (Llanito) | Barreto Ricardo | 42 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Barreto Yoseanny | 30 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Quirófano – F |
 | Hosp. Dr. Domingo Luciani (Llanito) | Betancourt María | 74 |  | Petare | Ingresados por sismo |  |
+| Hosp. Dr. Domingo Luciani (Llanito) | Bisval Clara | 62 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Blanco Briceño Carmen |  |  |  | Lista (img.3) |  |
+| Hosp. Dr. Domingo Luciani (Llanito) | Blanco Carmen | 55 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Blanco José | 6 |  | El Hatillo | Ingresados por sismo |  |
+| Hosp. Dr. Domingo Luciani (Llanito) | Blanco Sofia Segura |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Politrauma |
+| Hosp. Dr. Domingo Luciani (Llanito) | Blancos Yessica | 53 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Blandin Sebastian | 7 |  | La Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Pediatría |
+| Hosp. Dr. Domingo Luciani (Llanito) | Bompard Radhi |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Politrauma |
+| Hosp. Dr. Domingo Luciani (Llanito) | Borges Liliane | 21 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Bospartte Ronny | 38 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Cabarca Vendezilín | 13 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Qx |
+| Hosp. Dr. Domingo Luciani (Llanito) | Cabarca Yenderli | 12 |  | Caribe | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Pediatría |
+| Hosp. Dr. Domingo Luciani (Llanito) | Cabeza Karina | 30 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Cabrera Carina |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Politrauma – Trauma |
+| Hosp. Dr. Domingo Luciani (Llanito) | Cabrera Karina | 30 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Caldera Lewis | 40 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Cardozo Carla | 25 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Castañeda Maria |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Politrauma – Tel: 02128733207 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Castaño Carlos |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Politrauma – Rx |
+| Hosp. Dr. Domingo Luciani (Llanito) | Castaño Dana | 17 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Castaño Donna | 12 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Pediatría |
+| Hosp. Dr. Domingo Luciani (Llanito) | Castaño Uhana | 12 |  | Los Corales | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Pediatría |
 | Hosp. Dr. Domingo Luciani (Llanito) | Castellano Danna |  |  |  | Cirugía Pediátrica (niño solo) |  |
+| Hosp. Dr. Domingo Luciani (Llanito) | Castillo Iaskara | 28 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Politrauma Emerg. Vieja |
+| Hosp. Dr. Domingo Luciani (Llanito) | Castillo Lusis | 42 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Quirófano – F |
+| Hosp. Dr. Domingo Luciani (Llanito) | Castillo Ricardo | 42 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Quirófano |
 | Hosp. Dr. Domingo Luciani (Llanito) | Castillo Victoria |  |  |  | Cirugía Pediátrica (niño solo) |  |
+| Hosp. Dr. Domingo Luciani (Llanito) | Castro Juan | 26 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Cecis Tania | 62 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Politrauma Emerg. Nueva |
+| Hosp. Dr. Domingo Luciani (Llanito) | Chacón Carlos | 43 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Cisnero Rosa | 57 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Córdova Arnaldo | 19 |  | Guarenas | Ingresados por sismo |  |
+| Hosp. Dr. Domingo Luciani (Llanito) | Da Silva Antony | 19 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Politrauma Emerg. Vieja |
+| Hosp. Dr. Domingo Luciani (Llanito) | Da Silva Engeerbueth | 21 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Politrauma Emerg. Vieja |
+| Hosp. Dr. Domingo Luciani (Llanito) | De Castillo Luci | 48 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Politrauma Emerg. Nueva |
 | Hosp. Dr. Domingo Luciani (Llanito) | Delgado Edimar | 23 |  | San Martín | Ingresados por sismo |  |
+| Hosp. Dr. Domingo Luciani (Llanito) | Desmon Lewin | 10 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Pediatría |
 | Hosp. Dr. Domingo Luciani (Llanito) | Diego Obregón |  |  |  | Triaje de cirugía |  |
 | Hosp. Dr. Domingo Luciani (Llanito) | Dirito Rosa (?) | 64 |  | Chacao | Ingresados por sismo |  |
+| Hosp. Dr. Domingo Luciani (Llanito) | Divito Rosa | 64 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Ekarce Doria | 23 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Politrauma Emerg. Nueva |
+| Hosp. Dr. Domingo Luciani (Llanito) | Escalona Ivis | 55 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Espitia Yohany Garabuto |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Politrauma |
 | Hosp. Dr. Domingo Luciani (Llanito) | Fernández Efraín | 31 |  | Catia | Ingresados por sismo |  |
+| Hosp. Dr. Domingo Luciani (Llanito) | Fernandez Neisy | 37 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Fernandez Nelsy | 57 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Fernández Niusy (?) | 37 |  | Guarenas | Ingresados por sismo |  |
+| Hosp. Dr. Domingo Luciani (Llanito) | Fernandez Yaspindy | 33 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Frontado Miel | 7 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Fuentes Alberto | 52 |  | Petare | Ingresados por sismo |  |
+| Hosp. Dr. Domingo Luciani (Llanito) | Galis Yaleska | 23 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Politrauma Emerg. Nueva |
+| Hosp. Dr. Domingo Luciani (Llanito) | Galus Alberto Fuente |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Politrauma |
+| Hosp. Dr. Domingo Luciani (Llanito) | Galvi Yanieska | 33 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Politrauma Emerg. Vieja |
+| Hosp. Dr. Domingo Luciani (Llanito) | Garabito Yoseani | 30 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Politrauma Emerg. Vieja |
 | Hosp. Dr. Domingo Luciani (Llanito) | García Díaz Yeuni Fernanda (?) | 34 |  | Petare | Ingresados por sismo |  |
+| Hosp. Dr. Domingo Luciani (Llanito) | Garcia Yenny | 34 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Gonzalez Albimar | 59 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Gonzalez Alexander |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Politrauma |
+| Hosp. Dr. Domingo Luciani (Llanito) | Gonzalez Alexandra | 42 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Gonzalez Olga | 63 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Gonzalez Rafael | 39 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | González Sleymar (?) | 59 |  | Altamira | Ingresados por sismo |  |
+| Hosp. Dr. Domingo Luciani (Llanito) | Gonzalez Stephany | 22 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Gonzalez Valeri | 10 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Pediatría |
+| Hosp. Dr. Domingo Luciani (Llanito) | Gonzalez Yailyn | 26 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Politrauma Emerg. Nueva |
+| Hosp. Dr. Domingo Luciani (Llanito) | Goyo Rafael | 32 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Guapin Efren | 30 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Piso 2 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Guarini Padrón Efrén (?) |  |  |  | Lista (img.2) |  |
+| Hosp. Dr. Domingo Luciani (Llanito) | Guavini Efren P.2 | 30 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Guerreiro Jesus | 44 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Politrauma Emerg. Nueva |
+| Hosp. Dr. Domingo Luciani (Llanito) | Guerrero Deiverson | 20 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Guzman Paola | 12 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Herrera Meilano Gladiuska |  |  |  | Lista (img.3) |  |
+| Hosp. Dr. Domingo Luciani (Llanito) | Hilden Anz | 4 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Pediatría |
+| Hosp. Dr. Domingo Luciani (Llanito) | Hilder Ana Lucia | 4 |  | Los Corales | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Pediatría |
+| Hosp. Dr. Domingo Luciani (Llanito) | Hilders Ana | 4 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Quirófano |
+| Hosp. Dr. Domingo Luciani (Llanito) | Huoa Anderson | 9 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Pediatría |
+| Hosp. Dr. Domingo Luciani (Llanito) | Ibarra Ana | 74 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Iscala Yenny (?) | 42 |  | Baruta | Ingresados por sismo |  |
+| Hosp. Dr. Domingo Luciani (Llanito) | Isquierdo Henriquez | 55 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Politrauma Emerg. Nueva |
+| Hosp. Dr. Domingo Luciani (Llanito) | Izquierdo Iraima | 83 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Fallecida |
 | Hosp. Dr. Domingo Luciani (Llanito) | Izquierdo Jean | 83 |  | Palos Grandes | Ingresados por sismo |  |
+| Hosp. Dr. Domingo Luciani (Llanito) | Jimenez Axel | 4 |  | Los Corales | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Pediatría – Madre: Mileidi Lopez |
 | Hosp. Dr. Domingo Luciani (Llanito) | Lander Sebastián |  |  |  | Cirugía Pediátrica (niño solo) |  |
 | Hosp. Dr. Domingo Luciani (Llanito) | Lastra Visbal Clara |  |  |  | Lista (img.2) |  |
+| Hosp. Dr. Domingo Luciani (Llanito) | Lewis Desmon | 10 |  | La Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Pediatría – Madre: Elisa Calderon |
 | Hosp. Dr. Domingo Luciani (Llanito) | Liscano Pedro | 40 |  | Chacaíto | Ingresados por sismo |  |
+| Hosp. Dr. Domingo Luciani (Llanito) | Lopez Fronin Rivas |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Politrauma |
+| Hosp. Dr. Domingo Luciani (Llanito) | Lopez Haddy F | 42 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Lucy De Castillo | 48 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Machado Anarella | 9 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Marabito Espitia Joseani | 32 |  | Petare | Ingresados por sismo |  |
+| Hosp. Dr. Domingo Luciani (Llanito) | Marabito Joseani | 32 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Marcano Katiuska | 56 |  | La Guaira | Ingresados por sismo |  |
+| Hosp. Dr. Domingo Luciani (Llanito) | Martinez Isaac | 10 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Quirófano |
+| Hosp. Dr. Domingo Luciani (Llanito) | Martinez Jesus | 7 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Quirófano |
+| Hosp. Dr. Domingo Luciani (Llanito) | Martinez Joan | 10 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Pediatría |
+| Hosp. Dr. Domingo Luciani (Llanito) | Martinez Johan Isaac | 10 |  | La Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Pediatría – Padre: Carmen Midy |
+| Hosp. Dr. Domingo Luciani (Llanito) | Maubios Diaz | 51 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Politrauma Emerg. Nueva |
+| Hosp. Dr. Domingo Luciani (Llanito) | Mendez Yesire | 24 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Méndez Yesirée (?) | 24 |  | Guarenas | Ingresados por sismo |  |
+| Hosp. Dr. Domingo Luciani (Llanito) | Merlano Gladivska Herrero |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Politrauma |
+| Hosp. Dr. Domingo Luciani (Llanito) | Mijares Isolibeth | 45 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Milano Gladivska | 29 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Misy Gabriela Parra |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Politrauma |
+| Hosp. Dr. Domingo Luciani (Llanito) | Muñon Mariangel | 59 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Muñoz Josefina | 72 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Ojeda Doris Arrieta |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Politrauma |
+| Hosp. Dr. Domingo Luciani (Llanito) | Oldaz Luisana | 58 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Omar Portillo |  |  |  | Lista (img.2) |  |
+| Hosp. Dr. Domingo Luciani (Llanito) | Omasiento Sebastián | 16 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Ordaz Luisana |  |  |  | Lista (img.2) |  |
+| Hosp. Dr. Domingo Luciani (Llanito) | Ordaz Lusana | 58 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Padilla Godoy | 4 |  | La Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Pediatría – Mamá: Andreina Vasconalo |
 | Hosp. Dr. Domingo Luciani (Llanito) | Padilla Rodoski | 4 |  |  | Cirugía Pediátrica (niño solo) |  |
+| Hosp. Dr. Domingo Luciani (Llanito) | Padon Efren Gualino |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Politrauma |
+| Hosp. Dr. Domingo Luciani (Llanito) | Padon Euilo |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Politrauma |
 | Hosp. Dr. Domingo Luciani (Llanito) | Padrón Jesús Cirilo |  |  |  | Lista (img.2) |  |
 | Hosp. Dr. Domingo Luciani (Llanito) | Parra Estefanía | 15 |  | Baruta | Ingresados por sismo |  |
+| Hosp. Dr. Domingo Luciani (Llanito) | Parra Gabriela | 19 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Parra Misel Gabriela |  |  |  | Lista (img.2) |  |
+| Hosp. Dr. Domingo Luciani (Llanito) | Pedron Jesús | 68 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Perez Francisca | 63 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Pérez Francisco | 63 |  | Petare | Ingresados por sismo |  |
+| Hosp. Dr. Domingo Luciani (Llanito) | Piñero Sebastian | 16 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Pireto Sebastián | 16 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Ramírez Escalante Mariangel |  |  |  | Lista (img.3) |  |
+| Hosp. Dr. Domingo Luciani (Llanito) | Ramirez Gabriela | 37 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Quirófano |
+| Hosp. Dr. Domingo Luciani (Llanito) | Ramirez Jose | 37 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Ramírez Mariangel | 33 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Rengifo Deili | 46 |  | Petare | Ingresados por sismo |  |
+| Hosp. Dr. Domingo Luciani (Llanito) | Rengifo Guillermina | 46 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Rey Jenicel |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Quirófano |
 | Hosp. Dr. Domingo Luciani (Llanito) | Rey Jenncil (?) | 29 |  | Chacao | Ingresados por sismo |  |
+| Hosp. Dr. Domingo Luciani (Llanito) | Rey Jennicel | 29 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Rivas Fabina | 23 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Rivas Frankenil | 53 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Rivas López Franin (?) |  |  |  | Lista (img.3) |  |
 | Hosp. Dr. Domingo Luciani (Llanito) | Rivero Daniel | 60 |  | Macaracuay | Ingresados por sismo |  |
 | Hosp. Dr. Domingo Luciani (Llanito) | Rodríguez Eduardo | 65 |  | Petare | Ingresados por sismo |  |
+| Hosp. Dr. Domingo Luciani (Llanito) | Rodriguez Hilary | 32 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Quirófano – F |
+| Hosp. Dr. Domingo Luciani (Llanito) | Rodriguez Jesus | 28 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Politrauma Emerg. Nueva |
+| Hosp. Dr. Domingo Luciani (Llanito) | Rojas Rafael | 50 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Romero Jose | 60 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Rondón Ángel | 12 |  | Baruta | Ingresados por sismo |  |
+| Hosp. Dr. Domingo Luciani (Llanito) | Rosalis Vasquez | 18 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Politrauma Emerg. Nueva |
 | Hosp. Dr. Domingo Luciani (Llanito) | Salazar Arturo | 13 |  |  | Cirugía Pediátrica (niño solo) |  |
+| Hosp. Dr. Domingo Luciani (Llanito) | Sandoval Nelly | 62 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Sequela Sofia | 19 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Sequera Blanco Sofía |  |  |  | Lista (img.3) |  |
 | Hosp. Dr. Domingo Luciani (Llanito) | Serrano González Nancy |  |  |  | Lista (img.2) |  |
+| Hosp. Dr. Domingo Luciani (Llanito) | Serrano Nancy | 67 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Silva Yohaiver |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Silva Yohandry |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Simenez Axiel | 4 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Qx |
 | Hosp. Dr. Domingo Luciani (Llanito) | Streu Emma (?) | 8 |  | Sabana Grande | Ingresados por sismo |  |
 | Hosp. Dr. Domingo Luciani (Llanito) | Suárez Granado René |  |  |  | Lista (img.3) |  |
+| Hosp. Dr. Domingo Luciani (Llanito) | Suarez Rene | 62 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Torralba Nurria (?) | 68 |  | Chacao | Ingresados por sismo |  |
+| Hosp. Dr. Domingo Luciani (Llanito) | Torrealba Nuvia | 68 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Torres Luna |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Torres Milagros | 46 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Trujillo Elián | 19 |  | La Guaira | Ingresados por sismo |  |
+| Hosp. Dr. Domingo Luciani (Llanito) | Uequiola Mauro | 55 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Politrauma Emerg. Vieja |
+| Hosp. Dr. Domingo Luciani (Llanito) | Urbina Silibeto | 80 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Vasconcelo Andreína (?) |  |  |  | Lista (img.2) |  |
+| Hosp. Dr. Domingo Luciani (Llanito) | Vasque Luis | 77 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Fallecida |
 | Hosp. Dr. Domingo Luciani (Llanito) | Vásquez Luis | 77 |  | Sin familiar | Ingresados por sismo | ✚ posible fallecido (marca en lista) |
 | Hosp. Dr. Domingo Luciani (Llanito) | Vega Samuel | 11 |  | Petare | Ingresados por sismo |  |
 | Hosp. Dr. Domingo Luciani (Llanito) | Vilches Brayan | 23 |  | Petare | Ingresados por sismo |  |
+| Hosp. Dr. Domingo Luciani (Llanito) | Vilchez Brayan | 23 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Visbal Clara Lojo |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Politrauma |
 | Hosp. Dr. Domingo Luciani (Llanito) | Winchester Kellys | 28 |  | Petare | Ingresados por sismo |  |
+| Hosp. Dr. Domingo Luciani (Llanito) | Yendi Sebastien | 7 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Pediatría |
 | Hosp. Dr. Domingo Luciani (Llanito) | Yessica Blanco |  |  |  | Triaje de cirugía |  |
+| Periférico de Catia | Abdly Abdelys | 28 | 26254624 |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Cirugía General |
+| Periférico de Catia | Abreu Ana | 36 | 22036301 |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Cirugía General |
 | Periférico de Catia | Abreu Isabel |  |  | Alta vista, 81 (?) | Registro de emergencia | caída |
 | Periférico de Catia | Albino Walter |  |  | Propatria | Registro de emergencia |  |
+| Periférico de Catia | Alcántara Amelis | 39 | 17443332 |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Cirugía General |
 | Periférico de Catia | Aletis Zacarías (?) |  |  | — | Registro de emergencia | caída |
+| Periférico de Catia | Alex Palencia |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Periférico de Catia | Alfredo Núñez | 67 |  | Con Magallanes | Registro de emergencia | F. abierta (?) |
 | Periférico de Catia | Ana González | 46 |  | Calle San Andrés (?) | Registro de emergencia | caída |
+| Periférico de Catia | Capella Harold | 33 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Traumat. odf con lacera / Sola / Consulta 3:21 |
 | Periférico de Catia | Capote Harold | 43 |  | San Lorenzo | Registro de emergencia | dolor |
 | Periférico de Catia | Carlos Katia (?) | 30 |  | Santa Cruz, Aragua | Registro de emergencia | caída |
+| Periférico de Catia | Carreño Daniela | 15 | 32525559 |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Cirugía/Trauma |
 | Periférico de Catia | Castillo Jorge | 77 |  | — | Registro de emergencia | caída |
+| Periférico de Catia | Cervelan Fermíne |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Periférico de Catia | Chacín Aldae (?) | 37 |  | La Guaira, Chirau (?) | Registro de emergencia | caída |
+| Periférico de Catia | Chirinos Alexandra | 21 | 31995517 |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Cirugía General |
+| Periférico de Catia | Cipriota Seville | 29 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Esposo / Caída 7:07 |
+| Periférico de Catia | Colmenaras Yadher | 3 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · QVOg e. lacera Scap / Mamá / Caída 2:30 |
 | Periférico de Catia | Colmenares Yadier | 56 |  | El Limón (?) | Registro de emergencia | dolor |
 | Periférico de Catia | Colmenares Yuseli (?) | 27 |  | Calle real Maiquetía | Registro de emergencia | caída |
 | Periférico de Catia | Contreras Valeria | 24 |  | — | Registro de emergencia | acc. moto |
+| Periférico de Catia | Córdoba Eduanyelis | 6 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Cirugía General |
+| Periférico de Catia | Cortez Yolimar | 58 | 6340991 |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Cirugía/Trauma |
+| Periférico de Catia | Danely Rodríguez |  |  | Los Paraísos de #13 | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Periférico de Catia | Darío Rubén | 64 |  | Los Frailes | Registro de emergencia | caída |
+| Periférico de Catia | Deagrela José | 48 | 13373135 |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Cirugía General |
 | Periférico de Catia | Dereck Torres | 5 |  | Calle real Los Flores | Registro de emergencia | caída |
 | Periférico de Catia | Edgar González | 48 |  | Carrizal, Los Teques | Registro de emergencia | oreja (?) |
+| Periférico de Catia | Ender Rangel | 150 |  | por Suere | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Hermanos / Caída |
 | Periférico de Catia | Espinosa Fermina | 33 |  | — | Registro de emergencia | consulta |
+| Periférico de Catia | Espinosa Fermíne | 70 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Traumate. Elbon + muscular / Hija / Caída 3:00 |
+| Periférico de Catia | Estevez Johnson | 24 | 29571733 |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Cirugía General |
 | Periférico de Catia | Fargel Ender (?) |  |  | Av. Sucre (?) | Registro de emergencia | caída |
 | Periférico de Catia | Franklin Alfonso | 65 |  | Indigente (?) | Registro de emergencia | caída |
 | Periférico de Catia | Fromel Reine (?) | 17 |  | Caribe, La Guaira | Registro de emergencia | dolor |
+| Periférico de Catia | Georrin Valella | 22 | 30114918 |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Cirugía General |
+| Periférico de Catia | Gonzales Yurmis | 47 | 13828545 |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Cirugía General |
+| Periférico de Catia | Gonzalez Acosta Marco Antonio | 52 | 10279036 |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Cirugía/Trauma |
 | Periférico de Catia | González Anderson | 3 |  | La Silsa (?) | Registro de emergencia | caída |
+| Periférico de Catia | Gonzalez Yaneska | 40 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Cirugía/Trauma – La Guaira |
+| Periférico de Catia | Gordofón Gonzalez |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Periférico de Catia | Greyli Oropeza (?) | 24 |  | — | Registro de emergencia | caída |
 | Periférico de Catia | Gustavo Ávila (?) | 72 |  | Cañada 23 de Enero | Registro de emergencia | caída |
+| Periférico de Catia | Haddan Yaleisy | 41 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Cassila para / Sola / Caída 4:10 |
 | Periférico de Catia | Hadden Yaletzy (?) | 45 |  | — | Registro de emergencia | acc. moto |
+| Periférico de Catia | Helinsson Aquino |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Periférico de Catia | Herlane López | 68 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Fío / Caída 6:58 |
+| Periférico de Catia | Hernández Yamileth | 61 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Cirugía/Trauma |
 | Periférico de Catia | Hero Marcela (?) | 41 |  | — | Registro de emergencia | acc. moto |
 | Periférico de Catia | Hriangely Nieto (?) | 26 |  | La Quebrada | Registro de emergencia | cara (?) |
+| Periférico de Catia | Jaimez Rubén Darío | 74 | 6433372 |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Cirugía General |
+| Periférico de Catia | Jesel John | 49 | 13827925 |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Cirugía/Trauma |
 | Periférico de Catia | Jesús Vegas | 20 |  | Playa Grande | Registro de emergencia | caída |
 | Periférico de Catia | Jhonson Esteban | 52 |  | La Guaira, Maiquetía | Registro de emergencia | caída |
 | Periférico de Catia | José Cordero | 28 |  | Alta Vista | Registro de emergencia | caída |
 | Periférico de Catia | Karle Jean | 54 |  | Casalta, bloque 10 | Registro de emergencia | caída |
+| Periférico de Catia | Lama Daniela | 3 |  | 3er plan de la Selva | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Hijo / Caída 6:57 |
+| Periférico de Catia | Lemus Dilcia | 54 | 13531664 |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Cirugía General |
 | Periférico de Catia | Lismar Quintan (?) | 69 |  | Gramoven (?) | Registro de emergencia | caída |
+| Periférico de Catia | López Marioly | 44 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Fractura de propina / Sola / Golpe 3:50 |
+| Periférico de Catia | López Neiboy | 22 |  | Pio Caído | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Esposa / Caída 7:04 |
 | Periférico de Catia | López Nelber (?) | 29 |  | Río Caribe (?) | Registro de emergencia | caída |
 | Periférico de Catia | López Valeria | 20 |  | Los Magallanes | Registro de emergencia | caída |
+| Periférico de Catia | Lopon Miriam | 46 | 13853733 |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Cirugía/Trauma |
+| Periférico de Catia | Lopos Ingrid | 38 | 10528878 |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Cirugía/Trauma |
 | Periférico de Catia | Luisangely Zapata | 28 |  | Carayaca, B.N. | Registro de emergencia |  |
 | Periférico de Catia | María Figueira (?) | 20 |  | La Guaira | Registro de emergencia | quemado (?) |
 | Periférico de Catia | María Jabana (?) | 50 |  | Caracas–La Guaira | Registro de emergencia | caída |
 | Periférico de Catia | Marlene Teran (?) | 22 |  | La Silsa (?) | Registro de emergencia | caída |
+| Periférico de Catia | Martínez Yamilith | 30 |  | Se. Grativia | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Amiga / Caída 7:46 |
 | Periférico de Catia | Mary Durán | 17 |  | Ciudad Tiuna | Registro de emergencia | caída |
+| Periférico de Catia | Mary Durón | 36 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Ciudad lumba torácica / Sola / Caída 2:36 |
 | Periférico de Catia | Mary Yépez | 30 |  | Magallanes (?) | Registro de emergencia | salud (?) |
+| Periférico de Catia | Mayor Henderson | 15 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Les. puncta de ante #18 / Mamá / Caída 3:47 |
+| Periférico de Catia | Mayora Gustavo | 52 | 11643841 |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Cirugía General |
+| Periférico de Catia | Mendoza Reina | 62 | 6887465 |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Cirugía General |
 | Periférico de Catia | Milagros Jiménez | 45 |  | Los Frailes | Registro de emergencia | caída |
+| Periférico de Catia | Millán Soilet | 39 | 18142695 |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Cirugía General |
+| Periférico de Catia | Mora Kimberly | 34 | 24331288 |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Cirugía/Trauma |
+| Periférico de Catia | Moreno Yader | 24 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · B/edemat guiñat morita / Mamá / Caída 2:56 |
 | Periférico de Catia | Moreno Yorber | 70 |  | B/ Federico Quiroz (?) | Registro de emergencia | caída |
 | Periférico de Catia | Nazar Heiverson (?) | 44 |  | Brisas de Propatria (?) | Registro de emergencia | caída |
 | Periférico de Catia | Nelson Hedaine (?) | 49 |  | Calle Caribe | Registro de emergencia | caída |
@@ -445,21 +642,45 @@
 | Periférico de Catia | Orlando González | 40 |  | Calle real (?) | Registro de emergencia | cir (?) |
 | Periférico de Catia | Óscar Tortoze (?) | 18 |  | Caraballeda, La Guaira | Registro de emergencia | quemado (?) |
 | Periférico de Catia | Pabón Mariangel | 3 |  | Los Magallanes (?) | Registro de emergencia | tos |
+| Periférico de Catia | Pastono Gyamily | 32 |  | Escalipto San Blas | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Papá / Caída 7:20 |
 | Periférico de Catia | Patruc... Sondiole (?) | 51 |  | Calle parcelas (?) | Registro de emergencia | caída |
+| Periférico de Catia | Pena Yohsen | 51 |  | Magallanes | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Solo / Caída 7:56 |
 | Periférico de Catia | Perdomo Yoiny (?) | 32 |  | Eucalipto, San Martín (?) | Registro de emergencia | caída |
+| Periférico de Catia | Pereira Villamizar María Isabella | 8 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Cirugía General |
+| Periférico de Catia | Pérez David | 61 | 6842773 |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Cirugía/Trauma |
+| Periférico de Catia | Pestano Margaret | 45 | 19915985 |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Cirugía General |
 | Periférico de Catia | Pico Díaz Jenny | 52 |  | La Guaira | Registro de emergencia | caída |
 | Periférico de Catia | Plana Bamby (?) |  |  | Caribe | Registro de emergencia | oreja (?) |
+| Periférico de Catia | Planas José | 52 | 12163470 |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Cirugía General |
+| Periférico de Catia | Quetoy Ysabel | 36 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Esposa / Her. cuta 8l / Caída 7:14 |
 | Periférico de Catia | Renic Núñez (?) | 54 |  | Federico Quiroz (?) | Registro de emergencia | caída |
 | Periférico de Catia | Reyes Mary | 40 |  | La Guaira, Lo Coco | Registro de emergencia | caída |
+| Periférico de Catia | Rio Duques Miguel | 56 | 10073429 |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Cirugía/Trauma |
+| Periférico de Catia | Rivas Mary | 30 |  | La Cortada de Calle | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Esposa / Caída 7:50 |
 | Periférico de Catia | Rodríguez Cindy | 21 |  | La Vega, Los Mangos (?) | Registro de emergencia | dolor abdominal (?) |
+| Periférico de Catia | Rodríguez Pindiole | 51 |  | Calle Principal | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Sola / Caída 7:28 |
+| Periférico de Catia | Rodríguez Sanelly | 12 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Contusion h. guaro / Sola / Consulta 3:46 |
 | Periférico de Catia | Rodríguez Sanely | 15 |  | Los Frailes (?) | Registro de emergencia | golpe (?) |
+| Periférico de Catia | Salazar Caroline | 6 |  | Ly/ Guiñare | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Sobrín / Caída 7:30 |
 | Periférico de Catia | Salazar Coraline (?) | 6 |  | La Guaira | Registro de emergencia | caída |
 | Periférico de Catia | Sánchez María | 30 |  | — | Registro de emergencia | quemada (?) |
+| Periférico de Catia | Semeria Irllis | 49 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Cirugía General |
+| Periférico de Catia | Sivira Leoneidy | 30 | 25175345 |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Cirugía General |
+| Periférico de Catia | Spinola Kelly | 38 | 17482090 |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Cirugía General |
+| Periférico de Catia | Terán Audia | 54 | 11055173 |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Cirugía General |
+| Periférico de Catia | Terán Tenía | 55 | 11409997 |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Cirugía General |
+| Periférico de Catia | Tortoso Oscar | 37 | 20558047 |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Cirugía General |
+| Periférico de Catia | Tovar Yeison | 17 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Cirugía General |
 | Periférico de Catia | Valencia Élix | 42 |  | — | Registro de emergencia | consulta |
+| Periférico de Catia | Vegas Jenco | 14 | 34273706 |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Cirugía/Trauma |
 | Periférico de Catia | Villamizar Abdaly |  |  | — | Registro de emergencia |  |
+| Periférico de Catia | Yacher Nancy Durán |  |  | Ciudad Nueva Torre | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Periférico de Catia | Yanes Silvia | 77 | 3557870 |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Cirugía General |
+| Periférico de Catia | Yarlys Contreras |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Periférico de Catia | Yenny Sevilla (?) | 36 |  | Blandín (?) | Registro de emergencia | caída |
 | Periférico de Catia | Yohan Peña (?) | 51 |  | Caribe, Soternio (?) | Registro de emergencia | caída |
 | Periférico de Catia | Yulibeth Martínez (?) | 30 |  | La cortada de Catia (?) | Registro de emergencia | caída |
+| Periférico de Catia | Zealario Alexis |  |  | Carabilla + Sector Río | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Rescatados — Alcaldía de Chacao (Los Palos Grandes / Bellocampo) | Albimar González (?) |  |  | Los Palos Grandes / Bellocampo | Rescatado | transcripción incierta |
 | Rescatados — Alcaldía de Chacao (Los Palos Grandes / Bellocampo) | Andrés Legorburu Martínez Sánchez (?) |  |  | Los Palos Grandes / Bellocampo | Rescatado | posible aclaración del nombre completo del anterior |
 | Rescatados — Alcaldía de Chacao (Los Palos Grandes / Bellocampo) | Eduard Fernández |  |  | Los Palos Grandes / Bellocampo | Rescatado |  |
@@ -477,11 +698,455 @@
 | Rescatados — Alcaldía de Chacao (Los Palos Grandes / Bellocampo) | Sin identificar |  |  | Los Palos Grandes / Bellocampo | Rescatado | no portaba documentos al momento del rescate |
 | Rescatados — Alcaldía de Chacao (Los Palos Grandes / Bellocampo) | Sofía Bolones |  |  | Los Palos Grandes / Bellocampo | Rescatado |  |
 | Rescatados — Alcaldía de Chacao (Los Palos Grandes / Bellocampo) | Victoria Delgado |  |  | Los Palos Grandes / Bellocampo | Rescatado |  |
+| Hosp. Universitario de Caracas (UCV) | Abreu Jose | 52 | 15810058 | Hoyo de la Puerta | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Universitario de Caracas (UCV) | Abreu Jose Luis | 47 | 15800038 | Hoyo de la Puerta | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Politraumatismo |
+| Hosp. Universitario de Caracas (UCV) | Acosta Yolerfan | 26 | 28136168 | LA GUAIRA | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: 0412-3475759 |
+| Hosp. Universitario de Caracas (UCV) | Ahanma Antonio | 66 | 2072832 | Av. Roosevelt | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Politraumatismo |
+| Hosp. Universitario de Caracas (UCV) | Antequia Mayuli | 50 | 12882457 | CACIQUE TIUNA | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: 0424-5860106 |
+| Hosp. Universitario de Caracas (UCV) | Avila Edith | 20 | 31073850 | Las Adjuntas | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Politraumatismo |
+| Hosp. Universitario de Caracas (UCV) | Baraja Andres | 41 | 17491087 | PRIVADOS DE LIBERTAD | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: 0424-2738577 |
+| Hosp. Universitario de Caracas (UCV) | Benedeti Yorlianis | 29 | 25846221 | ALTAMIRA | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: 0424-1737018 |
+| Hosp. Universitario de Caracas (UCV) | Cáceres Eliose | 55 | 11061197 | LA GUAIRA | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: 0426-1507138 |
+| Hosp. Universitario de Caracas (UCV) | Caceres Jose | 55 | 11061147 | La Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Politraumatismo |
+| Hosp. Universitario de Caracas (UCV) | Cáceres Nathalia | 13 | 36192938 | LA GUAIRA | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: 0424-1507138 |
+| Hosp. Universitario de Caracas (UCV) | Cáceres Patricia | 18 | 32790475 | LA GUAIRA | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: 0424-1507138 |
+| Hosp. Universitario de Caracas (UCV) | Carillo Yasmin | 67 | 5424760 | LOS ROSALES | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: 0412-1825267 |
+| Hosp. Universitario de Caracas (UCV) | Carrillo Yasmin | 67 | 5424960 | Los Rosales | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Politraumatismo |
+| Hosp. Universitario de Caracas (UCV) | Castellano Jose | 35 | 21364204 | PRIVADOS DE LIBERTAD | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: 0424-2738577 |
+| Hosp. Universitario de Caracas (UCV) | Castro Geral | 11 | 31656363 | La Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Politraumatismo |
+| Hosp. Universitario de Caracas (UCV) | Closier Liz | 28 | 26063002 | La Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Politraumatismo |
+| Hosp. Universitario de Caracas (UCV) | Coa Deivis | 36 | 18780841 | LA GUAIRA | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: 0424-1534022 |
+| Hosp. Universitario de Caracas (UCV) | Coa Deivys | 36 | 18760841 | La Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Politraumatismo |
+| Hosp. Universitario de Caracas (UCV) | Cortez Noeli | 30 | 22538576 | LAS MAYAS | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: 0424-2562305 |
+| Hosp. Universitario de Caracas (UCV) | Cuba Andreina | 30 | 25000118 | El Valle | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Politraumatismo |
+| Hosp. Universitario de Caracas (UCV) | Cuyan Fran | 60 | 10235290 | LA FLORIDA | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: 0424-2927910 |
+| Hosp. Universitario de Caracas (UCV) | Dantoja Toni | 47 | 13409559 | LAS MAYAS | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: 0424-2562305 |
+| Hosp. Universitario de Caracas (UCV) | De Silva Indira | 46 | 14556746 | La Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Politraumatismo |
+| Hosp. Universitario de Caracas (UCV) | Diaz Daniel | 57 | 10001561 | La Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Politraumatismo |
+| Hosp. Universitario de Caracas (UCV) | Diaz Yasmin | 47 | 13999719 | La Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Politraumatismo |
+| Hosp. Universitario de Caracas (UCV) | Escalona Joaquin | 65 | 6482918 | EL VALLE | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: 0414-9081729 |
+| Hosp. Universitario de Caracas (UCV) | Flores Maira | 44 | 14955107 | La Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Politraumatismo |
+| Hosp. Universitario de Caracas (UCV) | Garcia Angel | 46 | 14299523 | La Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Politraumatismo |
+| Hosp. Universitario de Caracas (UCV) | Gomez Nuria | 80 | 11926425 | No especifica | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Politraumatismo |
+| Hosp. Universitario de Caracas (UCV) | Gonzalez Edgar | 40 | 16310437 | La Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Traumatismo leve – Alta médica |
+| Hosp. Universitario de Caracas (UCV) | Gosling Hairmon | 49 | 29900166 | La Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: 0414-5215646 |
+| Hosp. Universitario de Caracas (UCV) | Gosling Raymond | 79 | 2900166 | La Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Politraumatismo |
+| Hosp. Universitario de Caracas (UCV) | Granado Gaudy | 46 | 15586408 | La Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Politraumatismo |
+| Hosp. Universitario de Caracas (UCV) | Guzman Angelica | 48 | 13717596 | LA GUAIRA | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: 0424-2668717 |
+| Hosp. Universitario de Caracas (UCV) | Guzman Richartson | 27 | 26938811 | La Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Politraumatismo |
+| Hosp. Universitario de Caracas (UCV) | Hanma Antonio | 66 | 5072832 | AV PASCUAL | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: 0424-2183524 |
+| Hosp. Universitario de Caracas (UCV) | Henrique Maria | 46 | 14213277 | La Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Politraumatismo |
+| Hosp. Universitario de Caracas (UCV) | Ibarra Wilmer | 45 | 15335705 | La Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Politraumatismo |
+| Hosp. Universitario de Caracas (UCV) | Ibarra Wuikmer/wilmer | 45 | 15332705 | LA GUAIRA | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: 0412-9646938 |
+| Hosp. Universitario de Caracas (UCV) | La Vende Victor | 18 | 3344528 | La Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Politraumatismo |
+| Hosp. Universitario de Caracas (UCV) | La Verde Victor | 18 | 30334452 | LA GUAIRA | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: 0412-8162456 |
+| Hosp. Universitario de Caracas (UCV) | López Edis | 70 | 6045544 | CATIA TAMARINDO / LA GUAIRA | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: 0412-2928549 |
+| Hosp. Universitario de Caracas (UCV) | Lopez Francisca | 16 | 33230043 | SAN AGUSTIN | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: 0424-2414874 |
+| Hosp. Universitario de Caracas (UCV) | Lu Dingpi | 49 | 8358411 | LA GUAIRA | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: 0424-3579081 |
+| Hosp. Universitario de Caracas (UCV) | Lu Dingyi | 44 | 83584110 | La Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Politraumatismo |
+| Hosp. Universitario de Caracas (UCV) | Marrero Yorgelis | 20 | 31331652 | PARACOTO | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: 0414-0209230 |
+| Hosp. Universitario de Caracas (UCV) | Mendoza Ana | 72 | 5343446 | PINTO SALINAS | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: 0424-1519166 |
+| Hosp. Universitario de Caracas (UCV) | Mendoza Mario | 73 | 6274191 | LA GUAIRA | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Universitario de Caracas (UCV) | Montilla Nancy | 57 | 10813576 | CEMENTERIO | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: 0414-1878802 |
+| Hosp. Universitario de Caracas (UCV) | Morales Maria | 18 | 32807709 | LA GUAIRA EL TREBOL | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Universitario de Caracas (UCV) | Morales Marisa | 18 | 32809709 | La Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · ⚠ FALLECIDA |
+| Hosp. Universitario de Caracas (UCV) | Moreno Jaime | 28 |  | Mariche | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: 04243844124 |
+| Hosp. Universitario de Caracas (UCV) | Mosquera Maria | 18 |  | La Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · ⚠ FALLECIDA AL INGRESO |
+| Hosp. Universitario de Caracas (UCV) | Moyano Jaime | 28 | 26346743 | MARICHE | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: 0426-3844124 |
+| Hosp. Universitario de Caracas (UCV) | Muñoz Gema | 24 | 27797121 | EL VALLE | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: 0416-7537984 |
+| Hosp. Universitario de Caracas (UCV) | Noguera Fabian | 22 | 30334636 | PINTO SALINAS | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: 0424-2850105 |
+| Hosp. Universitario de Caracas (UCV) | Ojeda Carlos | 51 | 12066889 | SANTA ROSA | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: 0424-4437142 |
+| Hosp. Universitario de Caracas (UCV) | Ojeda Yontaco | 62 | 13470155 | EL VALLE COCHE | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: 0424-8168787 |
+| Hosp. Universitario de Caracas (UCV) | Oropeza Catia | 52 | 11639511 | LA GUAIRA | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: 0412-2928 |
+| Hosp. Universitario de Caracas (UCV) | Oropeza Sobeida | 53 | 11635518 | La Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Politraumatismo |
+| Hosp. Universitario de Caracas (UCV) | Oropeza Socorro | 53 | 11639518 | LA GUAIRA | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: 0412-2728549 |
+| Hosp. Universitario de Caracas (UCV) | Orozco Yusbelis | 35 | 24140952 | SANTA ROSALIA | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: 0412-9970844 |
+| Hosp. Universitario de Caracas (UCV) | Paez Sabrina | 18 |  | La Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Politraumatismo |
+| Hosp. Universitario de Caracas (UCV) | Palacio Jhon | 31 | 25304211 | COCHE | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: 0412-5749550 |
+| Hosp. Universitario de Caracas (UCV) | Pantoja Rainer | 17 | 36085467 | LAS MAYAS | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: 0424-2562305 |
+| Hosp. Universitario de Caracas (UCV) | Perez Ariani | 20 | 24175821 | LA GUAIRA | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: 0414-7335723 |
+| Hosp. Universitario de Caracas (UCV) | Ponce Luigi | 39 | 18042519 | Gramoven | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Politraumatismo |
+| Hosp. Universitario de Caracas (UCV) | Ramirez Yilmar | 32 | 22316562 | PLAZA VENEZUELA | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: 0424-5364882 |
+| Hosp. Universitario de Caracas (UCV) | Ramos Mayely | 18 | 32111714 | No especifica | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Politraumatismo |
+| Hosp. Universitario de Caracas (UCV) | Ramos/silva Maryelis | 18 | 32111741 | Los Caracas / La Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Universitario de Caracas (UCV) | Rodriguez Maikel | 42 | 16208203 | COCHE | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: 0412-2091099 |
+| Hosp. Universitario de Caracas (UCV) | Rodriguez Miguel | 88 | 14299716 | La Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Politraumatismo |
+| Hosp. Universitario de Caracas (UCV) | Roser Liz | 28 |  | La Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: 04124095086 |
+| Hosp. Universitario de Caracas (UCV) | Rosier Liz | 28 | 26068002 | LA GUAIRA | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: 0412-9095086 |
+| Hosp. Universitario de Caracas (UCV) | Ruano Gloria | 76 | 3806228 | La Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Politraumatismo |
+| Hosp. Universitario de Caracas (UCV) | Rueda Jose | 45 | 15430608 | AV LIBERTADOR | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: 0416-7089152 |
+| Hosp. Universitario de Caracas (UCV) | Sanchez Jose | 19 | 32320251 | LOS TEQUES | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: 0412-3574177 |
+| Hosp. Universitario de Caracas (UCV) | Sanchez Rosibel | 43 | 15844713 | La Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Politraumatismo |
+| Hosp. Universitario de Caracas (UCV) | Sandoval Doris | 80 | 4029093 | AVENIDA LECUNA | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: 0424-2577096 |
+| Hosp. Universitario de Caracas (UCV) | Silva Abrahan | 35 | 20568419 | La Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Politraumatismo |
+| Hosp. Universitario de Caracas (UCV) | Silva Abril | 6 | 16106829 | La Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Politraumatismo |
+| Hosp. Universitario de Caracas (UCV) | Silva Ibrahim | 35 | 20562844 | CATIA LA MAR | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Universitario de Caracas (UCV) | Silva Indiana | 46 | 14929760 | LA GUAIRA | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: 0412-0109465 |
+| Hosp. Universitario de Caracas (UCV) | Silva Lia | 4 |  | La Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · ⚠ FALLECIDA |
+| Hosp. Universitario de Caracas (UCV) | Solorzano Margot | 68 | 3405970 | La Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Politraumatismo |
+| Hosp. Universitario de Caracas (UCV) | Solorzano Omarño | 18 | 31445070 | LA GUAIRA | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: 0412-3175785 |
+| Hosp. Universitario de Caracas (UCV) | Somoza Riand | 19 | 15267293 | EL VALLE | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: 0412-2983051 |
+| Hosp. Universitario de Caracas (UCV) | Sosa Emilia | 78 | 3409148 | AV VICTORIA | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: 0414-3367038 |
+| Hosp. Universitario de Caracas (UCV) | Tejera Maite | 46 | 14073961 | La Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Politraumatismo |
+| Hosp. Universitario de Caracas (UCV) | Tovar Luisana | 17 | 17443950 | El Valle | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Politraumatismo |
+| Hosp. Universitario de Caracas (UCV) | Tovar Luisona | 17 | 17443980 | EL VALLE | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: 0412-6392426 |
+| Hosp. Universitario de Caracas (UCV) | Tovar Lusona | 17 |  | El Valle | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: 04126390425 |
+| Hosp. Universitario de Caracas (UCV) | Trigoso Carlos | 59 | 8418724 | LA VEGA | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: 0412-1290170 |
+| Hosp. Universitario de Caracas (UCV) | Umbria Matias | 11 | 22034962 | La Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Politraumatismo |
+| Hosp. Universitario de Caracas (UCV) | Urbina Moises | 30 | 22513789 | MONTALBAN | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: 0412-9854079 |
+| Hosp. Universitario de Caracas (UCV) | Wu Hua Jiah | 47 | 82296160 | La Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Politraumatismo |
+| Hosp. Universitario de Caracas (UCV) | Wu Hua Juan | 47 | 8229616 | LA GUAIRA | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: 0412-3958541 |
+| Hosp. Universitario de Caracas (UCV) | Wu Susana | 14 | 36533334 | La Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Politraumatismo |
+| Hosp. Universitario de Caracas (UCV) | Wu Susup | 14 | 34553337 | LA GUAIRA | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: 0412-3758541 |
+| Hosp. Universitario de Caracas (UCV) | Zambrano Domini | 39 | 18274233 | CATIA | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: 0412-2913570 |
+| Hosp. Universitario de Caracas (UCV) | Zambrano Donmani | 39 | 18714233 | Catia | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Politraumatismo |
+| Hosp. Vargas de Caracas | Adolfo Diaz Varona |  | 22751340 |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: F |
+| Hosp. Vargas de Caracas | Aguilar Yoanny |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Vargas de Caracas | Albony Guiou |  |  | Cuarto 3 | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: F |
+| Hosp. Vargas de Caracas | Alexander Castillo |  | 14007890 | Traumatología – consult | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: F |
+| Hosp. Vargas de Caracas | Alexis Berdecia |  | 11546371 |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: F |
+| Hosp. Vargas de Caracas | Alexis Mesa |  | 18309145 | Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: F · Fallecida |
+| Hosp. Vargas de Caracas | Ali Yosef |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Vargas de Caracas | Aminta Aroa Moreno |  |  | Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: F |
+| Hosp. Vargas de Caracas | Andrea Garcia |  | 33140119 |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: F |
+| Hosp. Vargas de Caracas | Andrea Jose |  | 646450 | Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: F · Pediátrico |
+| Hosp. Vargas de Caracas | Anez Maria Angelica |  |  | Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Vargas de Caracas | Anibal Rosa |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Vargas de Caracas | Annarilis Marrero |  | 15164118 | Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: F |
+| Hosp. Vargas de Caracas | Baez Maria A. |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Vargas de Caracas | Barrego Jose |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Vargas de Caracas | Bazzan Yussef |  |  | Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Vargas de Caracas | Borrego Jose |  | 26327360 | Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Vargas de Caracas | Canisas Gala |  | 22490906 |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: M |
+| Hosp. Vargas de Caracas | Cannabis Coronel |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: F |
+| Hosp. Vargas de Caracas | Carmen Velasquez | 14 |  | Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: F |
+| Hosp. Vargas de Caracas | Cezzen Jolelany |  |  | Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Vargas de Caracas | Claudines Verde |  |  | Hlam | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: F |
+| Hosp. Vargas de Caracas | Colmenares Darwin |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Vargas de Caracas | Coronel Yanel |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Vargas de Caracas | Coronel Yonel |  |  | Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Vargas de Caracas | Criquely Murga |  | 32191309 | Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: M |
+| Hosp. Vargas de Caracas | Crisi Vargas |  | 22550084 | Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: F |
+| Hosp. Vargas de Caracas | Dan Villecos |  | 26059358 | Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: M |
+| Hosp. Vargas de Caracas | Daniela Climent |  | 10213915 | Sala 19 | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: F · Tapado – Trauma |
+| Hosp. Vargas de Caracas | Danita Diaz Varona |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: F · Pediátrico |
+| Hosp. Vargas de Caracas | Darbely Garcia |  | 17710318 | Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: F |
+| Hosp. Vargas de Caracas | Dayliber Bioatoja |  | 26590820 | Guaira – Politraumatismo consult | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: F |
+| Hosp. Vargas de Caracas | De Abreu Geraldin |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Vargas de Caracas | De Abreu Geraldine |  | 18709145 | Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Vargas de Caracas | Delgado Lisbeth |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Vargas de Caracas | Domelin Olmedo |  | 25867263 | Sala 19 | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: F |
+| Hosp. Vargas de Caracas | Dunilop Binitu |  | 22516346 | Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: M · Fallecido |
+| Hosp. Vargas de Caracas | Elita Hayore |  | 12150067 |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: F |
+| Hosp. Vargas de Caracas | Esperanza Gonzalez |  | 31541118 | Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: F |
+| Hosp. Vargas de Caracas | Francisco Coronel |  |  | Sala M 30 | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: F |
+| Hosp. Vargas de Caracas | Garcia Albany |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Vargas de Caracas | Garcia Gn |  |  | Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: F |
+| Hosp. Vargas de Caracas | Garcia Jolishe |  |  | Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Vargas de Caracas | Garcia Narin Saavedki |  | 21395683 | Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: F |
+| Hosp. Vargas de Caracas | Gesu Estefany |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Vargas de Caracas | Gil Cristofer |  | 32919700 | Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Vargas de Caracas | Gil Cristoper |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Vargas de Caracas | Gil Patricia |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Vargas de Caracas | Gleason Grein |  | 31426812 | Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: F |
+| Hosp. Vargas de Caracas | Gomez Yaritza |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Vargas de Caracas | Gonzales Angelina |  |  | Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Vargas de Caracas | Gonzalez Dailberly |  | 30523436 | Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Vargas de Caracas | Gonzalez Darbeidy |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Vargas de Caracas | Gonzalez Edgary |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Vargas de Caracas | Gonzalez Evangelina |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Vargas de Caracas | Gonzalez Maura |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Vargas de Caracas | Gonzalez Valeria |  | 31383685 | Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Vargas de Caracas | Gonzalez Vanesa |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Vargas de Caracas | Gonzalez Winston |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Vargas de Caracas | Guerra Evelin |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Vargas de Caracas | Gustavo Antonio Ruiz |  |  | Sala 14 | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: F |
+| Hosp. Vargas de Caracas | Hassan Josef |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Vargas de Caracas | Italbis Delgado |  | 12346891 | Cueva | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: F |
+| Hosp. Vargas de Caracas | Janitza Gioia |  | 12500467 | Cueva | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: F |
+| Hosp. Vargas de Caracas | Jessica Olmedo |  |  | Sala 19 | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: F |
+| Hosp. Vargas de Caracas | Jose Ali |  | 11640596 | Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: M |
+| Hosp. Vargas de Caracas | Jose Ropas |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: F |
+| Hosp. Vargas de Caracas | Kallerley Garcia |  | 15967267 | Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: M |
+| Hosp. Vargas de Caracas | Kerry Medina |  | 6086109 | La Jaso | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: F |
+| Hosp. Vargas de Caracas | Lara Inon |  | 12485868 | Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: F |
+| Hosp. Vargas de Caracas | Leal America |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Vargas de Caracas | Lopez Daniel |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Vargas de Caracas | Lopez Emerson |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Vargas de Caracas | Lopez Nazare |  |  | Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Vargas de Caracas | Lopez Nazareth |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Vargas de Caracas | Magalis Apura |  | 15164293 | Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: F |
+| Hosp. Vargas de Caracas | Maria Elena Santa |  |  | San Bernardino | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: F |
+| Hosp. Vargas de Caracas | Maria Pirdez |  | 27026323 | Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: F |
+| Hosp. Vargas de Caracas | Maria Quintana |  |  | Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: F |
+| Hosp. Vargas de Caracas | Marquez Cesar |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Vargas de Caracas | Marrero Crismarly |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Vargas de Caracas | Maryore Elita |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Vargas de Caracas | Maure Elita |  | 13069223 | Junquito | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Vargas de Caracas | Medina Raina |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Vargas de Caracas | Monica Vielma |  | 18406003 | Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: F |
+| Hosp. Vargas de Caracas | Montoya Nejide |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Vargas de Caracas | Moreno Naileth |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Vargas de Caracas | Naiguel Lopez |  |  | Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: F |
+| Hosp. Vargas de Caracas | Naura Almeida |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: F |
+| Hosp. Vargas de Caracas | Nelide Montoyo |  | 22480306 | Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: F |
+| Hosp. Vargas de Caracas | Nesaria Dela |  | 15550954 | Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: F |
+| Hosp. Vargas de Caracas | Nuestro Villecon |  | 22750136 |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: F |
+| Hosp. Vargas de Caracas | Olivares Maria |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Vargas de Caracas | Peidomo Valeria |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Vargas de Caracas | Perdomo Valeria |  |  | Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Vargas de Caracas | Perez Enrique |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Vargas de Caracas | Perez Hilary |  | 29536123 | Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Vargas de Caracas | Perez Katiuska |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Vargas de Caracas | Perez Misaira |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Vargas de Caracas | Peroza Hilary |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Vargas de Caracas | Pimentel Maria |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Vargas de Caracas | Pinton Danker |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Vargas de Caracas | Posso Joan Carlos |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Vargas de Caracas | Quessu Estefani |  | 31428812 | Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Vargas de Caracas | Requjon De Abreu Geraldin |  | 12094993 | Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: F |
+| Hosp. Vargas de Caracas | Rico Gustavo A. |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Vargas de Caracas | Rico Gustavo Anibal |  |  | Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Golipani |
+| Hosp. Vargas de Caracas | Rodriguez Kiara |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Vargas de Caracas | Rodriguez Kiara Antonia |  |  | Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Vargas de Caracas | Santana Maria Elena |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Vargas de Caracas | Teran Audia |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Vargas de Caracas | Tolishe Garcia |  | 20523436 | Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: F |
+| Hosp. Vargas de Caracas | Uribe Veronica |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Vargas de Caracas | Vargas Carmen |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Vargas de Caracas | Varya Carmen |  | 22550086 | Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Vargas de Caracas | Velazque Carmen |  | 16705956 | Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Vargas de Caracas | Verde Claudia |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Vargas de Caracas | Veronic Borrego |  | 26373503 | Sala 19 | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: F |
+| Hosp. Vargas de Caracas | Vielma Maria |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Vargas de Caracas | Villegas Jose |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Vargas de Caracas | Yoanny Maros |  | 14953283 | Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: F |
+| Hosp. Vargas de Caracas | Yovana Hassan |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: F · Pediátrico |
+| Hosp. Militar Univ. Dr. Carlos Arvelo | Acosta Ambar | 19 | 31950088 | PNA | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: San Juan |
+| Hosp. Militar Univ. Dr. Carlos Arvelo | Aguilar Carmen | 21 |  | PNA | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: San Martín |
+| Hosp. Militar Univ. Dr. Carlos Arvelo | Aguilar Raul | 63 | 648196 | PNA | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: San Juan |
+| Hosp. Militar Univ. Dr. Carlos Arvelo | Alondra Diaz Delismar Del V. | 35 | 20102925 | S/P | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: Higuerote |
+| Hosp. Militar Univ. Dr. Carlos Arvelo | Alvarez Anderson | 29 | 17755833 | PNA | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: San Juan |
+| Hosp. Militar Univ. Dr. Carlos Arvelo | Alvarez Bermo Elsy | 53 | 11697809 | PNA | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: San Martín |
+| Hosp. Militar Univ. Dr. Carlos Arvelo | Ana De Pablo | 76 | 4631806 | PNA | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: La Guaira |
+| Hosp. Militar Univ. Dr. Carlos Arvelo | Anchundia Isaac | 81 | 2199218 | Afiliado | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: Paraíso |
+| Hosp. Militar Univ. Dr. Carlos Arvelo | Anzendi Jonathan | 47 | 19035791 | S/P GNB | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: La Guaira |
+| Hosp. Militar Univ. Dr. Carlos Arvelo | Arias Fructuoso | 65 | 6156642 | GNB | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: PNA |
+| Hosp. Militar Univ. Dr. Carlos Arvelo | Barrios Yolanda | 77 | 5323419 | PNA | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: San Martín |
+| Hosp. Militar Univ. Dr. Carlos Arvelo | Blanco Milquiades | 46 | 15147810 | PNA | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: La Guaira |
+| Hosp. Militar Univ. Dr. Carlos Arvelo | Briceño Maria | 90 | 1445299 | Afiliado | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: La Guaira |
+| Hosp. Militar Univ. Dr. Carlos Arvelo | Briceño Mirabal Josefina | 77 | 3970261 | PNA | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: Catia |
+| Hosp. Militar Univ. Dr. Carlos Arvelo | Brito Alvarado Camila | 17 | 32730226 | PNA | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: Macuto |
+| Hosp. Militar Univ. Dr. Carlos Arvelo | Brito Vasquez Nelide | 69 | 5120175 | PNA | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: San Martín |
+| Hosp. Militar Univ. Dr. Carlos Arvelo | Carvajal Jon | 41 | 17982017 | PNA | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: La Guaira |
+| Hosp. Militar Univ. Dr. Carlos Arvelo | Castillo Alba | 42 | 15947646 | PNA | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: San Martín |
+| Hosp. Militar Univ. Dr. Carlos Arvelo | Castillo Deimar | 33 | 21282503 | PNA | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: Antimano |
+| Hosp. Militar Univ. Dr. Carlos Arvelo | Castillo Rosana | 43 | 15366629 | PNA | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: San Martín |
+| Hosp. Militar Univ. Dr. Carlos Arvelo | Castro Lauriana | 66 | 567005 | PNA | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: La Guaira |
+| Hosp. Militar Univ. Dr. Carlos Arvelo | Coen Blanco | 66 | 5013048 | PNA | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: San Martín |
+| Hosp. Militar Univ. Dr. Carlos Arvelo | Coen Celia | 66 | 5613048 | PNA | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: San Martín |
+| Hosp. Militar Univ. Dr. Carlos Arvelo | Cogollo Deiner | 19 | 31572269 | PNA | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: San Martín |
+| Hosp. Militar Univ. Dr. Carlos Arvelo | Danieli Carelis Garcia | 30 |  | PNA | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: La Guaira |
+| Hosp. Militar Univ. Dr. Carlos Arvelo | Delgado Marisela | 50 | 12635625 | PNA | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: Filas de Mariche |
+| Hosp. Militar Univ. Dr. Carlos Arvelo | Delia De Guerrero Peña | 50 | 11642518 | PNA | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: Catia |
+| Hosp. Militar Univ. Dr. Carlos Arvelo | Dorta Rodriguez Delia | 92 | 6124942 | PNA | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: Quinta Crespo |
+| Hosp. Militar Univ. Dr. Carlos Arvelo | Duque Valeria | 17 | 3138243 | Hija GNB | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: San Martín |
+| Hosp. Militar Univ. Dr. Carlos Arvelo | Duran Aura | 68 | 6330439 | PNA | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: Los Teques |
+| Hosp. Militar Univ. Dr. Carlos Arvelo | Duran Jose | 59 | 10549929 | PNA | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: Artigas |
+| Hosp. Militar Univ. Dr. Carlos Arvelo | Elias Melo | 33 | 20888810 | PNA | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: La Guaira |
+| Hosp. Militar Univ. Dr. Carlos Arvelo | Elvis Etolino | 19 | 32335642 | PNA | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: La Guaira |
+| Hosp. Militar Univ. Dr. Carlos Arvelo | Espinoza German | 57 | 10810746 | PNA | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: Paraíso |
+| Hosp. Militar Univ. Dr. Carlos Arvelo | Florian Cedeño Alberto | 28 | 26898085 | S/M3 | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: Guarenas |
+| Hosp. Militar Univ. Dr. Carlos Arvelo | Fragoza Peña Maria | 69 | 4556514 | PNA | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: La Guaira |
+| Hosp. Militar Univ. Dr. Carlos Arvelo | Franklin Perez Guanche | 42 | 17160400 | PNA | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: La Guaira |
+| Hosp. Militar Univ. Dr. Carlos Arvelo | Freddy Rodriguez (padre) | 66 | 647035 | PNA | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: San Juan |
+| Hosp. Militar Univ. Dr. Carlos Arvelo | Friday Rodrys | 37 | 18323984 | PNA | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: La Guaira |
+| Hosp. Militar Univ. Dr. Carlos Arvelo | Gamez Torres Heyribi | 20 | 33025749 | PNA | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: Guarataro |
+| Hosp. Militar Univ. Dr. Carlos Arvelo | Garatli Cova | 24 | 25132946 | PNA | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: La Guaira |
+| Hosp. Militar Univ. Dr. Carlos Arvelo | Garazo Andrea | 34 | 19445453 | PNA | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: La Guaira |
+| Hosp. Militar Univ. Dr. Carlos Arvelo | Garcia Diana | 59 | 6270588 | PNA | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: La Guaira |
+| Hosp. Militar Univ. Dr. Carlos Arvelo | Garcia Rosmery | 52 | 14216454 | PNA | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: La Guaira |
+| Hosp. Militar Univ. Dr. Carlos Arvelo | Genesis Silva | 30 | 25874216 | PNA | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: La Guaira |
+| Hosp. Militar Univ. Dr. Carlos Arvelo | Gomez Apostol Valentina | 20 |  | PNA | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: La Pastora |
+| Hosp. Militar Univ. Dr. Carlos Arvelo | Gonzalez Ahimar | 56 | 6270109 | PNA | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: Caracas |
+| Hosp. Militar Univ. Dr. Carlos Arvelo | Gonzalez Martinez Maria Cristina | 55 | 11192750 | PNA | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: La Guaira |
+| Hosp. Militar Univ. Dr. Carlos Arvelo | Gonzalez Viviana | 58 | 12540389 | PNA | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: La Guaira |
+| Hosp. Militar Univ. Dr. Carlos Arvelo | Guampa Pavia Milagro | 66 | 8203313 | PNA | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: San Martín |
+| Hosp. Militar Univ. Dr. Carlos Arvelo | Guanche Delfin | 74 | 3611764 | PNA | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: La Guaira |
+| Hosp. Militar Univ. Dr. Carlos Arvelo | Guzman Aracelis | 20 | 31556775 | PNA | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: San Antonio |
+| Hosp. Militar Univ. Dr. Carlos Arvelo | Hamer Morles Alvarez | 16 | 32922380 | PNA | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: La Guaira |
+| Hosp. Militar Univ. Dr. Carlos Arvelo | Harlam Camargo | 35 | 19937977 | Tte. ARV | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: La Guaira |
+| Hosp. Militar Univ. Dr. Carlos Arvelo | Hernandez De Collado Monica | 55 | 8152742 | PNA | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: La Guaira |
+| Hosp. Militar Univ. Dr. Carlos Arvelo | Hernandez Lilia | 42 | 16598007 | PNA | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: La Guaira |
+| Hosp. Militar Univ. Dr. Carlos Arvelo | Hernandez Perez Asdrúbal | 48 | 13641724 | Afiliado | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: El Paraíso |
+| Hosp. Militar Univ. Dr. Carlos Arvelo | Herrera Victor | 27 | 26924423 | PNA | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: La Guaira |
+| Hosp. Militar Univ. Dr. Carlos Arvelo | Hetty Sam | 37 | 16769990 | Tte. Fragoza | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: La Guaira |
+| Hosp. Militar Univ. Dr. Carlos Arvelo | Ismael Rumanca Torres | 23 | 31312002 | S/Of. Seg. | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: La Guaira |
+| Hosp. Militar Univ. Dr. Carlos Arvelo | Jaidon Cadenas | 25 | 27606935 | PNA | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: Artigas |
+| Hosp. Militar Univ. Dr. Carlos Arvelo | Jimenez Rosmeli | 28 | 27163747 | PNA | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: Catia |
+| Hosp. Militar Univ. Dr. Carlos Arvelo | Jimenez Victor | 58 | 11398889 | PNA | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: La Guaira |
+| Hosp. Militar Univ. Dr. Carlos Arvelo | Laya Yosli | 45 | 15034147 | Enferm. Hosp. | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: Urdaneta |
+| Hosp. Militar Univ. Dr. Carlos Arvelo | Legorburu Juan Andres | 58 | 6914851 | PNA | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: Los Palos Grandes |
+| Hosp. Militar Univ. Dr. Carlos Arvelo | Lopez Joselyn | 45 | 15034143 | PNA | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: San Martín |
+| Hosp. Militar Univ. Dr. Carlos Arvelo | Lopez Morales Cesar | 30 | 23622267 | Tte. GNB | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: Comandancia GNB |
+| Hosp. Militar Univ. Dr. Carlos Arvelo | Lopez Yeisal | 37 | 19477270 | PNA | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: La Guaira |
+| Hosp. Militar Univ. Dr. Carlos Arvelo | Lourdes Jimenez | 59 | 8654412 | Madre C.C. | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: Fuerte Tiuna |
+| Hosp. Militar Univ. Dr. Carlos Arvelo | Luca Gonzalez Yamilet | 49 | 13610512 | PNA | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: Artigas |
+| Hosp. Militar Univ. Dr. Carlos Arvelo | Luis Martinez | 49 | 10683348 | PNA | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: La Guaira |
+| Hosp. Militar Univ. Dr. Carlos Arvelo | Maite Coa | 48 | 11165265 | PNA | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Militar Univ. Dr. Carlos Arvelo | Marcano Gonzalez Mara | 16 | 33010536 | PNA | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: La Guaira |
+| Hosp. Militar Univ. Dr. Carlos Arvelo | Marcano Odalis | 57 | 10581191 | PNA | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: La Guaira |
+| Hosp. Militar Univ. Dr. Carlos Arvelo | Marcano Suse | 33 | 25612616 | PNA | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: Catia |
+| Hosp. Militar Univ. Dr. Carlos Arvelo | Mariany Salazar | 19 | 32454171 | S/2 GNB | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: Macuto La Guaira |
+| Hosp. Militar Univ. Dr. Carlos Arvelo | Mariño Castello | 35 | 31289457 | Hijo Cnel.(F) | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: La Pastora |
+| Hosp. Militar Univ. Dr. Carlos Arvelo | Medina Maritza | 20 | 28001615 | PNA | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: La Guaira |
+| Hosp. Militar Univ. Dr. Carlos Arvelo | Milens Gladys | 68 | 5114187 | PNA | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: Artigas |
+| Hosp. Militar Univ. Dr. Carlos Arvelo | Monsalve Kiana | 47 | 13466342 | PNA | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: San Martín |
+| Hosp. Militar Univ. Dr. Carlos Arvelo | Montilla Zelaya Herrera | 54 | 6285593 | PNA | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: San Martín |
+| Hosp. Militar Univ. Dr. Carlos Arvelo | Mora Yosmar | 52 | 11649384 | PNA | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: Artigas |
+| Hosp. Militar Univ. Dr. Carlos Arvelo | Moreno Yulitza | 34 |  | PNA | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: Artigas |
+| Hosp. Militar Univ. Dr. Carlos Arvelo | Morillo Hernandez Nehomar | 45 | 15280446 | Afiliado | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: Comandancia |
+| Hosp. Militar Univ. Dr. Carlos Arvelo | Murillo Landaeta Keliz | 23 | 28443736 | Afiliada | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: El Paraíso |
+| Hosp. Militar Univ. Dr. Carlos Arvelo | Murillo Landaeta Yorgelis Yadili | 26 | 28440024 | PNA | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: San Martín |
+| Hosp. Militar Univ. Dr. Carlos Arvelo | Navas Yayaira | 35 | 18210310 | PNA | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: Artigas |
+| Hosp. Militar Univ. Dr. Carlos Arvelo | Nelda Bello | 47 | 11015849 | PNA | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: San Martín |
+| Hosp. Militar Univ. Dr. Carlos Arvelo | Noguera Arangel | 19 | 31752473 | S/2 GNB | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: Macuto La Guaira |
+| Hosp. Militar Univ. Dr. Carlos Arvelo | Olivares Heyryber | 41 | 24800896 | S/Of. GNB | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: La Guaira |
+| Hosp. Militar Univ. Dr. Carlos Arvelo | Ortega Belde | 67 | 5827267 | PNA | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: La Guaira |
+| Hosp. Militar Univ. Dr. Carlos Arvelo | Osorio Elvia | 33 | 24153416 | S/M3 GNB | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: Macuto La Guaira |
+| Hosp. Militar Univ. Dr. Carlos Arvelo | Palmer Darliman | 26 | 27956623 | PNA | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: La Guaira |
+| Hosp. Militar Univ. Dr. Carlos Arvelo | Paola Gonzalez | 27 | 27042446 | S/A | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: La Guaira |
+| Hosp. Militar Univ. Dr. Carlos Arvelo | Peña Emma | 86 | 2528862 | PNA | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: San Martín |
+| Hosp. Militar Univ. Dr. Carlos Arvelo | Perez Infantes | 18 | 33218435 | PNA | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: La Guaira |
+| Hosp. Militar Univ. Dr. Carlos Arvelo | Perez Juan | 42 | 16083970 | PNA | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: San Martín |
+| Hosp. Militar Univ. Dr. Carlos Arvelo | Pericaguan Miliba | 49 | 13375459 | PNA | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: San Martín |
+| Hosp. Militar Univ. Dr. Carlos Arvelo | Pesqueda Jerry Jonny | 42 | 16147144 | C.C. PNA | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: El Paraíso |
+| Hosp. Militar Univ. Dr. Carlos Arvelo | Piñero Diaz Ouikli (fallecido) | 23 | 29910706 | PNA | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: La Guaira (Fallecido) |
+| Hosp. Militar Univ. Dr. Carlos Arvelo | Pinto Jose | 77 | 649768 | PNA | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: San Martín |
+| Hosp. Militar Univ. Dr. Carlos Arvelo | Pinto Luisa | 77 | 3342558 | PNA | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: La Guaira |
+| Hosp. Militar Univ. Dr. Carlos Arvelo | Quao Suylin | 40 | 16135135 | PNA | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: La Guaira |
+| Hosp. Militar Univ. Dr. Carlos Arvelo | Ramirez Amundarain Ivana | 50 | 14451022 | PNA | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: Capuchino |
+| Hosp. Militar Univ. Dr. Carlos Arvelo | Ramos Joselina Alvarado | 61 | 6916206 | GNB Cnel. | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: La Guaira |
+| Hosp. Militar Univ. Dr. Carlos Arvelo | Ramos Mayerling | 41 | 15780524 | PNA | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: La Guaira |
+| Hosp. Militar Univ. Dr. Carlos Arvelo | Rangel Daphne | 23 | 29619923 | S/2 GNB | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: Macuto La Guaira |
+| Hosp. Militar Univ. Dr. Carlos Arvelo | Rangel Yesenia | 54 | 11380548 | PNA | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: Catia |
+| Hosp. Militar Univ. Dr. Carlos Arvelo | Rivero Marina Rosa | 80 | 3197845 | Sra. GNB | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: La Guaira |
+| Hosp. Militar Univ. Dr. Carlos Arvelo | Rodriguez Luis | 31 | 24802937 | PNA | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: La Guaira |
+| Hosp. Militar Univ. Dr. Carlos Arvelo | Rojas Jesus | 48 | 2321156 | PNA | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: La Guaira |
+| Hosp. Militar Univ. Dr. Carlos Arvelo | Salas Hector | 65 | 5921822 | PNA | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: San Martín |
+| Hosp. Militar Univ. Dr. Carlos Arvelo | Salas Villaya | 57 | 9999170 | Esposa S/M | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: Paraíso |
+| Hosp. Militar Univ. Dr. Carlos Arvelo | Salazar Carlos | 28 | 27178947 | PT | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: Paraí |
+| Hosp. Militar Univ. Dr. Carlos Arvelo | Salazar Yajaira | 44 | 15160619 | PNA | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: Delicias |
+| Hosp. Militar Univ. Dr. Carlos Arvelo | Salma Yesica | 31 | 22017564 | PNA | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: Carapita |
+| Hosp. Militar Univ. Dr. Carlos Arvelo | Sanchez Alvarado Stefani | 19 | 31913023 | PNA | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: San Martín |
+| Hosp. Militar Univ. Dr. Carlos Arvelo | Santos Flores Mario H. | 30 | 24869842 | Afiliado | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: La Guaira |
+| Hosp. Militar Univ. Dr. Carlos Arvelo | Sebastian Rojas | 62 | 9212014 | Papá S/P | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: San Martín |
+| Hosp. Militar Univ. Dr. Carlos Arvelo | Sergio Perez | 15 | 32635244 | PNA | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: La Guaira |
+| Hosp. Militar Univ. Dr. Carlos Arvelo | Silva Stefani | 19 | 32074333 | PNA | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: La Guaira |
+| Hosp. Militar Univ. Dr. Carlos Arvelo | Stefani Villegas | 25 | 28453309 | PNA | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: La Guaira |
+| Hosp. Militar Univ. Dr. Carlos Arvelo | Suares Tomasa | 16 | 33067691 | Afiliado | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: La Guaira |
+| Hosp. Militar Univ. Dr. Carlos Arvelo | Tadron Mirian | 78 | 3551082 | Afiliada | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: Capuchino |
+| Hosp. Militar Univ. Dr. Carlos Arvelo | Torrellas Maria | 29 | 29656134 | PNA | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: La Guaira |
+| Hosp. Militar Univ. Dr. Carlos Arvelo | Torres Yenile | 34 | 23634549 | PNA | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: San Martín |
+| Hosp. Militar Univ. Dr. Carlos Arvelo | Tovar Jusmary | 37 | 19272179 | PNA | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: La Guaira |
+| Hosp. Militar Univ. Dr. Carlos Arvelo | Tricone Adrian | 20 | 15831958 | PNA | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: La Guaira Ampliación |
+| Hosp. Militar Univ. Dr. Carlos Arvelo | Varela Maria | 32 | 21364211 | PNA | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: La Guaira |
+| Hosp. Militar Univ. Dr. Carlos Arvelo | Velasquez Jolimar | 53 | 11638401 | Afiliado | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: La Guaira |
+| Hosp. Militar Univ. Dr. Carlos Arvelo | Villao Pastora Ducleidis | 30 |  | PNA | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: San Juan |
+| Hosp. Militar Univ. Dr. Carlos Arvelo | Visedha Gonzalez | 28 | 26668182 | PNA | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: El Paraíso |
+| Hosp. Militar Univ. Dr. Carlos Arvelo | Wesolski Julia | 72 | 3046825 | PNA | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: La Guaira |
+| Hosp. Militar Univ. Dr. Carlos Arvelo | Yakelin Santana | 56 | 10398248 | PNA | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: Los Corales |
+| Hosp. Militar Univ. Dr. Carlos Arvelo | Yan Ilduara | 18 | 32106240 | PNA | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: La Guaira |
+| Hosp. Militar Univ. Dr. Carlos Arvelo | Yoselyn Guerra | 59 | 6502264 | PNA | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: La Guaira |
+| Hosp. Militar Univ. Dr. Carlos Arvelo | Zonis Nalleli | 44 | 14289990 | Afiliado | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: San Juan |
+| Cruz Roja (Caracas) | Alvarado Nairobis | 32 |  | Barquisimeto | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: 22262602 |
+| Cruz Roja (Caracas) | Arteaga Beti | 51 |  | La Candelaria | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: 12067370 |
+| Cruz Roja (Caracas) | Barreto Irama | 74 |  | La Candelaria | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Cruz Roja (Caracas) | Begochea Reinaldo | 43 |  | Sarria | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Cruz Roja (Caracas) | Belandria Joffre | 63 |  | Valles del Tuy | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Cruz Roja (Caracas) | Cedeño Carlos | 76 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Cruz Roja (Caracas) | Chen Boye | 21 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Cruz Roja (Caracas) | Franco Antonio | 63 |  | Av Fuerzas Armadas | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Cruz Roja (Caracas) | García Antonio | 36 |  | Barinas | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: 20101410 |
+| Cruz Roja (Caracas) | Guerra Petra | 72 |  | La Candelaria | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: 4806707 |
+| Cruz Roja (Caracas) | Hernández Jackeline | 62 |  | Misión Vivienda | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Cruz Roja (Caracas) | Lloret Laura | 85 |  | La Candelaria | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Cruz Roja (Caracas) | Lloret Liliana | 59 |  | La Candelaria | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Cruz Roja (Caracas) | Machado Carmen | 77 |  | La Candelaria | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Cruz Roja (Caracas) | Moises (menor) | 5 |  | La Candelaria | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Cruz Roja (Caracas) | Moy Maria | 47 |  | La Candelaria | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Cruz Roja (Caracas) | Muñoz Camila | 15 |  | Santa Monica | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Cruz Roja (Caracas) | Omaña Raiza | 45 |  | La Candelaria | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Cruz Roja (Caracas) | Pérez Carmen | 64 |  | La Candelaria | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Cruz Roja (Caracas) | Pérez Cecalio | 72 |  | La Candelaria | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Cruz Roja (Caracas) | Querales Aleida | 64 |  | La Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: 99289918 |
+| Cruz Roja (Caracas) | Ramírez Eleysa | 64 |  | Edif Carabobo | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Cruz Roja (Caracas) | Rodríguez Marbelis | 52 |  | Av Lecuna | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Cruz Roja (Caracas) | Rodríguez Yalitza | 57 |  | Av Lecuna | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Cruz Roja (Caracas) | Tingy José | 44 |  | La Candelaria | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Cruz Roja (Caracas) | Varela Angel | 47 |  | Sarria | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Cruz Roja (Caracas) | Zhangyou Chen | 57 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Ana Francisca Pérez de León II | Abarca Neiulan | 12 | 15881615 | La Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Ana Francisca Pérez de León II | Abarimanco Milagro | 24 | 22576068 | La Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Ana Francisca Pérez de León II | Acosta Elmanuel | 49 | 13133322 | La Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Ana Francisca Pérez de León II | Alvarez Fabiana | 12 | 3505049 | La Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Ana Francisca Pérez de León II | Azparca Naimin | 42 | 17821615 | Catia La Mar | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Ana Francisca Pérez de León II | Blanco Dias Samuel Algardo | 23 | 31588884 | La Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Ana Francisca Pérez de León II | Cedeno Erick | 14 | 27943786 | La Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Ana Francisca Pérez de León II | Chacón Blanca | 71 | 5133290 | Playa Grande | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Ana Francisca Pérez de León II | Chavarria Yosxalit | 48 | 14568432 | La Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Ana Francisca Pérez de León II | Cornizo Nuviana | 16 | 33232686 | Playa Grande / Monte Bono | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Ana Francisca Pérez de León II | Di Abreu Anyir Paez | 22 | 80909980 | La Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Ana Francisca Pérez de León II | Familia Yordis | 20 | 31191432 | La Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Ana Francisca Pérez de León II | Gil Patricia | 24 | 29572168 | La Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Ana Francisca Pérez de León II | Gutierrez Malellin | 25 | 27761169 | Barrio Bolívar | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Ana Francisca Pérez de León II | Hoyo Joslin | 33 | 20703410 | La Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Ana Francisca Pérez de León II | Lopez Maria Carolina | 35 | 6262497 | La Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Ana Francisca Pérez de León II | Malo Chinquinquir | 61 | 25088412 | Caripe | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Ana Francisca Pérez de León II | Orfao Pamela | 12 | 36308151 | La Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Ana Francisca Pérez de León II | Ramos Darwin | 27 | 26763304 | La Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Ana Francisca Pérez de León II | Salamanca Wilfried Guerra | 84 | 14309820 | La Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Ana Francisca Pérez de León II | Sao Burlis | 53 | 10481980 | La Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Ana Francisca Pérez de León II | Vasquiole Mauro | 52 | 11934645 | La Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Clínica El Ávila | Aguilar Johanny |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Clínica El Ávila | Aguilar Maribel |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Clínica El Ávila | Badel Ricardo |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Clínica El Ávila | Benitez Frenesi |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Clínica El Ávila | Berk Cim |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Clínica El Ávila | Bolgnese Sofia |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Clínica El Ávila | Costa Jose Luis |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Clínica El Ávila | Delgado Victoria |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Clínica El Ávila | Feng Juchi |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Clínica El Ávila | Feng Sonia |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Clínica El Ávila | Fernandez Rosalida |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Clínica El Ávila | Gina Marbelis |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Clínica El Ávila | Gonzalez Gabriel |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Clínica El Ávila | Gonzalez Greisy |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Clínica El Ávila | Gonzalez Juan Carlos |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Clínica El Ávila | Gonzalez Juan Miguel |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Clínica El Ávila | Gonzalez Moraima |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Clínica El Ávila | Gonzalez Sofia |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Clínica El Ávila | Gonzalez Yoani |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Clínica El Ávila | Ialongo Ana |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Clínica El Ávila | Martinez Erik |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Clínica El Ávila | Mero Vanesa |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Clínica El Ávila | Millan Furgencia |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Clínica El Ávila | Millan Yurimar |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Clínica El Ávila | Morillo Alejandro |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Clínica El Ávila | Morillo Barbara |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Clínica El Ávila | Novoa Marta |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Clínica El Ávila | Nuovo Nicolette |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Clínica El Ávila | Rodriguez Marialejandra |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Clínica El Ávila | Rodriguez Miguel |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Clínica El Ávila | Salah Hasem |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Clínica El Ávila | Tovar Alejandro |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Clínica El Ávila | Zerpa Graciela |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Clínica El Ávila | Zorrillo Doris |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 
 ## Notas de consolidación
 
-- **Hosp. José María Vargas (La Guaira):** se usó la transcripción del cartel oficial (172 registros). Las filas de Vargas que aparecían en la hoja de Google Sheets son un subconjunto ya cubierto y no se duplicaron.
-- **Hosp. Pérez Carreño:** se unificaron las apariciones repetidas de una misma persona en Lista 1–4, Triaje y Traumashock. De la lista «La Yaguara» (82 registros, 77 previos) solo se añadieron los **5 nuevos**. Las listas de Pediatría se mantienen como personas aparte.
-- **Hosp. Domingo Luciani:** 37 ingresados por sismo + 16 registros nuevos no repetidos + 5 niños solos de Cirugía Pediátrica.
-- **Periférico de Catia** y **Chacao** son registros de emergencia / rescate.
+- **Actualización 25JUN26 (Registro UCV):** se añadieron los pacientes del Excel oficial de 11 centros que **no** estaban ya en el consolidado. Se compararon por cédula (global) y por nombre dentro del mismo hospital. «Hospital General del Oeste» y «Hospital Dr. José Gregorio Hernández» se trataron como el mismo centro (José Gregorio Hernández).
+- **Hosp. José María Vargas (La Guaira):** se usó la transcripción del cartel oficial (172 registros). No confundir con **Hospital Vargas de Caracas**, que es un centro distinto.
+- **Hosp. Pérez Carreño:** se unificaron las apariciones repetidas en Lista 1–4, Triaje y Traumashock. De la lista «La Yaguara» (82 registros, 77 previos) solo se añadieron los 5 nuevos.
+- **Hosp. Domingo Luciani:** lista OCR inicial + registros nuevos del registro UCV.
 - Las uniones se hicieron **dentro de cada hospital**. Cuando una misma cédula aparece con nombres muy distintos (probable error de transcripción) **no** se fusionaron los registros; se marcó con `⚠`.
