@@ -52,6 +52,7 @@ uv run python consolidado_app/app.py                          # interfaz web: ht
 | Consolidado por hospitales | Lista de heridos consolidada (primeras 100 filas de la hoja de Google Sheets) | [Lista_heridos_consolidada.md](data/20260626/Lista_GCal_Consolidada/Lista_heridos_consolidada.md) |
 | Registro Maestro oficial (11 centros) | Consolidado UCV — pacientes por hospital (906 registros, corte 25JUN26 19:00) | [Consolidado_UCV.md](data/20260626/Consolidado_UCV/Consolidado_UCV.md) |
 | Cruz Roja Venezolana (sede La Candelaria, Caracas) | Lista de personas atendidas (31 personas) | [Cruz_Roja_Candelaria.md](data/20260626/Cruz_Roja/Cruz_Roja_Candelaria.md) |
+| Google Drive «SISMO 2026 VZLA» (varios centros + campo de golf) | Extracción de DOCX/PDF/fotos: consolidado, registro maestro, HUC, Vargas, Luciani, Pérez Carreño, sobrevivientes campo de golf | [SISMO_2026_VZLA/](data/20260626/SISMO_2026_VZLA/README.md) |
 
 ### 2026-06-25
 
