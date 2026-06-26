@@ -6,6 +6,13 @@ Transcripción de listas manuscritas de pacientes atendidos en hospitales tras e
 
 ## Índice por fecha y hospital
 
+### 2026-06-26
+
+| Hospital / Centro | Listas | Documento |
+|-------------------|--------|-----------|
+| Hospital General Regional Dr. José María Vargas (IVSS, La Guaira) | Lista de pacientes atendidos (172 pacientes — 8 listas de 20 + continuación de 12) | [Hosp_Jose_Maria_Vargas.md](20260626/Hosp_General_DR_Jose_Maria_Vargas_La_Guaira/Hosp_Jose_Maria_Vargas.md) |
+| Consolidado por hospitales | Lista de heridos consolidada (primeras 100 filas de la hoja de Google Sheets) | [Lista_heridos_consolidada.md](20260626/Lista_GCal_Consolidada/Lista_heridos_consolidada.md) |
+
 ### 2026-06-25
 
 | Hospital / Centro | Listas | Documento |
