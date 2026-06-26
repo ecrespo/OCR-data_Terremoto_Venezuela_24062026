@@ -4,6 +4,12 @@ Transcripción de listas manuscritas de pacientes atendidos en hospitales tras e
 
 > Las cédulas se transcribieron tal como se leen; algunas pueden tener errores de lectura por la caligrafía. Las celdas marcadas con `—` no tenían dato legible en la imagen.
 
+## 📋 Documento principal — Lista consolidada
+
+➡️ **[Lista de heridos consolidada por hospitales](20260626/Lista_GCal_Consolidada/Lista_heridos_consolidada.md)**
+
+Listado unificado de heridos de todos los hospitales en un solo documento. Es el punto de entrada principal mientras se completa el procesamiento día por día (ver el índice por fecha más abajo).
+
 ## Índice por fecha y hospital
 
 ### 2026-06-26
