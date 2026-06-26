@@ -53,6 +53,10 @@ uv run python consolidado_app/app.py                          # interfaz web: ht
 | Registro Maestro oficial (11 centros) | Consolidado UCV — pacientes por hospital (906 registros, corte 25JUN26 19:00) | [Consolidado_UCV.md](data/20260626/Consolidado_UCV/Consolidado_UCV.md) |
 | Cruz Roja Venezolana (sede La Candelaria, Caracas) | Lista de personas atendidas (31 personas) | [Cruz_Roja_Candelaria.md](data/20260626/Cruz_Roja/Cruz_Roja_Candelaria.md) |
 | Google Drive «SISMO 2026 VZLA» (varios centros + campo de golf) | Extracción de DOCX/PDF/fotos: consolidado, registro maestro, HUC, Vargas, Luciani, Pérez Carreño, sobrevivientes campo de golf | [SISMO_2026_VZLA/](data/20260626/SISMO_2026_VZLA/README.md) |
+| Registro Maestro oficial (14 centros) | Consolidado «dropbox» — pacientes por hospital (2.257 registros, corte 26JUN26 10:41) | [consolidado_dropbox.md](data/20260626/consolidado_dropbox/consolidado_dropbox.md) |
+| Hospital Dr. Domingo Luciani (Llanito) | Heridos por servicio (listas de pared del 26/06 — 120 pacientes) | [Hosp_Domingo_Luciani_26JUN26.md](data/20260626/Hosp_Domingo_Luciani/Hosp_Domingo_Luciani_26JUN26.md) |
+| Hospital Miguel Pérez Carreño | Pacientes por sismo del 26/06 (219 personas + 17 emergencia pediátrica) | [Hosp_Perez_Carreno_26JUN.md](data/20260626/Hosp_Perez_Carreno_1440/Hosp_Perez_Carreno_26JUN.md) |
+| Centro de Acopio de La Guaira (Campo de Golf) | Personas en el centro de acopio (292 personas) | [Centro_Acopio_La_Guaira_Campo_Golf.md](data/20260626/Centro_Acopio_La_Guaira_Campo_Golf/Centro_Acopio_La_Guaira_Campo_Golf.md) |
 
 ### 2026-06-25
 
