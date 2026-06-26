@@ -1,0 +1,21 @@
+[project]
+name = "consolidado-terremoto-venezuela"
+version = "0.1.0"
+description = "Consolidado de pacientes del terremoto de Venezuela (24/06/2026) y búsqueda semántica con sqlite-vec."
+readme = "README.md"
+requires-python = ">=3.9"
+authors = [{ name = "Ernesto", email = "ecrespo@gmail.com" }]
+
+dependencies = [
+    "sqlite-vec>=0.1.6",
+    "flask>=3.0",
+    "fastembed>=0.4",
+]
+
+[project.optional-dependencies]
+# Embeddings vía API de OpenAI (requiere OPENAI_API_KEY). Instalar con:
+#   uv sync --extra openai
+openai = ["openai>=1.0"]
+
+[tool.uv]
+package = false
