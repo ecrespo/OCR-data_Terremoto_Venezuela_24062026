@@ -22,17 +22,19 @@
 
 > 🆕 **Actualización 26JUN26 (Drive «SISMO 2026 VZLA_1554»):** se añadieron **151 personas nuevas** (Periférico de Catia / Ricardo Baquero González con cédulas, Pérez Carreño Trauma Shock —incluye 1 fallecido— y fotos Luciani 26/06). Llevan «Fuente: Drive SISMO_1554 26JUN26» en Nota.
 
+> 🆕 **Actualización 26JUN26 (Listado «337 personas en riesgo»):** se añadieron **27 personas nuevas** no repetidas de la infografía (las demás ya constaban). Llevan «Fuente: Listado 337 personas en riesgo» en Nota.
+
 ## Resumen
 
 | Hospital / Área | Personas (únicas) | De ellas, nuevas (UCV) |
 | --- | ---: | ---: |
 | Hosp. José Gregorio Hernández (Magallanes) | 51 | 2 |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | 368 | 0 |
-| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | 739 | 6 |
-| Hosp. Dr. Domingo Luciani (Llanito) | 579 | 139 |
-| Periférico de Catia | 326 | 66 |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | 761 | 6 |
+| Hosp. Dr. Domingo Luciani (Llanito) | 581 | 139 |
+| Periférico de Catia | 327 | 66 |
 | Rescatados — Alcaldía de Chacao (Los Palos Grandes / Bellocampo) | 17 | 0 |
-| Hosp. Universitario de Caracas (UCV) | 115 | 102 |
+| Hosp. Universitario de Caracas (UCV) | 117 | 102 |
 | Hosp. Vargas de Caracas | 290 | 122 |
 | Hosp. Militar Univ. Dr. Carlos Arvelo | 138 | 137 |
 | Cruz Roja (Caracas) | 33 | 27 |
@@ -43,7 +45,7 @@
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | 445 | 0 |
 | Seguro Social La Guaira (IVSS) | 129 | 0 |
 | Centro de Acopio Caraballeda | 236 | 0 |
-| **TOTAL** | **3569** | **657** |
+| **TOTAL** | **3596** | **657** |
 
 ## Listado consolidado
 
@@ -491,6 +493,7 @@
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Alonzo Oropeza Erika Marulo (?) |  |  |  | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Alouro Isabel |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Traumashock |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Alvarado Contrera Yorgyn Andrés |  |  | Maiquetía | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Alvarez Willian |  |  |  | Personas en riesgo | Fuente: Listado 337 personas en riesgo (N° 241) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Alvaro Ortiz |  | 4163469 |  | Adultos (L2) |  |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Amilcar Stabilito |  | 232410590 |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Amilcar Stabilitto |  | 23241059 | La Guaira | La Yaguara (nuevo) |  |
@@ -534,6 +537,7 @@
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Barrego Jose |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Barrios Katherine |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Bastardo Veronica |  | 30170686 |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Bastido Veronica |  |  |  | Personas en riesgo | Fuente: Listado 337 personas en riesgo (N° 330) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Becero Lesedi |  | 36800384 |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Bello Alana | 3 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Emerg. Pediátrica |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Bello Sánche (?) |  |  | Diana Iscabel - Guaira (?) | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
@@ -661,6 +665,7 @@
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Duglas Porras | 35 |  | La Guaira | Trauma Shock 26/06 | Fuente: Drive SISMO_1554 26JUN26 · Trauma Shock |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Duñar Lopez |  | 12115323 |  | Adultos (Triaje) |  |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Duran Palencia Giannis Dohany |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Echara Maria |  |  |  | Personas en riesgo | Fuente: Listado 337 personas en riesgo (N° 256) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Eduanyeli Valentine Perez Olibo | 1 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Pediatría |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Eduanyelis Pérez (?) | 9 |  |  | Pediatría (AMPC) |  |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Eduar Orana |  |  |  | Adultos (L3) |  |
@@ -691,6 +696,7 @@
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Espinoza Ivon |  |  | La Guaira - Caraballeda | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Espinoza Milagro |  |  | La Guaira | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Espinoza Milagro Adrián |  |  | La Guaira Caribe | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Estabilito Anicar |  |  |  | Personas en riesgo | Fuente: Listado 337 personas en riesgo (N° 333) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Esteves Carreño Yolinnys Alberto |  |  | La Guaira | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Esteves Volnoys |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Traumashock |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Esteves Yolnnys |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Traumashock |
@@ -726,6 +732,7 @@
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Garcia Andrea |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Garcia Gabriel | 9 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Emerg. Pediátrica – La Guaira |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Garcia Heilimar |  | 325434200 |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Garcia Mario |  |  |  | Personas en riesgo | Fuente: Listado 337 personas en riesgo (N° 277) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Garcia Martinez Keilimar Dayana |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | García Martins Keilman Dayana (?) |  |  | Maiquetía | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | García Meléndez Oleinis Valentina |  |  | La Guaira | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
@@ -743,6 +750,7 @@
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Gil Miriam |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Gil Orrieta Mariam |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Glendys Rodríguez |  |  | Charallave (La Guaira) | Trauma Shock 26/06 | Fuente: Drive SISMO_1554 26JUN26 · Trauma Shock |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Godoy Erica |  |  |  | Personas en riesgo | Fuente: Listado 337 personas en riesgo (N° 254) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Goleara Emiea |  | 22919884 |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Gómez Cardona Manuel Alberto |  |  |  | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Goncalve Gabriel |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Traumashock |
@@ -751,6 +759,7 @@
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Gonzales Jesus |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Traumashock |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Gonzales Perez Valeria Oriana |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Gonzales Velasquez Fabián | 7 M |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Pediatría |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Gonzalez Adriana |  |  |  | Personas en riesgo | Fuente: Listado 337 personas en riesgo (N° 335) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Gonzalez Angely |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Traumashock |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Gonzalez Anyely |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Traumashock |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | González de Ansmendi Milens Yanett |  |  | Los Cauros / Playa Verde (?) | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
@@ -786,6 +795,7 @@
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Hilary Ramírez | 10 a |  |  | Emergencia Pediátrica 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Horaydayoru |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Traumatología Emergencias – Pasillo Asesor; La Guaira |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Ibsen Iglesias |  | 32359883 |  | Adultos (L2) |  |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Idago Elianni |  |  |  | Personas en riesgo | Fuente: Listado 337 personas en riesgo (N° 329) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Iglesias Peña Ibsen José |  |  |  | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Infante Yhelena |  |  | La Guaira - Caraballeda | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Ingri Milano Yurmi (?) |  |  | La Guaira | Trauma Shock 26/06 | Fuente: Drive SISMO_1554 26JUN26 · Trauma Shock |
@@ -836,6 +846,7 @@
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Lopez Daniel |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | López Dávila Maily Carolina |  |  |  | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | López Dávila Thays Bernar (?) |  |  |  | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Lopez Dufar |  |  |  | Personas en riesgo | Fuente: Listado 337 personas en riesgo (N° 315) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | López Eliman |  |  | La Guaira - Caribe | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Lopez Elimar | 42 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Traumashock |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Lopez Emerson |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
@@ -866,6 +877,7 @@
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Manuela D'Anzola |  | 296723 |  | Adultos (L3) / Adultos (Triaje) | unificado de 2 registros |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Manuela De Anzola |  | 2967230 |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Triaje |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Maraeco Yenni |  | 18834289 |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Marcano Yenny |  |  |  | Personas en riesgo | Fuente: Listado 337 personas en riesgo (N° 299) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Marcela Bernal |  | 6049995 |  | Adultos (Triaje) |  |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Maria Araque |  | 28100561 |  | Adultos (L4) |  |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | María Fernández González |  |  | La Guaira | Trauma Shock 26/06 | Fuente: Drive SISMO_1554 26JUN26 · Trauma Shock |
@@ -943,6 +955,7 @@
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Mivandes Victoria |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado; Traumatología / pasillo de ascensor  A cargo de Traumatología, Neurocirugía y Cirugía General ALTA MEDICA POR ESPECIALISTA |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Moceral Maria |  | 25049995 |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Molina Ignacio |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Pediatría – 1 año 5 meses; Mamá: Jhonelis Ortiveros |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Molina Nagibi |  |  |  | Personas en riesgo | Fuente: Listado 337 personas en riesgo (N° 255) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Molina Oriana |  | 29766267 |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Mollina Nayiica |  | 297683600 |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Montes Cartayo |  |  | Reisi Herdimes, La Guaira (?) | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
@@ -968,6 +981,7 @@
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Nelly Defreites | 63 |  | La Guaira | Trauma Shock 26/06 | Fuente: Drive SISMO_1554 26JUN26 · Trauma Shock |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Neri Chavez | Sin información | 184620400 | Sin información | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Sin información |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Niver Garcia | Sin información | 253375140 | Sin información | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Sin información |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Novis Candelario |  |  |  | Personas en riesgo | Fuente: Listado 337 personas en riesgo (N° 272) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Olivio Lilian |  |  | La Guaira - Caribe | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Orama Angel |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Orama Eduan |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Traumachok Neuro – Triaje; La Guaira |
@@ -988,6 +1002,7 @@
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Ortega Pacheco Cristian Miguel |  |  | Tanaguarena | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Ortiz Arismendi Álvaro Enrique |  |  |  | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Ortuño Manrique Jhony |  |  |  | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Ortuño Yenny |  |  |  | Personas en riesgo | Fuente: Listado 337 personas en riesgo (N° 235) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Oseche Aderly |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Traumashock |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Oseta Valeria |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Traumachok – Medicina Interna; La Guaira |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Osota Valeria |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Traumashock |
@@ -999,9 +1014,12 @@
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Palmo Milagro |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Sin cédula |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Parcero Juvan |  | 27044231 |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Paredes Angel | 12 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Traumachok – Traumatología; La Guaira |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Paredes Ceneida |  |  |  | Personas en riesgo | Fuente: Listado 337 personas en riesgo (N° 247) |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Paredes Cruzeenda |  |  |  | Personas en riesgo | Fuente: Listado 337 personas en riesgo (N° 326) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Paredes Cruzeendda |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Paredes Reyes Ángel |  |  | La Guaira Los Corales | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Paredes Yudi |  | 38834721 |  | Ingreso por sismo (lista consolidada) | Fuente: Drive SISMO 2026 VZLA |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Paredes Yulid |  |  |  | Personas en riesgo | Fuente: Listado 337 personas en riesgo (N° 328) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Parezeo Cesda |  | 19727177 |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Parica Parica Laian Diake (?) |  |  |  | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Parica Parica Laian Drake |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
@@ -1033,11 +1051,13 @@
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Pulido Yury | 41 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Traumachok – Cirugía; La Guaira |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Querales Jossiree |  |  | Caraballeda | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Quiales Jessire |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Traumashock |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Quintero Crisdalis |  |  |  | Personas en riesgo | Fuente: Listado 337 personas en riesgo (N° 253) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Quintero Romero Bárbara Nadiuska (?) |  |  |  | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Quintero Viera Rosa Linda |  |  |  | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Quirales Jessire |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Traumashock |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Ramírez de Reyes Bárbara Duner (?) |  |  |  | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Ramirez Geraldo |  | 6121988 |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Nuevos Ingresos |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Ramirez Heilimar |  |  |  | Personas en riesgo | Fuente: Listado 337 personas en riesgo (N° 227) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Ramírez Hilary Xarielys |  |  | La Guaira Los Corales | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Ramirez Jesus |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Traumashock |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Ramos Diaz Felix Eduardo |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
@@ -1056,6 +1076,7 @@
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Ríos Enrique |  |  | La Guaira | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Ríos Ygenesis |  |  | Bramoven (?) | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Rivas Evan Armando | 55 | 20048909 |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Rivero Marleidi |  |  |  | Personas en riesgo | Fuente: Listado 337 personas en riesgo (N° 313) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Rlzzias Ibseni |  | 34891836 |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Rodrigo Fernandez |  |  |  | Adultos (L2) |  |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Rodrigo Rodrigo |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado; 4.20 pm |
@@ -1120,6 +1141,7 @@
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Sosa Jose Luis |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Traumashock |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Stabilito Anilea (?) |  |  | La Guaira - Caribe | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Sucre Francis Medina |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · 18 años |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Sucre Petna |  |  |  | Personas en riesgo | Fuente: Listado 337 personas en riesgo (N° 240) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | T Junior |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado; Pasillo de ascensor |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Tairy López |  |  | La Guaira | Trauma Shock 26/06 | Fuente: Drive SISMO_1554 26JUN26 · Trauma Shock · Alta |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Thais Lopez |  | 13641870 |  | Adultos (L2) |  |
@@ -1137,6 +1159,7 @@
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Torres Sosa Jenny Carolina |  |  | Junquito Km 25 | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Ulviau Breiner | 24 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Traumashock |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Urbina Edwin |  | 12113971 |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Nuevos Ingresos |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Urdidas Adriana |  |  |  | Personas en riesgo | Fuente: Listado 337 personas en riesgo (N° 238) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Uribe Veronica |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Uzcátegui José |  |  | Los Corales → La Guaira | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Valdivel Erick Gustavo |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Traumashock |
@@ -1156,6 +1179,7 @@
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Victoria Miranda |  | 34054588 |  | Adultos (L3) | ⚠ cédula 34054588 también aparece en otro hospital |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Victoria Ramírez | 13 a |  |  | Emergencia Pediátrica 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Vielma Maria |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Viera Yulid Paredes |  |  |  | Personas en riesgo | Fuente: Listado 337 personas en riesgo (N° 250) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Villahermosa Delfino Yohalbes Jose |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Villastro Aron Isaac |  |  | La Guaira Tanaguarena | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Villastro Isaac Aaron | 7 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado; SIN FAMILIAR |
@@ -1596,6 +1620,7 @@
 | Hosp. Dr. Domingo Luciani (Llanito) | Oldaz Luisana | 58 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Omaciento Sebastian | 16 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Omar Portillo |  |  |  | Lista (img.2) |  |
+| Hosp. Dr. Domingo Luciani (Llanito) | Omasenio Sebastian |  |  |  | Personas en riesgo | Fuente: Listado 337 personas en riesgo (N° 215) |
 | Hosp. Dr. Domingo Luciani (Llanito) | Omasiento Sebastián | 16 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Ordaz Luisana |  |  |  | Lista (img.2) |  |
 | Hosp. Dr. Domingo Luciani (Llanito) | Ordaz Luisana / Ordaz Carrion Luisana | 58 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
@@ -1712,6 +1737,7 @@
 | Hosp. Dr. Domingo Luciani (Llanito) | Serrano González Nancy |  |  |  | Lista (img.2) |  |
 | Hosp. Dr. Domingo Luciani (Llanito) | Serrano Nancy | 67 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Servis Canines | 46 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · La Guaira – Ingresos 9am |
+| Hosp. Dr. Domingo Luciani (Llanito) | Sierez Francisca |  |  |  | Personas en riesgo | Fuente: Listado 337 personas en riesgo (N° 176) |
 | Hosp. Dr. Domingo Luciani (Llanito) | Silua Yohaiber (?) |  |  |  | Pediatría (II) | Fuente: Hosp. Domingo Luciani 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Silva Jhoalbert | 7 |  | La Guaira | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Pediatría – Reanimación |
 | Hosp. Dr. Domingo Luciani (Llanito) | Silva Joanbet | 7 |  | La Guaira | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Pediatría – Reanimación |
@@ -2047,6 +2073,7 @@
 | Periférico de Catia | Rivero Eduyelis | 6 |  |  | Trauma (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
 | Periférico de Catia | Rodríguez Cindy | 21 |  | La Vega, Los Mangos (?) | Registro de emergencia | dolor abdominal (?) |
 | Periférico de Catia | Rodríguez Miguel | 56 |  |  | Trauma (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
+| Periférico de Catia | Rodriguez Pindhole |  |  |  | Personas en riesgo | Fuente: Listado 337 personas en riesgo (N° 110) |
 | Periférico de Catia | Rodriguez Pindihole | 51 |  | Calle Principal | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 |
 | Periférico de Catia | Rodríguez Pindiole | 51 |  | Calle Principal | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Sola / Caída 7:28 |
 | Periférico de Catia | Rodríguez Sanelly | 12 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Contusion h. guaro / Sola / Consulta 3:46 |
@@ -2136,6 +2163,7 @@
 | Hosp. Universitario de Caracas (UCV) | Antequia Mayuli | 50 | 12882457 | CACIQUE TIUNA | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: 0424-5860106 |
 | Hosp. Universitario de Caracas (UCV) | Avila Edith | 20 | 31073850 | Las Adjuntas | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Politraumatismo |
 | Hosp. Universitario de Caracas (UCV) | Baraja Andres | 41 | 17491087 | PRIVADOS DE LIBERTAD | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: 0424-2738577 |
+| Hosp. Universitario de Caracas (UCV) | Benedeti Yorliani |  |  |  | Personas en riesgo | Fuente: Listado 337 personas en riesgo (N° 6) |
 | Hosp. Universitario de Caracas (UCV) | Benedeti Yorlianis | 29 | 25846221 | ALTAMIRA | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: 0424-1737018 |
 | Hosp. Universitario de Caracas (UCV) | Benedetti Yorlianis | 29 | 258462210 | Sin información | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Sin información |
 | Hosp. Universitario de Caracas (UCV) | Cáceres Eliose | 55 | 11061197 | LA GUAIRA | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: 0426-1507138 |
@@ -2151,6 +2179,7 @@
 | Hosp. Universitario de Caracas (UCV) | Coa Deivis | 36 | 18780841 | LA GUAIRA | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: 0424-1534022 |
 | Hosp. Universitario de Caracas (UCV) | Coa Deivys | 36 | 18760841 | La Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Politraumatismo |
 | Hosp. Universitario de Caracas (UCV) | Cortez Noeli | 30 | 22538576 | LAS MAYAS | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: 0424-2562305 |
+| Hosp. Universitario de Caracas (UCV) | Cortez Nreli |  |  |  | Personas en riesgo | Fuente: Listado 337 personas en riesgo (N° 25) |
 | Hosp. Universitario de Caracas (UCV) | Cuba Andreina | 30 | 25000118 | El Valle | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Politraumatismo |
 | Hosp. Universitario de Caracas (UCV) | Cuyan Fran | 60 | 10235290 | LA FLORIDA | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: 0424-2927910 |
 | Hosp. Universitario de Caracas (UCV) | Dantoja Toni | 47 | 13409559 | LAS MAYAS | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: 0424-2562305 |
@@ -3634,3 +3663,4 @@
 - **Actualización 26JUN26 (Pérez Carreño):** de las 236 personas de las listas del 26/06 se añadieron las **205 no repetidas** (dedup por nombre dentro del hospital).
 - **Actualización 26JUN26 15:12:** del Excel maestro (2.743) se añadieron las **681 no repetidas** (dedup por cédula global y nombre por hospital). Grupo nuevo: Centro de Acopio Caraballeda.
 - **Actualización 26JUN26 (SISMO_1554):** se añadieron las **151 no repetidas** de Catia/Ricardo Baquero (con cédula), Pérez Carreño Trauma Shock (1 fallecido: Marco Reina) y Luciani 26/06.
+- **Actualización 26JUN26 (Listado 337 en riesgo):** de 319 transcritas se añadieron las **27 no repetidas** (dedup por nombre dentro de cada hospital).
