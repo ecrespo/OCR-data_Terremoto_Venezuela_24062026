@@ -8,23 +8,28 @@
 
 > 🆕 **Actualización 26JUN26 (Cruz Roja · La Candelaria):** se incorporaron **3 personas nuevas** de la lista de la Cruz Roja Venezolana (sede La Candelaria, Caracas). Las otras 28 de esa lista ya estaban registradas (variantes de transcripción). Las nuevas llevan «Fuente: Cruz Roja La Candelaria 26JUN26» en la columna Nota.
 
+> 🆕 **Actualización 26JUN26 (Google Drive «SISMO 2026 VZLA»):** se integraron **319 personas nuevas** (sobrevivientes del Campo de Golf Caribe, pacientes del Hosp. Ricardo Baquero González y J.M. de los Ríos, y altas individuales). Los reportes del HUC y los registros maestros ya estaban cubiertos (deduplicados por cédula). Las filas nuevas llevan «Fuente: Drive SISMO 2026 VZLA».
+
 ## Resumen
 
 | Hospital / Área | Personas (únicas) | De ellas, nuevas (UCV) |
 | --- | ---: | ---: |
 | Hosp. José Gregorio Hernández (Magallanes) | 19 | 2 |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | 172 | 0 |
-| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | 138 | 6 |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | 139 | 6 |
 | Hosp. Dr. Domingo Luciani (Llanito) | 197 | 139 |
 | Periférico de Catia | 127 | 66 |
 | Rescatados — Alcaldía de Chacao (Los Palos Grandes / Bellocampo) | 17 | 0 |
 | Hosp. Universitario de Caracas (UCV) | 102 | 102 |
-| Hosp. Vargas de Caracas | 122 | 122 |
+| Hosp. Vargas de Caracas | 123 | 122 |
 | Hosp. Militar Univ. Dr. Carlos Arvelo | 137 | 137 |
 | Cruz Roja (Caracas) | 30 | 27 |
 | Hosp. Ana Francisca Pérez de León II | 22 | 22 |
 | Clínica El Ávila | 34 | 34 |
-| **TOTAL** | **1117** | **657** |
+| Hosp. Dr. Ricardo Baquero González | 6 | 0 |
+| Hospital J.M. de los Ríos (Niños) | 1 | 0 |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | 310 | 0 |
+| **TOTAL** | **1436** | **657** |
 
 ## Listado consolidado
 
@@ -323,6 +328,7 @@
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Nayibi Molina |  | 29768360 |  | Adultos (L1) |  |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Oriana Ramirez |  | 27006264 |  | Adultos (L1) / Adultos (Traumashock) | unificado de 2 registros |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Orozco Peláez Diego | 8 |  |  | Pediatría (procedencia) | FALLECIDO |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Paredes Yudi |  | 38834721 |  | Ingreso por sismo (lista consolidada) | Fuente: Drive SISMO 2026 VZLA |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Parica Parica Laiyum Yuque | 1 |  | Catia la Mar | Pediatría (procedencia) |  |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Petra Sucre |  | 2945823 |  | Adultos (L1) / Adultos (Traumashock) | unificado de 2 registros |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Polanco Yaupoma León Santiago | 5 |  | Av. Baralt (?) | Pediatría (procedencia) |  |
@@ -853,6 +859,7 @@
 | Hosp. Vargas de Caracas | Gleason Grein |  | 31426812 | Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: F |
 | Hosp. Vargas de Caracas | Gomez Yaritza |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Vargas de Caracas | Gonzales Angelina |  |  | Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Vargas de Caracas | Gonzalez Daiberly |  | 30527436 |  | Ingreso por sismo (lista consolidada) | Fuente: Drive SISMO 2026 VZLA |
 | Hosp. Vargas de Caracas | Gonzalez Dailberly |  | 30523436 | Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Vargas de Caracas | Gonzalez Darbeidy |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Vargas de Caracas | Gonzalez Edgary |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
@@ -1147,6 +1154,323 @@
 | Clínica El Ávila | Tovar Alejandro |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Clínica El Ávila | Zerpa Graciela |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Clínica El Ávila | Zorrillo Doris |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Dr. Ricardo Baquero González | Cordoba Eduanyelis | 6 |  |  | Ingreso por sismo (lista consolidada) | Fuente: Drive SISMO 2026 VZLA |
+| Hosp. Dr. Ricardo Baquero González | Gonzalez Yaneska |  |  |  | Ingreso por sismo (lista consolidada) | Fuente: Drive SISMO 2026 VZLA |
+| Hosp. Dr. Ricardo Baquero González | Lopez Valeria | 20 | 31341560 |  | Ingreso por sismo (lista consolidada) | Fuente: Drive SISMO 2026 VZLA |
+| Hosp. Dr. Ricardo Baquero González | Pereira Villamizar Maria Isabel | 8 |  |  | Ingreso por sismo (lista consolidada) | Fuente: Drive SISMO 2026 VZLA |
+| Hosp. Dr. Ricardo Baquero González | Semeria Irllis | 49 |  |  | Ingreso por sismo (lista consolidada) | Fuente: Drive SISMO 2026 VZLA |
+| Hosp. Dr. Ricardo Baquero González | Tovar Yeison | 17 |  |  | Ingreso por sismo (lista consolidada) | Fuente: Drive SISMO 2026 VZLA |
+| Hospital J.M. de los Ríos (Niños) | Torrealba Rodriguez Sebastian Ciudad Caribia |  |  |  | Ingreso por sismo (lista consolidada) | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Abigail Renott (?) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Adrián Díaz (menor) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA · menor |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Adrián Hurtado (menor) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA · menor |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Adriani Acosta (menor) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA · menor |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Adrianny Díaz (menor) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA · menor |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Aixa Sanoja |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Alan Acosta (menor) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA · menor |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Albert Delgado (menor) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA · menor |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Albert Medina |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Aldo Delgado |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Alexandra Morales |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Alonis Carmona |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Amairú Figueroa (?) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Ambar Figueroa |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Ana Contreras |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Ana Salazar |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Andreína Corvo |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Andy León (menor) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA · menor |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Angel Hermoso |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Angel Suere (?) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Angeli Camargo |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Angelo Blanco (?) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Anly Vásquez |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Anthony Salazar |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Anyela Planas (menor) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA · menor |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Anyela Poleo |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Anyelimar (?) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Arelis Serrano |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Ariana López |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Ariana Urruchuto (Torres?) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Ariangelis Romero (menor) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA · menor |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Ariangely Galíndez (menor) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA · menor |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Ariangely Romero |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Arianni Contramaestre (menor) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA · menor |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Ariari Mendoza (?) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Ariyanlis Arionnis Meza (menor) (?) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA · menor |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Aron Ochoa |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Asdrúbal Ulloa |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Ashly Acosta (menor) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA · menor |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Aurielys Delgado |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Barbara Moreno |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Belkys Caraballo |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Belkys Castillo |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Benjamín José Dewentt (?) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Beryah Pérez (?) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Bladimir Gómez |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Bonnie Pugarita (?) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Branyeska Landaeta |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Brigith Milano (menor) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA · menor |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Carla Paredes |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Carlos Farías (?) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Carlos López |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Carlos Ontiveros |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Carlos Paredes |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Carmen Aracely Ontiveros |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Carmen Fuentes |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Chairon Yépez (?) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Charlie Jaramillo |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Claudia Blanco |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Crismar Rodríguez (menor) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA · menor |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Dailenys Rodríguez |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Daimari Pantoja |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Dainelis Hernández |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Daniel León |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Daniel Martínez (menor) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA · menor |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Daniela Rodríguez |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Daniela Tovar |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Danilo Mendoza |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Danyer Romero (menor) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA · menor |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Danyerlis Díaz |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Darwin Manuel Medina O. |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Dayana Sánchez |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Dayena Olivares |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Deibert Pantoja |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Derlysbeth Ferreira |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Derwin Manuel Medina O. |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Diana (?) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Domingo Blanco Verde (?) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Douglas Castillo |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Dylan Moreno |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Eberto Barrios |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Edgar Armanza (?) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Edgar Rojas (?) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Edwin Efraín García |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Eidert Yépez |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Eikel Hermoso |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Elías Hermoso |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Elías Yánez (menor) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA · menor |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Eliecer Martínez (menor) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA · menor |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Enais Orios (?) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Ender Rodríguez |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Eneida Sánchez |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Enrique León |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Enyer Navarro |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Enyeri León |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Ericka Suárez |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Eulogio Rodríguez |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Fabiola Avilán |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Felipe Gómes |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Filomela Plácido (?) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Francisco Avilán |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Francisco Salinas |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Frankie Milano |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Frayeli Moreno |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Freddy Rodríguez |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Freymary Izaguirre |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Genderson Jhoan García (menor) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA · menor |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Génesis Rodríguez |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Geraldine Castillo |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Gerdis Cejas |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Gori Graterol (menor) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA · menor |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Gustavo Peralta |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Harbelys Iriarte |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Hayderlyn Martínez (?) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Heinota Ojeda (?) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Ibeola Avilán (?) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Ida Santana |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Ignamary Marval (?) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Ilana Rodríguez (?) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Ingrid Milano |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Ingrid Milano Merchoreli (?) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Isaac Figueroa |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Isabela Berbesí |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Israel Milano (menor) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA · menor |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Jackson Rondón |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Jasmín Puerta |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Javier Hernández |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Javier Navarro |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Jean Andrade Farías (menor) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA · menor |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Jean Farías |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Jean Franco Farías (menor) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA · menor |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Jean León (menor) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA · menor |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Jean Parera (?) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Jeferson Milano (menor) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA · menor |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Jeferson Suárez Montilla |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Jeison Rodríguez (?) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Jenifer Guerire (?) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Jenni Veroes (?) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Jeremías Dewentt (?) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Jesús León |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Joel Alberto García (menor) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA · menor |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Joel Guevara |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Joel Ramos |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Johalis Romero |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Johandry Sucre (?) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Johen Dávila (menor) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA · menor |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Jonailfer Zerpa |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Jonny Aparicio |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Jorge Delgado |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | José Alaque (?) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | José G. Rodríguez (menor) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA · menor |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | José Gregorio Ca… (?) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | José Pérez |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | José Renott |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | José Torres |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | José Uscátegui |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Josefina Delgado |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Josehlis Vásquez (?) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Josemy Vásquez |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Joset Rodríguez (?) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Josli Coa (?) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Josué Nieves |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Judith Gonzáles |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Julio César |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Julio Santana |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Katharin Salas |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Katherin Roa |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Katherine Avilán |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Kenedy Renott (?) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Landru Cadenas |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Leonardo Ismael Rojas (menor) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA · menor |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Leonardo Mendoza |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Leonel Mendoza |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Leudy León |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Liber Sánchez |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Lois Rosales |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Loreangel Galíndez |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Loreany Galíndez (?) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Loromoto Larez (?) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Lourdes Ramos |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Luis Díaz |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Luis Planas |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Luis Rodríguez |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Magali Cabrera (?) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Manuel Castillo |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Marco Palacio (?) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Marcos Planas |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Mari Briceño (?) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | María Elena Caldero |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | María Montilla |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | María Pérez (menor) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA · menor |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Marielui Monasterio (?) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Marilyn Pugarita (?) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Mariolimar Benítez |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Marionnys Avangoren (?) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Marlene Andrade |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | (niña menor) Martínez Camargo |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Mary Martínez |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Mathías Vásquez |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Mercedes Pernía |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Michel Chirico (?) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Michell Hernández (menor) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA · menor |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Miguel Cejas |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Miguel Planas (menor) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA · menor |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Miguel Poleo |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Miguel Rojas (menor) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA · menor |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Milagros Hernández |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Milagros Torres |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Misyeny Galíndez (menor) (?) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA · menor |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Moreno Yaneth |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Nahemi Graterol (menor) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA · menor |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Nahomi Rodríguez |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Nairobi Flores |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Nathaly Medina |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Natia Gómez (?) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Nelimar González Medina |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Nelson Silva |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Néstor Milano |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Nhivia Escalante |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Nilie Rodríguez (menor) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA · menor |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Nixon Ramírez |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Noel Silva (menor) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA · menor |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Norelkys Castillo |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Onos Cadenas (?) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Orianni Rodríguez (menor) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA · menor |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Orlando Dewentt |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Orlando José Dewentt |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Oscar González (?) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Paola Mendoza |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Rafael Viralles (?) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Raiza Gonzáles |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Ramón Medina |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Reinal Suescum |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Richard González |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Robert Rodríguez |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Rodelis Peralta |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Roger Camargo |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Roger Nieves |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Ronaiker Olivares |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Ronangel Olivares |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Ronner Camargo |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Ronni Pugarita (?) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Rosa Delgado |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Rosana Medina |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Rosana Monge |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Roselma Santana |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Rosely Márquez |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Roselyn Sotil |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Rosi de Barrios |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Rubén Santana |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Sam Olivares |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Sarai Contramaestre (menor) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA · menor |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Saray Sepúlveda |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Soe Santander (?) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Sofía Hernández (menor) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA · menor |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Soili Romero |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Solaiby Farres |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Soni Martínez |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Sonia Marcano |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Sorelis Romero |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Sotty Dimas |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Tabiana Toimes (?) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Teobaldo Hernández |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Thiago Arratia |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Tosmaily Solano (?) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Usiel Bello (menor) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA · menor |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Valentina Romero |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Víctor Ruiz |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Vilmer Castillo |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Viviana Mendoza |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Welyari Blanco (?) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Wilbelys López |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Wilbert Rivas |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Wilkely Guella (?) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | William Milano |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Williams López |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Wilmar Gómez |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Wilmar Palomino |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Yajaira Martínez Barrio |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Yanay Margarita (?) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Yanderson Díaz |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Yanetsi Peralta |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Yaritza Iriarte |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Yarnelis Ochea (?) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Yarnelis Ochoa |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Yefferson Suárez |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Yeibert Pugarita (?) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Yeikelis García |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Yeiker García |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Yeili Gallardo |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Yeison Farpón (?) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Yeison Rada (?) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Yeleisy Castillo |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Yelibeth Peña |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Yelimar Pérez |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Yelitza Marcano |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Yenderson Sandoval |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Yenifer Galíndez (menor) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA · menor |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Yeorgelys Galíndez (?) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Yesica Pérez (?) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Yetxi Vivas |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Yohan Corvo |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Yolimar Benavides (?) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Yonaiker Díaz |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Yondeiber Morales |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Yosmely Idriarte (?) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Yosneidy Medina |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Yubelkys García (?) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Yuleidy Pérez |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Yulianny Rosales |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
 
 ## Notas de consolidación
 
@@ -1156,3 +1480,4 @@
 - **Hosp. Domingo Luciani:** lista OCR inicial + registros nuevos del registro UCV.
 - Las uniones se hicieron **dentro de cada hospital**. Cuando una misma cédula aparece con nombres muy distintos (probable error de transcripción) **no** se fusionaron los registros; se marcó con `⚠`.
 - **Actualización 26JUN26 (Cruz Roja · La Candelaria):** de las 31 personas del cartel de la Cruz Roja, 28 ya constaban (la lista coincide con el registro previo de «Cruz Roja»; incluye variantes como Nairubis/Nairobis Alvarado, Quedales/Querales, Bagochoa/Begochea y «Ángel Barela»≈«Ángel Varela»). Solo se añadieron 3 nombres no repetidos.
+- **Actualización 26JUN26 (Drive «SISMO 2026 VZLA»):** se añadió lo no repetido de esa carpeta. El reporte del **HUC** (71) y el **Registro Maestro** coinciden por cédula con lo ya cargado (no se duplicaron). Se incorporaron sobrevivientes del **Campo de Golf Caribe** y pacientes de **Ricardo Baquero González** y **J.M. de los Ríos**. Transcripción manuscrita: nombres del golf pueden tener imprecisiones (`(?)`).
