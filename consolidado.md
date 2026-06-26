@@ -20,15 +20,17 @@
 
 > 🆕 **Actualización 26JUN26 15:12 (Consolidado oficial):** se integraron **681 personas nuevas** del Excel maestro (2.743 registros, 16 centros; nuevos: Ricardo Baquero González y **Centro de Acopio Caraballeda**). Deduplicadas por cédula y nombre. Llevan «Fuente: Consolidado 26JUN26 15:12» en Nota.
 
+> 🆕 **Actualización 26JUN26 (Drive «SISMO 2026 VZLA_1554»):** se añadieron **151 personas nuevas** (Periférico de Catia / Ricardo Baquero González con cédulas, Pérez Carreño Trauma Shock —incluye 1 fallecido— y fotos Luciani 26/06). Llevan «Fuente: Drive SISMO_1554 26JUN26» en Nota.
+
 ## Resumen
 
 | Hospital / Área | Personas (únicas) | De ellas, nuevas (UCV) |
 | --- | ---: | ---: |
 | Hosp. José Gregorio Hernández (Magallanes) | 51 | 2 |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | 368 | 0 |
-| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | 705 | 6 |
-| Hosp. Dr. Domingo Luciani (Llanito) | 544 | 139 |
-| Periférico de Catia | 244 | 66 |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | 739 | 6 |
+| Hosp. Dr. Domingo Luciani (Llanito) | 579 | 139 |
+| Periférico de Catia | 326 | 66 |
 | Rescatados — Alcaldía de Chacao (Los Palos Grandes / Bellocampo) | 17 | 0 |
 | Hosp. Universitario de Caracas (UCV) | 115 | 102 |
 | Hosp. Vargas de Caracas | 290 | 122 |
@@ -41,7 +43,7 @@
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | 445 | 0 |
 | Seguro Social La Guaira (IVSS) | 129 | 0 |
 | Centro de Acopio Caraballeda | 236 | 0 |
-| **TOTAL** | **3418** | **657** |
+| **TOTAL** | **3569** | **657** |
 
 ## Listado consolidado
 
@@ -471,6 +473,7 @@
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Acosta Bastidas Yanelis Del Valle Carolina |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Acosta Bastidas Yanels del Valle Carolina |  |  |  | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Acosta Israel | 10 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado; Fecha: 25/6/26 pm |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Aderly Olechea Cordero |  |  | La Guaira | Trauma Shock 26/06 | Fuente: Drive SISMO_1554 26JUN26 · Trauma Shock |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Adian Milagro |  | 10583198 |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Nuevos Ingresos |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Adriana Sandoval |  | 34518879 |  | Adultos (L3) |  |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Adriana Vestidas |  | 17856045 |  | Adultos (L1) / Adultos (Traumashock) | unificado de 2 registros |
@@ -480,6 +483,7 @@
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Alejandra Soja |  | 6904629 |  | Adultos (Triaje) |  |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Alejandra Sosa | Sin información | 62046290 | Sin información | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Sin información |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Alexandra Cardenas |  | 28143770 |  | Adultos (L1) / Adultos (Traumashock) | unificado de 4 registros |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Alexis José Piña |  |  | La Guaira | Trauma Shock 26/06 | Fuente: Drive SISMO_1554 26JUN26 · Trauma Shock |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Alfredo Quintana |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Alfredo Quintero (?) |  |  |  | Pediatría (AMPC) |  |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Alonzo Isabel |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Traumachok – Neurocirugía; La Guaira |
@@ -490,6 +494,7 @@
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Alvaro Ortiz |  | 4163469 |  | Adultos (L2) |  |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Amilcar Stabilito |  | 232410590 |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Amilcar Stabilitto |  | 23241059 | La Guaira | La Yaguara (nuevo) |  |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Amilka Estabilito | 64 |  | La Guaira | Trauma Shock 26/06 | Fuente: Drive SISMO_1554 26JUN26 · Trauma Shock |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Ana Aguilera |  | 20003134 |  | Adultos (L1) / Adultos (Traumashock) | unificado de 2 registros |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Ana Dias |  | 10576803 |  | Adultos (L1) |  |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Ana Esperanza Vargas | 22 m |  |  | Emergencia Pediátrica 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
@@ -503,7 +508,9 @@
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Andrade Milagro |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Neuro Trauma – Pasillo Asesor; La Guaira |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Angarita Carrillo Carmen Victoria |  |  |  | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Angel Fernandez |  | 16310014 |  | Adultos (L2) |  |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Ángel Paredez | 12 |  | La Guaira | Trauma Shock 26/06 | Fuente: Drive SISMO_1554 26JUN26 · Trauma Shock |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Anyeli Gonzalez | 37 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado; Trauma shock Pasillo de ascensor |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Anyeliy Gonzals (?) | 37 |  | La Guaira | Trauma Shock 26/06 | Fuente: Drive SISMO_1554 26JUN26 · Trauma Shock |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Aponte Borges Carlos |  |  | La Guaira (Acc. T) | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Arana Eduar |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Sin cédula |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Ariana O Adriana Sandoval | Sin información | 345188790 | Sin información | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Traslado desde La Guaira |
@@ -535,6 +542,7 @@
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Beronica Bastarda |  | 301706260 |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Beronica Bastardo |  | 30170626 |  | Adultos (Traumashock) |  |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Bivzela Harerid |  | 37890594 |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Bladimir Lisenco Boaz | 25 |  | La Guaira | Trauma Shock 26/06 | Fuente: Drive SISMO_1554 26JUN26 · Trauma Shock |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Blanco Galvis Máximo Miguel |  |  | La Guaira Tanaguarena | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Blanco Luis |  |  | San Martín | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Bolivar Bolivar J. Jose |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
@@ -543,9 +551,13 @@
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Bous Candelario |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Traumachok – Traumatología; La Guaira |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Bracamonte Rojas Génesis (?) |  |  |  | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Bracho Adriana |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Breiner Vivian | 24 |  | La Guaira | Trauma Shock 26/06 | Fuente: Drive SISMO_1554 26JUN26 · Trauma Shock |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Briceno Amikar |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Piso 3 – Traumachok; La Guaira |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Briceño Amilcar |  |  | La Guaira | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Briceño Amilkar |  |  | La Guaira | Trauma Shock 26/06 | Fuente: Drive SISMO_1554 26JUN26 · Trauma Shock |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Brigitte Díaz | 6 a |  |  | Emergencia Pediátrica 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Brisneidy Cebollo |  |  | La Guaira | Trauma Shock 26/06 | Fuente: Drive SISMO_1554 26JUN26 · Trauma Shock |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Brisneidy Reballo |  |  | La Guaira | Trauma Shock 26/06 | Fuente: Drive SISMO_1554 26JUN26 · Trauma Shock |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Brito Antonela | 11 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Pediatría |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Brito Antonella | 11 |  | Catia la Mar | Pediatría (procedencia) |  |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Brito Morales Brayan David |  |  |  | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
@@ -555,6 +567,7 @@
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Cabello Brisneidy |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado; Trauma Shock / Cirugía General |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Candelano Rois |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Traumashock |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Candelario Navas | Sin información | 294164930 | Sin información | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Sin información |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Candelario Obus |  |  | La Guaira | Trauma Shock 26/06 | Fuente: Drive SISMO_1554 26JUN26 · Trauma Shock |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Candelario Vouis |  | 94164930 |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Candelario Vovis |  | 9416493 |  | Adultos (L2) |  |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Caneiro Robrama (?) |  |  | La Guaira - Punta Mulato | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
@@ -576,6 +589,7 @@
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Ceballos Brisneiby |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Traumachok – Medicina Interna; La Guaira |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Ceballos Bruisneidy |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Traumashock |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Ceballos Granelde (?) |  |  | La Guaira | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Celeste Yitora |  |  | La Guaira | Trauma Shock 26/06 | Fuente: Drive SISMO_1554 26JUN26 · Trauma Shock |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Celiana Mijares |  | 19734177 |  | Adultos (L3) / Adultos (Triaje) | unificado de 2 registros |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Cenaida Paredez |  | 6405488 |  | Adultos (L1) / Adultos (Traumashock) | unificado de 2 registros |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Cendiela Paredez | Sin información | 61454880 | Sin información | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Sin información |
@@ -589,6 +603,7 @@
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Chirinos Martínez Maximiliano José |  |  | La Guaira (Hotel cluadsout?) | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Chirinos Miranda Dulce |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Cisdelis Quintero | Sin información | 3260572960 | Sin información | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Sin información |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Clariángela Mutinez (?) | 30 |  | La Guaira | Trauma Shock 26/06 | Fuente: Drive SISMO_1554 26JUN26 · Trauma Shock |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Cnepeo Louvia |  | 24718019 |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Cohalue Gabriel |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Neuro – Traumachok; La Guaira |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Colina Angarita Yohander Abel |  |  |  | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
@@ -615,6 +630,7 @@
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Cruzcenaida Paredez |  | 64054880 |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Da Silva Jairo |  |  | La Guaira | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | David Brito |  | 30678485 |  | Adultos (L4) |  |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Dayana Córdova |  |  | La Guaira | Trauma Shock 26/06 | Fuente: Drive SISMO_1554 26JUN26 · Trauma Shock |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Dayana Rondon |  |  |  | Adultos (L1) |  |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | De Freitas Nelly | 63 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado; Trauma Shock / Neurocirugía |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | De Martínez Longa Carmen Zoraida |  |  | La Guaira (bscoe?) | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
@@ -642,6 +658,7 @@
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Drana Eduar |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Duan Polencia Giannis Dohany (?) |  |  |  | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Duarte Jesus | 74 | 5142521 |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Duglas Porras | 35 |  | La Guaira | Trauma Shock 26/06 | Fuente: Drive SISMO_1554 26JUN26 · Trauma Shock |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Duñar Lopez |  | 12115323 |  | Adultos (Triaje) |  |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Duran Palencia Giannis Dohany |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Eduanyeli Valentine Perez Olibo | 1 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Pediatría |
@@ -660,6 +677,7 @@
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Emily Ramos | 10 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Emira Guerra |  | 26019884 |  | Adultos (L3) |  |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Enmira Guerra | Sin información | 260128840 | Sin información | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Sin información |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Enrique Dios |  |  | La Guaira | Trauma Shock 26/06 | Fuente: Drive SISMO_1554 26JUN26 · Trauma Shock |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Eric Godoy |  | 18749225 |  | Adultos (L1) |  |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Ernan Gladys |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado; Trauma Shock / Traumatologia |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Escala Moister (?) |  |  | La Guaira - Tanaguarena | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
@@ -678,6 +696,7 @@
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Esteves Yolnnys |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Traumashock |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Fajardo Romiel | 33 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Traumashock |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Fajardo Roniel |  |  | La Guaira | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Feliciano Giampaolo |  |  | La Guaira | Trauma Shock 26/06 | Fuente: Drive SISMO_1554 26JUN26 · Trauma Shock |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Fernadez Freites Rodrigo Felipe |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Fernanda Figueira |  | 81659048 |  | Adultos (L4) |  |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Fernanda Figuera |  | 816590480 |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
@@ -698,6 +717,7 @@
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Francis Medina |  | 285659 |  | Adultos (L1) / Adultos (Traumashock) | unificado de 2 registros |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Francisco José Oropeza Torres |  |  | La Guaira | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Franleydi Lopez |  |  |  | Adultos (Traumashock) |  |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Fredy Bcenter (?) |  |  | La Guaira | Trauma Shock 26/06 | Fuente: Drive SISMO_1554 26JUN26 · Trauma Shock |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Fredy Rodriguez |  | 14424783 |  | Adultos (L4) |  |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Gabriel Brizuela |  | 32781459 |  | Adultos (L3) |  |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Gabriel Goncaluez |  | 822309060 |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
@@ -722,6 +742,7 @@
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Gil Leomanwil |  | 20291328 |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Nuevos Ingresos |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Gil Miriam |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Gil Orrieta Mariam |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Glendys Rodríguez |  |  | Charallave (La Guaira) | Trauma Shock 26/06 | Fuente: Drive SISMO_1554 26JUN26 · Trauma Shock |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Goleara Emiea |  | 22919884 |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Gómez Cardona Manuel Alberto |  |  |  | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Goncalve Gabriel |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Traumashock |
@@ -767,10 +788,12 @@
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Ibsen Iglesias |  | 32359883 |  | Adultos (L2) |  |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Iglesias Peña Ibsen José |  |  |  | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Infante Yhelena |  |  | La Guaira - Caraballeda | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Ingri Milano Yurmi (?) |  |  | La Guaira | Trauma Shock 26/06 | Fuente: Drive SISMO_1554 26JUN26 · Trauma Shock |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Isabel Gonzales |  | 29701695 |  | Adultos (Traumashock) |  |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Isabel Gonzalez | Sin información | 291016950 | Sin información | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Sin información |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Isabel Torres |  | 4718019 |  | Adultos (Triaje) |  |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Isabella Reboredo | 10 |  |  | Pediatría (AMPC) |  |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Isaiel Alonso |  |  | La Guaira | Trauma Shock 26/06 | Fuente: Drive SISMO_1554 26JUN26 · Trauma Shock |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Jaimes Lisbet |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado; Trauma Shock |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Jaimus Lisbeth |  |  | La Guaira Caribe | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Jimenez Mathias / Jimenez Mathia | 12 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Emerg. Pediátrica – La Guaira |
@@ -788,6 +811,7 @@
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Juver Garcia |  | 27377514 |  | Adultos (L2) |  |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Karleidi Rivero |  | 36091784 |  | Adultos (Triaje) |  |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Keilimar Garcia |  | 32543420 |  | Adultos (L3) |  |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Kevi Gonzales | 32 |  | La Guaira | Trauma Shock 26/06 | Fuente: Drive SISMO_1554 26JUN26 · Trauma Shock |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | La Rosa Noel |  |  | La Guaira (Hotel Edmar Suiz?) | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | La Rosa Yoel |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Traumashock |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Ladera Eliayelis | 1 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Pediatría – Lista alta; Mamá Yosbelis Díaz |
@@ -827,9 +851,11 @@
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Lujano Elías |  |  | La Guaira - Playa Grande | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Lujano Gloces | 10 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Emerg. Pediátrica – Catia La Mar |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Madera Noe Isabel |  |  | La Guaira | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Mady Pérez Delgado |  |  | La Guaira | Trauma Shock 26/06 | Fuente: Drive SISMO_1554 26JUN26 · Trauma Shock |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Mahtriam Marilette (?) |  |  | La Guaira Caribe | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Maia Moreno |  | 56131190 |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Mailin Lopez |  | 15541666 |  | Adultos (L2) |  |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Maite Aaranda | 16 |  | La Guaira | Trauma Shock 26/06 | Fuente: Drive SISMO_1554 26JUN26 · Trauma Shock · caso social |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Makterian Marieste | 67 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Traumachok; La Guaira |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Malave Alani | 4 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Emerg. Pediátrica – La Guaira |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Malave Alfonso Samara Valentina |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
@@ -842,6 +868,7 @@
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Maraeco Yenni |  | 18834289 |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Marcela Bernal |  | 6049995 |  | Adultos (Triaje) |  |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Maria Araque |  | 28100561 |  | Adultos (L4) |  |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | María Fernández González |  |  | La Guaira | Trauma Shock 26/06 | Fuente: Drive SISMO_1554 26JUN26 · Trauma Shock |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Maria Guillen |  | 60592880 |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Maria Montolla |  | 25025734 |  | Adultos (Triaje) |  |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Maria Moreno |  | 5613119 |  | Adultos (L4) |  |
@@ -849,6 +876,7 @@
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Maria Zamora |  | 27044236 |  | Adultos (L1) | ⚠ cédula 27044236 compartida con otro registro del mismo hospital (posible error OCR) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Marin Tova Valeska |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado; Traumatología Pasillo de ascensor |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Mariño Amilcar |  |  | La Guaira Caraballeda | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Marioate Mahtenen (?) | 67 |  | La Guaira | Trauma Shock 26/06 | Fuente: Drive SISMO_1554 26JUN26 · Trauma Shock |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Marlene Davila |  | 19102824 |  | Adultos (L4) |  |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Marlin Martinez |  | 10576899 |  | Adultos (L4) |  |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Marquez Robert | 21 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Traumashock |
@@ -922,6 +950,7 @@
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Montes Mia | 0 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Emerg. Pediátrica – 6 meses – Catia La Mar |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Morales Jessire |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Trauma Shock; La Guaira |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Moreno Dimexis |  |  | La Guaira | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Moreno Domieas (?) |  |  | La Guaira | Trauma Shock 26/06 | Fuente: Drive SISMO_1554 26JUN26 · Trauma Shock |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Moreno Domiexis | 96 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Traumachok; La Guaira |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Moreno Tapia Franxelis Oriana |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Moreria Eidimar |  |  | La Guaira - Caribe | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
@@ -936,6 +965,7 @@
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Nathacha Medina |  | 29565365 |  | Adultos (L2) |  |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Navaz Yodalis Mercedes |  |  | Ciudad Caribia | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Nayibi Molina |  | 29768360 |  | Adultos (L1) |  |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Nelly Defreites | 63 |  | La Guaira | Trauma Shock 26/06 | Fuente: Drive SISMO_1554 26JUN26 · Trauma Shock |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Neri Chavez | Sin información | 184620400 | Sin información | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Sin información |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Niver Garcia | Sin información | 253375140 | Sin información | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Sin información |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Olivio Lilian |  |  | La Guaira - Caribe | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
@@ -1016,6 +1046,7 @@
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Ramos Ramos | 10 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado; 4.20 pm |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Ramos Vargas Emily Estefanía (?) |  |  |  | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Ranfi Ramon | 34 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Piso 3 – Traumachok; La Guaira |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Ranfi Ramos | 34 |  | La Guaira | Trauma Shock 26/06 | Fuente: Drive SISMO_1554 26JUN26 · Trauma Shock |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Rebolledo Isabella | 10 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Emerg. Pediátrica – La Guaira |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Reina Marco |  |  | La Guaira - Caraballeda | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Rendon Cruza |  | 4656862 |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
@@ -1046,6 +1077,7 @@
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Romero Yuleidys |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado; Trauma Shock / Triaje/ Neurocirugía |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Romero Yusleidy / Romero Yuleidy |  | 29567050 |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Nuevos Ingresos |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Rondon Dayanara | 18 años |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Rosa Linda Viera | 51 |  | La Guaira | Trauma Shock 26/06 | Fuente: Drive SISMO_1554 26JUN26 · Trauma Shock |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Rosa Marcano |  | 4493435 |  | Adultos (L3) |  |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Rosalinda Viera |  | 13717087 |  | Adultos (L2) |  |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Ruiz Jesus | 8 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Emerg. Pediátrica |
@@ -1089,6 +1121,7 @@
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Stabilito Anilea (?) |  |  | La Guaira - Caribe | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Sucre Francis Medina |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · 18 años |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | T Junior |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado; Pasillo de ascensor |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Tairy López |  |  | La Guaira | Trauma Shock 26/06 | Fuente: Drive SISMO_1554 26JUN26 · Trauma Shock · Alta |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Thais Lopez |  | 13641870 |  | Adultos (L2) |  |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Tirado López Yunior David |  |  |  | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Toicata Jacinta |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Traumashock |
@@ -1153,6 +1186,7 @@
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Yoinelis Méndez | 11 a |  |  | Emergencia Pediátrica 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Yoisbelys Rodríguez | 3 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Yolebis Seigar |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado; Trauma Shock / Accidente de moto Rx Triaje |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Yoluvis Esteves |  |  | La Guaira | Trauma Shock 26/06 | Fuente: Drive SISMO_1554 26JUN26 · Trauma Shock |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Yoni Ortuño |  | 5199693 |  | Adultos (L4) |  |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Yonielbys Rodríguez | 1 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Yonny Ortuño |  | 5199652 |  | Adultos (L3) / Adultos (Triaje) | unificado de 2 registros |
@@ -1162,6 +1196,8 @@
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | (…) Yorinof |  |  | El Valle | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Yosbeilys Rodríguez | 3 |  |  | Pediatría (AMPC) | hermana de Toribelbys |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Yose Palma |  | 6448839 |  | Adultos (L4) |  |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Yosenia Coronado | 40 |  | La Guaira | Trauma Shock 26/06 | Fuente: Drive SISMO_1554 26JUN26 · Trauma Shock |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Yulaidy Romero |  |  | La Guaira | Trauma Shock 26/06 | Fuente: Drive SISMO_1554 26JUN26 · Trauma Shock |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Yuliet García | 8 a |  |  | Emergencia Pediátrica 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Yunior Tirado |  | 26372024 |  | Adultos (L4) |  |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Zalazar Eddy |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Traumashock |
@@ -1176,6 +1212,7 @@
 | Hosp. Dr. Domingo Luciani (Llanito) | Abreu Emma | 8 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Abreu Paulina | 8 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Acevedo Estefani | 37 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado; POLIT EMERGENCIA NUEVA |
+| Hosp. Dr. Domingo Luciani (Llanito) | Acevedo Jorge |  |  |  | Poli — Emergencia Nueva (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Acosta Alexander | 47 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Acosta Alí | 47 |  | Baruta | Ingresados por sismo |  |
 | Hosp. Dr. Domingo Luciani (Llanito) | Acosta Hasael | 13 |  | Baruta | Ingresados por sismo |  |
@@ -1202,6 +1239,7 @@
 | Hosp. Dr. Domingo Luciani (Llanito) | Anthon Jesus | 52 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · La Guaira – Ingresos 9am |
 | Hosp. Dr. Domingo Luciani (Llanito) | Antonella Marín | 17 |  |  | Politrauma — Emergencia Vieja | Fuente: Hosp. Domingo Luciani 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Antonelle Merin / Antonelle Merrin | 17 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Politrauma Emerg. Vieja |
+| Hosp. Dr. Domingo Luciani (Llanito) | Anyi Pérez | 45 |  |  | Politrauma — Emergencia Vieja («Trauma Vieja») (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Aponto Jessica |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Dr. Domingo Luciani (Llanito) | Ardis Fañez (?) | 53 |  |  | POLI I (7:20 am) | Fuente: Hosp. Domingo Luciani 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Arellano Camila | 17 | 33420428 |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
@@ -1215,6 +1253,7 @@
 | Hosp. Dr. Domingo Luciani (Llanito) | Arteta Doris (?) |  |  |  | Quirófano (II) | Fuente: Hosp. Domingo Luciani 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Arvelo Valeri | 6 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado; PEDIATRIA PISO 6 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Ascanio Luis | 15 |  | La Guaira | EMG Trauma (7:30 am) | Fuente: Hosp. Domingo Luciani 26JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Astrid Méndez | 38 |  |  | Politrauma — Emergencia Vieja («Trauma Vieja») (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Aurora Ordoz |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Politrauma |
 | Hosp. Dr. Domingo Luciani (Llanito) | Axiel Giménez |  |  |  | Pediatría (II) | Fuente: Hosp. Domingo Luciani 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Axiel Jimenez |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Pediatría |
@@ -1236,6 +1275,7 @@
 | Hosp. Dr. Domingo Luciani (Llanito) | Bisval Clara | 62 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Blanco Briceño Carmen |  |  |  | Lista (img.3) |  |
 | Hosp. Dr. Domingo Luciani (Llanito) | Blanco Carmen | 55 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Blanco Jesica | 63 |  |  | Politrauma — Emergencia Vieja («Trauma Vieja») (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Blanco José | 6 |  | El Hatillo | Ingresados por sismo |  |
 | Hosp. Dr. Domingo Luciani (Llanito) | Blanco Sofia Segura |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Politrauma |
 | Hosp. Dr. Domingo Luciani (Llanito) | Blanco Sofia Segura / Blanco Yessica |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Politrauma |
@@ -1248,6 +1288,7 @@
 | Hosp. Dr. Domingo Luciani (Llanito) | Boada Mendez Evelyn Luisa | 54 | 11636506 |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Dr. Domingo Luciani (Llanito) | Boado Evelin | 51 |  | La Guaira | EMG Trauma (7:30 am) | Fuente: Hosp. Domingo Luciani 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Boado Evoelyn |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Politrauma Emerg. Nueva |
+| Hosp. Dr. Domingo Luciani (Llanito) | Bolívar Yoscarli |  |  |  | Quirófano (26/06, 1:00 pm) (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Bompard Radhi |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Politrauma |
 | Hosp. Dr. Domingo Luciani (Llanito) | Bompard Rodni |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Bomparo Rodni |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 |
@@ -1260,6 +1301,7 @@
 | Hosp. Dr. Domingo Luciani (Llanito) | Bradian García | 8 |  | La Guaira | Pediatría (7:00 am) | Fuente: Hosp. Domingo Luciani 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Brate Celis (?) | 62 |  |  | Politrauma — Emergencia Vieja | Fuente: Hosp. Domingo Luciani 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Brito Gina | 49 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Cardiología Piso 2 – H-11 – F |
+| Hosp. Dr. Domingo Luciani (Llanito) | Brocar Saúl |  |  |  | Quirófano (26/06, 1:00 pm) (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Bubal Clara | 62 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Buce Saul | 26 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Trauma |
 | Hosp. Dr. Domingo Luciani (Llanito) | Bui Dannis | 41 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Quirófano – M |
@@ -1267,6 +1309,7 @@
 | Hosp. Dr. Domingo Luciani (Llanito) | Cabarca Yenderli | 12 |  | Caribe | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Pediatría |
 | Hosp. Dr. Domingo Luciani (Llanito) | Cabarca Yenderlin |  |  |  | Quirófano (II) | Fuente: Hosp. Domingo Luciani 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Cabarca Yenderlin / Cabarca Yendel | 13 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Cabarcas Yendeli |  |  |  | Quirófano (26/06, 1:00 pm) (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Cabeza Karina | 30 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Cabrera Carina |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Politrauma – Trauma |
 | Hosp. Dr. Domingo Luciani (Llanito) | Cabrera Karina | 30 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
@@ -1280,6 +1323,7 @@
 | Hosp. Dr. Domingo Luciani (Llanito) | Carlos Castro |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Politrauma / Rx |
 | Hosp. Dr. Domingo Luciani (Llanito) | Carrasquel Santiago | 14 |  | La Guaira | EMG Trauma (7:30 am) | Fuente: Hosp. Domingo Luciani 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Carrizaje Santiago | 94 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · La Guaira – Ingresos 9am |
+| Hosp. Dr. Domingo Luciani (Llanito) | Carvelo María |  |  |  | Quirófano (26/06, 1:00 pm) (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Castañeda Maria |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Politrauma – Tel: 02128733207 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Castañeda Maria / Castañeda Marie / Maria Castañeda |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Politrauma – Tel: 02128733207 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Castañeda Marre (?) | 73 |  |  | Politrauma — Emergencia Vieja | Fuente: Hosp. Domingo Luciani 26JUN26 |
@@ -1345,12 +1389,15 @@
 | Hosp. Dr. Domingo Luciani (Llanito) | Escalona Ivis | 55 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Espitia Yohany Garabuto |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Politrauma |
 | Hosp. Dr. Domingo Luciani (Llanito) | Espitia Yohany Garabuto / Espitia Garabito Yohany |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Politrauma |
+| Hosp. Dr. Domingo Luciani (Llanito) | Evelin Boada | 54 |  |  | Politrauma — Emergencia Vieja («Trauma Vieja») (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Fabina Ribas |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Faontado Miel (?) |  |  |  | Pediatría (II) | Fuente: Hosp. Domingo Luciani 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Fariña Arelis | 53 | 11058065 |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado; Rx |
 | Hosp. Dr. Domingo Luciani (Llanito) | Farinez Arelis | 53 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Pol I – F |
 | Hosp. Dr. Domingo Luciani (Llanito) | Fernández Efraín | 31 |  | Catia | Ingresados por sismo |  |
+| Hosp. Dr. Domingo Luciani (Llanito) | Fernández Emile |  |  |  | Quirófano (26/06, 1:00 pm) (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Fernandez Emili | 31 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado; UPT, llegó la familia |
+| Hosp. Dr. Domingo Luciani (Llanito) | Fernández Emily |  |  |  | Quirófano (26/06, 1:00 pm) (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Fernandez Neisy | 37 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Fernandez Nelsy | 57 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Fernández Niusy (?) | 37 |  | Guarenas | Ingresados por sismo |  |
@@ -1393,8 +1440,10 @@
 | Hosp. Dr. Domingo Luciani (Llanito) | Garett Juan | 41 |  | La Guaira | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Ingresos 6am-9:20pm |
 | Hosp. Dr. Domingo Luciani (Llanito) | Gato Yaleska | 23 | 30514231 |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Dr. Domingo Luciani (Llanito) | Gilbert Ana | 4 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Pediatría – La Guaira |
+| Hosp. Dr. Domingo Luciani (Llanito) | Gimeli Moreno |  |  |  | Quirófano (26/06, 1:00 pm) (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Gisorelis Moreno (?) | 37 |  |  | Quirófano (9:27 am) | Fuente: Hosp. Domingo Luciani 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Gomez Lucy | 61 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Politrauma – Caribe; TRM |
+| Hosp. Dr. Domingo Luciani (Llanito) | Goncalve Luci | 61 |  |  | Politrauma — Emergencia Vieja («Trauma Vieja») (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Goncalves Lucy | 61 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Trauma |
 | Hosp. Dr. Domingo Luciani (Llanito) | Gonzales Albymar | 59 |  | Altamira | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Gonzalez Albeymar | 59 |  | Altamira | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
@@ -1428,6 +1477,7 @@
 | Hosp. Dr. Domingo Luciani (Llanito) | Guapin Efren | 30 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Piso 2 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Guapini Efren | 30 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Piso 2 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Guapini Efren P2 | 30 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Guarine Efrén |  |  |  | Quirófano (26/06, 1:00 pm) (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Guarini Padrón Efrén (?) |  |  |  | Lista (img.2) |  |
 | Hosp. Dr. Domingo Luciani (Llanito) | Guavini Efren P.2 | 30 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Guavini Efren P.2 / Guavini Padron Efren | 30 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
@@ -1438,7 +1488,9 @@
 | Hosp. Dr. Domingo Luciani (Llanito) | Guerrero Guerrero |  |  |  | Politrauma — Emergencia Nueva | Fuente: Hosp. Domingo Luciani 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Guzman Paola | 12 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Harrufo Ariana | 84 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Trauma |
+| Hosp. Dr. Domingo Luciani (Llanito) | Hernández Deiby |  |  |  | Poli — Emergencia Nueva (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Hernandez Francisco | 62 | 8176273 |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado; UPT 2. |
+| Hosp. Dr. Domingo Luciani (Llanito) | Hernández Rey |  |  |  | Quirófano (26/06, 1:00 pm) (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Herrera Meilano Gladiuska |  |  |  | Lista (img.3) |  |
 | Hosp. Dr. Domingo Luciani (Llanito) | Herrera Merlano Gladivska |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Herrero Gladiuska | 26 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Cardiología Piso 2 – H-10 – F |
@@ -1453,6 +1505,7 @@
 | Hosp. Dr. Domingo Luciani (Llanito) | Huga Anderson (?) |  |  |  | Pediatría (II) | Fuente: Hosp. Domingo Luciani 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Huoa Anderson | 9 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Pediatría |
 | Hosp. Dr. Domingo Luciani (Llanito) | Ibarra Ana | 74 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Isabel Vega | 50 |  |  | Politrauma — Emergencia Vieja («Trauma Vieja») (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Iscala Yenny (?) | 42 |  | Baruta | Ingresados por sismo |  |
 | Hosp. Dr. Domingo Luciani (Llanito) | Isquiel Henrique | 55 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Politrauma Emerg. Nueva |
 | Hosp. Dr. Domingo Luciani (Llanito) | Isquier Henrique / Isquier Henriaique |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Politrauma Emerg. Nueva |
@@ -1463,8 +1516,10 @@
 | Hosp. Dr. Domingo Luciani (Llanito) | Izquierdo Jean | 83 |  | Palos Grandes | Ingresados por sismo |  |
 | Hosp. Dr. Domingo Luciani (Llanito) | Jancel Rey (?) |  |  |  | Quirófano (II) | Fuente: Hosp. Domingo Luciani 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Janelly Nabi | 26 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Politrauma – Caribe |
+| Hosp. Dr. Domingo Luciani (Llanito) | Janet Anhalabi | 23 |  |  | Politrauma — Emergencia Vieja («Trauma Vieja») (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Jelani Rodriguez | 32 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado; QUIROFANO |
 | Hosp. Dr. Domingo Luciani (Llanito) | Jencel Rey | 8 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Quirófano |
+| Hosp. Dr. Domingo Luciani (Llanito) | Jesús Eparick |  |  | ? | Quirófano (26/06, 1:00 pm) (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Jimenez Axel | 4 |  | Los Corales | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Pediatría – Madre: Mileidi Lopez |
 | Hosp. Dr. Domingo Luciani (Llanito) | Jimenez Axel / Jimenes Axel | 4 |  | Los Corales | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Pediatría – Madre: Mileidi Lopez |
 | Hosp. Dr. Domingo Luciani (Llanito) | Jimenez Axiel / Jimenez Axel | 4 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Qx |
@@ -1475,6 +1530,7 @@
 | Hosp. Dr. Domingo Luciani (Llanito) | Lander Sebastián |  |  |  | Cirugía Pediátrica (niño solo) |  |
 | Hosp. Dr. Domingo Luciani (Llanito) | Lando Sebastian | 7 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · CI: 47513650 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Lastra Visbal Clara |  |  |  | Lista (img.2) |  |
+| Hosp. Dr. Domingo Luciani (Llanito) | León Darealin |  |  |  | Quirófano (26/06, 1:00 pm) (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Lewis Desmon | 10 |  | La Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Pediatría – Madre: Elisa Calderon |
 | Hosp. Dr. Domingo Luciani (Llanito) | Leyibe Pedra |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Nombre incierto |
 | Hosp. Dr. Domingo Luciani (Llanito) | Liscamo Pedro | 40 |  | Cahacaito | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
@@ -1492,6 +1548,7 @@
 | Hosp. Dr. Domingo Luciani (Llanito) | Machado Anabella | 9 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Machado Anarella | 9 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Machado Anarella / Machado Anarela | 9 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Mahmud Anhalabi | 56 |  |  | Politrauma — Emergencia Vieja («Trauma Vieja») (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Majano Jose | 26 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · La Guaira – Ingresos 9am |
 | Hosp. Dr. Domingo Luciani (Llanito) | Mamud Halabi | 56 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Trauma |
 | Hosp. Dr. Domingo Luciani (Llanito) | Manuel Coluan (?) |  |  |  | Politrauma — Emergencia Nueva | Fuente: Hosp. Domingo Luciani 26JUN26 |
@@ -1503,6 +1560,7 @@
 | Hosp. Dr. Domingo Luciani (Llanito) | Marcano Rosa |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Dr. Domingo Luciani (Llanito) | María Castañedo | 65 |  | Guarenas (?) | Politrauma (MI) (7:20 am) | Fuente: Hosp. Domingo Luciani 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Marla Cardoza | 25 |  |  | Medicina Interna (9:00 am) | Fuente: Hosp. Domingo Luciani 26JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Marrupo Ariana |  |  |  | Quirófano (26/06, 1:00 pm) (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Martinez Isaac | 10 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Quirófano |
 | Hosp. Dr. Domingo Luciani (Llanito) | Martinez Jesus | 7 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Quirófano |
 | Hosp. Dr. Domingo Luciani (Llanito) | Martinez Joan | 10 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Pediatría |
@@ -1530,6 +1588,7 @@
 | Hosp. Dr. Domingo Luciani (Llanito) | Muñon Mariangel | 59 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Muñoz Josefina | 72 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Nahomi Marrero | 20 |  |  | Politrauma — Emergencia Vieja | Fuente: Hosp. Domingo Luciani 26JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Nairoby Pairares |  |  |  | Poli-Trauma Emergencia Nueva / Terapia (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Nohori Marrero | 20 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Politrauma Emerg. Vieja |
 | Hosp. Dr. Domingo Luciani (Llanito) | Odalys García | 43 |  |  | Medicina Interna (9:00 am) | Fuente: Hosp. Domingo Luciani 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Odebe Manuel | 38 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Medicina Interna – M |
@@ -1541,6 +1600,7 @@
 | Hosp. Dr. Domingo Luciani (Llanito) | Ordaz Luisana |  |  |  | Lista (img.2) |  |
 | Hosp. Dr. Domingo Luciani (Llanito) | Ordaz Luisana / Ordaz Carrion Luisana | 58 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Ordaz Lusana | 58 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Orihuela Liana |  |  |  | Poli — Emergencia Nueva (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Osho Elick | 54 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · La Guaira – Ingresos 9am |
 | Hosp. Dr. Domingo Luciani (Llanito) | Padilla Godoy | 4 |  | La Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Pediatría – Mamá: Andreina Vasconalo |
 | Hosp. Dr. Domingo Luciani (Llanito) | Padilla Rodoski | 4 |  |  | Cirugía Pediátrica (niño solo) |  |
@@ -1623,6 +1683,7 @@
 | Hosp. Dr. Domingo Luciani (Llanito) | Rosalis Vasquez | 18 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Politrauma Emerg. Nueva |
 | Hosp. Dr. Domingo Luciani (Llanito) | Rrez Eliomor | 23 |  | La Guaira | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Ingresos 6am-9:20pm |
 | Hosp. Dr. Domingo Luciani (Llanito) | Rueda Isabel | 50 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Trauma |
+| Hosp. Dr. Domingo Luciani (Llanito) | Ruiz Dannis |  |  |  | Quirófano (26/06, 1:00 pm) (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Ruiz Denni | 49 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Politrauma – La Guaira |
 | Hosp. Dr. Domingo Luciani (Llanito) | Salasaa Arturo | 13 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Pediatría |
 | Hosp. Dr. Domingo Luciani (Llanito) | Salasab Arturo |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Pediatría |
@@ -1665,6 +1726,7 @@
 | Hosp. Dr. Domingo Luciani (Llanito) | Simenez Axiel | 4 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Qx |
 | Hosp. Dr. Domingo Luciani (Llanito) | Smel Fernández (?) | 37 |  |  | Medicina Interna (9:00 am) | Fuente: Hosp. Domingo Luciani 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Soncha Catalina | 64 |  | La Guaira | EMG Trauma (7:30 am) | Fuente: Hosp. Domingo Luciani 26JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Stiven Sánchez | 24 |  |  | Politrauma — Emergencia Vieja («Trauma Vieja») (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Streu Emma (?) | 8 |  | Sabana Grande | Ingresados por sismo |  |
 | Hosp. Dr. Domingo Luciani (Llanito) | Suárez Granado René |  |  |  | Lista (img.3) |  |
 | Hosp. Dr. Domingo Luciani (Llanito) | Suarez Julio | 19 |  | La Guaira | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Ingresos 6am-9:20pm |
@@ -1681,6 +1743,7 @@
 | Hosp. Dr. Domingo Luciani (Llanito) | Tortosa Jesus | 52 |  | La Guaira | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Ingresos 6am-9:20pm |
 | Hosp. Dr. Domingo Luciani (Llanito) | Trujillo Elián | 19 |  | La Guaira | Ingresados por sismo |  |
 | Hosp. Dr. Domingo Luciani (Llanito) | Trujillo Henam |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Terapia – M; La Guaira |
+| Hosp. Dr. Domingo Luciani (Llanito) | Trujillo Meriam | 19 |  | La Guaira | Poli-Trauma Emergencia Nueva / Terapia (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Uequiola Mauro | 55 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Politrauma Emerg. Vieja |
 | Hosp. Dr. Domingo Luciani (Llanito) | Ugas Maria | 54 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado; No tiene familia, Rx |
 | Hosp. Dr. Domingo Luciani (Llanito) | Uguelo Kimberly | 39 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado; PISO 4 |
@@ -1692,14 +1755,20 @@
 | Hosp. Dr. Domingo Luciani (Llanito) | Vasconcelo Andreína (?) |  |  |  | Lista (img.2) |  |
 | Hosp. Dr. Domingo Luciani (Llanito) | Vasque Juis | 77 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Fallecida |
 | Hosp. Dr. Domingo Luciani (Llanito) | Vasque Luis | 77 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Fallecida |
+| Hosp. Dr. Domingo Luciani (Llanito) | Vásquez Gladys |  |  |  | Poli — Emergencia Nueva (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Vásquez Luis | 77 |  | Sin familiar | Ingresados por sismo | ✚ posible fallecido (marca en lista) |
+| Hosp. Dr. Domingo Luciani (Llanito) | Vega María | 54 |  |  | Politrauma — Emergencia Vieja («Trauma Vieja») (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Vega Samuel | 11 |  | Petare | Ingresados por sismo |  |
 | Hosp. Dr. Domingo Luciani (Llanito) | Vegas Isabel | 50 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Poli Emerg. Nueva – F; La Guaira |
 | Hosp. Dr. Domingo Luciani (Llanito) | Vegside Mauro (?) | 55 |  |  | Politrauma — Emergencia Vieja | Fuente: Hosp. Domingo Luciani 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Veguide Mauro | 55 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Politrauma Emerg. Vieja |
 | Hosp. Dr. Domingo Luciani (Llanito) | Veguiole Mauro | 55 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Politrauma Emerg. Vieja |
 | Hosp. Dr. Domingo Luciani (Llanito) | Veguiole Menro | 35 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Politrauma Emerg. Vieja |
+| Hosp. Dr. Domingo Luciani (Llanito) | Velázquez Ilidis |  |  |  | Quirófano (26/06, 1:00 pm) (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Vequiola Mauro | 55 |  | La Guaira | EMG Trauma (7:30 am) | Fuente: Hosp. Domingo Luciani 26JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Victoria Caridad | 29 |  |  | Politrauma — Emergencia Vieja («Trauma Vieja») (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Viera José |  |  |  | Poli — Emergencia Nueva (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Viera Mario |  |  |  | Poli — Emergencia Nueva (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Vilches Brayan | 23 |  | Petare | Ingresados por sismo |  |
 | Hosp. Dr. Domingo Luciani (Llanito) | Vilchez Brayan | 23 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Villamar Ares | 23 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · La Guaira – Ingresos 9am |
@@ -1712,10 +1781,13 @@
 | Hosp. Dr. Domingo Luciani (Llanito) | Yenjeil | 13 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Quirófano – F; Carbacas |
 | Hosp. Dr. Domingo Luciani (Llanito) | Yenjerlis Carbacas (?) | 13 |  |  | Quirófano (9:27 am) | Fuente: Hosp. Domingo Luciani 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Yesica Blanco | 53 |  |  | POLI I (7:20 am) | Fuente: Hosp. Domingo Luciani 26JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Yessica Aponte | 19 |  |  | Politrauma — Emergencia Vieja («Trauma Vieja») (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Yessica Blanco |  |  |  | Triaje de cirugía |  |
 | Hosp. Dr. Domingo Luciani (Llanito) | Yinderli Cavarca | 13 |  | La Guaira | Pediatría (7:00 am) | Fuente: Hosp. Domingo Luciani 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Yosemi Garoboto (?) | 30 |  |  | Politrauma — Emergencia Vieja | Fuente: Hosp. Domingo Luciani 26JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Yuliany Mora | 52 |  |  | Politrauma — Emergencia Vieja («Trauma Vieja») (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
 | Periférico de Catia | Abdly Abdelys | 28 | 26254624 |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Cirugía General |
+| Periférico de Catia | Abrau Isabel | 36 |  |  | Trauma (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
 | Periférico de Catia | Abreu Ana | 36 | 22036301 |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Cirugía General |
 | Periférico de Catia | Abreu Isabel |  |  | Alta vista, 81 (?) | Registro de emergencia | caída |
 | Periférico de Catia | Albino Varker | 23 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Esposa |
@@ -1728,59 +1800,88 @@
 | Periférico de Catia | Alex Palencia |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Periférico de Catia | Alexis Zacarias | 46 |  | Calle San Isidro | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Periférico de Catia | Alfredo Núñez | 67 |  | Con Magallanes | Registro de emergencia | F. abierta (?) |
+| Periférico de Catia | Álvaro Fabias | 56 | 9960614 | Caracas: Sabana Grande | Traumatología Masculino | Fuente: Drive SISMO_1554 26JUN26 |
 | Periférico de Catia | Álvaro Fadia | 56 | 99605140 | Sin información | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Emergencia |
+| Periférico de Catia | Amarili Blanco | 67 |  |  | Hospitalización Mujeres | Fuente: Drive SISMO_1554 26JUN26 |
 | Periférico de Catia | Ana González | 46 |  | Calle San Andrés (?) | Registro de emergencia | caída |
 | Periférico de Catia | Angel Silva | 38 | 258703990 | La Guaira | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Sin información |
 | Periférico de Catia | Angela Galaviz | 53 | 116660620 | Sin información | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Emergencia |
+| Periférico de Catia | Ashley López | 5 |  | La Guaira: Caribe | Pediatría | Fuente: Drive SISMO_1554 26JUN26 |
 | Periférico de Catia | Belquis Novaz | 65 | 60568920 | Sin información | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Cirugía General |
+| Periférico de Catia | Benites Karli | 43 |  |  | Trauma (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
 | Periférico de Catia | Bereza Celameric | 49 | 135716360 | La Guaira | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Sin información |
+| Periférico de Catia | Bertma Laguna |  |  |  | Trauma Shock | Fuente: Drive SISMO_1554 26JUN26 |
 | Periférico de Catia | Capella Harold | 33 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Traumat. odf con lacera / Sola / Consulta 3:21 |
 | Periférico de Catia | Capota Harold | 33 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Solo |
 | Periférico de Catia | Capote Harold | 43 |  | San Lorenzo | Registro de emergencia | dolor |
+| Periférico de Catia | Carla Leen | 49 | 17700355 | La Guaira | Traumatología Femenino | Fuente: Drive SISMO_1554 26JUN26 |
 | Periférico de Catia | Carla León | 44 | 127003550 | Sin información | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Cirugía General |
 | Periférico de Catia | Carlos Katia (?) | 30 |  | Santa Cruz, Aragua | Registro de emergencia | caída |
 | Periférico de Catia | Carlos Malier | 26 |  | La Guaira, Maiquetia | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Emerg |
+| Periférico de Catia | Carmen Marín | 53 |  | Caracas: Catia | Hospitalización Mujeres | Fuente: Drive SISMO_1554 26JUN26 |
 | Periférico de Catia | Carmesn Quintera | 22 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Sola |
 | Periférico de Catia | Carolina Salazar | 49 | 133333590 | Sin información | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Cirugía General |
+| Periférico de Catia | Carrasco Gyotisbel (?) | 47 |  |  | Cirugía (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
 | Periférico de Catia | Carreño Daniela | 15 | 32525559 |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Cirugía/Trauma |
+| Periférico de Catia | Carrero Jignex (?) | 45 |  |  | Trauma (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
+| Periférico de Catia | Casho Lien (?) | 6 |  |  | Pediatría (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
 | Periférico de Catia | Castillo Jorge | 77 |  | — | Registro de emergencia | caída |
+| Periférico de Catia | Cerrono Miguel | 11 |  |  | Trauma (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
 | Periférico de Catia | Cervelan Fermíne |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Periférico de Catia | Chacín Aldae (?) | 37 |  | La Guaira, Chirau (?) | Registro de emergencia | caída |
 | Periférico de Catia | Chacin Aldair / Chacin Aldao | 37 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Sobrine |
+| Periférico de Catia | Chacín Aldo | 54 |  |  | Cirugía (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
 | Periférico de Catia | Chacir Tortoz | 37 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Amigo |
+| Periférico de Catia | Chirino Alexander | 21 |  |  | Trauma (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
+| Periférico de Catia | Chirino Yeleini | 57 |  |  | Trauma (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
 | Periférico de Catia | Chirinos Alexandra | 21 | 31995517 |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Cirugía General |
 | Periférico de Catia | Cipriota Seville | 29 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Esposo / Caída 7:07 |
 | Periférico de Catia | Coliveriares Quell | 27 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Solo |
 | Periférico de Catia | Colmenaras Yadher | 3 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · QVOg e. lacera Scap / Mamá / Caída 2:30 |
 | Periférico de Catia | Colmenares Gisell | 50 |  | La Guaira | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · TRM |
+| Periférico de Catia | Colmenares Quede (?) | 58 |  |  | Trauma (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
 | Periférico de Catia | Colmenares Yadier | 56 |  | El Limón (?) | Registro de emergencia | dolor |
 | Periférico de Catia | Colmenares Yuseli (?) | 27 |  | Calle real Maiquetía | Registro de emergencia | caída |
 | Periférico de Catia | Colmeneres Vezier | 24 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Sola |
 | Periférico de Catia | Contreras Valeria | 24 |  | — | Registro de emergencia | acc. moto |
 | Periférico de Catia | Córdoba Eduanyelis | 6 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Cirugía General |
 | Periférico de Catia | Cortez Yolimar | 58 | 6340991 |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Cirugía/Trauma |
+| Periférico de Catia | Cortez Yunimar | 58 |  |  | Trauma (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
 | Periférico de Catia | Danely Rodríguez |  |  | Los Paraísos de #13 | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Periférico de Catia | Daner Salazar | 50 | 11557611 | Caracas: Catia | Ingresados Piso de Cirugía | Fuente: Drive SISMO_1554 26JUN26 |
 | Periférico de Catia | Daniela Ysabel | 32 |  | Alta Vista 81 | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
+| Periférico de Catia | Darío Reuben | 64 |  |  | Trauma (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
 | Periférico de Catia | Darío Rubén | 64 |  | Los Frailes | Registro de emergencia | caída |
 | Periférico de Catia | Deagrela José | 48 | 13373135 |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Cirugía General |
+| Periférico de Catia | Deivy Rodríguez | 19 |  | Caracas: Catia | Hospitalización Masculinos | Fuente: Drive SISMO_1554 26JUN26 |
+| Periférico de Catia | Delgado Orlando | 45 |  |  | Trauma (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
 | Periférico de Catia | Dereck Torjaz / Dereck Torres | 17 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Solo |
 | Periférico de Catia | Dereck Torres | 5 |  | Calle real Los Flores | Registro de emergencia | caída |
+| Periférico de Catia | Dereet Torres | 17 |  |  | Cirugía (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
 | Periférico de Catia | Derek Frequez | 51 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Solo |
 | Periférico de Catia | Didilet Grillet | 37 | 181832300 | Sin información | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Cirugía General |
+| Periférico de Catia | Dilia Lemos | 49 | 13531669 | Caracas: La Silsa | Traumatología Femenino | Fuente: Drive SISMO_1554 26JUN26 |
 | Periférico de Catia | Edgar González | 48 |  | Carrizal, Los Teques | Registro de emergencia | oreja (?) |
+| Periférico de Catia | Edvangely Carboda | 6 |  | Vía La Guaira | Pediatría | Fuente: Drive SISMO_1554 26JUN26 |
 | Periférico de Catia | Ender Rangel | 150 |  | por Suere | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Hermanos / Caída |
+| Periférico de Catia | Ereu Anyisnay | 23 |  |  | MI (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
 | Periférico de Catia | Espinosa Fermina | 33 |  | — | Registro de emergencia | consulta |
 | Periférico de Catia | Espinosa Fermíne | 70 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Traumate. Elbon + muscular / Hija / Caída 3:00 |
 | Periférico de Catia | Espinosa Fermíne / Espinosa Fermine / Espinosa Fermina | 70 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Traumate. Elbon + muscular / Hija / Caída 3:00 |
 | Periférico de Catia | Estevez Johnson | 24 | 29571733 |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Cirugía General |
 | Periférico de Catia | Fargel Ender (?) |  |  | Av. Sucre (?) | Registro de emergencia | caída |
 | Periférico de Catia | Fargel Sender |  |  | Av. Sucre | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
+| Periférico de Catia | Farias Álvaro | 56 |  |  | Trauma Shock (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
 | Periférico de Catia | Francis Márquez | 22 | 305803690 | Sin información | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Emergencia |
 | Periférico de Catia | Franklin Affonos | 30 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Amiga |
 | Periférico de Catia | Franklin Alfonso | 65 |  | Indigente (?) | Registro de emergencia | caída |
 | Periférico de Catia | Franklin Alfonso / Franklin Affonos | 65 |  | Mosquito de Morolina | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Sola / Caída 7:28 |
+| Periférico de Catia | Franklin Alfonzo | 65 |  |  | Trauma (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
 | Periférico de Catia | Fromel Reine (?) | 17 |  | Caribe, La Guaira | Registro de emergencia | dolor |
+| Periférico de Catia | Garces Miguel | 28 |  |  | Trauma (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
+| Periférico de Catia | Garces Rosa Ángel | 32 |  |  | Trauma (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
 | Periférico de Catia | Garcia Yenny |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Periférico de Catia | Geecon Jhon (?) | 42 |  |  | Medicina (?) (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
 | Periférico de Catia | Georrin Valella | 22 | 30114918 |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Cirugía General |
 | Periférico de Catia | Gisbet Peña | 51 |  | Casalta + sector Rio | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Periférico de Catia | Gonnez Sevillay | 32 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Papa |
@@ -1789,8 +1890,10 @@
 | Periférico de Catia | González Anderson | 3 |  | La Silsa (?) | Registro de emergencia | caída |
 | Periférico de Catia | Gonzalez Yaneska | 40 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Cirugía/Trauma – La Guaira |
 | Periférico de Catia | Gordofón Gonzalez |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Periférico de Catia | Greisy Oropeza | 20 |  |  | Trauma (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
 | Periférico de Catia | Greyli Oropeza (?) | 24 |  | — | Registro de emergencia | caída |
 | Periférico de Catia | Greysi Oropoza | 20 |  | La Guaira detras | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · TRM |
+| Periférico de Catia | Guillen Mariana | 6 |  |  | Pediatría (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
 | Periférico de Catia | Gustavo Ávila (?) | 72 |  | Cañada 23 de Enero | Registro de emergencia | caída |
 | Periférico de Catia | Gustavo Avile | 52 |  | La Guaira | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · TRM |
 | Periférico de Catia | Gustavo Mayores | 52 | 116438410 | Sin información | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Cirugía General |
@@ -1800,27 +1903,40 @@
 | Periférico de Catia | Harienz Neiber | 24 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Sola |
 | Periférico de Catia | Helinsson Aquino |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Periférico de Catia | Herlane López | 68 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Fío / Caída 6:58 |
+| Periférico de Catia | Hernals Aranza | 11 |  |  | Pediatría (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
 | Periférico de Catia | Hernández Yamileth | 61 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Cirugía/Trauma |
 | Periférico de Catia | Hero Marcela (?) | 41 |  | — | Registro de emergencia | acc. moto |
 | Periférico de Catia | Hiangely Nieto | 18 |  | Caraballeda, La Guaira | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · TRM |
+| Periférico de Catia | Hillali Rodríguez | 31 | 23710358 | Caracas: Catia | Hospitalización Mujeres | Fuente: Drive SISMO_1554 26JUN26 |
 | Periférico de Catia | Hriangely Nieto (?) | 26 |  | La Quebrada | Registro de emergencia | cara (?) |
 | Periférico de Catia | Ibarra Ana |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Periférico de Catia | Ingrid Lopez | 58 | 105288780 | Sin información | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Cirugía / Trauma |
+| Periférico de Catia | Iván Mendieta | 65 |  |  | Hospitalización Masculinos | Fuente: Drive SISMO_1554 26JUN26 |
 | Periférico de Catia | Jaimez Rubén Darío | 74 | 6433372 |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Cirugía General |
+| Periférico de Catia | Janeht Seville | 49 |  |  | Trauma (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
 | Periférico de Catia | Jesel John | 49 | 13827925 |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Cirugía/Trauma |
+| Periférico de Catia | Jesús Orozco | 63 | 8178191 | La Guaira: Sumba | Traumatología Masculino | Fuente: Drive SISMO_1554 26JUN26 |
 | Periférico de Catia | Jesús Vegas | 20 |  | Playa Grande | Registro de emergencia | caída |
 | Periférico de Catia | Jhnnson Esteban | 20 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Pareja |
 | Periférico de Catia | Jhon Gessen | 47 | 138279250 | Sin información | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Cirugía General |
 | Periférico de Catia | Jhonson Esteban | 52 |  | La Guaira, Maiquetía | Registro de emergencia | caída |
 | Periférico de Catia | Jhonson Steban | 24 |  | Playa Grande | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · TRM |
+| Periférico de Catia | José Agre | 49 |  |  | Trauma (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
 | Periférico de Catia | Jose Alarcon | 47 | 135153640 | Ciudad Caribe | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Sin información |
+| Periférico de Catia | José Archeta |  |  |  | Trauma Shock | Fuente: Drive SISMO_1554 26JUN26 |
+| Periférico de Catia | José Arvojo |  |  |  | Trauma Shock | Fuente: Drive SISMO_1554 26JUN26 |
 | Periférico de Catia | Jose Coffair | 69 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Prepa |
 | Periférico de Catia | José Cordero | 28 |  | Alta Vista | Registro de emergencia | caída |
+| Periférico de Catia | José Márquez |  |  |  | Trauma Shock | Fuente: Drive SISMO_1554 26JUN26 |
 | Periférico de Catia | Karle Jean | 54 |  | Casalta, bloque 10 | Registro de emergencia | caída |
+| Periférico de Catia | Kenic Núñez | 40 |  |  | Trauma (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
 | Periférico de Catia | Lama Daniela | 3 |  | 3er plan de la Selva | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Hijo / Caída 6:57 |
 | Periférico de Catia | Lapez Neiber | 34 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Sola |
 | Periférico de Catia | Lemus Dilcia | 54 | 13531664 |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Cirugía General |
+| Periférico de Catia | Lemus Dilsia | 49 |  |  | Trauma (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
+| Periférico de Catia | León Karles | 49 |  |  | Trauma (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
 | Periférico de Catia | Leonardo Machado | 28 | 258785560 | La Pastora | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Sin información |
+| Periférico de Catia | Lisman Quintana | 3 |  |  | Trauma (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
 | Periférico de Catia | Lismar Quintan (?) | 69 |  | Gramoven (?) | Registro de emergencia | caída |
 | Periférico de Catia | Lismen Quintan | 68 |  | Gramoven Nuevo H. | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Periférico de Catia | López Marioly | 44 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Fractura de propina / Sola / Golpe 3:50 |
@@ -1832,6 +1948,7 @@
 | Periférico de Catia | Lopos Ingrid | 38 | 10528878 |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Cirugía/Trauma |
 | Periférico de Catia | Luisangely Zapata | 28 |  | Carayaca, B.N. | Registro de emergencia |  |
 | Periférico de Catia | Luisangelys Zapata | 20 | 329722370 | Sin información | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Cirugía General |
+| Periférico de Catia | Luisanyeli Zapata | 20 | 31962237 | Caracas: El Atillo | Ingresados Piso de Cirugía | Fuente: Drive SISMO_1554 26JUN26 |
 | Periférico de Catia | Maa Gonzalez | 67 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Solo |
 | Periférico de Catia | Madden Yaletzy | 45 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Sola |
 | Periférico de Catia | Madno Valketz | 44 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Sola |
@@ -1843,6 +1960,7 @@
 | Periférico de Catia | Maria Habana | 50 |  | Caracas, La Guaira | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Emerg. TRM |
 | Periférico de Catia | María Jabana (?) | 50 |  | Caracas–La Guaira | Registro de emergencia | caída |
 | Periférico de Catia | Maria Valenta | 49 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Solo |
+| Periférico de Catia | María Yobana | 50 |  |  | Trauma (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
 | Periférico de Catia | Maria Zabala | 69 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Solo |
 | Periférico de Catia | Maria Zaben | 69 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Solo |
 | Periférico de Catia | Marian López | 46 | 138537330 | Sin información | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Cirugía General |
@@ -1852,13 +1970,18 @@
 | Periférico de Catia | Marisol Colmenares | 40 | 189156760 | Caracas | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Sin información |
 | Periférico de Catia | Marlene Teran (?) | 22 |  | La Silsa (?) | Registro de emergencia | caída |
 | Periférico de Catia | Martínez Yamilith | 30 |  | Se. Grativia | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Amiga / Caída 7:46 |
+| Periférico de Catia | Marx Yépez | 30 |  |  | Cirugía (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
 | Periférico de Catia | Mary Durán | 17 |  | Ciudad Tiuna | Registro de emergencia | caída |
 | Periférico de Catia | Mary Durón | 36 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Ciudad lumba torácica / Sola / Caída 2:36 |
 | Periférico de Catia | Mary Yepes | 37 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Solo |
 | Periférico de Catia | Mary Yépez | 30 |  | Magallanes (?) | Registro de emergencia | salud (?) |
+| Periférico de Catia | Materan Valeri | 7 |  |  | Pediatría (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
+| Periférico de Catia | Mato Carlos | 26 |  |  | Trauma (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
 | Periférico de Catia | Mavar Heiverson | 15 |  | Los Frailes de Cata #18 C/ Carmen | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Periférico de Catia | Mayor Henderson | 15 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Les. puncta de ante #18 / Mamá / Caída 3:47 |
 | Periférico de Catia | Mayora Gustavo | 52 | 11643841 |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Cirugía General |
+| Periférico de Catia | Medina Nelson | 49 |  |  | Trauma (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
+| Periférico de Catia | Mejía Yánez | 40 |  |  | Trauma Shock (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
 | Periférico de Catia | Mendoza Reina | 62 | 6887465 |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Cirugía General |
 | Periférico de Catia | Menis Nuñez | 34 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Amiga |
 | Periférico de Catia | Mero Mariela | 44 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Sola |
@@ -1866,16 +1989,20 @@
 | Periférico de Catia | Michel Rivera | 25 | 295919630 | La Guaira | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Sin información |
 | Periférico de Catia | Miguel Anez | 57 | 100734290 | Sin información | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Emergencia |
 | Periférico de Catia | Milagros Jiménez | 45 |  | Los Frailes | Registro de emergencia | caída |
+| Periférico de Catia | Milagros Limares | 45 |  |  | Trauma (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
 | Periférico de Catia | Millán Soilet | 39 | 18142695 |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Cirugía General |
+| Periférico de Catia | Mora Hilari | 13 |  |  | Trauma (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
 | Periférico de Catia | Mora Kimberly | 34 | 24331288 |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Cirugía/Trauma |
 | Periférico de Catia | Moren Duran | 70 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Hija |
 | Periférico de Catia | Moreno Yader | 24 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · B/edemat guiñat morita / Mamá / Caída 2:56 |
 | Periférico de Catia | Moreno Yorber | 70 |  | B/ Federico Quiroz (?) | Registro de emergencia | caída |
+| Periférico de Catia | Muñoz Alfredo | 62 |  |  | MI (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
 | Periférico de Catia | Nazar Heiverson (?) | 44 |  | Brisas de Propatria (?) | Registro de emergencia | caída |
 | Periférico de Catia | Nelson Hedaine (?) | 49 |  | Calle Caribe | Registro de emergencia | caída |
 | Periférico de Catia | Nelson Nadine | 49 |  | Calle Caribe, Japon | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · TRM |
 | Periférico de Catia | Nelsor Zabala | 49 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Ajenas |
 | Periférico de Catia | Niangel Nieto | 18 | 319620870 | Sin información | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Cirugía General |
+| Periférico de Catia | Nieto Milanger | 18 |  |  | Trauma (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
 | Periférico de Catia | Nuñez Maria | 40 |  | La Guaira, La Coca | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · TRM |
 | Periférico de Catia | Ojelita Galbán (?) | 46 |  | — | Registro de emergencia | caída |
 | Periférico de Catia | Olga Ramírez | 70 | 51396010 | Sin información | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Emergencia |
@@ -1889,11 +2016,13 @@
 | Periférico de Catia | Pastono Gyamily | 32 |  | Escalipto San Blas | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Papá / Caída 7:20 |
 | Periférico de Catia | Patina Kendila | 31 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Sola |
 | Periférico de Catia | Patina Kendille | 29 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Sola |
+| Periférico de Catia | Patricia Mondiole | 51 |  |  | Trauma (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
 | Periférico de Catia | Patricia Vendible | 65 |  | Calle Sanguden | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Periférico de Catia | Patruc... Sondiole (?) | 51 |  | Calle parcelas (?) | Registro de emergencia | caída |
 | Periférico de Catia | Pena Yohsen | 51 |  | Magallanes | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Solo / Caída 7:56 |
 | Periférico de Catia | Perdomo Joinly / Perdomo Yoiny | 31 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Esposa/Sola |
 | Periférico de Catia | Perdomo Sevillay | 31 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Sola |
+| Periférico de Catia | Perdomo Yoiner | 32 |  |  | Trauma (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
 | Periférico de Catia | Perdomo Yoiny (?) | 32 |  | Eucalipto, San Martín (?) | Registro de emergencia | caída |
 | Periférico de Catia | Pereira Villamizar Maria Isabel | 8 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Cirugía General |
 | Periférico de Catia | Pereira Villamizar María Isabella | 8 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Cirugía General |
@@ -1901,22 +2030,30 @@
 | Periférico de Catia | Perez Genez | 45 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Hermana |
 | Periférico de Catia | Perez Nenez | 67 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Solo |
 | Periférico de Catia | Perez Pena | 67 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Solo |
+| Periférico de Catia | Pestana Vargas Madelin | 35 |  |  | Trauma (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
 | Periférico de Catia | Pestano Margaret | 45 | 19915985 |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Cirugía General |
+| Periférico de Catia | Petra Piñate |  |  |  | Trauma Shock | Fuente: Drive SISMO_1554 26JUN26 |
 | Periférico de Catia | Pico Díaz Jenny | 52 |  | La Guaira | Registro de emergencia | caída |
+| Periférico de Catia | Pico Yenny | 54 |  |  | Trauma (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
 | Periférico de Catia | Plana Bamby (?) |  |  | Caribe | Registro de emergencia | oreja (?) |
 | Periférico de Catia | Planas José | 52 | 12163470 |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Cirugía General |
+| Periférico de Catia | Plane Bemb (?) | 52 |  |  | Trauma (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
 | Periférico de Catia | Plata Benito | 52 |  | Carayaca | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · TRM |
 | Periférico de Catia | Quetoy Ysabel | 36 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Esposa / Her. cuta 8l / Caída 7:14 |
 | Periférico de Catia | Renic Núñez (?) | 54 |  | Federico Quiroz (?) | Registro de emergencia | caída |
 | Periférico de Catia | Reyes Mary | 40 |  | La Guaira, Lo Coco | Registro de emergencia | caída |
 | Periférico de Catia | Rio Duques Miguel | 56 | 10073429 |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Cirugía/Trauma |
 | Periférico de Catia | Rivas Mary | 30 |  | La Cortada de Calle | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Esposa / Caída 7:50 |
+| Periférico de Catia | Rivero Eduyelis | 6 |  |  | Trauma (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
 | Periférico de Catia | Rodríguez Cindy | 21 |  | La Vega, Los Mangos (?) | Registro de emergencia | dolor abdominal (?) |
+| Periférico de Catia | Rodríguez Miguel | 56 |  |  | Trauma (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
 | Periférico de Catia | Rodriguez Pindihole | 51 |  | Calle Principal | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 |
 | Periférico de Catia | Rodríguez Pindiole | 51 |  | Calle Principal | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Sola / Caída 7:28 |
 | Periférico de Catia | Rodríguez Sanelly | 12 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Contusion h. guaro / Sola / Consulta 3:46 |
 | Periférico de Catia | Rodríguez Sanely | 15 |  | Los Frailes (?) | Registro de emergencia | golpe (?) |
 | Periférico de Catia | Roomel Reina | 30 |  | Santa Maria, Aragua | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · H.I |
+| Periférico de Catia | Rosa Garce | 31 | 20604161 | La Guaira: Playa Grande | Traumatología Femenino | Fuente: Drive SISMO_1554 26JUN26 |
+| Periférico de Catia | Roshel Nievez | 30 |  |  | Trauma (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
 | Periférico de Catia | Rosmel Majia | 17 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Solo |
 | Periférico de Catia | Rubén Dario Giménez | 64 | 64333720 | Sin información | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Cirugía General |
 | Periférico de Catia | Salazar Canciles | 30 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Sola |
@@ -1926,13 +2063,17 @@
 | Periférico de Catia | Sánchez María | 30 |  | — | Registro de emergencia | quemada (?) |
 | Periférico de Catia | Seeisangely Zapata | 20 |  | La Guaira, Maiquetia | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · TRM |
 | Periférico de Catia | Semeria Irllis | 49 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Cirugía General |
+| Periférico de Catia | Silvera Leoneidy | 30 |  |  | Trauma Shock (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
 | Periférico de Catia | Simón Contreras | 64 | 56855190 | Sin información | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Cirugía General |
 | Periférico de Catia | Sivira Leoneidy | 30 | 25175345 |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Cirugía General |
+| Periférico de Catia | Sofía López | 15 |  | La Guaira: Caribe | Pediatría | Fuente: Drive SISMO_1554 26JUN26 |
 | Periférico de Catia | Solazar Carolina | 6 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Periférico de Catia | Sorislet Millán | 39 | 181426950 | Sin información | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Cirugía General |
+| Periférico de Catia | Soya Estefania | 14 |  |  | Trauma (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
 | Periférico de Catia | Spinola Kelly | 38 | 17482090 |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Cirugía General |
 | Periférico de Catia | Tania Terán | 55 | 114099970 | Sin información | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Cirugía General |
 | Periférico de Catia | Terán Audia | 54 | 11055173 |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Cirugía General |
+| Periférico de Catia | Terán Ezequiel | 15 |  |  | MI (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
 | Periférico de Catia | Terán Tenía | 55 | 11409997 |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Cirugía General |
 | Periférico de Catia | Torrealba Nuvia |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Periférico de Catia | Tortoso Oscar | 37 | 20558047 |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Cirugía General |
@@ -1942,22 +2083,34 @@
 | Periférico de Catia | Valencia Elix / Valencia Flix | 43 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Traumat. facial + Trauma temporal / Sola / Patín 3:25 |
 | Periférico de Catia | Valencia Flix | 22 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Sola |
 | Periférico de Catia | Valencia Heiverton | 44 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Sola |
+| Periférico de Catia | Valeri López | 12 |  | La Guaira: Caribe | Pediatría | Fuente: Drive SISMO_1554 26JUN26 |
 | Periférico de Catia | Vegas Jenco | 14 | 34273706 |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Cirugía/Trauma |
+| Periférico de Catia | Villamizar Abdalis | 28 |  |  | Trauma (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
 | Periférico de Catia | Villamizar Abdaly |  |  | — | Registro de emergencia |  |
 | Periférico de Catia | Villamizar Aboaly / Villamizar Abdaly | 48 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Esposo |
+| Periférico de Catia | Villamizar Reino |  |  |  | Trauma (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
 | Periférico de Catia | Yacher Nancy Durán |  |  | Ciudad Nueva Torre | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Periférico de Catia | Yanes Silvia | 77 | 3557870 |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Cirugía General |
 | Periférico de Catia | Yaritza Cavargas | 54 | 111662370 | Sin información | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Cirugía General |
 | Periférico de Catia | Yarlys Contreras |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Periférico de Catia | Yeison Blanco | 17 |  | La Guaira | Ingresados Piso de Cirugía | Fuente: Drive SISMO_1554 26JUN26 |
+| Periférico de Catia | Yeleny Chirino | 58 | 12389975 | La Guaira: Playa Grande | Traumatología en Pasillo | Fuente: Drive SISMO_1554 26JUN26 |
 | Periférico de Catia | Yelitza Caffarin | 46 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · TRM |
 | Periférico de Catia | Yenic Suarez | 40 |  | Calle Real A. Ruiz | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · TRM |
 | Periférico de Catia | Yenny Sevilla (?) | 36 |  | Blandín (?) | Registro de emergencia | caída |
 | Periférico de Catia | Yohan Peña (?) | 51 |  | Caribe, Soternio (?) | Registro de emergencia | caída |
+| Periférico de Catia | Yolitza Sarfonia | 46 |  |  | Trauma (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
 | Periférico de Catia | Yonson Esteben | 24 | 295717330 | Sin información | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Cirugía General |
+| Periférico de Catia | Yorber Peña | 36 |  |  | Cirugía (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
 | Periférico de Catia | Yorimar Cortez | 58 | 63409910 | Sin información | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Cirugía General |
 | Periférico de Catia | Yulibeth Martínez (?) | 30 |  | La cortada de Catia (?) | Registro de emergencia | caída |
+| Periférico de Catia | Yurbely Martins | 6 |  |  | Pediatría (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
 | Periférico de Catia | Yurmis González | 47 | 138285450 | Sin información | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Cirugía General |
 | Periférico de Catia | Yuskeli Martinez | 30 |  | La Cortada de Cata | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
+| Periférico de Catia | Zacaria Alexis | 51 |  |  | Trauma (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
+| Periférico de Catia | Zalazar Caroline |  |  |  | Trauma (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
+| Periférico de Catia | Zapata Luisangelis | 20 |  |  | Trauma (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
+| Periférico de Catia | Zaya Estefania | 14 |  |  | Cirugía (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
 | Periférico de Catia | Zealario Alexis |  |  | Carabilla + Sector Río | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Rescatados — Alcaldía de Chacao (Los Palos Grandes / Bellocampo) | Albimar González (?) |  |  | Los Palos Grandes / Bellocampo | Rescatado | transcripción incierta |
 | Rescatados — Alcaldía de Chacao (Los Palos Grandes / Bellocampo) | Andrés Legorburu Martínez Sánchez (?) |  |  | Los Palos Grandes / Bellocampo | Rescatado | posible aclaración del nombre completo del anterior |
@@ -3480,3 +3633,4 @@
 - **Actualización 26JUN26 (Consolidado dropbox):** del Excel maestro 26JUN (2.257) se añadieron las **882 no repetidas** (dedup por cédula global y por nombre dentro de cada hospital). «General del Oeste» y «José Gregorio Hernández» se tratan como el mismo centro; «José María Vargas – La Guaira» se unió al grupo Vargas (La Guaira); se creó el grupo nuevo **Seguro Social La Guaira**.
 - **Actualización 26JUN26 (Pérez Carreño):** de las 236 personas de las listas del 26/06 se añadieron las **205 no repetidas** (dedup por nombre dentro del hospital).
 - **Actualización 26JUN26 15:12:** del Excel maestro (2.743) se añadieron las **681 no repetidas** (dedup por cédula global y nombre por hospital). Grupo nuevo: Centro de Acopio Caraballeda.
+- **Actualización 26JUN26 (SISMO_1554):** se añadieron las **151 no repetidas** de Catia/Ricardo Baquero (con cédula), Pérez Carreño Trauma Shock (1 fallecido: Marco Reina) y Luciani 26/06.
