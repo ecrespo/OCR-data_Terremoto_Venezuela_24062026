@@ -18,27 +18,30 @@
 
 > 🆕 **Actualización 26JUN26 (Pérez Carreño, listas de pared del 26/06):** se añadieron **205 personas nuevas** (219 del listado general + 17 de emergencia pediátrica; no repetidas). Llevan «Fuente: Hosp. Pérez Carreño 26JUN26» en Nota.
 
+> 🆕 **Actualización 26JUN26 15:12 (Consolidado oficial):** se integraron **681 personas nuevas** del Excel maestro (2.743 registros, 16 centros; nuevos: Ricardo Baquero González y **Centro de Acopio Caraballeda**). Deduplicadas por cédula y nombre. Llevan «Fuente: Consolidado 26JUN26 15:12» en Nota.
+
 ## Resumen
 
 | Hospital / Área | Personas (únicas) | De ellas, nuevas (UCV) |
 | --- | ---: | ---: |
-| Hosp. José Gregorio Hernández (Magallanes) | 41 | 2 |
-| Hosp. Gral. Dr. José María Vargas (La Guaira) | 314 | 0 |
-| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | 506 | 6 |
-| Hosp. Dr. Domingo Luciani (Llanito) | 424 | 139 |
-| Periférico de Catia | 240 | 66 |
+| Hosp. José Gregorio Hernández (Magallanes) | 51 | 2 |
+| Hosp. Gral. Dr. José María Vargas (La Guaira) | 368 | 0 |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | 705 | 6 |
+| Hosp. Dr. Domingo Luciani (Llanito) | 544 | 139 |
+| Periférico de Catia | 244 | 66 |
 | Rescatados — Alcaldía de Chacao (Los Palos Grandes / Bellocampo) | 17 | 0 |
-| Hosp. Universitario de Caracas (UCV) | 106 | 102 |
-| Hosp. Vargas de Caracas | 262 | 122 |
+| Hosp. Universitario de Caracas (UCV) | 115 | 102 |
+| Hosp. Vargas de Caracas | 290 | 122 |
 | Hosp. Militar Univ. Dr. Carlos Arvelo | 138 | 137 |
-| Cruz Roja (Caracas) | 30 | 27 |
-| Hosp. Ana Francisca Pérez de León II | 41 | 22 |
-| Clínica El Ávila | 36 | 34 |
+| Cruz Roja (Caracas) | 33 | 27 |
+| Hosp. Ana Francisca Pérez de León II | 58 | 22 |
+| Clínica El Ávila | 37 | 34 |
 | Hosp. Dr. Ricardo Baquero González | 6 | 0 |
 | Hospital J.M. de los Ríos (Niños) | 2 | 0 |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | 445 | 0 |
 | Seguro Social La Guaira (IVSS) | 129 | 0 |
-| **TOTAL** | **2737** | **657** |
+| Centro de Acopio Caraballeda | 236 | 0 |
+| **TOTAL** | **3418** | **657** |
 
 ## Listado consolidado
 
@@ -48,15 +51,18 @@
 | Hosp. José Gregorio Hernández (Magallanes) | Álvarez Maikeli |  | 300454425 | La Guaira | Reporte pacientes atendidos | Politraumatismo |
 | Hosp. José Gregorio Hernández (Magallanes) | Alvarez Rosa | 70 |  | Catia | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. José Gregorio Hernández (Magallanes) | Andres Bekela | 53 | 11201504 | Catia | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
+| Hosp. José Gregorio Hernández (Magallanes) | Aranguren Ymaiker | 21 |  | Los Corales | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 |
 | Hosp. José Gregorio Hernández (Magallanes) | Aranguren Yonaiker | 21 |  | Los Corales | Reporte pacientes atendidos | Politraumatismos |
 | Hosp. José Gregorio Hernández (Magallanes) | Arcear Reines | 22 | 30282613 | Catia | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. José Gregorio Hernández (Magallanes) | Arrieta José | 45 | 15720959 | Catia La Mar | Reporte pacientes atendidos | Fractura de fémur |
 | Hosp. José Gregorio Hernández (Magallanes) | Bermúdez Génesis | 33 | 20925605 | La Guaira | Reporte pacientes atendidos | Fractura de miembros inferiores |
 | Hosp. José Gregorio Hernández (Magallanes) | Cantero Tunilda | 41 | 34316929 | Catia | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. José Gregorio Hernández (Magallanes) | Carrillo Jose | 52 | 48815362 | Gramoven | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
+| Hosp. José Gregorio Hernández (Magallanes) | Castro Yulianyel | 7 | 27116321 |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. José Gregorio Hernández (Magallanes) | Costanda Cataleya | 2 | 4856810 | Propatria | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. José Gregorio Hernández (Magallanes) | Daren Elianyelis | 15 |  | Maiquetía | Reporte pacientes atendidos | Contusión craneal |
 | Hosp. José Gregorio Hernández (Magallanes) | Duison Maria | 85 | 3323366 | Catia BIPI | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
+| Hosp. José Gregorio Hernández (Magallanes) | Escora Tulio | 17 | 33037605 |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. José Gregorio Hernández (Magallanes) | Genire Eliangelis |  | 33916827 | Maiquetía | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. José Gregorio Hernández (Magallanes) | Gil Michel | 22 | 30091537 | Playa Grande | Reporte pacientes atendidos |  |
 | Hosp. José Gregorio Hernández (Magallanes) | Gil Michelle |  | 30041537 | Playa Grande | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
@@ -67,11 +73,17 @@
 | Hosp. José Gregorio Hernández (Magallanes) | Hosco Uramaika | 58 | 7990728 | La Guaira | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. José Gregorio Hernández (Magallanes) | Infante Jaimes | 59 | 6261045 | Catia La Mar | Reporte pacientes atendidos | Politraumatismos |
 | Hosp. José Gregorio Hernández (Magallanes) | Jimenez Hidrel | 29 | 26219522 | Catia | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
+| Hosp. José Gregorio Hernández (Magallanes) | Jimenez Luis Jose | 47 | 13044965 |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado; Politraumatismo |
 | Hosp. José Gregorio Hernández (Magallanes) | Juices Erick | 27 | 27225952 | Caribe | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. José Gregorio Hernández (Magallanes) | Juices Ericka | 19 | 31995463 | Caribe | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
+| Hosp. José Gregorio Hernández (Magallanes) | Marquez Gabriel | 65 | 10535710 |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. José Gregorio Hernández (Magallanes) | Mata Yoalbert | 7 |  | Playa Grande | Reporte pacientes atendidos | Traumatismo facial |
+| Hosp. José Gregorio Hernández (Magallanes) | Maza Galpan | 30 | 20779273 |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. José Gregorio Hernández (Magallanes) | Morales Zulema | 55 | 10627590 | Catia | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
+| Hosp. José Gregorio Hernández (Magallanes) | Moreno Erasmo | 50 | 12232756 |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado; Politraumatismo |
+| Hosp. José Gregorio Hernández (Magallanes) | Moreno Samuel | 19 | 31656173 |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. José Gregorio Hernández (Magallanes) | Palmero Salvani | 68 | 25601129 | Catia | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
+| Hosp. José Gregorio Hernández (Magallanes) | Parra Eleanyelis | 15 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado; Contusión Craneal |
 | Hosp. José Gregorio Hernández (Magallanes) | Pera Carlos | 47 | 18822791 | Catia | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. José Gregorio Hernández (Magallanes) | Pérez Ambar | 28 | 25964449 | Guarenas | Reporte pacientes atendidos | Traumatismo tobillo |
 | Hosp. José Gregorio Hernández (Magallanes) | Puezo Juan | 31 | 23565571 | La Guaira | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
@@ -83,6 +95,7 @@
 | Hosp. José Gregorio Hernández (Magallanes) | Rondon Tuhanne | 43 | 17116373 | Catia | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. José Gregorio Hernández (Magallanes) | Torres Peña Yenny Damaris |  | 15834314 | Ciudad Caribe | Reporte pacientes atendidos | Politraumatismos - TX toraco abdominal no complicado |
 | Hosp. José Gregorio Hernández (Magallanes) | Tovar Samuel | 13 | 35010914 | Ciudad Caribe | Reporte pacientes atendidos | Politraumatismo |
+| Hosp. José Gregorio Hernández (Magallanes) | Urdaneta Alexander | 37 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado; Traumatismo Rodilla y Hombro |
 | Hosp. José Gregorio Hernández (Magallanes) | Uruchuto Alexander | 37 |  |  | Reporte pacientes atendidos | Traumatismo de rodilla y hombro |
 | Hosp. José Gregorio Hernández (Magallanes) | Zapata Carmen | 66 | 6856684 | Mare II | Reporte pacientes atendidos | Fractura de fémur |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Abedario Beatriz |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
@@ -98,6 +111,7 @@
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Alkelis Moron | 50 |  | Caribe | Lista pacientes atendidos |  |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Alquile Moron | 50 |  | Caribe | Lista pacientes atendidos |  |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Alvarez Abraham |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
+| Hosp. Gral. Dr. José María Vargas (La Guaira) | Alvarez Josue | 42 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Amira Turmani |  |  | Caraballeda | Lista pacientes atendidos |  |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Ana Lucia Hilda | 4 |  | Caraballeda | Lista pacientes atendidos |  |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Ana Pis |  |  |  | Lista pacientes atendidos |  |
@@ -127,6 +141,7 @@
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Axeil Jimenez | 4 |  | Los Corales | Lista pacientes atendidos |  |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Axel Jimenez | 30 |  | Los Corales | Lista pacientes atendidos |  |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Azunta Eudri |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
+| Hosp. Gral. Dr. José María Vargas (La Guaira) | Badillo Yoselis |  |  | Tanaguarena | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Barrios Katon |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Belen Quintero |  | 20560037 | Bowling | Lista pacientes atendidos |  |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Bello Jose Lin |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
@@ -137,7 +152,9 @@
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Bolivar Blanco |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Brandon Aranna |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Brito Samuel |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
+| Hosp. Gral. Dr. José María Vargas (La Guaira) | Cabarga Yendelis | 17 | 32273006 |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Cabrera Lucrecia |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
+| Hosp. Gral. Dr. José María Vargas (La Guaira) | Camacaro Junio | 26 |  | Naiguata | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Camacho Junior | 26 |  | Naiguata | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Camila Picardo | 16 | 33218403 | Caribe | Lista pacientes atendidos |  |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Cano Rodrigo |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
@@ -148,8 +165,13 @@
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Carrasquelo Santiago |  | 63337677 | Los Corales | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Carrillo Mirian |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Caumacora Nathielis |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
+| Hosp. Gral. Dr. José María Vargas (La Guaira) | Cedeno Frinedys |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Charlis Cordero |  | 19122329 | Punta de Mulatos | Lista pacientes atendidos |  |
+| Hosp. Gral. Dr. José María Vargas (La Guaira) | Cinate Jacinta |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado; Fallecio |
+| Hosp. Gral. Dr. José María Vargas (La Guaira) | Colo Rodrigo |  | 29910694 | Naiguata | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Cordero Charles |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
+| Hosp. Gral. Dr. José María Vargas (La Guaira) | Cordero Dayana |  | 17434972 |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Hosp. Gral. Dr. José María Vargas (La Guaira) | Coronel Josnel |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Corro Yonaly |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Cristian Ortega | 18 |  | Oppe 33 | Lista pacientes atendidos |  |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Cuma Ruth |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
@@ -166,6 +188,7 @@
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Dioneisis Gonzalez | 36 | 18757095 | Caraballeda | Lista pacientes atendidos |  |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Disnemelia |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Dominguez Anzul |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
+| Hosp. Gral. Dr. José María Vargas (La Guaira) | Dorante Eric / Dorante Erick | 13 |  | Tanaguarena | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Douglas Merra | 47 | 13526796 | Caribe | Lista pacientes atendidos |  |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Duran Darwin |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Eduar Orama |  |  | Tanaguarena | Lista pacientes atendidos |  |
@@ -175,6 +198,7 @@
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Elia Luna | 16 |  | Los Corales | Lista pacientes atendidos |  |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Elias Toro |  | 32304284 | Caribe | Lista pacientes atendidos |  |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Endy Millano | 11 |  |  | Lista pacientes atendidos |  |
+| Hosp. Gral. Dr. José María Vargas (La Guaira) | Enrique Gisela | 48 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Enrique Sanchez | 84 | 3147495 | Caribe | Lista pacientes atendidos |  |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Eric Dorante | 13 |  | Tanaguarena | Lista pacientes atendidos |  |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Erik Salazar | 45 |  | Caribe | Lista pacientes atendidos |  |
@@ -187,8 +211,10 @@
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Farias Aurimar |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Felix Ramos |  | 13816060 | Corapal | Lista pacientes atendidos |  |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Fernandez Eifer |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
+| Hosp. Gral. Dr. José María Vargas (La Guaira) | Fernandez Heyder |  | 33594902 |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Fernandez Yeraldin |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Figueroa Paola |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
+| Hosp. Gral. Dr. José María Vargas (La Guaira) | Frontedos Mielraine |  |  | Playa Grande | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Galvin Nelson |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Galvis Maria |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Garcia Ana |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
@@ -201,22 +227,36 @@
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Genyelis Arena | 7 |  | Oppe 27 | Lista pacientes atendidos |  |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Geraldine Fernandez |  | 18975095 | Los Corales | Lista pacientes atendidos |  |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Gomez Luisana |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
+| Hosp. Gral. Dr. José María Vargas (La Guaira) | Gonzales Abraham |  |  | Caribe | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 |
+| Hosp. Gral. Dr. José María Vargas (La Guaira) | Gonzales Diyoneisis | 36 | 18756570 | Caraballeda | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Gonzales Estefani |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
+| Hosp. Gral. Dr. José María Vargas (La Guaira) | Gonzales Evangelina |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Hosp. Gral. Dr. José María Vargas (La Guaira) | Gonzales Mariela |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Hosp. Gral. Dr. José María Vargas (La Guaira) | Gonzales Rosis | 41 |  | Caribe | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 |
+| Hosp. Gral. Dr. José María Vargas (La Guaira) | Gonzales Vanesa |  |  | Aeropuerto | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 |
+| Hosp. Gral. Dr. José María Vargas (La Guaira) | Gonzales Wiston |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Gonzalez Alexandra |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Gonzalez Sebastiam |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Guedez Amarily |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
+| Hosp. Gral. Dr. José María Vargas (La Guaira) | Guerra Evelyn | 39 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Guerrero Victoria |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Gumenez Cristiam |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Gustavo Rincon |  |  | Caribe | Lista pacientes atendidos |  |
+| Hosp. Gral. Dr. José María Vargas (La Guaira) | Gutierrez Lilibe |  |  | Caribe | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Hector Avila |  | 17965775 | La Llanada | Lista pacientes atendidos |  |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Hellen Salazar |  | 29815405 | Caribe | Lista pacientes atendidos |  |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Hermosa Ortega |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Hernandez Lionel |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
+| Hosp. Gral. Dr. José María Vargas (La Guaira) | Hernandez Maria |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Hosp. Gral. Dr. José María Vargas (La Guaira) | Hernandez Maritza |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Hosp. Gral. Dr. José María Vargas (La Guaira) | Hernandez Marixa | 70 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Hernesto Moyer |  | 13223654 |  | Lista pacientes atendidos |  |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Herrera Maria |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
+| Hosp. Gral. Dr. José María Vargas (La Guaira) | Herrera Romero Antonio | 83 |  | Macuto | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Heydera Fernandez |  | 33594982 | Caribe | Lista pacientes atendidos |  |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Ibarra Yorvin |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Iliana Pez |  | 32106940 | Playa Grande | Lista pacientes atendidos |  |
+| Hosp. Gral. Dr. José María Vargas (La Guaira) | Iriarte Gustavo |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Jenifer Lizcano |  | 13827306 | Maiquetia | Lista pacientes atendidos |  |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Jenny Mignore |  |  | Tanaguarena | Lista pacientes atendidos |  |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Jenny Ramirez |  | 12717464 | Caribe | Lista pacientes atendidos |  |
@@ -241,13 +281,16 @@
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Junior Camacaro | 26 |  | Naiguata | Lista pacientes atendidos |  |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Kembelis Ugueto | 38 |  | Los Corales | Lista pacientes atendidos |  |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Kervi Gonzalez |  | 29665230 | Playa Grande | Lista pacientes atendidos |  |
+| Hosp. Gral. Dr. José María Vargas (La Guaira) | Landaeta Argemis | 21 |  | Caribe | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Landaeta Argenis | 21 |  | Caribe | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Larry Rosales |  | 20560612 | Tanaguarena | Lista pacientes atendidos |  |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Lavorca Wilmer |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
+| Hosp. Gral. Dr. José María Vargas (La Guaira) | Leon Manuel |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Liendo Jose |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Lilibeth Gutierrez | 43 |  | Caribe | Lista pacientes atendidos |  |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Lisbeth Jaimes | 48 |  | Caribe | Lista pacientes atendidos |  |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Liss Pacheco |  | 11406862 | Caribe | Lista pacientes atendidos |  |
+| Hosp. Gral. Dr. José María Vargas (La Guaira) | Lopez Hagadi |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Lopez Juan |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Lopez Tairy |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Luis Reboredo | 57 |  | Caribe | Lista pacientes atendidos |  |
@@ -255,6 +298,7 @@
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Luna Eylin |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Maigualidad Iriarte |  | 11058667 | Oppe 27 | Lista pacientes atendidos |  |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Maikal Torrealba |  |  | Brisas del Aeropuerto | Lista pacientes atendidos |  |
+| Hosp. Gral. Dr. José María Vargas (La Guaira) | Malave Xiomara |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Manuelis |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Maria Falcon | 18 |  | Caribe | Lista pacientes atendidos |  |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Maria Ugas |  | 11966827 | Playa Grande | Lista pacientes atendidos |  |
@@ -281,9 +325,12 @@
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Mirla Pacheco | 69 |  |  | Lista pacientes atendidos |  |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Monzon Yuleisi |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Mora Nathalia |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
+| Hosp. Gral. Dr. José María Vargas (La Guaira) | Mora Nestor Jose | 65 |  | Macuto | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Moran Stefanny |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Moreno Altra | 80 |  | Caribe | Lista pacientes atendidos |  |
+| Hosp. Gral. Dr. José María Vargas (La Guaira) | Morillo Diego | 9 meses |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Moron Arquelis |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
+| Hosp. Gral. Dr. José María Vargas (La Guaira) | Moron Karelis |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Musoni Yolanda |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Naike Zambrano | 41 |  | Tanaguarena | Lista pacientes atendidos |  |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Nancy Gil |  | 6801699 | La Guaira | Lista pacientes atendidos |  |
@@ -297,21 +344,28 @@
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Ojeda Deulis |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Olga Tovar |  | 6487637 | Los Corales | Lista pacientes atendidos |  |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Omar Beltran |  | 13582518 | La Llanada | Lista pacientes atendidos |  |
+| Hosp. Gral. Dr. José María Vargas (La Guaira) | Orama Eduan |  |  | Tanaguarena | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Oscata Horrada | 65 |  | Los Corales | Lista pacientes atendidos |  |
+| Hosp. Gral. Dr. José María Vargas (La Guaira) | Oscate Horrada | 61 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Pacheco Austin |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Pacheco Cisa |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Pacheco Ester |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Palacios Angel |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Palacios Javier |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Palmar Matias | 14 |  | Caribe | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
+| Hosp. Gral. Dr. José María Vargas (La Guaira) | Palmillane Yesika |  | 17960912 |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Pavon Diego |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Pavon Fiolo |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Paz Liss |  | 11406882 | Caribe | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Pedro Rondon |  | 1777176 |  | Lista pacientes atendidos |  |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Perez Eduaryeilis | 2 |  | Caribe | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
+| Hosp. Gral. Dr. José María Vargas (La Guaira) | Perez Eduayerlis | 2 |  | Caribe | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Perez Ely |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Perez Jesus |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Ponce Juana |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
+| Hosp. Gral. Dr. José María Vargas (La Guaira) | Posa Escobar Olga |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Hosp. Gral. Dr. José María Vargas (La Guaira) | Rada Reiner | 5 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Hosp. Gral. Dr. José María Vargas (La Guaira) | Radinez Alfonzo |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Ramirez Freidery |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Ramirez Juliam |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Ramirez Lucian |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
@@ -329,21 +383,29 @@
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Rodriguez Libia |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Rodriguez Mari |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Rodriguez Yoeyvier |  |  | OPPE 26 | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
+| Hosp. Gral. Dr. José María Vargas (La Guaira) | Rodriguez Yoniervis | 1 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Hosp. Gral. Dr. José María Vargas (La Guaira) | Rojas Andrea | 12 |  | Naiguata | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Romdon Ariyelis |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Romero Fraideli |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
+| Hosp. Gral. Dr. José María Vargas (La Guaira) | Romero Jonatan | 45 |  | Caribe | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Romero Luis |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Roraima Carreño | 26 | 28132141 | Caribe | Lista pacientes atendidos |  |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Rosa Escobar |  |  | Los Corales | Lista pacientes atendidos |  |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Rosalba Amaya |  | 25464509 | Caribe | Lista pacientes atendidos |  |
+| Hosp. Gral. Dr. José María Vargas (La Guaira) | Rosales Jhoalui | 32 |  | Macuto | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Rosi Gonzalez | 41 |  | Caribe | Lista pacientes atendidos |  |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Rosio Montana |  | 2007992 | Caribe | Lista pacientes atendidos |  |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Rosis Gonzalez | 41 |  | Caribe | Lista pacientes atendidos |  |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Ruth Clemo |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Sabrina Mosqueda | 6 |  | Playa Grande | Lista pacientes atendidos |  |
+| Hosp. Gral. Dr. José María Vargas (La Guaira) | Salazar Elon |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Salazar Yohan | 32 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Salcedo Jose |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
+| Hosp. Gral. Dr. José María Vargas (La Guaira) | Salcedo Jose Sebastian |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 |
+| Hosp. Gral. Dr. José María Vargas (La Guaira) | Sambrano Naike |  |  | Tanaguarena | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Sanbrano Noiker |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Sanchez Edgar |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
+| Hosp. Gral. Dr. José María Vargas (La Guaira) | Sandoval Yuleivis |  |  | Maiquetia | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Sandoval Yulievis |  |  | Maiquetia | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Santaella Gabriel |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Santiago Carrasquel |  | 36337677 | Los Corales | Lista pacientes atendidos |  |
@@ -356,6 +418,7 @@
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Sonia Amundarain | 42 |  |  | Lista pacientes atendidos |  |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Sonia Miranda |  | 34054588 | Los Corales | Lista pacientes atendidos | ⚠ cédula 34054588 también aparece en otro hospital |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Sorielis Marcano | 14 |  | Tanaguarena | Lista pacientes atendidos |  |
+| Hosp. Gral. Dr. José María Vargas (La Guaira) | Sosa Jose | 40 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Sugely |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Sura Luisa |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Teran Jose |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
@@ -368,6 +431,7 @@
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Torrez Sebastian |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Tovar Rafael |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Tovar Uselma |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
+| Hosp. Gral. Dr. José María Vargas (La Guaira) | Tumani Amira |  |  | Caraballeda | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Ucztegui Dayelisbeth | 37 |  | Caribe | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Uguento Jorge |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Urrieta Zugey |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
@@ -375,6 +439,7 @@
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Valeris Gonzalez | 10 |  | Caribe | Lista pacientes atendidos |  |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Vanessa Gonzalez | 29 |  | Aeropuerto | Lista pacientes atendidos |  |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Vera Ana |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
+| Hosp. Gral. Dr. José María Vargas (La Guaira) | Vergana Aranza | 8 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Vicmar Lualza |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Victor Guanipa |  |  | Caribe | Lista pacientes atendidos |  |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Victoria Castillo | 10 |  | Tanaguarena | Lista pacientes atendidos |  |
@@ -382,6 +447,7 @@
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Victoria Perez |  |  | Caribe | Lista pacientes atendidos |  |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Villar Mailyn |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Villarroel Ismenia |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
+| Hosp. Gral. Dr. José María Vargas (La Guaira) | Villega Jose | 22 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Weyner Serra |  | 26131879 | Caribe | Lista pacientes atendidos |  |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Williana Lopez | 28 | 26648434 | Caraballeda | Lista pacientes atendidos |  |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Yamileth Garcia |  | 24713737 | Aeropuerto | Lista pacientes atendidos |  |
@@ -398,10 +464,13 @@
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Yosiedidy Guevara |  | 20007998 | Palmar Este | Lista pacientes atendidos |  |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Yosimar Marquez | 38 | 17483578 | Macuto | Lista pacientes atendidos |  |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Yovani Lopez | 44 | 15625037 | Playa Grande | Lista pacientes atendidos |  |
+| Hosp. Gral. Dr. José María Vargas (La Guaira) | Yowan Villafanda | 36 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Yulevis Sandoval | 44 |  | Maiquetia | Lista pacientes atendidos |  |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Aaron Villalba | 8 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Aarón Villalta | 8 |  |  | Pediatría (AMPC) | sin familiar |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Acosta Bastidas Yanelis Del Valle Carolina |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Acosta Bastidas Yanels del Valle Carolina |  |  |  | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Acosta Israel | 10 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado; Fecha: 25/6/26 pm |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Adian Milagro |  | 10583198 |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Nuevos Ingresos |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Adriana Sandoval |  | 34518879 |  | Adultos (L3) |  |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Adriana Vestidas |  | 17856045 |  | Adultos (L1) / Adultos (Traumashock) | unificado de 2 registros |
@@ -413,6 +482,8 @@
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Alexandra Cardenas |  | 28143770 |  | Adultos (L1) / Adultos (Traumashock) | unificado de 4 registros |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Alfredo Quintana |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Alfredo Quintero (?) |  |  |  | Pediatría (AMPC) |  |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Alonzo Isabel |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Traumachok – Neurocirugía; La Guaira |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Alonzo Oropeza Erika Manuela |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Alonzo Oropeza Erika Marulo (?) |  |  |  | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Alouro Isabel |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Traumashock |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Alvarado Contrera Yorgyn Andrés |  |  | Maiquetía | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
@@ -428,8 +499,11 @@
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Anaque Vuelta María José (?) |  |  |  | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Anderson Mendoza |  |  |  | Pediatría (AMPC) | ¿cédula? 27399202 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Andrade de Viera |  |  | La Guaira Sector Caribe | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Andrade Maria | 62 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Piso 3 – Traumachok; La Guaira |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Andrade Milagro |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Neuro Trauma – Pasillo Asesor; La Guaira |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Angarita Carrillo Carmen Victoria |  |  |  | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Angel Fernandez |  | 16310014 |  | Adultos (L2) |  |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Anyeli Gonzalez | 37 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado; Trauma shock Pasillo de ascensor |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Aponte Borges Carlos |  |  | La Guaira (Acc. T) | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Arana Eduar |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Sin cédula |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Ariana O Adriana Sandoval | Sin información | 345188790 | Sin información | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Traslado desde La Guaira |
@@ -439,25 +513,37 @@
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Aron Ysaac / Aaron Isaac | 8 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Emerg. Pediátrica – Tanaguarena – SIN FAMILIAR |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Ashly Carreño | 8 |  |  | Pediatría (AMPC) | hermano de Dereck Carreño |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Auri Castillo | Sin información | 263291930 | Sin información | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Sin información |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Avea Whilian |  | 19768837 |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Avedano Marlene |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Traumashock |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Avedano Wiston |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Traumashock |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Avendaño Marleno |  |  | La Guaira - Los Corales | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Ayari Castillo |  | 26327913 |  | Adultos (L2) |  |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Bacelo Belkis |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Traumashock |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Balbas Senaida |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Baptista Herrera Yerman Emmanuel (?) |  |  |  | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Barbara Quintero |  | 13422890 |  | Adultos (L2) |  |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Barbara Ramirez |  | 18461886 |  | Adultos (L4) |  |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Barcelo Diego |  |  | La Guaira | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Barrego Jose |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Barrios Katherine |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Bastardo Veronica |  | 30170686 |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Becero Lesedi |  | 36800384 |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Bello Alana | 3 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Emerg. Pediátrica |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Bello Sánche (?) |  |  | Diana Iscabel - Guaira (?) | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Bena Manuela |  | 18449889 |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Benites Freddy |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Traumachok; todos los servicios; Tomografía; La Guaira |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Beronica Bastarda |  | 301706260 |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Beronica Bastardo |  | 30170626 |  | Adultos (Traumashock) |  |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Bivzela Harerid |  | 37890594 |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Blanco Galvis Máximo Miguel |  |  | La Guaira Tanaguarena | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Blanco Luis |  |  | San Martín | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Bolivar Bolivar J. Jose |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Bolívar Bolívar Jeiole José (?) |  |  | Tanaguarenas | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Bolívar Yetselle Daniela |  |  | Tanaguarena | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Bous Candelario |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Traumachok – Traumatología; La Guaira |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Bracamonte Rojas Génesis (?) |  |  |  | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Bracho Adriana |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Briceno Amikar |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Piso 3 – Traumachok; La Guaira |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Briceño Amilcar |  |  | La Guaira | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Brigitte Díaz | 6 a |  |  | Emergencia Pediátrica 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Brito Antonela | 11 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Pediatría |
@@ -465,6 +551,8 @@
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Brito Morales Brayan David |  |  |  | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Brito Piñero Samuel |  |  | Macuto - La Guaira | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Bueno Díaz Alendo (?) |  |  | Catia | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Bueno Diaz Merida |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Cabello Brisneidy |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado; Trauma Shock / Cirugía General |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Candelano Rois |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Traumashock |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Candelario Navas | Sin información | 294164930 | Sin información | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Sin información |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Candelario Vouis |  | 94164930 |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
@@ -473,13 +561,19 @@
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Carmen Angarita |  | 12060080 |  | Adultos (L4) |  |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Carreño Ashly / Carreño Asly | 8 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · SIN FAMILIAR – Pediátrico |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Carreño Ashlys |  |  | Caribe → La Guaira | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Carreno Asly |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Carreno Espinoza Zuleika Yaxnei |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Carreño Romero Asly Janzise (?) |  |  | La Guaira Caribe | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Carreño Romero Derek Josué |  |  | Caribe → La Guaira | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Caruzzo Valentina Viviana |  |  | Playa Grande | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Castillo Castro Leidi Dayana |  |  | Caribe | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Castillo Descara Ayan (?) |  |  |  | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Castillo Descara Ayari |  | 263279130 |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Castillo Estefani |  |  | La Vega | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Castillo Leidi |  |  | La Guaira - Tanaguarena | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Castrillo Estefany |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Ceballo Brioneidy |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Traumachok – Cirugía Observación; La Guaira |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Ceballos Brisneiby |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Traumachok – Medicina Interna; La Guaira |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Ceballos Bruisneidy |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Traumashock |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Ceballos Granelde (?) |  |  | La Guaira | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Celiana Mijares |  | 19734177 |  | Adultos (L3) / Adultos (Triaje) | unificado de 2 registros |
@@ -491,16 +585,25 @@
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Chacon Elizabeth |  | 2734286 |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Chamelo Cesar / Charmelo Cesar | 5 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Emerg. Pediátrica – Caraballeda |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Chan Abel |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Traumashock |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Charmelo Cesar | 5 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Emerg. Pediátrica – Caraballeda |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Chirinos Martínez Maximiliano José |  |  | La Guaira (Hotel cluadsout?) | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Chirinos Miranda Dulce |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Cisdelis Quintero | Sin información | 3260572960 | Sin información | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Sin información |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Cnepeo Louvia |  | 24718019 |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Cohalue Gabriel |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Neuro – Traumachok; La Guaira |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Colina Angarita Yohander Abel |  |  |  | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Colina Angarita Yohandri Abel |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Contreras Jorly |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Contreras José |  |  | El Valle | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Contreras Yorgi / Contreras Yorxi |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Traumashock |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Contreras Yorxi |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Traumashock |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Contreras Yoryi |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Traumashock |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Cordero Alexis |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Traumashock |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Cordero Alexis Josefina |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Traumashock |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Cordero Dialecsy |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Traumashock |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Cordero Galaxis Josefina |  |  | La Guaira | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Cordero Parra Williams José |  |  |  | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Cordero Parya Williams Jose |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Cordoba Dayana |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Traumashock |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Cordona Dayana |  |  | La Guaira Caribe | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Coronado Yesenia | 6 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Traumashock |
@@ -513,7 +616,12 @@
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Da Silva Jairo |  |  | La Guaira | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | David Brito |  | 30678485 |  | Adultos (L4) |  |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Dayana Rondon |  |  |  | Adultos (L1) |  |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | De Freitas Nelly | 63 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado; Trauma Shock / Neurocirugía |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | De Martínez Longa Carmen Zoraida |  |  | La Guaira (bscoe?) | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Defresta Nelly | 63 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Piso 3 – Traumatología Neurocirugía; La Guaira |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Dejes Hailimar |  | 15581766 |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Delgado Lisbeth |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Delgado Mady |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Traumashock |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Delgado Maody |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Traumashock |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Delgado Torres Maoly |  |  | La Guaira Tanaguarena | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Derecho Carreño | 4 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
@@ -522,19 +630,25 @@
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Dias Geeurosy |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Traumashock |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Días Lozada Ana Felicia |  |  |  | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Díaz Briggith |  |  | La Guaira | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Diaz Enrique |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Piso 3 – Traumachok – Traumatología; La Guaira |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Diaz Gennesy |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado; Trauma Shock |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Díaz Hirmenia |  |  | La Guaira | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Diaz Irma |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Traumashock |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Díaz Romero Briangelys Nazareth |  |  |  | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Diaz Victor |  | 11537536 |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Diego Garcia |  | 33423811 |  | Adultos (L3) |  |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Dies Genny |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Traumachok; La Guaira |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Dorante Erick | 15 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Traumashock |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Drana Eduar |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Duan Polencia Giannis Dohany (?) |  |  |  | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Duarte Jesus | 74 | 5142521 |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Duñar Lopez |  | 12115323 |  | Adultos (Triaje) |  |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Duran Palencia Giannis Dohany |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Eduanyeli Valentine Perez Olibo | 1 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Pediatría |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Eduanyelis Pérez (?) | 9 |  |  | Pediatría (AMPC) |  |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Eduar Orana |  |  |  | Adultos (L3) |  |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Edvar Corna | Sin información |  | Sin información | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Sin información |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Egibelto Amilkar | 69 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Piso 3 – Traumachok; Cirugía ATJ Ortopedia; La Guaira |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Eiban Yegue |  | 24058780 |  | Adultos (Triaje) |  |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Elianni Idalgo |  | 32976229 |  | Adultos (Traumashock) |  |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Elisabeth Chacón |  | 27374286 |  | Adultos (Triaje) |  |
@@ -547,18 +661,27 @@
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Emira Guerra |  | 26019884 |  | Adultos (L3) |  |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Enmira Guerra | Sin información | 260128840 | Sin información | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Sin información |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Eric Godoy |  | 18749225 |  | Adultos (L1) |  |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Ernan Gladys |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado; Trauma Shock / Traumatologia |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Escala Moister (?) |  |  | La Guaira - Tanaguarena | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Escala Yoisler |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Escobar Chirinos Xoiler |  |  | La Guaira | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Escobar Joyler | 9 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Emerg. Pediátrica – La Guaira |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Escobar Yoiner | 9 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Pediatría – Lista alta; Papá |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Eslubilito Amilka | 61 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado; Trauma Shock / Cirugía General PISO 3 |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Espinosa Ivon | 43 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Piso 3; La Guaira |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Espinoza Bello Karen Daniela |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Espinoza Ivon |  |  | La Guaira - Caraballeda | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Espinoza Milagro |  |  | La Guaira | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Espinoza Milagro Adrián |  |  | La Guaira Caribe | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Esteves Carreño Yolinnys Alberto |  |  | La Guaira | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Esteves Volnoys |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Traumashock |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Esteves Yolnnys |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Traumashock |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Fajardo Romiel | 33 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Traumashock |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Fajardo Roniel |  |  | La Guaira | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Fernadez Freites Rodrigo Felipe |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Fernanda Figueira |  | 81659048 |  | Adultos (L4) |  |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Fernanda Figuera |  | 816590480 |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Fernandes Maria Gonzalo |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Traumachok; La Guaira |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Fernández Frits Rodrigo Felipe |  |  | Los Corales | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Fernández Manuel |  |  | La Guaira - Playa Grande | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Fernández Morillo Alberto |  |  | Los Corales | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
@@ -567,6 +690,7 @@
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Figuera Carmelo |  |  | La Guaira Caraballera | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Figuera Morilda |  | 5913883 |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Nuevos Ingresos |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Figuera Yeangel |  | 32654924 |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Nuevos Ingresos |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Figueroa Irma Celeste |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Figueroa Yeangel |  |  | La Guaira Taraguarena | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Fleici Valero |  | 13374764 |  | Adultos (L2) |  |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Flores Yordino / Flores Yordano | 10 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Emerg. Pediátrica – La Guaira |
@@ -579,20 +703,34 @@
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Gabriel Goncaluez |  | 822309060 |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Gabriel Goncalvez |  | 82230906 | La Guaira | La Yaguara (nuevo) |  |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Gampolo Feliciano (?) |  |  | La Guaira | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Garcia Andrea |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Garcia Gabriel | 9 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Emerg. Pediátrica – La Guaira |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Garcia Heilimar |  | 325434200 |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Garcia Martinez Keilimar Dayana |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | García Martins Keilman Dayana (?) |  |  | Maiquetía | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | García Meléndez Oleinis Valentina |  |  | La Guaira | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | García Mendoza Diego |  |  | Caraballeda | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | García Velásquez Yarbert Armando |  |  |  | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Garcia Velasquez Yarbet Armando |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | García Verde Gabriel Ezequiel |  |  | La Guaira | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Garcia Voleibor |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Traumachok – Neurocirugía; Tomografía; La Guaira |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Geeo Manuela |  | 18814866 |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Genesis Bracamonte |  | 31428533 |  | Adultos (L2) | ⚠ cédula 31428533 también aparece en otro hospital |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Giampiedo Feliciano |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Traumachok – Triaje Cirugía; La Guaira |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Gianpiero Feliciano |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Traumashock |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Giferoa Celeste |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Traumashock |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Gil Leomanwil |  | 20291328 |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Nuevos Ingresos |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Gil Miriam |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Gil Orrieta Mariam |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Goleara Emiea |  | 22919884 |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Gómez Cardona Manuel Alberto |  |  |  | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Goncalve Gabriel |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Traumashock |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Goncalves Gabriel |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Traumashock |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Gonzales De Arismendi Milenis Yanett |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Gonzales Jesus |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Traumashock |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Gonzales Perez Valeria Oriana |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Gonzales Velasquez Fabián | 7 M |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Pediatría |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Gonzalez Angely |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Traumashock |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Gonzalez Anyely |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Traumashock |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | González de Ansmendi Milens Yanett |  |  | Los Cauros / Playa Verde (?) | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | González Elizabeth Trinidad |  |  | La Guaira Caraballeda | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
@@ -602,21 +740,30 @@
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Gonzalez Kevi | 32 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Traumashock |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Gonzalez Luisa |  | 15615565 |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Nuevos Ingresos |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | González Luisa Verónica |  |  | La Guaira - Catia La Mar | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Gonzalez Mendez Daniela Alexandra |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | González Méndez David Alexander |  |  |  | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Gonzalez Nyerlys | 37 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | González Velásquez Fabián Mauricio | 9 meses |  | Catia la Mar | Pediatría (procedencia) |  |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Gonzalo León |  | 22916224 |  | Adultos (L3) / Adultos (Triaje) | unificado de 2 registros |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Goohza Milerbis |  | 16468240 |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Grama Rodríguez Eduard Alexander |  |  | Tanaguarena | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Granado Reudas Crisbel Naymar (?) |  |  |  | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Guerrero Wile | 40 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Traumashock |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Guerrero Willy |  |  | La Guaira - Tanaguarena | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Guillen Gonzales Guillen Gonzales |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Guillén González Mario Eugenio |  |  |  | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Gurstoo Emira |  | 22016224 |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Gutiérrez Fabricio |  |  | La Guaira Tanaguarena | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Gutierrez Jabricio |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Piso 3 – Traumachok – Pasillo Asesor – Traumatología; La Guaira |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Harleidi Rivero |  | 360917840 |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Triaje |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Hernandez Carlina |  | 19796311 |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Nuevos Ingresos |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Hernandez Gonzales Maria |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado; Trauma Shock |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Hernandez Maite | 46 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Traumachok – Cirugía Neurocirugía; caso social; La Guaira |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Hernández Ramírez Maite |  |  | La Guaira Los Corales | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Herndzo Crusel |  | 32866722 |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Herrera Joso Alfonzo |  |  | La Guaira Caribe | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Hilary Ramírez | 10 a |  |  | Emergencia Pediátrica 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Horaydayoru |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Traumatología Emergencias – Pasillo Asesor; La Guaira |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Ibsen Iglesias |  | 32359883 |  | Adultos (L2) |  |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Iglesias Peña Ibsen José |  |  |  | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Infante Yhelena |  |  | La Guaira - Caraballeda | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
@@ -624,9 +771,11 @@
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Isabel Gonzalez | Sin información | 291016950 | Sin información | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Sin información |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Isabel Torres |  | 4718019 |  | Adultos (Triaje) |  |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Isabella Reboredo | 10 |  |  | Pediatría (AMPC) |  |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Jaimes Lisbet |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado; Trauma Shock |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Jaimus Lisbeth |  |  | La Guaira Caribe | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Jimenez Mathias / Jimenez Mathia | 12 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Emerg. Pediátrica – La Guaira |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Jiménez Rafael Mathías Alejandro |  |  | La Guaira | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Jimenez Rangel Mathias Alejandro | 12 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Emerg. Pediátrica – La Guaira |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Joscar Petit |  |  | La Guaira - Los Corales | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Jose Gutierrez |  | 28747519 |  | Adultos (L3) |  |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Jphan Abel (?) |  |  |  | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
@@ -634,14 +783,18 @@
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Juan Zalazar |  | 27044236 |  | Adultos (Traumashock) | ⚠ cédula 27044236 compartida con otro registro del mismo hospital (posible error OCR) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Juana de Santiago |  | 11688834 |  | Adultos (L4) |  |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Judid Paredes |  | 3883421 |  | Adultos (L1) / Adultos (Traumashock) | unificado de 2 registros |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Junio T |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Pasillo Asesor; La Guaira |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Junior Ruiz | 8 a |  |  | Emergencia Pediátrica 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Juver Garcia |  | 27377514 |  | Adultos (L2) |  |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Karleidi Rivero |  | 36091784 |  | Adultos (Triaje) |  |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Keilimar Garcia |  | 32543420 |  | Adultos (L3) |  |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | La Rosa Noel |  |  | La Guaira (Hotel Edmar Suiz?) | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | La Rosa Yoel |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Traumashock |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Ladera Eliayelis | 1 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Pediatría – Lista alta; Mamá Yosbelis Díaz |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Larez Giel (?) |  |  | Camurichito | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Launsett Burgos Carla Antonia |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Lemus María |  |  | La Guaira - Caribe | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Leon Mailin |  | 15512093 |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | León Sarmiento Sofía |  |  | La Guaira | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Leon Sophia | 6 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Emerg. Pediátrica |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | León Yuliet |  |  | La Guaira | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
@@ -650,31 +803,43 @@
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Lesvia Morales |  | 5965096 |  | Adultos (Triaje) |  |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Liam | 3 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Emerg. Pediátrica – solo nombre |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Lian (3x 5/D) |  |  | Pariata | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Lisbet Jaimen |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Traumachok; La Guaira |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Lisenco Tatiana |  |  | La Guaira Caraballeda | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Lisenco Wladimir |  |  | La Guaira Caraballeda | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Liserco Bladimir | 80 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Traumachok; Guardia |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Liserco Tatiana | 53 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Traumachok; La Guaira |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Loabel Sonia María (?) |  |  |  | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Lopez Daniel |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | López Dávila Maily Carolina |  |  |  | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | López Dávila Thays Bernar (?) |  |  |  | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | López Eliman |  |  | La Guaira - Caribe | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Lopez Elimar | 42 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Traumashock |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Lopez Emerson |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | López Gómez Elimar Carolina |  |  | La Guaira | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Lopez Maily |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Traumashock |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Lopez Maily Carolina |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Traumashock |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | López Revoredo Luis |  |  | La Guaira Caraballera | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Lopez Taivy |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Traumachok – Cirugía Observación; Qx; La Guaira |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Lorya Andrés (?) |  |  | La Guaira → Caribe | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Lourdes Oropeza |  | 14312752 |  | Adultos (L2) |  |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Lozo Sier | 14 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Lucy Valeria |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Lujano Elías |  |  | La Guaira - Playa Grande | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Lujano Gloces | 10 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Emerg. Pediátrica – Catia La Mar |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Madera Noe Isabel |  |  | La Guaira | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Mahtriam Marilette (?) |  |  | La Guaira Caribe | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Maia Moreno |  | 56131190 |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Mailin Lopez |  | 15541666 |  | Adultos (L2) |  |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Makterian Marieste | 67 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Traumachok; La Guaira |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Malave Alani | 4 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Emerg. Pediátrica – La Guaira |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Malave Alfonso Samara Valentina |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Malave Alfonso Samari Valentina |  |  | Caraballeda | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Malave Cordero Alani Isabela |  |  | La Guaira | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Malavé Tamara |  |  | La Guaira - Caraballeda | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Manuel Gomez |  | 18814839 |  | Adultos (L2) |  |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Manuela D'Anzola |  | 296723 |  | Adultos (L3) / Adultos (Triaje) | unificado de 2 registros |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Manuela De Anzola |  | 2967230 |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Triaje |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Maraeco Yenni |  | 18834289 |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Marcela Bernal |  | 6049995 |  | Adultos (Triaje) |  |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Maria Araque |  | 28100561 |  | Adultos (L4) |  |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Maria Guillen |  | 60592880 |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
@@ -682,15 +847,21 @@
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Maria Moreno |  | 5613119 |  | Adultos (L4) |  |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Maria Quillen |  | 6059288 |  | Adultos (L2) |  |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Maria Zamora |  | 27044236 |  | Adultos (L1) | ⚠ cédula 27044236 compartida con otro registro del mismo hospital (posible error OCR) |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Marin Tova Valeska |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado; Traumatología Pasillo de ascensor |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Mariño Amilcar |  |  | La Guaira Caraballeda | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Marlene Davila |  | 19102824 |  | Adultos (L4) |  |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Marlin Martinez |  | 10576899 |  | Adultos (L4) |  |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Marquez Robert | 21 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Traumashock |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Marquez Roberth | 21 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Traumashock |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Martinez Clariangela | 30 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Piso 3 – Traumachok; La Guaira |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Martínez Flores Clariangela |  |  | La Guaira Caribe | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Martinez Gabriel |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Martinez Jaiker | 8 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Pediatría – Mamá: Génesis Martínez |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Martinez Luis |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Traumashock |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Martinez Martines Eduardo Rafael |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Martínez Martínez Eduardo Rafael |  |  |  | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Martínez Martínez Marlyn Margarita |  |  |  | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Martinez Martinez Morlyn Margarita |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Martínez Nadiuska |  |  | La Guaira Caribe | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Martínez Wilson José |  |  | Catia La Mar | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Maryuri Sedeño |  | 14194021 |  | Adultos (L4) |  |
@@ -708,30 +879,54 @@
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Medina Armando |  | 15249932 |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Nuevos Ingresos |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Medina Diego | 20 | 31291319 |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Medina Hernández Hanser (?) |  |  |  | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Medina Nayicia |  | 29765360 |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Medina Parra Fernando José | 5 |  | El Junquito | Pediatría (procedencia) |  |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Medine Azuaje Maria Sofia |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Melende Deisi |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Traumachok – Triaje; La Guaira |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Melende Oleidy |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Traumatología – Traumachok; La Guaira |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Melendes Pastran Cleinys Alejandra |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Melendez Oleini |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Traumashock |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Melendez Olianyeli | 6 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Emerg. Pediátrica – La Guaira |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Meléndez Pastrán Cleinys Alexandra |  |  | (la Hoy?) | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Mendez Yoliamer |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Méndez Yolimar |  |  | Catia La Mar | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Mendez Yoneidy / Mendez Yosneidy | 11 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Emerg. Pediátrica – Tanaguarena |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Mendez Yosneidy | 11 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Pediatría – Lista alta; Papá |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Mendoza Ligia Ines | 17 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Piso 3 – Traumachok; La Guaira; menor |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Mendoza Luz |  |  | El Junquito | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Mendoza Neiva Ligia |  |  | La Guaira Los Corales | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Mendoza Sebastián |  |  | La Guaira | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Meri Chavez |  | 81462470 |  | Adultos (Triaje) |  |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Meria Yoliby |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado; Trauma Shock / Neurocirugia Tomografia |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Merido Bueno |  | 17158021 |  | Adultos (Triaje) |  |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Mía Acevedo | 7 meses |  | Catia la Mar | Pediatría (procedencia) |  |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Mielles Torres Andrés |  |  | La Guaira Caraballeda | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Milagro Andrea |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado; Neurocirugia / Traumatologia  pasillo de ascensor |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Milagro Palma |  |  |  | Adultos (L2) |  |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Milano Edicuar | 13 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Traumashock |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Milano Eidimar | 13 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Traumashock |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Milano Guerra Ingria |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Traumashock |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Milano Ingrid |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Traumashock |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Mileibis Gonzalez |  | 26468240 |  | Adultos (L3) |  |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Miludiz Oleidy |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Traumashock |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Minora Yimmy (?) |  |  | Guarenas | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Minoris Yimmy |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Miranda Torres Victoria Elena |  |  | La Guaira | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Mivandes Victoria |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado; Traumatología / pasillo de ascensor  A cargo de Traumatología, Neurocirugía y Cirugía General ALTA MEDICA POR ESPECIALISTA |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Moceral Maria |  | 25049995 |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Molina Ignacio |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Pediatría – 1 año 5 meses; Mamá: Jhonelis Ortiveros |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Molina Oriana |  | 29766267 |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Mollina Nayiica |  | 297683600 |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Montes Cartayo |  |  | Reisi Herdimes, La Guaira (?) | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Montes Keisy | 23 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Traumachok; La Guaira |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Montes Mia | 0 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Emerg. Pediátrica – 6 meses – Catia La Mar |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Morales Jessire |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Trauma Shock; La Guaira |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Moreno Dimexis |  |  | La Guaira | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Moreno Domiexis | 96 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Traumachok; La Guaira |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Moreno Tapia Franxelis Oriana |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Moreria Eidimar |  |  | La Guaira - Caribe | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Morzelo Lesvia |  | 46965996 |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Moveza Lesivia |  | 54800756 |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Muñon Ivan | 40 | 17475718 |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Murillo Anabela |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Traumashock |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Murillo Montoya Anabella Victoria |  |  |  | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
@@ -744,8 +939,12 @@
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Neri Chavez | Sin información | 184620400 | Sin información | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Sin información |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Niver Garcia | Sin información | 253375140 | Sin información | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Sin información |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Olivio Lilian |  |  | La Guaira - Caribe | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Orama Angel |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Orama Eduan |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Traumachok Neuro – Triaje; La Guaira |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Oriana Ramirez |  | 27006264 |  | Adultos (L1) / Adultos (Traumashock) | unificado de 2 registros |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Oropeza Francisco |  | 26647295 |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Nuevos Ingresos |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Oropeza Lourde |  | 143128520 |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Oropeza Oropeza Lander |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Oropeza Oropeza Sander |  |  |  | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Orozco Durán Cristina (?) |  |  |  | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Orozco Peláez Diego | 8 |  |  | Pediatría (procedencia) | FALLECIDO |
@@ -760,30 +959,50 @@
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Ortiz Arismendi Álvaro Enrique |  |  |  | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Ortuño Manrique Jhony |  |  |  | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Oseche Aderly |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Traumashock |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Oseta Valeria |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Traumachok – Medicina Interna; La Guaira |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Osota Valeria |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Traumashock |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Pacheco Díaz César Eduardo |  |  |  | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Pacnado Crisber |  | 26926366 |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Padilla Marcano Pronangeli Anelis (?) |  |  |  | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Padilla Marcano Ronargelis Anelis |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Palma Mota José Antonio |  |  |  | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Palmo Milagro |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Sin cédula |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Parcero Juvan |  | 27044231 |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Paredes Angel | 12 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Traumachok – Traumatología; La Guaira |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Paredes Cruzeendda |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Paredes Reyes Ángel |  |  | La Guaira Los Corales | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Paredes Yudi |  | 38834721 |  | Ingreso por sismo (lista consolidada) | Fuente: Drive SISMO 2026 VZLA |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Parezeo Cesda |  | 19727177 |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Parica Parica Laian Diake (?) |  |  |  | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Parica Parica Laian Drake |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Parica Parica Laiyum Yuque | 1 |  | Catia la Mar | Pediatría (procedencia) |  |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Parica Parica Laryan Yaque | 1 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Pediatría |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Parra Duglas | 35 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Traumashock |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Peláez Franger (?) |  |  |  | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Pereeo Rotaral |  | 27217024 |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Pérez Eduangeli Valentina (?) |  |  |  | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Perez Edvanyeli | 2 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Emerg. Pediátrica – La Guaira |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Pérez Jesús |  |  |  | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Perez Montilla Ramon |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Perez Olivo Eduanyeli Valentine | 1 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Pediatría |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Perez Ramon |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Traumachok Neuro; La Guaira |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Perez Rawson / Perez Rawon |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Traumashock |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Perezo Rodogo |  | 23650891 |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Perláez Francisco (?) |  |  |  | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Peti Joscar (?) |  |  | La Vega - Camurichico | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Petra Sucre |  | 2945823 |  | Adultos (L1) / Adultos (Traumashock) | unificado de 2 registros |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Pimentel Maria |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Pimentel Tabores Danilexi |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Polanco Yaupoma León Santiago | 5 |  | Av. Baralt (?) | Pediatría (procedencia) |  |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Polanco Yauripana Lian Santiago | 5 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Pediatría |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Polanco Yauripaz Lian Santiago |  |  |  | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Polanco Yauripoma Lean Santiago | 5 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Pediatría |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Porras Castro |  |  | La Guaira - Tanaguarena | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Porras Douglas |  |  | La Guaira - Tanaguarena | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Pulido Morales Yuli |  |  | La Guaira Tanaguarena | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Pulido Yury | 41 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Traumachok – Cirugía; La Guaira |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Querales Jossiree |  |  | Caraballeda | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Quiales Jessire |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Traumashock |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Quintero Romero Bárbara Nadiuska (?) |  |  |  | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Quintero Viera Rosa Linda |  |  |  | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Quirales Jessire |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Traumashock |
@@ -791,58 +1010,92 @@
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Ramirez Geraldo |  | 6121988 |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Nuevos Ingresos |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Ramírez Hilary Xarielys |  |  | La Guaira Los Corales | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Ramirez Jesus |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Traumashock |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Ramos Diaz Felix Eduardo |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Ramos Emely | 10 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Pediatría – Lista alta; Papá José Ramos |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Ramos Emily / Ramos Emely | 10 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · SIN FAMILIAR – Pediátrico |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Ramos Ramos | 10 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado; 4.20 pm |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Ramos Vargas Emily Estefanía (?) |  |  |  | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Ranfi Ramon | 34 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Piso 3 – Traumachok; La Guaira |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Rebolledo Isabella | 10 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Emerg. Pediátrica – La Guaira |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Reina Marco |  |  | La Guaira - Caraballeda | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Rendon Cruza |  | 4656862 |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Requena Ailano |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Pediatría – 2 meses; Mamá: María Piñada |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Rerria Herlina |  | 22948533 |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Revoredo Isabela |  |  | La Guaira Caribe | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Ríos Enrique |  |  | La Guaira | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Ríos Ygenesis |  |  | Bramoven (?) | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Rivas Evan Armando | 55 | 20048909 |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Rlzzias Ibseni |  | 34891836 |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Rodrigo Fernandez |  |  |  | Adultos (L2) |  |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Rodrigo Rodrigo |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado; 4.20 pm |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Rodriguez Gleidys | 25 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Traumachok; Charalleve (La Guaira) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Rodríguez Glendy |  |  | La Guaira Caraballeda | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Rodríguez Lecuna Freddy Alixi (?) |  |  |  | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Rodriguez Lucena Freddy Alixo |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Rodríguez Oliva Joelvinger Jesús | 9 |  | La Guaira | Pediatría (procedencia) |  |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Rodriguez Olivo Joelvinger Jesus | 9 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Pediatría |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Rodriguez Rodrigo |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Rodriguez Yoelbinyer | 9 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Emerg. Pediátrica – Caracas |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Rodríguez Yoneiver |  |  | La Guaira - Caribe | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Rodriguez Yosbeily |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Pediatría – Lista alta; de alta con Lilian Olivo |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Rodríguez Yosheily |  |  | La Guaira - Caribe | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Roman Vuleidy |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Traumachok – Triaje Neuro; La Guaira |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Romero Duque Yrubru Anareths (?) |  |  | Caribe | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Romero Jesus |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Traumatología – Pasillo Asesor; Piso 1; La Guaira |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Romero Natalio | 5 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · SIN FAMILIAR – Pediátrico |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Romero Yuleidys |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado; Trauma Shock / Triaje/ Neurocirugía |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Romero Yusleidy / Romero Yuleidy |  | 29567050 |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Nuevos Ingresos |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Rondon Dayanara | 18 años |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Rosa Marcano |  | 4493435 |  | Adultos (L3) |  |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Rosalinda Viera |  | 13717087 |  | Adultos (L2) |  |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Ruiz Jesus | 8 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Emerg. Pediátrica |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Ruiz Jesus / Ruiz Junior Jesus | 8 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Emerg. Pediátrica |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Ruiz Junic José |  |  | Pariata | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Rumbos Victoria | 13 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Emerg. Pediátrica – La Guaira |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Saavedra Anyi |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Traumashock |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Sala Camila |  |  | La Guaira Caribe | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Salazar Eddy |  |  | La Guaira | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Salazar Kamila | 23 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Traumachok – Cirugía; La Guaira; Alta |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Salazar Rihanna | 4 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Pediatría – Lista alta; Mamá Marisol Gil |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Salazar Yoan |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Traumachok – Pasillo Asesor – Triaje Neuro; La Guaira |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Salazar Yoau |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Traumashock |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Salazar Zambrano Johan Alexander |  |  |  | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Salcedo Acosta Sebastian Jose | 9 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Pediatría – Lista alta; Papá César Salcedo |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Sama Malave | 10 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Samiento Brigada | 57 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Traumashock |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Samuel Peroza |  | 33020891 |  | Adultos (L2) |  |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Sanabria Angi |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Traumatología – Pasillo Asesor; Piso 1; La Guaira |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Sanatoria Angi |  |  | La Guaira | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Sandoval Lopez Jesuarny Sofia |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Sandra Dias |  | 11638321 |  | Adultos (L4) |  |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Sanna Malave (?) | 10 |  |  | Pediatría (AMPC) |  |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Sanvicente Liam | 5 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Pediatría – Lista alta; Mamá Frangelis Mejía; Argenis Sanvicente |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Sarmiento Brígida |  |  | La Guaira Playa Grande | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Saul García | 9 a |  |  | Emergencia Pediátrica 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 · Pasillo 1 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Sebastián Salcedo | 5 a |  |  | Emergencia Pediátrica 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Seigan Yachelys |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Traumashock |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Seigan Yadehis |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Traumachok – Accidente moto; Rx; Triaje; La Guaira |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Seija Peña Yaleinis |  |  | La Guaira | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Silva Samara | 10 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Emerg. Pediátrica – Costabrava |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Silva Somara | 10 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Emerg. Pediátrica – Costabrava |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Soja Lozada Reina Alejandra |  | 69046290 |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Triaje |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Sojo Alejandra |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Traumashock |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Sojo Lozada Reina Alejandra |  |  | San Martín | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Sosa Alvarez Eliangeyeli Nazareth |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Sosa Azueta Jose Luis |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Traumashock |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Sosa Elisanyelis |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Traumashock |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Sosa Elisauyeli |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Traumashock |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Sosa Jose Luis |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Traumashock |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Stabilito Anilea (?) |  |  | La Guaira - Caribe | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Sucre Francis Medina |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · 18 años |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | T Junior |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado; Pasillo de ascensor |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Thais Lopez |  | 13641870 |  | Adultos (L2) |  |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Tirado López Yunior David |  |  |  | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Toicata Jacinta |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Traumashock |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Torcate Jacinta |  |  | La Guaira → El Junquito | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Torcate Jasiata |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Traumatología – Pasillo Asesor; Piso 1; Alta Médica, La Guaira |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Toribelbys Rodríguez (?) | 1 |  |  | Pediatría (AMPC) | hermano de Yosbeilys |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Toro Elisanyelis |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Traumatología – Pasillo Asesor; La Guaira |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Toro Siet | 14 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Traumashock |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Toro Valeska | 14 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Traumashock |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Torrealba Victor | 9 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Emerg. Pediátrica – Caraballeda – SIN FAMILIAR |
@@ -851,13 +1104,17 @@
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Torres Sosa Jenny Carolina |  |  | Junquito Km 25 | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Ulviau Breiner | 24 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Traumashock |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Urbina Edwin |  | 12113971 |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Nuevos Ingresos |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Uribe Veronica |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Uzcátegui José |  |  | Los Corales → La Guaira | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Valdivel Erick Gustavo |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Traumashock |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Valeria Azocar |  | 28544619 |  | Adultos (Triaje) |  |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Valerio Lucy |  |  |  | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Valerio Prada Enecy (?) |  |  |  | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Vargas Ana |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Pediatría – Lista alta; 2-3 meses; Mamá Carla Jiménez |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Vargas Damián |  |  | Catia - Agua Salud | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Velazco F |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Traumachok – Pasillo Asesor; La Guaira |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Vergara Arantza | 11 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Emerg. Pediátrica – La Guaira |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Vergara Blanca Aranza | 11 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Pediatría |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Vergara Blanca Aranza / Vergara Aranza / Vergara Arantza | 11 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Pediatría |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Vergara Blanco Aranza |  |  |  | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Vergara Blanco Aranza Seungmi | 1 |  | Tanaguarena | Pediatría (procedencia) |  |
@@ -865,16 +1122,24 @@
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Victoria Alvarado | Sin información | 3104515880 | Sin información | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Sin información |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Victoria Miranda |  | 34054588 |  | Adultos (L3) | ⚠ cédula 34054588 también aparece en otro hospital |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Victoria Ramírez | 13 a |  |  | Emergencia Pediátrica 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Vielma Maria |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Villahermosa Delfino Yohalbes Jose |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Villastro Aron Isaac |  |  | La Guaira Tanaguarena | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Villastro Isaac Aaron | 7 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado; SIN FAMILIAR |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Vivas Camila | 3 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Pediatría – Mamá: Luisa Núñez |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Vivian Carrizo | Sin información | 333326030 | Sin información | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Sin información |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Viviana Carrizo |  | 33232603 |  | Adultos (L3) |  |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Viviani Breiser | 24 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Traumachok; La Guaira |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Vizees Gaolria |  | 32281459 |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Wilian Alvarez |  | 16125101 |  | Adultos (L1) / Adultos (Traumashock) | unificado de 2 registros |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Williams Martinez | Sin información | 193678640 | Sin información | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Sin información |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Wuilliams Martinez |  | 19367804 |  | Adultos (L2) |  |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Yadira Cordero |  | 12763837 |  | Adultos (L1) |  |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Yaneli Acosta |  | 31760907 |  | Adultos (Triaje) |  |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Yaptista Yermin |  | 13948173 |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Yauripana Lucena Genesis Maria |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Yauripaz Lucena Génesis María (?) |  |  |  | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Ydayuva Maria |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado; Traumatologia / pasillo de ascensor |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Yeiker Martínez | 8 a |  |  | Emergencia Pediátrica 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Yenni Marcano |  | 10384289 |  | Adultos (L3) / Adultos (Triaje) | cédulas distintas transcritas: 10384289, 18384289; unificado de 2 registros |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Yépez Domínguez Carlos |  |  | Barquisimeto | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
@@ -887,6 +1152,7 @@
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Yoiler Escobar | 9 a |  |  | Emergencia Pediátrica 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Yoinelis Méndez | 11 a |  |  | Emergencia Pediátrica 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Yoisbelys Rodríguez | 3 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Yolebis Seigar |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado; Trauma Shock / Accidente de moto Rx Triaje |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Yoni Ortuño |  | 5199693 |  | Adultos (L4) |  |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Yonielbys Rodríguez | 1 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Yonny Ortuño |  | 5199652 |  | Adultos (L3) / Adultos (Triaje) | unificado de 2 registros |
@@ -909,6 +1175,7 @@
 | Hosp. Dr. Domingo Luciani (Llanito) | Abello Wilmari | 36 |  | Petare | Ingresados por sismo | ✚ posible fallecida (marca en lista) |
 | Hosp. Dr. Domingo Luciani (Llanito) | Abreu Emma | 8 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Abreu Paulina | 8 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Acevedo Estefani | 37 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado; POLIT EMERGENCIA NUEVA |
 | Hosp. Dr. Domingo Luciani (Llanito) | Acosta Alexander | 47 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Acosta Alí | 47 |  | Baruta | Ingresados por sismo |  |
 | Hosp. Dr. Domingo Luciani (Llanito) | Acosta Hasael | 13 |  | Baruta | Ingresados por sismo |  |
@@ -920,12 +1187,14 @@
 | Hosp. Dr. Domingo Luciani (Llanito) | Aidec Artenza (?) | 72 |  | La Guaira | EMG Trauma (7:30 am) | Fuente: Hosp. Domingo Luciani 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Al-Alabi Janeth | 26 |  | Caribe | Politrauma (MI) (7:20 am) | Fuente: Hosp. Domingo Luciani 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Al-Alalahi Mahmod (?) | 56 |  | La Guaira | EMG Trauma (7:30 am) | Fuente: Hosp. Domingo Luciani 26JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Al Halabi Yannet | 73 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Dr. Domingo Luciani (Llanito) | Alan Figuera | 14 |  | Caribe | Politrauma (MI) (7:20 am) | Fuente: Hosp. Domingo Luciani 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Alayon Suhyn | 25 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Albe Manuel (?) | 74 |  | N.A. | Ingresados por sismo |  |
 | Hosp. Dr. Domingo Luciani (Llanito) | Alem Piobran | 54 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Ya Barros – Ingresos 9am |
 | Hosp. Dr. Domingo Luciani (Llanito) | Alreu Emma | 8 |  | Sabana Grande | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Ana Gildert | 4 |  | La Guaira | Pediatría (7:00 am) | Fuente: Hosp. Domingo Luciani 26JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Anderson Hugo | 9 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado; PEDIATRIA PISO 6 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Andreina Vasconulo |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Politrauma |
 | Hosp. Dr. Domingo Luciani (Llanito) | Andres Urios | 9 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Pediatría |
 | Hosp. Dr. Domingo Luciani (Llanito) | Aneis Bresimo | 37 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · La Guaira – Ingresos 9am |
@@ -933,7 +1202,9 @@
 | Hosp. Dr. Domingo Luciani (Llanito) | Anthon Jesus | 52 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · La Guaira – Ingresos 9am |
 | Hosp. Dr. Domingo Luciani (Llanito) | Antonella Marín | 17 |  |  | Politrauma — Emergencia Vieja | Fuente: Hosp. Domingo Luciani 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Antonelle Merin / Antonelle Merrin | 17 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Politrauma Emerg. Vieja |
+| Hosp. Dr. Domingo Luciani (Llanito) | Aponto Jessica |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Dr. Domingo Luciani (Llanito) | Ardis Fañez (?) | 53 |  |  | POLI I (7:20 am) | Fuente: Hosp. Domingo Luciani 26JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Arellano Camila | 17 | 33420428 |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Dr. Domingo Luciani (Llanito) | Arfieta Doris |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Quirófano |
 | Hosp. Dr. Domingo Luciani (Llanito) | Ariso Renijilo | 54 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · La Guaira – Ingresos 9am |
 | Hosp. Dr. Domingo Luciani (Llanito) | Arrieta Dolis | 65 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
@@ -942,17 +1213,22 @@
 | Hosp. Dr. Domingo Luciani (Llanito) | Arteaga Aide |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Politrauma – Rx |
 | Hosp. Dr. Domingo Luciani (Llanito) | Arteaga Gladys | 72 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Arteta Doris (?) |  |  |  | Quirófano (II) | Fuente: Hosp. Domingo Luciani 26JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Arvelo Valeri | 6 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado; PEDIATRIA PISO 6 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Ascanio Luis | 15 |  | La Guaira | EMG Trauma (7:30 am) | Fuente: Hosp. Domingo Luciani 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Aurora Ordoz |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Politrauma |
 | Hosp. Dr. Domingo Luciani (Llanito) | Axiel Giménez |  |  |  | Pediatría (II) | Fuente: Hosp. Domingo Luciani 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Axiel Jimenez |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Pediatría |
 | Hosp. Dr. Domingo Luciani (Llanito) | Balas Laura | 33 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Politrauma Emerg. Nueva |
+| Hosp. Dr. Domingo Luciani (Llanito) | Balass Gonzalez Esmeralda Antonieta | 54 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Politrauma Emerg. Nueva |
 | Hosp. Dr. Domingo Luciani (Llanito) | Balbuena Wilmer | 37 |  | Petare | Ingresados por sismo |  |
 | Hosp. Dr. Domingo Luciani (Llanito) | Balbueno Wilmed | 37 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Balbueno Wilmer | 37 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Baras Esmeralda | 54 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Politrauma Emerg. Nueva |
 | Hosp. Dr. Domingo Luciani (Llanito) | Barreto Ricardo | 42 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Barreto Yoseanny | 30 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Quirófano – F |
+| Hosp. Dr. Domingo Luciani (Llanito) | Baute Morelis | 65 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Pol I – F; Politrauma |
+| Hosp. Dr. Domingo Luciani (Llanito) | Bencomo Norky | 37 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado; PISO 2 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Bercomo Nailis | 37 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado; POLITRAUMA |
 | Hosp. Dr. Domingo Luciani (Llanito) | Bercomo Norkis | 37 |  | La Guaira | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Ingresos 6am-9:20pm |
 | Hosp. Dr. Domingo Luciani (Llanito) | Betancour Maria | 74 |  | PETARE | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Betancourt María | 74 |  | Petare | Ingresados por sismo |  |
@@ -965,12 +1241,16 @@
 | Hosp. Dr. Domingo Luciani (Llanito) | Blanco Sofia Segura / Blanco Yessica |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Politrauma |
 | Hosp. Dr. Domingo Luciani (Llanito) | Blanco Yessika | 53 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · PISO 2 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Blanco Yesska | 53 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Blanco Yveremia |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Cardiología Piso 2 – H-10 – F |
 | Hosp. Dr. Domingo Luciani (Llanito) | Blancos Yessica | 53 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Blandin Sebastian | 7 |  | La Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Pediatría |
+| Hosp. Dr. Domingo Luciani (Llanito) | Boada Evelyn | 5 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Trauma |
+| Hosp. Dr. Domingo Luciani (Llanito) | Boada Mendez Evelyn Luisa | 54 | 11636506 |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Dr. Domingo Luciani (Llanito) | Boado Evelin | 51 |  | La Guaira | EMG Trauma (7:30 am) | Fuente: Hosp. Domingo Luciani 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Boado Evoelyn |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Politrauma Emerg. Nueva |
 | Hosp. Dr. Domingo Luciani (Llanito) | Bompard Radhi |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Politrauma |
 | Hosp. Dr. Domingo Luciani (Llanito) | Bompard Rodni |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Bomparo Rodni |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Borgas Liliana | 21 |  | La Guaira | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Borges Carmen | 68 |  | El Hatillo | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Borges Liliane | 21 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
@@ -979,7 +1259,10 @@
 | Hosp. Dr. Domingo Luciani (Llanito) | Bosporte Romy | 33 |  | La Guaira | EMG Trauma (7:30 am) | Fuente: Hosp. Domingo Luciani 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Bradian García | 8 |  | La Guaira | Pediatría (7:00 am) | Fuente: Hosp. Domingo Luciani 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Brate Celis (?) | 62 |  |  | Politrauma — Emergencia Vieja | Fuente: Hosp. Domingo Luciani 26JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Brito Gina | 49 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Cardiología Piso 2 – H-11 – F |
 | Hosp. Dr. Domingo Luciani (Llanito) | Bubal Clara | 62 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Buce Saul | 26 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Trauma |
+| Hosp. Dr. Domingo Luciani (Llanito) | Bui Dannis | 41 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Quirófano – M |
 | Hosp. Dr. Domingo Luciani (Llanito) | Cabarca Vendezilín | 13 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Qx |
 | Hosp. Dr. Domingo Luciani (Llanito) | Cabarca Yenderli | 12 |  | Caribe | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Pediatría |
 | Hosp. Dr. Domingo Luciani (Llanito) | Cabarca Yenderlin |  |  |  | Quirófano (II) | Fuente: Hosp. Domingo Luciani 26JUN26 |
@@ -990,7 +1273,10 @@
 | Hosp. Dr. Domingo Luciani (Llanito) | Cadarca Yenderli |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Pediatría |
 | Hosp. Dr. Domingo Luciani (Llanito) | Caldera Lewis | 40 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Calos González (?) |  |  |  | Politrauma — Emergencia Nueva | Fuente: Hosp. Domingo Luciani 26JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Candad Victoria | 29 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Trauma |
+| Hosp. Dr. Domingo Luciani (Llanito) | Caraballo Branyerlis | 29 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Cardiología Piso 2 – H-11 – F |
 | Hosp. Dr. Domingo Luciani (Llanito) | Cardozo Carla | 25 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Cardozo Marka | 26 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Medicina Interna |
 | Hosp. Dr. Domingo Luciani (Llanito) | Carlos Castro |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Politrauma / Rx |
 | Hosp. Dr. Domingo Luciani (Llanito) | Carrasquel Santiago | 14 |  | La Guaira | EMG Trauma (7:30 am) | Fuente: Hosp. Domingo Luciani 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Carrizaje Santiago | 94 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · La Guaira – Ingresos 9am |
@@ -1003,6 +1289,7 @@
 | Hosp. Dr. Domingo Luciani (Llanito) | Castaño Donna | 12 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Pediatría |
 | Hosp. Dr. Domingo Luciani (Llanito) | Castaño Uhana | 12 |  | Los Corales | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Pediatría |
 | Hosp. Dr. Domingo Luciani (Llanito) | Castellano Danna |  |  |  | Cirugía Pediátrica (niño solo) |  |
+| Hosp. Dr. Domingo Luciani (Llanito) | Castellero Maria | 65 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Politrauma – Guarena |
 | Hosp. Dr. Domingo Luciani (Llanito) | Castillo Iaskara | 28 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Politrauma Emerg. Vieja |
 | Hosp. Dr. Domingo Luciani (Llanito) | Castillo Iaskara / Castillo Yaiskar | 28 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Politrauma Emerg. Vieja |
 | Hosp. Dr. Domingo Luciani (Llanito) | Castillo Isakira | 28 |  |  | Politrauma — Emergencia Vieja | Fuente: Hosp. Domingo Luciani 26JUN26 |
@@ -1010,6 +1297,8 @@
 | Hosp. Dr. Domingo Luciani (Llanito) | Castillo Lusis | 42 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Quirófano – F |
 | Hosp. Dr. Domingo Luciani (Llanito) | Castillo Ricardo | 42 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Quirófano |
 | Hosp. Dr. Domingo Luciani (Llanito) | Castillo Victoria |  |  |  | Cirugía Pediátrica (niño solo) |  |
+| Hosp. Dr. Domingo Luciani (Llanito) | Castillo Yaiskar | 28 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Politrauma Emerg. Vieja |
+| Hosp. Dr. Domingo Luciani (Llanito) | Castro Erick | 51 | 11635045 |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado; POLITRAUMA |
 | Hosp. Dr. Domingo Luciani (Llanito) | Castro Juan | 26 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Cecis Tania | 62 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Politrauma Emerg. Nueva |
 | Hosp. Dr. Domingo Luciani (Llanito) | Cela Tania | 34 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
@@ -1020,38 +1309,55 @@
 | Hosp. Dr. Domingo Luciani (Llanito) | Clara Inés Chptra (?) | 62 |  | Petare (?) | EMG Trauma (7:30 am) | Fuente: Hosp. Domingo Luciani 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Colis Tania |  |  |  | Politrauma — Emergencia Nueva | Fuente: Hosp. Domingo Luciani 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Córdova Arnaldo | 19 |  | Guarenas | Ingresados por sismo |  |
+| Hosp. Dr. Domingo Luciani (Llanito) | Coyo Rafael | 32 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Da Silva Antony | 19 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Politrauma Emerg. Vieja |
 | Hosp. Dr. Domingo Luciani (Llanito) | Da Silva Engeerbueth | 21 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Politrauma Emerg. Vieja |
 | Hosp. Dr. Domingo Luciani (Llanito) | Dannis Puig | 41 |  |  | Quirófano (9:27 am) | Fuente: Hosp. Domingo Luciani 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Dasilva Alexandra | 21 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Politrauma Emerg. Vieja |
+| Hosp. Dr. Domingo Luciani (Llanito) | Dasilva Anthony | 14 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Politrauma Emerg. Vieja |
 | Hosp. Dr. Domingo Luciani (Llanito) | Dasilva Anthony / Antony Dasilva | 14 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Politrauma Emerg. Vieja |
 | Hosp. Dr. Domingo Luciani (Llanito) | Dasilva Engerberth | 21 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Politrauma Emerg. Vieja |
 | Hosp. Dr. Domingo Luciani (Llanito) | David Mayorca | 26 |  | La Guaira | Politrauma (MI) (7:20 am) | Fuente: Hosp. Domingo Luciani 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | De Castillo Luci | 48 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Politrauma Emerg. Nueva |
 | Hosp. Dr. Domingo Luciani (Llanito) | De Cepe Yolando (?) |  |  |  | Politrauma — Emergencia Nueva | Fuente: Hosp. Domingo Luciani 26JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | De Cope Yolanda |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Politrauma Emerg. Nueva |
+| Hosp. Dr. Domingo Luciani (Llanito) | Deazat Esteban | 50 | 16116675 |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado; Alta |
 | Hosp. Dr. Domingo Luciani (Llanito) | Delgado Edimar | 23 |  | San Martín | Ingresados por sismo |  |
 | Hosp. Dr. Domingo Luciani (Llanito) | Denny Ruiz | 41 |  | La Guaira | Politrauma (MI) (7:20 am) | Fuente: Hosp. Domingo Luciani 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Desmon Lewin | 10 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Pediatría |
+| Hosp. Dr. Domingo Luciani (Llanito) | Diaz Maubri |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Politrauma Emerg. Nueva |
 | Hosp. Dr. Domingo Luciani (Llanito) | Diego Obregón |  |  |  | Triaje de cirugía |  |
 | Hosp. Dr. Domingo Luciani (Llanito) | Dirito Rosa (?) | 64 |  | Chacao | Ingresados por sismo |  |
 | Hosp. Dr. Domingo Luciani (Llanito) | Divito Rosa | 64 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Donacimiento Sebastian | 16 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Doria Ekarle | 23 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado; Accidente en moto |
 | Hosp. Dr. Domingo Luciani (Llanito) | Doria Scarlet |  |  |  | Politrauma — Emergencia Nueva | Fuente: Hosp. Domingo Luciani 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Doria Scarlet / Doria Karle |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Politrauma Emerg. Nueva |
+| Hosp. Dr. Domingo Luciani (Llanito) | Doria Scarlet / Doria Karle / Doria Bkarlet |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Politrauma Emerg. Nueva |
 | Hosp. Dr. Domingo Luciani (Llanito) | Duce Samuel | 25 |  | La Guaira | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Ingresos 6am-9:20pm |
+| Hosp. Dr. Domingo Luciani (Llanito) | Dugarte Estefany | 34 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Dr. Domingo Luciani (Llanito) | Echarle Doris | 23 |  | Catia | EMG Trauma (7:30 am) | Fuente: Hosp. Domingo Luciani 26JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Econguela Jesus | 60 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado; PISO 4 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Edis Tania | 62 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado; UCI |
 | Hosp. Dr. Domingo Luciani (Llanito) | Ekarce Doria | 23 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Politrauma Emerg. Nueva |
+| Hosp. Dr. Domingo Luciani (Llanito) | Ekarce/scarlet Doria | 23 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado; Politrauma Emerg. Nueva |
 | Hosp. Dr. Domingo Luciani (Llanito) | Enrique Izquierdo | 63 |  |  | Medicina Interna (9:00 am) | Fuente: Hosp. Domingo Luciani 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Escalona Ivis | 55 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Espitia Yohany Garabuto |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Politrauma |
 | Hosp. Dr. Domingo Luciani (Llanito) | Espitia Yohany Garabuto / Espitia Garabito Yohany |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Politrauma |
 | Hosp. Dr. Domingo Luciani (Llanito) | Fabina Ribas |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Faontado Miel (?) |  |  |  | Pediatría (II) | Fuente: Hosp. Domingo Luciani 26JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Fariña Arelis | 53 | 11058065 |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado; Rx |
+| Hosp. Dr. Domingo Luciani (Llanito) | Farinez Arelis | 53 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Pol I – F |
 | Hosp. Dr. Domingo Luciani (Llanito) | Fernández Efraín | 31 |  | Catia | Ingresados por sismo |  |
+| Hosp. Dr. Domingo Luciani (Llanito) | Fernandez Emili | 31 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado; UPT, llegó la familia |
 | Hosp. Dr. Domingo Luciani (Llanito) | Fernandez Neisy | 37 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Fernandez Nelsy | 57 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Fernández Niusy (?) | 37 |  | Guarenas | Ingresados por sismo |  |
+| Hosp. Dr. Domingo Luciani (Llanito) | Fernandez Snelo | 31 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Medicina Interna – F |
 | Hosp. Dr. Domingo Luciani (Llanito) | Fernandez Yaspindy | 33 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Fernandez Yaspindy / Fernandez Yusqueidy / Fernandez Yuskordy / Fernandez Yuskeidy | 33 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Fernandez Yoskeidy | 35 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado; POLITRAUMA EMERG NUEVA |
 | Hosp. Dr. Domingo Luciani (Llanito) | Fernández Yuskuidy | 35 |  |  | Politrauma — Emergencia Vieja | Fuente: Hosp. Domingo Luciani 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Fernández Yusqueidy | 35 |  | La Guaira | EMG Trauma (7:30 am) | Fuente: Hosp. Domingo Luciani 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Fernandy Neisy | 37 |  | GUARENAS | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
@@ -1063,6 +1369,7 @@
 | Hosp. Dr. Domingo Luciani (Llanito) | Frontado Miel | 7 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Fronto Litel |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · CI: 10582260 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Fuentes Alberto | 52 |  | Petare | Ingresados por sismo |  |
+| Hosp. Dr. Domingo Luciani (Llanito) | Fuentes Carlos |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado; Fecha: 25/6/26 pm |
 | Hosp. Dr. Domingo Luciani (Llanito) | Fuentes Galvis Alberto |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Galcia Rodas | 71 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Politrauma Emerg. Vieja |
 | Hosp. Dr. Domingo Luciani (Llanito) | Galicia Rodas | 71 |  |  | Politrauma — Emergencia Vieja | Fuente: Hosp. Domingo Luciani 26JUN26 |
@@ -1073,13 +1380,22 @@
 | Hosp. Dr. Domingo Luciani (Llanito) | Garabito Yoseani | 30 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Politrauma Emerg. Vieja |
 | Hosp. Dr. Domingo Luciani (Llanito) | Garabito Yoseani / Garabito Yoseanny | 30 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Politrauma Emerg. Vieja |
 | Hosp. Dr. Domingo Luciani (Llanito) | Garalito Yoseanny (?) |  |  |  | Quirófano (II) | Fuente: Hosp. Domingo Luciani 26JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Garavito Espitia Yohany |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Garavito Espitia Yohany / Garavito Espitia Yosiany |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Garcia Diaz Yenni Fernanda | 34 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | García Díaz Yeuni Fernanda (?) | 34 |  | Petare | Ingresados por sismo |  |
+| Hosp. Dr. Domingo Luciani (Llanito) | Garcia Fernanda | 34 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 |
 | Hosp. Dr. Domingo Luciani (Llanito) | García José | 89 |  | La Guaira | EMG Trauma (7:30 am) | Fuente: Hosp. Domingo Luciani 26JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Garcia Vega | 1 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado; PEDIATRIA |
 | Hosp. Dr. Domingo Luciani (Llanito) | Garcia Yenny | 34 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Garcias Odalys | 43 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Medicina Interna – F |
 | Hosp. Dr. Domingo Luciani (Llanito) | Garett Jean | 41 |  | La Guaira | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Ingresos 6am-9:20pm |
+| Hosp. Dr. Domingo Luciani (Llanito) | Garett Juan | 41 |  | La Guaira | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Ingresos 6am-9:20pm |
+| Hosp. Dr. Domingo Luciani (Llanito) | Gato Yaleska | 23 | 30514231 |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Hosp. Dr. Domingo Luciani (Llanito) | Gilbert Ana | 4 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Pediatría – La Guaira |
 | Hosp. Dr. Domingo Luciani (Llanito) | Gisorelis Moreno (?) | 37 |  |  | Quirófano (9:27 am) | Fuente: Hosp. Domingo Luciani 26JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Gomez Lucy | 61 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Politrauma – Caribe; TRM |
+| Hosp. Dr. Domingo Luciani (Llanito) | Goncalves Lucy | 61 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Trauma |
 | Hosp. Dr. Domingo Luciani (Llanito) | Gonzales Albymar | 59 |  | Altamira | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Gonzalez Albeymar | 59 |  | Altamira | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Gonzalez Albimar | 59 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
@@ -1087,7 +1403,9 @@
 | Hosp. Dr. Domingo Luciani (Llanito) | Gonzalez Alexandra | 42 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Gonzalez Alexandra / Gonzalez Alexandre | 42 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | González Alexandre | 40 |  |  | Politrauma — Emergencia Vieja | Fuente: Hosp. Domingo Luciani 26JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Gonzalez Carlos |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Dr. Domingo Luciani (Llanito) | Gonzalez Juci | 61 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · La Guaira – Ingresos 9am |
+| Hosp. Dr. Domingo Luciani (Llanito) | Gonzalez Kairyn |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Dr. Domingo Luciani (Llanito) | Gonzalez Kelly | 36 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · La Guaira – Ingresos 9am |
 | Hosp. Dr. Domingo Luciani (Llanito) | Gonzalez Luci | 61 |  | La Guaira | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Ingresos 6am-9:20pm |
 | Hosp. Dr. Domingo Luciani (Llanito) | Gonzalez Olga | 63 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
@@ -1102,21 +1420,28 @@
 | Hosp. Dr. Domingo Luciani (Llanito) | Gonzalez Yailly | 26 |  | La Guaira | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Ingresos 6am-9:20pm |
 | Hosp. Dr. Domingo Luciani (Llanito) | Gonzalez Yailyn | 26 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Politrauma Emerg. Nueva |
 | Hosp. Dr. Domingo Luciani (Llanito) | Gonzalez Yailyn / Gonzalez Yailin | 26 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Politrauma Emerg. Nueva |
+| Hosp. Dr. Domingo Luciani (Llanito) | Gonzalez Yolanda |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado; Alta |
 | Hosp. Dr. Domingo Luciani (Llanito) | Gorros Julia | 34 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · La Guaira – Ingresos 9am |
 | Hosp. Dr. Domingo Luciani (Llanito) | Gotti Jean | 44 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · La Guaira – Ingresos 9am |
 | Hosp. Dr. Domingo Luciani (Llanito) | Goyo Rafael | 32 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Gualina Padron Efren |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Guapin Efren | 30 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Piso 2 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Guapini Efren | 30 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Piso 2 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Guapini Efren P2 | 30 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Guarini Padrón Efrén (?) |  |  |  | Lista (img.2) |  |
 | Hosp. Dr. Domingo Luciani (Llanito) | Guavini Efren P.2 | 30 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Guavini Efren P.2 / Guavini Padron Efren | 30 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Guavini Efren P.2 / Guavini Padron Efren / Guarimbe Efren | 30 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Guerreiro Guerreiro |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado; POLITRAUMA EMERG NUEVA |
 | Hosp. Dr. Domingo Luciani (Llanito) | Guerreiro Jesus | 44 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Politrauma Emerg. Nueva |
 | Hosp. Dr. Domingo Luciani (Llanito) | Guerrero Deiverson | 20 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Guerrero Guerrero |  |  |  | Politrauma — Emergencia Nueva | Fuente: Hosp. Domingo Luciani 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Guzman Paola | 12 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Harrufo Ariana | 84 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Trauma |
+| Hosp. Dr. Domingo Luciani (Llanito) | Hernandez Francisco | 62 | 8176273 |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado; UPT 2. |
 | Hosp. Dr. Domingo Luciani (Llanito) | Herrera Meilano Gladiuska |  |  |  | Lista (img.3) |  |
 | Hosp. Dr. Domingo Luciani (Llanito) | Herrera Merlano Gladivska |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Herrero Gladiuska | 26 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Cardiología Piso 2 – H-10 – F |
 | Hosp. Dr. Domingo Luciani (Llanito) | Herrero Merlano Gladiuska |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Hilden Ana |  |  |  | Pediatría (II) | Fuente: Hosp. Domingo Luciani 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Hilden Anz | 4 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Pediatría |
@@ -1129,6 +1454,7 @@
 | Hosp. Dr. Domingo Luciani (Llanito) | Huoa Anderson | 9 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Pediatría |
 | Hosp. Dr. Domingo Luciani (Llanito) | Ibarra Ana | 74 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Iscala Yenny (?) | 42 |  | Baruta | Ingresados por sismo |  |
+| Hosp. Dr. Domingo Luciani (Llanito) | Isquiel Henrique | 55 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Politrauma Emerg. Nueva |
 | Hosp. Dr. Domingo Luciani (Llanito) | Isquier Henrique / Isquier Henriaique |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Politrauma Emerg. Nueva |
 | Hosp. Dr. Domingo Luciani (Llanito) | Isquier Henrrique (?) |  |  |  | Politrauma — Emergencia Nueva | Fuente: Hosp. Domingo Luciani 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Isquierdo Henriquez | 55 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Politrauma Emerg. Nueva |
@@ -1136,6 +1462,8 @@
 | Hosp. Dr. Domingo Luciani (Llanito) | Izquierdo Iraima | 83 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Fallecida |
 | Hosp. Dr. Domingo Luciani (Llanito) | Izquierdo Jean | 83 |  | Palos Grandes | Ingresados por sismo |  |
 | Hosp. Dr. Domingo Luciani (Llanito) | Jancel Rey (?) |  |  |  | Quirófano (II) | Fuente: Hosp. Domingo Luciani 26JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Janelly Nabi | 26 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Politrauma – Caribe |
+| Hosp. Dr. Domingo Luciani (Llanito) | Jelani Rodriguez | 32 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado; QUIROFANO |
 | Hosp. Dr. Domingo Luciani (Llanito) | Jencel Rey | 8 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Quirófano |
 | Hosp. Dr. Domingo Luciani (Llanito) | Jimenez Axel | 4 |  | Los Corales | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Pediatría – Madre: Mileidi Lopez |
 | Hosp. Dr. Domingo Luciani (Llanito) | Jimenez Axel / Jimenes Axel | 4 |  | Los Corales | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Pediatría – Madre: Mileidi Lopez |
@@ -1143,6 +1471,7 @@
 | Hosp. Dr. Domingo Luciani (Llanito) | Jiver Samuel | 30 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · La Guaira – Ingresos 9am |
 | Hosp. Dr. Domingo Luciani (Llanito) | Joiber Silva | 7 |  | La Guaira | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Pediatría |
 | Hosp. Dr. Domingo Luciani (Llanito) | Joseph Miranda | 24 |  | Catia | EMG Trauma (7:30 am) | Fuente: Hosp. Domingo Luciani 26JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Jull Samuel | 25 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado; POLITRAUMA |
 | Hosp. Dr. Domingo Luciani (Llanito) | Lander Sebastián |  |  |  | Cirugía Pediátrica (niño solo) |  |
 | Hosp. Dr. Domingo Luciani (Llanito) | Lando Sebastian | 7 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · CI: 47513650 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Lastra Visbal Clara |  |  |  | Lista (img.2) |  |
@@ -1153,21 +1482,25 @@
 | Hosp. Dr. Domingo Luciani (Llanito) | Lopez Fronin Rivas |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Politrauma |
 | Hosp. Dr. Domingo Luciani (Llanito) | Lopez Haddy F | 42 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Lostra Visbal Clara |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Loyo Clara |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Loyo Visbal Clara |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Lucy De Castillo | 48 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Lucy Gonzálvez | 61 |  | Caribe | Politrauma (MI) (7:20 am) | Fuente: Hosp. Domingo Luciani 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Luis Reborelo | 57 |  |  | POLI I (7:20 am) | Fuente: Hosp. Domingo Luciani 26JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Lure Torres |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado; Vc Pediatría |
 | Hosp. Dr. Domingo Luciani (Llanito) | Machado Anabela | 9 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Machado Anabella | 9 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Machado Anarella | 9 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Machado Anarella / Machado Anarela | 9 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Majano Jose | 26 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · La Guaira – Ingresos 9am |
+| Hosp. Dr. Domingo Luciani (Llanito) | Mamud Halabi | 56 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Trauma |
 | Hosp. Dr. Domingo Luciani (Llanito) | Manuel Coluan (?) |  |  |  | Politrauma — Emergencia Nueva | Fuente: Hosp. Domingo Luciani 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Manuel Odrube (?) | 38 |  |  | Medicina Interna (9:00 am) | Fuente: Hosp. Domingo Luciani 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Marabito Espitia Joseani | 32 |  | Petare | Ingresados por sismo |  |
 | Hosp. Dr. Domingo Luciani (Llanito) | Marabito Joseani | 32 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Marabito Joseani / Marabito Joscani | 32 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Marcano Katiuska | 56 |  | La Guaira | Ingresados por sismo |  |
+| Hosp. Dr. Domingo Luciani (Llanito) | Marcano Rosa |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Dr. Domingo Luciani (Llanito) | María Castañedo | 65 |  | Guarenas (?) | Politrauma (MI) (7:20 am) | Fuente: Hosp. Domingo Luciani 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Marla Cardoza | 25 |  |  | Medicina Interna (9:00 am) | Fuente: Hosp. Domingo Luciani 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Martinez Isaac | 10 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Quirófano |
@@ -1177,22 +1510,29 @@
 | Hosp. Dr. Domingo Luciani (Llanito) | Martinez Johan Isaac | 10 |  | La Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Pediatría – Padre: Carmen Midy |
 | Hosp. Dr. Domingo Luciani (Llanito) | Maubios Diaz | 51 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Politrauma Emerg. Nueva |
 | Hosp. Dr. Domingo Luciani (Llanito) | Mayora Jesus | 26 |  | La Guaira | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Ingresos 6am-9:20pm |
+| Hosp. Dr. Domingo Luciani (Llanito) | Mayorca Jesus | 26 |  | La Guaira | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Ingresos 6am-9:20pm |
 | Hosp. Dr. Domingo Luciani (Llanito) | Mendez Yesire | 24 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Mendez Yesire / Mendez Yesireal | 24 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Méndez Yesirée (?) | 24 |  | Guarenas | Ingresados por sismo |  |
+| Hosp. Dr. Domingo Luciani (Llanito) | Mendoza Astrid | 38 | 20781654 |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado; Alta |
+| Hosp. Dr. Domingo Luciani (Llanito) | Merin Antonella | 17 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Dr. Domingo Luciani (Llanito) | Merlano Gladivska Herrero |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Politrauma |
 | Hosp. Dr. Domingo Luciani (Llanito) | Mijares Isolibeth | 45 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Mijares Isolibeth / Mijares Isolbeth / Mijares Isalibeth | 45 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Milano Gladiuska | 25 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Milano Gladivska | 29 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Miranda Jose | 24 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Trauma |
+| Hosp. Dr. Domingo Luciani (Llanito) | Miranda Victoria |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Dr. Domingo Luciani (Llanito) | Mirelis Baute | 65 |  |  | POLI I (7:20 am) | Fuente: Hosp. Domingo Luciani 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Misy Gabriela Parra |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Politrauma |
 | Hosp. Dr. Domingo Luciani (Llanito) | Moreno Gismel | 31 |  | La Guaira | EMG Trauma (7:30 am) | Fuente: Hosp. Domingo Luciani 26JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Moreno Gismeli | 31 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Quirófano – F |
 | Hosp. Dr. Domingo Luciani (Llanito) | Muñon Mariangel | 59 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Muñoz Josefina | 72 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Nahomi Marrero | 20 |  |  | Politrauma — Emergencia Vieja | Fuente: Hosp. Domingo Luciani 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Nohori Marrero | 20 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Politrauma Emerg. Vieja |
 | Hosp. Dr. Domingo Luciani (Llanito) | Odalys García | 43 |  |  | Medicina Interna (9:00 am) | Fuente: Hosp. Domingo Luciani 26JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Odebe Manuel | 38 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Medicina Interna – M |
 | Hosp. Dr. Domingo Luciani (Llanito) | Ojeda Doris Arrieta |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Politrauma |
 | Hosp. Dr. Domingo Luciani (Llanito) | Oldaz Luisana | 58 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Omaciento Sebastian | 16 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
@@ -1206,20 +1546,30 @@
 | Hosp. Dr. Domingo Luciani (Llanito) | Padilla Rodoski | 4 |  |  | Cirugía Pediátrica (niño solo) |  |
 | Hosp. Dr. Domingo Luciani (Llanito) | Padon Efren Gualino |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Politrauma |
 | Hosp. Dr. Domingo Luciani (Llanito) | Padon Euilo |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Politrauma |
+| Hosp. Dr. Domingo Luciani (Llanito) | Padron Cirilo |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Padron Douglas | 20 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Cardiología Piso 2 – H-9 – M |
+| Hosp. Dr. Domingo Luciani (Llanito) | Padron Jean Franco | 42 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Dr. Domingo Luciani (Llanito) | Padrón Jesús Cirilo |  |  |  | Lista (img.2) |  |
 | Hosp. Dr. Domingo Luciani (Llanito) | Paola Alcoido |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Politrauma Emerg. Nueva |
+| Hosp. Dr. Domingo Luciani (Llanito) | Parada Antonio | 78 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado; PISO 2 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Parenyi Perez | 14 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado; PISO 2 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Parra Estefanía | 15 |  | Baruta | Ingresados por sismo |  |
 | Hosp. Dr. Domingo Luciani (Llanito) | Parra Gabriela | 19 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Parra Misel Gabriela |  |  |  | Lista (img.2) |  |
 | Hosp. Dr. Domingo Luciani (Llanito) | Pedro Aliscano | 40 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Alta/cirugía |
 | Hosp. Dr. Domingo Luciani (Llanito) | Pedro Jesus | 68 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Pedron David |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Dr. Domingo Luciani (Llanito) | Pedron Jesús | 68 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Perez Aranyi | 14 |  | La Guaira | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Ingresos 6am-9:20pm |
+| Hosp. Dr. Domingo Luciani (Llanito) | Perez Eliamar | 23 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado; POLITRAUMA |
 | Hosp. Dr. Domingo Luciani (Llanito) | Perez Francisca | 63 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Pérez Francisco | 63 |  | Petare | Ingresados por sismo |  |
+| Hosp. Dr. Domingo Luciani (Llanito) | Perez Pacini | 14 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Cardiología Piso 2 – H-9 – M |
+| Hosp. Dr. Domingo Luciani (Llanito) | Peter Angy | 45 | 22061324 |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado; Triaje |
 | Hosp. Dr. Domingo Luciani (Llanito) | Piasardo Reinier | 40 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · CI: 16390168 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Piñero Sebastian | 16 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Pireto Sebastián | 16 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Posada Antonio | 78 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Cardiología Piso 2 – H-9 – M |
 | Hosp. Dr. Domingo Luciani (Llanito) | Prada Gabriela | 15 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · CI: 24037224 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Rada Alceida (?) |  |  |  | Politrauma — Emergencia Nueva | Fuente: Hosp. Domingo Luciani 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Ramírez Escalante Mariangel |  |  |  | Lista (img.3) |  |
@@ -1227,10 +1577,17 @@
 | Hosp. Dr. Domingo Luciani (Llanito) | Ramirez Jose | 37 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Ramírez Mariangel | 33 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Ramírez Nairobis |  |  |  | Politrauma — Emergencia Nueva | Fuente: Hosp. Domingo Luciani 26JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Ramirez Nairoby |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Politrauma Emerg. Nueva |
+| Hosp. Dr. Domingo Luciani (Llanito) | Ramirez Quintana | 32 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado; SALA DE PARTO |
 | Hosp. Dr. Domingo Luciani (Llanito) | Ramirez Quintero | 32 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Sala de Parto |
+| Hosp. Dr. Domingo Luciani (Llanito) | Re Yvaire | 29 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Cardiología Piso 2 – H-10 – F |
+| Hosp. Dr. Domingo Luciani (Llanito) | Reboredo Luis | 57 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Pol I – M |
 | Hosp. Dr. Domingo Luciani (Llanito) | Rengifo Adelso | 59 |  | La Guaira | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Ingresos 6am-9:20pm |
+| Hosp. Dr. Domingo Luciani (Llanito) | Rengifo Adolfo | 59 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado; POLITRAUMA |
 | Hosp. Dr. Domingo Luciani (Llanito) | Rengifo Deili | 46 |  | Petare | Ingresados por sismo |  |
+| Hosp. Dr. Domingo Luciani (Llanito) | Rengifo Delli | 46 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Rengifo Guillermina | 46 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Requena Dilia | 52 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado; Tiene familia |
 | Hosp. Dr. Domingo Luciani (Llanito) | Rey Jenicel |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Quirófano |
 | Hosp. Dr. Domingo Luciani (Llanito) | Rey Jennal | 29 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Rey Jenncel | 29 |  | chacao | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
@@ -1240,12 +1597,22 @@
 | Hosp. Dr. Domingo Luciani (Llanito) | Ribas Fabiana | 23 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Rivas Fabiana | 23 |  | La Guaira | EMG Trauma (7:30 am) | Fuente: Hosp. Domingo Luciani 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Rivas Fabina | 23 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Rivas Francis |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Rivas Frankenil | 53 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Rivas Jose | 53 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · La Guaira – Ingresos 9am |
+| Hosp. Dr. Domingo Luciani (Llanito) | Rivas Lopez Francis |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Politrauma |
 | Hosp. Dr. Domingo Luciani (Llanito) | Rivas Lopez Francis / Rivas Lopez Franin |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Rivas López Franin (?) |  |  |  | Lista (img.3) |  |
 | Hosp. Dr. Domingo Luciani (Llanito) | Rivero Daniel | 60 |  | Macaracuay | Ingresados por sismo |  |
+| Hosp. Dr. Domingo Luciani (Llanito) | Rivero Jose | 53 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado; PISO 4 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Roda Heida | 71 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado; POLITRAUMA EMERG NUEVA |
+| Hosp. Dr. Domingo Luciani (Llanito) | Rodes Galicia |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado; Alta |
+| Hosp. Dr. Domingo Luciani (Llanito) | Rodriguez Camila | 17 | 34234386 |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado; Triaje |
+| Hosp. Dr. Domingo Luciani (Llanito) | Rodriguez Carreno Maria Salome | 82 | 5609377 |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Dr. Domingo Luciani (Llanito) | Rodríguez Eduardo | 65 |  | Petare | Ingresados por sismo |  |
+| Hosp. Dr. Domingo Luciani (Llanito) | Rodriguez Haria | 52 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Trauma |
+| Hosp. Dr. Domingo Luciani (Llanito) | Rodriguez Helary | 32 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Quirófano – F |
+| Hosp. Dr. Domingo Luciani (Llanito) | Rodriguez Hernandez Jesus Enrique | 28 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Politrauma Emerg. Nueva |
 | Hosp. Dr. Domingo Luciani (Llanito) | Rodriguez Hilary | 32 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Quirófano – F |
 | Hosp. Dr. Domingo Luciani (Llanito) | Rodriguez Jesus | 28 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Politrauma Emerg. Nueva |
 | Hosp. Dr. Domingo Luciani (Llanito) | Rodriguez Jokse | 32 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
@@ -1255,30 +1622,42 @@
 | Hosp. Dr. Domingo Luciani (Llanito) | Rondón Ángel | 12 |  | Baruta | Ingresados por sismo |  |
 | Hosp. Dr. Domingo Luciani (Llanito) | Rosalis Vasquez | 18 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Politrauma Emerg. Nueva |
 | Hosp. Dr. Domingo Luciani (Llanito) | Rrez Eliomor | 23 |  | La Guaira | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Ingresos 6am-9:20pm |
+| Hosp. Dr. Domingo Luciani (Llanito) | Rueda Isabel | 50 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Trauma |
+| Hosp. Dr. Domingo Luciani (Llanito) | Ruiz Denni | 49 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Politrauma – La Guaira |
 | Hosp. Dr. Domingo Luciani (Llanito) | Salasaa Arturo | 13 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Pediatría |
 | Hosp. Dr. Domingo Luciani (Llanito) | Salasab Arturo |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Pediatría |
 | Hosp. Dr. Domingo Luciani (Llanito) | Salazar Arturo | 13 |  |  | Cirugía Pediátrica (niño solo) |  |
 | Hosp. Dr. Domingo Luciani (Llanito) | Salazar Helen |  |  |  | Politrauma — Emergencia Nueva | Fuente: Hosp. Domingo Luciani 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Salega Gaem | 23 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · CI: 29819565 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Salogar Arturo | 13 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Sanchez Arelis F | 53 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado; POLITRAUMA MI |
 | Hosp. Dr. Domingo Luciani (Llanito) | Sanchez Asildaro | 85 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · La Guaira – Ingresos 9am |
 | Hosp. Dr. Domingo Luciani (Llanito) | Sanchez Camillas |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · La Guaira – Ingresos 9am |
 | Hosp. Dr. Domingo Luciani (Llanito) | Sanchez Catalina |  |  | La Guaira | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Ingresos 6am-9:20pm |
+| Hosp. Dr. Domingo Luciani (Llanito) | Sanchez Estiven | 28 | 28037310 |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado; Alta |
 | Hosp. Dr. Domingo Luciani (Llanito) | Sanchez Katalina | 65 |  | La Guaira | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Ingresos 6am-9:20pm |
+| Hosp. Dr. Domingo Luciani (Llanito) | Sandoval Adriana |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Dr. Domingo Luciani (Llanito) | Sandoval Nelly | 62 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Saneth Ataboni |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Trauma |
+| Hosp. Dr. Domingo Luciani (Llanito) | Santiago Rivas | 16 | 33285910 |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Dr. Domingo Luciani (Llanito) | Sebastián Carrasquel | 12 |  | La Guaira | EMG Trauma (7:30 am) | Fuente: Hosp. Domingo Luciani 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Sebastián Doncimento (?) | 16 |  |  | UCI | Fuente: Hosp. Domingo Luciani 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Sebastián Landi | 7 |  | La Guaira | Pediatría (7:00 am) | Fuente: Hosp. Domingo Luciani 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Sequela Sofia | 19 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Sequera Blanco Sofía |  |  |  | Lista (img.3) |  |
+| Hosp. Dr. Domingo Luciani (Llanito) | Sequera Sofia | 19 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Serez Francisca | 63 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Serra Amira | 66 |  | La Guaira | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Ingresos 6am-9:20pm |
 | Hosp. Dr. Domingo Luciani (Llanito) | Serrano González Nancy |  |  |  | Lista (img.2) |  |
 | Hosp. Dr. Domingo Luciani (Llanito) | Serrano Nancy | 67 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Servis Canines | 46 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · La Guaira – Ingresos 9am |
 | Hosp. Dr. Domingo Luciani (Llanito) | Silua Yohaiber (?) |  |  |  | Pediatría (II) | Fuente: Hosp. Domingo Luciani 26JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Silva Jhoalbert | 7 |  | La Guaira | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Pediatría – Reanimación |
 | Hosp. Dr. Domingo Luciani (Llanito) | Silva Joanbet | 7 |  | La Guaira | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Pediatría – Reanimación |
+| Hosp. Dr. Domingo Luciani (Llanito) | Silva Joandri | 9 |  | La Guaira | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Pediatría – Reanimación |
 | Hosp. Dr. Domingo Luciani (Llanito) | Silva Joanis | 9 |  | La Guaira | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Pediatría – Reanimación |
 | Hosp. Dr. Domingo Luciani (Llanito) | Silva Johandai (?) |  |  |  | Pediatría (II) | Fuente: Hosp. Domingo Luciani 26JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Silva Yoaiber | 7 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado; PEDIATRIA PISO 6 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Silva Yohaiver |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Silva Yohaiver / Silva Yohaiber |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Silva Yohandry |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
@@ -1301,16 +1680,21 @@
 | Hosp. Dr. Domingo Luciani (Llanito) | Torres Milagros | 46 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Tortosa Jesus | 52 |  | La Guaira | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Ingresos 6am-9:20pm |
 | Hosp. Dr. Domingo Luciani (Llanito) | Trujillo Elián | 19 |  | La Guaira | Ingresados por sismo |  |
+| Hosp. Dr. Domingo Luciani (Llanito) | Trujillo Henam |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Terapia – M; La Guaira |
 | Hosp. Dr. Domingo Luciani (Llanito) | Uequiola Mauro | 55 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Politrauma Emerg. Vieja |
+| Hosp. Dr. Domingo Luciani (Llanito) | Ugas Maria | 54 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado; No tiene familia, Rx |
+| Hosp. Dr. Domingo Luciani (Llanito) | Uguelo Kimberly | 39 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado; PISO 4 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Urbina Silibeto | 80 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Urbina Silibeto / Urbina Siliberto | 80 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Valerin | 6 |  | La Guaira | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Pediatría – Reanimación |
 | Hosp. Dr. Domingo Luciani (Llanito) | Vascocelo Andreina / Vasconelo Andreina |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Vascoceto Andreina | 43 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Vasconcelo Andreína (?) |  |  |  | Lista (img.2) |  |
+| Hosp. Dr. Domingo Luciani (Llanito) | Vasque Juis | 77 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Fallecida |
 | Hosp. Dr. Domingo Luciani (Llanito) | Vasque Luis | 77 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Fallecida |
 | Hosp. Dr. Domingo Luciani (Llanito) | Vásquez Luis | 77 |  | Sin familiar | Ingresados por sismo | ✚ posible fallecido (marca en lista) |
 | Hosp. Dr. Domingo Luciani (Llanito) | Vega Samuel | 11 |  | Petare | Ingresados por sismo |  |
+| Hosp. Dr. Domingo Luciani (Llanito) | Vegas Isabel | 50 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Poli Emerg. Nueva – F; La Guaira |
 | Hosp. Dr. Domingo Luciani (Llanito) | Vegside Mauro (?) | 55 |  |  | Politrauma — Emergencia Vieja | Fuente: Hosp. Domingo Luciani 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Veguide Mauro | 55 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Politrauma Emerg. Vieja |
 | Hosp. Dr. Domingo Luciani (Llanito) | Veguiole Mauro | 55 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Politrauma Emerg. Vieja |
@@ -1323,7 +1707,9 @@
 | Hosp. Dr. Domingo Luciani (Llanito) | Winchester Kellys | 28 |  | Petare | Ingresados por sismo |  |
 | Hosp. Dr. Domingo Luciani (Llanito) | Yandi Sebastian |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Pediatría |
 | Hosp. Dr. Domingo Luciani (Llanito) | Yandy Sebastián |  |  |  | Pediatría (II) | Fuente: Hosp. Domingo Luciani 26JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Yañez Yelitza | 57 | 9953902 |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado; Medicatura |
 | Hosp. Dr. Domingo Luciani (Llanito) | Yendi Sebastien | 7 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Pediatría |
+| Hosp. Dr. Domingo Luciani (Llanito) | Yenjeil | 13 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Quirófano – F; Carbacas |
 | Hosp. Dr. Domingo Luciani (Llanito) | Yenjerlis Carbacas (?) | 13 |  |  | Quirófano (9:27 am) | Fuente: Hosp. Domingo Luciani 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Yesica Blanco | 53 |  |  | POLI I (7:20 am) | Fuente: Hosp. Domingo Luciani 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Yessica Blanco |  |  |  | Triaje de cirugía |  |
@@ -1394,6 +1780,7 @@
 | Periférico de Catia | Franklin Alfonso | 65 |  | Indigente (?) | Registro de emergencia | caída |
 | Periférico de Catia | Franklin Alfonso / Franklin Affonos | 65 |  | Mosquito de Morolina | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Sola / Caída 7:28 |
 | Periférico de Catia | Fromel Reine (?) | 17 |  | Caribe, La Guaira | Registro de emergencia | dolor |
+| Periférico de Catia | Garcia Yenny |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Periférico de Catia | Georrin Valella | 22 | 30114918 |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Cirugía General |
 | Periférico de Catia | Gisbet Peña | 51 |  | Casalta + sector Rio | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Periférico de Catia | Gonnez Sevillay | 32 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Papa |
@@ -1417,6 +1804,7 @@
 | Periférico de Catia | Hero Marcela (?) | 41 |  | — | Registro de emergencia | acc. moto |
 | Periférico de Catia | Hiangely Nieto | 18 |  | Caraballeda, La Guaira | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · TRM |
 | Periférico de Catia | Hriangely Nieto (?) | 26 |  | La Quebrada | Registro de emergencia | cara (?) |
+| Periférico de Catia | Ibarra Ana |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Periférico de Catia | Ingrid Lopez | 58 | 105288780 | Sin información | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Cirugía / Trauma |
 | Periférico de Catia | Jaimez Rubén Darío | 74 | 6433372 |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Cirugía General |
 | Periférico de Catia | Jesel John | 49 | 13827925 |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Cirugía/Trauma |
@@ -1524,6 +1912,7 @@
 | Periférico de Catia | Rio Duques Miguel | 56 | 10073429 |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Cirugía/Trauma |
 | Periférico de Catia | Rivas Mary | 30 |  | La Cortada de Calle | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Esposa / Caída 7:50 |
 | Periférico de Catia | Rodríguez Cindy | 21 |  | La Vega, Los Mangos (?) | Registro de emergencia | dolor abdominal (?) |
+| Periférico de Catia | Rodriguez Pindihole | 51 |  | Calle Principal | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 |
 | Periférico de Catia | Rodríguez Pindiole | 51 |  | Calle Principal | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Sola / Caída 7:28 |
 | Periférico de Catia | Rodríguez Sanelly | 12 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Contusion h. guaro / Sola / Consulta 3:46 |
 | Periférico de Catia | Rodríguez Sanely | 15 |  | Los Frailes (?) | Registro de emergencia | golpe (?) |
@@ -1545,6 +1934,7 @@
 | Periférico de Catia | Tania Terán | 55 | 114099970 | Sin información | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Cirugía General |
 | Periférico de Catia | Terán Audia | 54 | 11055173 |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Cirugía General |
 | Periférico de Catia | Terán Tenía | 55 | 11409997 |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Cirugía General |
+| Periférico de Catia | Torrealba Nuvia |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Periférico de Catia | Tortoso Oscar | 37 | 20558047 |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Cirugía General |
 | Periférico de Catia | Tovar Yeison | 17 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Cirugía General |
 | Periférico de Catia | Valella Gorrín | 22 | 301149180 | Sin información | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Cirugía General |
@@ -1612,8 +2002,11 @@
 | Hosp. Universitario de Caracas (UCV) | Cuyan Fran | 60 | 10235290 | LA FLORIDA | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: 0424-2927910 |
 | Hosp. Universitario de Caracas (UCV) | Dantoja Toni | 47 | 13409559 | LAS MAYAS | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: 0424-2562305 |
 | Hosp. Universitario de Caracas (UCV) | De Silva Indira | 46 | 14556746 | La Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Politraumatismo |
+| Hosp. Universitario de Caracas (UCV) | De Sousa Angel | 20 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Sala Cirugía 27-B – Esguince pie; Tx lumbar |
 | Hosp. Universitario de Caracas (UCV) | Diaz Daniel | 57 | 10001561 | La Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Politraumatismo |
 | Hosp. Universitario de Caracas (UCV) | Diaz Yasmin | 47 | 13999719 | La Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Politraumatismo |
+| Hosp. Universitario de Caracas (UCV) | Dingyl Lu |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Sala Cirugía – Fx clavícula derecha; Tx ocular izquierdo; Internado |
+| Hosp. Universitario de Caracas (UCV) | Enrique Maria | 64 | 8471007 |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Politraumatismo; Fx tibia abierta |
 | Hosp. Universitario de Caracas (UCV) | Escalona Joaquin | 65 | 6482918 | EL VALLE | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: 0414-9081729 |
 | Hosp. Universitario de Caracas (UCV) | Flores Maira | 44 | 14955107 | La Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Politraumatismo |
 | Hosp. Universitario de Caracas (UCV) | Garcia Angel | 46 | 14299523 | La Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Politraumatismo |
@@ -1634,7 +2027,9 @@
 | Hosp. Universitario de Caracas (UCV) | Lopez Francisca | 16 | 33230043 | SAN AGUSTIN | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: 0424-2414874 |
 | Hosp. Universitario de Caracas (UCV) | Lu Dingpi | 49 | 8358411 | LA GUAIRA | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: 0424-3579081 |
 | Hosp. Universitario de Caracas (UCV) | Lu Dingyi | 44 | 83584110 | La Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Politraumatismo |
+| Hosp. Universitario de Caracas (UCV) | Lucero Indira / Indina | 46 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Emergencia Med 1 – Fx cab. fémur izq y rodilla izq |
 | Hosp. Universitario de Caracas (UCV) | Marrero Yorgelis | 20 | 31331652 | PARACOTO | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: 0414-0209230 |
+| Hosp. Universitario de Caracas (UCV) | Medina Jose |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Emergencia Med 2 – Fx tibia derecha; Subir piso 5; Internado |
 | Hosp. Universitario de Caracas (UCV) | Mendoza Ana | 72 | 5343446 | PINTO SALINAS | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: 0424-1519166 |
 | Hosp. Universitario de Caracas (UCV) | Mendoza Mario | 73 | 6274191 | LA GUAIRA | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Universitario de Caracas (UCV) | Montilla Nancy | 57 | 10813576 | CEMENTERIO | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: 0414-1878802 |
@@ -1659,7 +2054,10 @@
 | Hosp. Universitario de Caracas (UCV) | Ponce Luigi | 39 | 18042519 | Gramoven | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Politraumatismo |
 | Hosp. Universitario de Caracas (UCV) | Ramirez Yilmar | 32 | 22316562 | PLAZA VENEZUELA | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: 0424-5364882 |
 | Hosp. Universitario de Caracas (UCV) | Ramos Mayely | 18 | 32111714 | No especifica | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Politraumatismo |
+| Hosp. Universitario de Caracas (UCV) | Ramos Nohemi |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Emergencia Med 5 – CHS4 supratesional + rabdomiólisis; Internado |
 | Hosp. Universitario de Caracas (UCV) | Ramos/silva Maryelis | 18 | 32111741 | Los Caracas / La Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Universitario de Caracas (UCV) | Ribas Yoselin | 34 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Sala Cirugía 30-B – Fx nasal; Fx orbitaria; Fx húmero izq; Fx pelvis |
+| Hosp. Universitario de Caracas (UCV) | Rodriguez Juan | 28 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Sala Cirugía 19-M – Tx torácico cerrado complicado |
 | Hosp. Universitario de Caracas (UCV) | Rodriguez Maikel | 42 | 16208203 | COCHE | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: 0412-2091099 |
 | Hosp. Universitario de Caracas (UCV) | Rodriguez Miguel | 88 | 14299716 | La Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Politraumatismo |
 | Hosp. Universitario de Caracas (UCV) | Roser Liz | 28 |  | La Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: 04124095086 |
@@ -1669,6 +2067,7 @@
 | Hosp. Universitario de Caracas (UCV) | Sanchez Jose | 19 | 32320251 | LOS TEQUES | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: 0412-3574177 |
 | Hosp. Universitario de Caracas (UCV) | Sanchez Rosibel | 43 | 15844713 | La Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Politraumatismo |
 | Hosp. Universitario de Caracas (UCV) | Sandoval Doris | 80 | 4029093 | AVENIDA LECUNA | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: 0424-2577096 |
+| Hosp. Universitario de Caracas (UCV) | Sendin Pablo |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Emergencia Tx Shock 2; Internado |
 | Hosp. Universitario de Caracas (UCV) | Silva Abrahan | 35 | 20568419 | La Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Politraumatismo |
 | Hosp. Universitario de Caracas (UCV) | Silva Abril | 6 | 16106829 | La Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Politraumatismo |
 | Hosp. Universitario de Caracas (UCV) | Silva Ibrahim | 35 | 20562844 | CATIA LA MAR | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
@@ -1692,6 +2091,7 @@
 | Hosp. Universitario de Caracas (UCV) | Wu Susup | 14 | 34553337 | LA GUAIRA | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: 0412-3758541 |
 | Hosp. Universitario de Caracas (UCV) | Zambrano Domini | 39 | 18274233 | CATIA | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: 0412-2913570 |
 | Hosp. Universitario de Caracas (UCV) | Zambrano Donmani | 39 | 18714233 | Catia | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Politraumatismo |
+| Hosp. Vargas de Caracas | Acosta Jairo |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Pacientes x Sismo Edo La Guaira |
 | Hosp. Vargas de Caracas | Adad Figueroa | 14 | 33916334 | La Guaira | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Politraumatismo |
 | Hosp. Vargas de Caracas | Adolfo Diaz Varona |  | 22751340 |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: F |
 | Hosp. Vargas de Caracas | Aguilar Yoanny |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
@@ -1715,12 +2115,14 @@
 | Hosp. Vargas de Caracas | Avello Silvia |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Vargas de Caracas | Baes Maria |  | 31178460 |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Vargas de Caracas | Baez Maria A. |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Vargas de Caracas | Baez Maria Anyelica |  |  | Guaira | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 |
 | Hosp. Vargas de Caracas | Balas Laura | 22 | 30041612 | La Guaira | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Politraumatismo |
 | Hosp. Vargas de Caracas | Baras Esmeralda | 54 | 10582063 | La Guaira | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Politraumatismo |
 | Hosp. Vargas de Caracas | Barrego Jose |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Vargas de Caracas | Barriento Aliana |  | 30939329 |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Vargas de Caracas | Bautista Juana |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · ⚠ FALLECIDA |
 | Hosp. Vargas de Caracas | Bazzan Yussef |  |  | Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Vargas de Caracas | Blanco Frank |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Vargas de Caracas | Boada Cesar |  | 9098772 |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Vargas de Caracas | Boada Evelyn | 26 |  | La Guaira | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Politraumatismo |
 | Hosp. Vargas de Caracas | Borrego Jose |  | 26327360 | Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
@@ -1742,6 +2144,7 @@
 | Hosp. Vargas de Caracas | Charles Leidi | 33 | 20558903 | La Guaira (Bombona) | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Politraumatismo – No Habla |
 | Hosp. Vargas de Caracas | Claudines Verde |  |  | Hlam | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: F |
 | Hosp. Vargas de Caracas | Colmenares Darwin |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Vargas de Caracas | Colmenares Darwin / Colimenares Darwin |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 |
 | Hosp. Vargas de Caracas | Contreras Jeanspier |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Vargas de Caracas | Coronel Yanel |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Vargas de Caracas | Coronel Yonel |  |  | Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
@@ -1759,7 +2162,11 @@
 | Hosp. Vargas de Caracas | Delgado Lisbeth |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Vargas de Caracas | Denis Ruja | 41 | 19445341 | La Guaira | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Politraumatismo |
 | Hosp. Vargas de Caracas | Dias Muguel |  | 31777653 |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
+| Hosp. Vargas de Caracas | Diaz Maryenis |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Hosp. Vargas de Caracas | Diaz Mayerlin |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Vargas de Caracas | Diaz Ozuna Adonis |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
+| Hosp. Vargas de Caracas | Diaz Ozuna Adonis / Diaz Ozuna Adonais |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 |
+| Hosp. Vargas de Caracas | Diaz Romero Camila | 94 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Pacientes x Sismo Edo La Guaira |
 | Hosp. Vargas de Caracas | Domelin Olmedo |  | 25867263 | Sala 19 | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: F |
 | Hosp. Vargas de Caracas | Doria Ekarle | 23 |  | Accidente Moto | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Politraumatismo |
 | Hosp. Vargas de Caracas | Duarte Es Tleny | 34 |  | La Guaira | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Politraumatismo |
@@ -1771,6 +2178,7 @@
 | Hosp. Vargas de Caracas | Falcon Julia |  | 17190030 |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Vargas de Caracas | Fernandez Emily | 31 | 21622464 | La Guaira | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Politraumatismo – Aplastamiento MI |
 | Hosp. Vargas de Caracas | Fernandez Juan |  | 10815359 |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
+| Hosp. Vargas de Caracas | Figueroa Maryon |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Pacientes x Sismo Edo La Guaira |
 | Hosp. Vargas de Caracas | Fossis Leandro |  | 17587273 |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Vargas de Caracas | Francia Jorge |  | 27915258 |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Vargas de Caracas | Francisco Coronel |  |  | Sala M 30 | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: F |
@@ -1786,11 +2194,15 @@
 | Hosp. Vargas de Caracas | Garcia Jose | 34 | 10801488 | La Guaira | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Politraumatismo |
 | Hosp. Vargas de Caracas | Garcia Narin Saavedki |  | 21395683 | Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: F |
 | Hosp. Vargas de Caracas | Garcia Yoliber | 22 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · ⚠ FALLECIDO |
+| Hosp. Vargas de Caracas | Gazzan Yussef |  |  | Guaira | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 |
 | Hosp. Vargas de Caracas | Gesu Estefany |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Vargas de Caracas | Gesu Estefany / Giesu Estefany |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 |
+| Hosp. Vargas de Caracas | Gezzen Jestefany |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Vargas de Caracas | Gil Cristofer |  | 32919700 | Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Vargas de Caracas | Gil Cristoper |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Vargas de Caracas | Gil Ehilyn |  | 31178311 |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Vargas de Caracas | Gil Patricia |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Vargas de Caracas | Giron Roimy |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Pacientes x Sismo Edo La Guaira |
 | Hosp. Vargas de Caracas | Gleason Grein |  | 31426812 | Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: F |
 | Hosp. Vargas de Caracas | Gomez Vanesa |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Vargas de Caracas | Gomez Wilmer |  | 10482646 |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
@@ -1799,6 +2211,7 @@
 | Hosp. Vargas de Caracas | Goncalves Lucy | 61 |  | La Guaira | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Politraumatismo |
 | Hosp. Vargas de Caracas | Gonzales Angelina |  |  | Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Vargas de Caracas | Gonzalez Daiberly |  | 30527436 |  | Ingreso por sismo (lista consolidada) | Fuente: Drive SISMO 2026 VZLA |
+| Hosp. Vargas de Caracas | Gonzalez Daiberly / Gonzalez Darbedlyn |  | 305274360 |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 |
 | Hosp. Vargas de Caracas | Gonzalez Daiberlyn |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Vargas de Caracas | Gonzalez Dailberly |  | 30523436 | Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Vargas de Caracas | Gonzalez Darbeidy |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
@@ -1839,6 +2252,7 @@
 | Hosp. Vargas de Caracas | Llarvez Hector |  | 19606465 |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Vargas de Caracas | Lopez Daniel |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Vargas de Caracas | Lopez Emerson |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Vargas de Caracas | Lopez Emerson / Lopez Emeison |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 |
 | Hosp. Vargas de Caracas | Lopez Nazare |  |  | Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Vargas de Caracas | Lopez Nazareth |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Vargas de Caracas | Lopez Osmary |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
@@ -1855,13 +2269,17 @@
 | Hosp. Vargas de Caracas | Marrero Crismarly / Marrero Crismaly |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Vargas de Caracas | Marrero Nohemi | 20 | 32271433 | La Guaira | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Politraumatismo |
 | Hosp. Vargas de Caracas | Martinez Cristina |  | 19721240 |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
+| Hosp. Vargas de Caracas | Maryone Elita / Maryore Elita |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 |
 | Hosp. Vargas de Caracas | Maryore Elita |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Vargas de Caracas | Matos Aracelys |  | 6927171 |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
+| Hosp. Vargas de Caracas | Matos Yamileth |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Pacientes x Sismo Edo La Guaira |
+| Hosp. Vargas de Caracas | Matteto Crismaly |  | 15164295 |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Vargas de Caracas | Matuzalen Gledys |  | 26415500 |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Vargas de Caracas | Maure Elita |  | 13069223 | Junquito | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Vargas de Caracas | Mauro Diaz | 55 | 17934645 | La Guaira | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Politraumatismo |
 | Hosp. Vargas de Caracas | Mayore Elita | Sin información | 130692230 | El Junquito | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Sin información |
 | Hosp. Vargas de Caracas | Medina Raina |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Vargas de Caracas | Medina Reina |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 |
 | Hosp. Vargas de Caracas | Mendota Carmen | 48 | 14589306 | La Guaira | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Politraumatismo |
 | Hosp. Vargas de Caracas | Mendoza Lourdes |  | 18465401 |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Vargas de Caracas | Monica Vielma |  | 18406003 | Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: F |
@@ -1869,6 +2287,7 @@
 | Hosp. Vargas de Caracas | Montoya Neride |  | 22480906 |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Vargas de Caracas | Moreno Crisneily |  | 15164243 |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Vargas de Caracas | Moreno Naileth |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Vargas de Caracas | Moreno Naileth / Moreno Napleth |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 |
 | Hosp. Vargas de Caracas | Moreno Vaileth |  | 21015899 |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Vargas de Caracas | Naiguel Lopez |  |  | Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: F |
 | Hosp. Vargas de Caracas | Napolitano Edward |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
@@ -1883,6 +2302,7 @@
 | Hosp. Vargas de Caracas | Padron Jean Franco | 42 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Politraumatismo |
 | Hosp. Vargas de Caracas | Pedron David | 42 | 18141519 | La Guaira | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Politraumatismo |
 | Hosp. Vargas de Caracas | Peidomo Valeria |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Vargas de Caracas | Peña Dilio |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Pacientes x Sismo Edo La Guaira; Sala 4 |
 | Hosp. Vargas de Caracas | Perdomo Valeria |  |  | Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Vargas de Caracas | Pereira Daniel | 4 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Vargas de Caracas | Pereira Jose |  | 15285857 |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
@@ -1891,12 +2311,15 @@
 | Hosp. Vargas de Caracas | Perez Katiuska |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Vargas de Caracas | Perez Misaira |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Vargas de Caracas | Perez Misarra | Sin información | 155509540 | La Guaira | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Sin información |
+| Hosp. Vargas de Caracas | Perez Nestor |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Pacientes x Sismo Edo La Guaira |
+| Hosp. Vargas de Caracas | Perez Odra |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Pacientes x Sismo Edo La Guaira |
 | Hosp. Vargas de Caracas | Peroza Hilary |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Vargas de Caracas | Piar Paula |  | 26045569 |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Vargas de Caracas | Pimentel Maria |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Vargas de Caracas | Pinto Danker |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Revisar |
 | Hosp. Vargas de Caracas | Pinton Danker |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Vargas de Caracas | Posso Joan Carlos |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Vargas de Caracas | Posso Juan Carlos |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 |
 | Hosp. Vargas de Caracas | Quessu Estefani |  | 31428812 | Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Vargas de Caracas | Quintero Erinber |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Vargas de Caracas | Ramirez Nairobis | 32 | 25176001 | La Guaira | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Politraumatismo |
@@ -1908,6 +2331,7 @@
 | Hosp. Vargas de Caracas | Rivas Bricet | 47 | 13357989 | La Guaira | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Politraumatismo |
 | Hosp. Vargas de Caracas | Rivas Santiago | 16 | 33285940 | La Guaira | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Politraumatismo |
 | Hosp. Vargas de Caracas | Roda Galicia | 7 | 24208194 | La Guaira | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Politraumatismo |
+| Hosp. Vargas de Caracas | Rodriguez Antonia |  |  | Guaira | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 |
 | Hosp. Vargas de Caracas | Rodriguez Dionis |  | 36542050 |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Vargas de Caracas | Rodriguez Gerani | 21 | 21204553 | La Guaira | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Politraumatismo |
 | Hosp. Vargas de Caracas | Rodriguez Jesus | 28 | 25969769 | La Guaira | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Politraumatismo |
@@ -1936,8 +2360,10 @@
 | Hosp. Vargas de Caracas | Totumo Maria |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · ⚠ FALLECIDA |
 | Hosp. Vargas de Caracas | Tovar Tibisay |  | 5604699 |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Vargas de Caracas | Trebol Luis Jose |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
+| Hosp. Vargas de Caracas | Tubor Tibisay |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Vargas de Caracas | Urbina Cesar |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Vargas de Caracas | Uribe Veronica |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Vargas de Caracas | Uzategui Dayibeth |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Pacientes x Sismo Edo La Guaira |
 | Hosp. Vargas de Caracas | Vargas Carmen |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Vargas de Caracas | Varya Carmen |  | 22550086 | Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Vargas de Caracas | Vasquez Rosaeys | 18 | 32334040 | La Guaira – Petare | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Politraumatismo |
@@ -1949,6 +2375,7 @@
 | Hosp. Vargas de Caracas | Verde Claudia |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Vargas de Caracas | Veronic Borrego |  | 26373503 | Sala 19 | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: F |
 | Hosp. Vargas de Caracas | Vielma Maria |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Vargas de Caracas | Vielma Maria / Vpelma Maria |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 |
 | Hosp. Vargas de Caracas | Villegas Jose |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Vargas de Caracas | Villegas Juana |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Vargas de Caracas | Vivas Ubelinda |  | 5645025 |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
@@ -2093,12 +2520,15 @@
 | Hosp. Militar Univ. Dr. Carlos Arvelo | Yoselyn Guerra | 59 | 6502264 | PNA | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: La Guaira |
 | Hosp. Militar Univ. Dr. Carlos Arvelo | Zonis Nalleli | 44 | 14289990 | Afiliado | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: San Juan |
 | Cruz Roja (Caracas) | Alvarado Nairobis | 32 |  | Barquisimeto | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: 22262602 |
+| Cruz Roja (Caracas) | Arteaga/ahedoga Beti | 51 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Cruz Roja (Caracas) | Arteaga Beti | 51 |  | La Candelaria | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: 12067370 |
 | Cruz Roja (Caracas) | Barreto Irama | 74 |  | La Candelaria | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Cruz Roja (Caracas) | Begochea Reinaldo | 43 |  | Sarria | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Cruz Roja (Caracas) | Belandria Joffre | 63 |  | Valles del Tuy | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Cruz Roja (Caracas) | Castillo Jorge |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Cruz Roja (Caracas) | Cedeño Carlos | 76 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Cruz Roja (Caracas) | Chen Boye | 21 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Cruz Roja (Caracas) | De Querales Yoneida | 35 | 19391490 |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Cruz Roja (Caracas) | Eliana Contreras |  |  | La Candelaria | Lista atendidos Cruz Roja | Fuente: Cruz Roja La Candelaria 26JUN26 |
 | Cruz Roja (Caracas) | Franco Antonio | 63 |  | Av Fuerzas Armadas | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Cruz Roja (Caracas) | García Antonio | 36 |  | Barinas | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: 20101410 |
@@ -2125,39 +2555,56 @@
 | Hosp. Ana Francisca Pérez de León II | Abarca Neiulan | 12 | 15881615 | La Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Ana Francisca Pérez de León II | Abarimanco Milagro | 24 | 22576068 | La Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Ana Francisca Pérez de León II | Acosta Elmanuel | 49 | 13133322 | La Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Ana Francisca Pérez de León II | Alvarez Abram | 38 | 186322 |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Ana Francisca Pérez de León II | Alvarez Fabiana | 12 | 3505049 | La Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Ana Francisca Pérez de León II | Anyel Diaz Di-abreu | 22 | 809099300 | La Guaira | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Consulta |
+| Hosp. Ana Francisca Pérez de León II | Avila Hector | 43 | 179657 |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Ana Francisca Pérez de León II | Azparca Naimin | 42 | 17821615 | Catia La Mar | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Ana Francisca Pérez de León II | Berlezza Jose Gregorio | 52 | 11990934 |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado; QUIROFANO |
 | Hosp. Ana Francisca Pérez de León II | Berlis Sso | 53 | 104819800 | La Guaira | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Consulta |
 | Hosp. Ana Francisca Pérez de León II | Blanco Dias Samuel Algardo | 23 | 31588884 | La Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Ana Francisca Pérez de León II | Bravo Aricel | 42 | 16681690 |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Hosp. Ana Francisca Pérez de León II | Brazado Joaquin | 7 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Hosp. Ana Francisca Pérez de León II | Briceno Ronald | 43 | 16008151 |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Ana Francisca Pérez de León II | Camila Orfao | 12 | 361081510 | La Guaira | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Consulta |
 | Hosp. Ana Francisca Pérez de León II | Cedeno Erick | 14 | 27943786 | La Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Ana Francisca Pérez de León II | Chacón Blanca | 71 | 5133290 | Playa Grande | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Ana Francisca Pérez de León II | Chavarria Yosxalit | 48 | 14568432 | La Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Ana Francisca Pérez de León II | Chinquinquen Alale | 1 | 250884120 | Caribe | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Consulta |
+| Hosp. Ana Francisca Pérez de León II | Cordova Ivan | 17 | 34309424 |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Ana Francisca Pérez de León II | Cornizo Nuviana | 16 | 33232686 | Playa Grande / Monte Bono | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Ana Francisca Pérez de León II | De Sousa Augusto | 11 | 34055981 |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado; QUIROFANO |
 | Hosp. Ana Francisca Pérez de León II | Denwin Ramos | 27 | 26763040 | La Guaira | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Consulta |
 | Hosp. Ana Francisca Pérez de León II | Di Abreu Anyir Paez | 22 | 80909980 | La Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Ana Francisca Pérez de León II | Dilagro Abatimarco | 24 | 235760630 | La Guaira | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Consulta |
 | Hosp. Ana Francisca Pérez de León II | Emarel Acosta | 49 | 133333420 | La Guaira (Monte Sano) | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Consulta |
 | Hosp. Ana Francisca Pérez de León II | Erick Cerdino | 14 | 329437860 | La Guaira | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Consulta |
+| Hosp. Ana Francisca Pérez de León II | Escobar Mario | 56 | 995521 |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Ana Francisca Pérez de León II | Familia Yordis | 20 | 31191432 | La Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Ana Francisca Pérez de León II | Fuenmayor Magali | 56 | 8777500 |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Ana Francisca Pérez de León II | Gil Patricia | 24 | 29572168 | La Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Ana Francisca Pérez de León II | Gutierrez Malellin | 25 | 27761169 | Barrio Bolívar | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Ana Francisca Pérez de León II | Hoyo Joslin | 33 | 20703410 | La Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Ana Francisca Pérez de León II | Lopez Maria Carolina | 35 | 6262497 | La Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Ana Francisca Pérez de León II | Maitlin Gutierrez | 25 | 277461690 | Barrio Betancourt | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Consulta |
 | Hosp. Ana Francisca Pérez de León II | Malo Chinquinquir | 61 | 25088412 | Caripe | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Ana Francisca Pérez de León II | Manrique Manuel | 56 | 11637469 |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Ana Francisca Pérez de León II | Mauro Vequiole | 52 | 119946450 | La Guaira | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Consulta |
+| Hosp. Ana Francisca Pérez de León II | Mendoza Jerry | 17 | 33729687 |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Hosp. Ana Francisca Pérez de León II | Mendoza Sebastian | 9 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado; QUIROFANO |
 | Hosp. Ana Francisca Pérez de León II | Naimin Azarca | 42 | 178816150 | Palos Grande | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Consulta |
 | Hosp. Ana Francisca Pérez de León II | Neidlin Abreu | 42 | 158816150 | La Guaira | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Consulta |
 | Hosp. Ana Francisca Pérez de León II | Orfao Pamela | 12 | 36308151 | La Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Ana Francisca Pérez de León II | Patricia Egel | 24 | 295721680 | La Guaira | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Consulta |
 | Hosp. Ana Francisca Pérez de León II | Ramos Darwin | 27 | 26763304 | La Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Ana Francisca Pérez de León II | Rio Genesis |  | 20658046 |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Hosp. Ana Francisca Pérez de León II | Rodriguez Winifer |  | 21478247 |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Hosp. Ana Francisca Pérez de León II | Rosales Amada | 55 | 7999326 |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Ana Francisca Pérez de León II | Salamanca Wilfried Guerra | 84 | 14309820 | La Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Ana Francisca Pérez de León II | Samuel Alyando Blanco Dias | 23 | 813088340 | La Guaira | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Consulta |
 | Hosp. Ana Francisca Pérez de León II | Sao Burlis | 53 | 10481980 | La Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Ana Francisca Pérez de León II | Vasquiole Mauro | 52 | 11934645 | La Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Ana Francisca Pérez de León II | Vivas Erick | 31 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Ana Francisca Pérez de León II | Viviana Carrizo | 16 | 332326860 | Playa Grande | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Consulta |
 | Hosp. Ana Francisca Pérez de León II | Wilfred Quevedo Salomera | 37 | 147098200 | La Guaira | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Consulta |
 | Hosp. Ana Francisca Pérez de León II | Yexalit Chaguania | 48 | 145694320 | La Guaira | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Consulta |
@@ -2169,6 +2616,7 @@
 | Clínica El Ávila | Benitez Frenesi |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Clínica El Ávila | Berk Cim |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Clínica El Ávila | Bolgnese Sofia |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Clínica El Ávila | Bolognesi Sofia |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 |
 | Clínica El Ávila | Costa Jose Luis |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Clínica El Ávila | Delgado Victoria |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Clínica El Ávila | Feng Juchi |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
@@ -2781,6 +3229,242 @@
 | Seguro Social La Guaira (IVSS) | Yoselie Badillo |  |  | Tanaguarena | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Seguro Social La Guaira (IVSS) | Yowan Villafande | 36 |  | Macuto | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Seguro Social La Guaira (IVSS) | Yuleivis Sandoval | 34 |  | Maiquetia | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
+| Centro de Acopio Caraballeda | Acosta (menor) Adriani |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Acosta Alan |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Acosta (menor) Ashly |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Andrade Marlene |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Aparicio Jenny |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Aranguren Mariannys |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Arias Enais |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Armanza Edgar |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Arratia Thiago |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Avilan Francisco |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Avilan Katherine |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Barrios Eberto |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Bello Usiel |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Benavides Yolimar |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Blanco Claudia |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Briceno Mary |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Cabrea Magaly |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Cadenas Jose Gregorio |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Cadenas Landro |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Cadenas Onas |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Caldero Maria Elena |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Camargo Angel |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Camargo Martin |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Camargo Rodner |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado; MENOR |
+| Centro de Acopio Caraballeda | Carmona Alanis |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Castillo Belkys |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Castillo Douglas |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Castillo Manuel |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Castillo (menor) Norelkys |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Castillo Wilmer |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Castillo Yeleisy |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Cejas Gerdis |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Cejas Miguel |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Cerro Harry |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Cesar Julio |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Chacon Julio |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Chivico Michel |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Conde Diana |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Contramaestre Arianni |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Contramaestre Sarai |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Contreras Ana |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Davila Johan |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | De Barrios Rosi |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | De Yepez Caurimar |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Delgado Albert |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Delgado Aldo |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Delgado Aureilys |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Delgado Jorde |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Delgado Josefina |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Diaz (menor) Adrian |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Diaz (menor) Adriannys |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Diaz Justin |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Diaz Yunielys |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Escobar Jose |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Farfan Yeison |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Farias (menor) Jean |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Farias Jean Franco |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Farias Karlis |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Ferreira Deslybeth |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Figuera Marielby |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Flores Nairobi |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Galindez Ariangely |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Galindez Loreangel |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Galindez Loreany |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Galindez Misyeny |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Galindez Virgilio |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Gallardo Yeili |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Garcia Edwin Efrain |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Garcia Joel Alberto |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Garcia Liraldys |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Garcia Yeikelis |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Garcia Yeiker |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Garcia Yubelkis |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Gomez Dalia |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Gomez Felipe |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Gomez Vladimir |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Gomez Wilmer |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Gonzales Judith |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Gonzales Medina Nelimar |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Gonzalez Oscar |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Gonzalez Raiza |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Gonzalez Richard |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Graterol (menor) Gari |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Graterol (menor) Naomi |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Guarenas Adolfo |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Guerra Wilkely |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Guerrire (menor) Jenifer |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Guevara (menor) Joel |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Hermoso Elias |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Hernandez Carlos |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Hernandez Daynelis |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Hernandez Javier |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Hernandez Michel |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Hernandez (menor) Nicole |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Hernandez (menor) Sofia |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Hernandez Teobaldo |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Hurtado (menor) Adraib |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Hurtado Adrian |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Idriarte Yusmely |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Iriarte Yaritza |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Izaguirre Freymary |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Jaimes Fabiana |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Jaramillo Charlie |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Jean Leon |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Jhoan Garcia Genderson |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Larez Coromoto |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado; (Menor) |
+| Centro de Acopio Caraballeda | Leon Andy |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Leon Daniel |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Leon Jesus |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Leon Luddy |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Llanes Elias |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Lopez Ariana |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Lopez Carlos |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Lopez Wilbelys |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Lopez Willians |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Marcano Yelitza |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Marquez Rosa |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Marquez Rosely |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Martinez Daniel |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Martinez Elieser |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Martinez Mary |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Martinez Mykederlyn |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Martinez Soni |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Martinez Yajaira |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Martinez Yorfan |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Marval Ignamary |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Medina Albert |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Medina Alexander |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Medina O Darwin |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Mendoza (menor) Ariani |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Mendoza Danilo |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Mendoza Leonardo |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Mendoza Leonel |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Mendoza Paola |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Mendoza Viviana |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Meza Ariyanlis Arianis |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Milano Briguith |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Milano Frankie |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Milano Ingrid |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Milano Jeferson |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Milano Merchoreli Ingrid |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Milano Nestor |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Milano Rafael |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Milano William |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Monje Rosana |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Montilla Maria |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Navarro Enyer |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Navarro Javier |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Nieves Josue |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Nieves Roger |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Ochoa Aron |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Ochoa Yarnelis |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Olivares Dayana |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Olivares Ronaiker |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Olivares Sam |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Ontivero Carmen Aracely |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Palomino Wilmer |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Pantoja Daimaris |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Pantoja Deibert |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Paredes Carla |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Paredes Carlo |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Pena Yelibeth |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Peralta Gustavo |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Peralta Rogelius |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Peralta Ronielys |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Perez Beryari |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Perez Jose |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Perez Yeliner |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Pernia Mercedes |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Placido Maria Filomena |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Plana Angela |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Plana Miguel |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Planas Luis |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Planas Marcos |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Poleo Miguel |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado; MENOR |
+| Centro de Acopio Caraballeda | Pugarita Bonnie |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Pugarita Marilyn |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Pugarita Ronny |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Pugarita Yeibert |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Rada Yeison |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Ramirez Jean |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Ramirez (menor) Nirzo |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Ramirez Victor |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Ramos Joel |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Ramos Lourdes |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Rangel Dennis |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Renott Abigail |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Renott Jose |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Renott Kenedy |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Rivas Wilbert |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Roa Catherine |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Rodriguez Crismar |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Rodriguez Daniela |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Rodriguez Ender |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Rodriguez Eulogio |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Rodriguez Genesis |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Rodriguez Jose G |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Rodriguez Maria |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Rodriguez Naomi |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Rodriguez Neice |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Rodriguez Orianni |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Rodriguez Yeison |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Rodriguez Yosguar |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Roger Camargo |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Rojas Miguel |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Romero Ariangel |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Romero Danyer |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Romero Johalis |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Romero Sorelis |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Romero Sorli |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Ruiz Victor |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Salazar Ana |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Salazar Anthony |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Sanchez Eneida |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Sandoval Yenderson |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Sanoja Aixa |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Santader Soe |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Santana Rosbelma |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Sepulveda Saray |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Serrano Arelis |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Silva Joel |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Silva Nelson |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Sotil Roselyn |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Suarez Jefferson |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Sucre Angel |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Sucre Johandry |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Ulloa Asdrubal |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Urruchito Oriana |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Uzcategui Jose |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Vasquez Jose Luis |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Veroes Jenni |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Viralles Rafael |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Vivas Yetxi |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Yepez Eidert |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Yepez Sharon |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Centro de Acopio Caraballeda | Zerpa Jonailfer |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 
 ## Notas de consolidación
 
@@ -2795,3 +3479,4 @@
 - **Actualización 26JUN26 (Centro de Acopio La Guaira — Campo de Golf):** de las 292 personas se añadieron las **135 no repetidas** (dedup por nombre dentro del grupo del campo de golf).
 - **Actualización 26JUN26 (Consolidado dropbox):** del Excel maestro 26JUN (2.257) se añadieron las **882 no repetidas** (dedup por cédula global y por nombre dentro de cada hospital). «General del Oeste» y «José Gregorio Hernández» se tratan como el mismo centro; «José María Vargas – La Guaira» se unió al grupo Vargas (La Guaira); se creó el grupo nuevo **Seguro Social La Guaira**.
 - **Actualización 26JUN26 (Pérez Carreño):** de las 236 personas de las listas del 26/06 se añadieron las **205 no repetidas** (dedup por nombre dentro del hospital).
+- **Actualización 26JUN26 15:12:** del Excel maestro (2.743) se añadieron las **681 no repetidas** (dedup por cédula global y nombre por hospital). Grupo nuevo: Centro de Acopio Caraballeda.
