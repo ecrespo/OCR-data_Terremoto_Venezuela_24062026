@@ -49,6 +49,7 @@ uv run python consolidado_app/app.py                          # interfaz web: ht
 | Hospital / Centro | Listas | Documento |
 |-------------------|--------|-----------|
 | Hospital Dr. Domingo Luciani (Llanito) | Lista actualizada de últimos ingresos por servicio (27/06, 9:00 am — 40 pacientes) | [Hosp_Domingo_Luciani_27JUN.md](data/20260627/Hosp_Domingo_Luciani_191300/Hosp_Domingo_Luciani_27JUN.md) |
+| Hospital Dr. Domingo Luciani (Llanito) | Lista por servicio (Emergencia, UCI, Trauma, Quirófano, Pediatría… — 111 registros) | [Hosp_Domingo_Luciani_27JUN_2.md](data/20260627/Hosp_Domingo_Luciani_192500/Hosp_Domingo_Luciani_27JUN_2.md) |
 
 ### 2026-06-26
 

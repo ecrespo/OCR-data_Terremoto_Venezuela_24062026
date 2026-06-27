@@ -34,6 +34,8 @@
 
 > 🆕 **Actualización 27JUN26 (Domingo Luciani, últimos ingresos 9:00 am):** se añadieron **30 personas nuevas** (no repetidas). Llevan «Fuente: Hosp. Domingo Luciani 27JUN (últimos ingresos)» en Nota.
 
+> 🆕 **Actualización 27JUN26 (Domingo Luciani, lista por servicio):** se añadieron **54 personas nuevas** (no repetidas). Llevan «Fuente: Hosp. Domingo Luciani 27JUN (lista por servicio)» en Nota.
+
 ## Resumen
 
 | Hospital / Área | Personas (únicas) | De ellas, nuevas (UCV) |
@@ -41,7 +43,7 @@
 | Hosp. José Gregorio Hernández (Magallanes) | 63 | 2 |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | 407 | 0 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | 891 | 6 |
-| Hosp. Dr. Domingo Luciani (Llanito) | 680 | 139 |
+| Hosp. Dr. Domingo Luciani (Llanito) | 734 | 139 |
 | Periférico de Catia | 373 | 66 |
 | Rescatados — Alcaldía de Chacao (Los Palos Grandes / Bellocampo) | 17 | 0 |
 | Hosp. Universitario de Caracas (UCV) | 117 | 102 |
@@ -62,7 +64,7 @@
 | Sobrevivientes — Terremoto 24/06 | 40 | 0 |
 | Personas en residencias | 15 | 0 |
 | No encontrados / reportados | 18 | 0 |
-| **TOTAL** | **4280** | **657** |
+| **TOTAL** | **4334** | **657** |
 
 ## Listado consolidado
 
@@ -1434,6 +1436,7 @@
 | Hosp. Dr. Domingo Luciani (Llanito) | Abreu Emma | 8 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Abreu Paulina | 8 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Acevedo Estefani | 37 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado; POLIT EMERGENCIA NUEVA |
+| Hosp. Dr. Domingo Luciani (Llanito) | Acevedo Gorge | 20 |  |  | Emergencia (27/06) | Fuente: Hosp. Domingo Luciani 27JUN (lista por servicio) |
 | Hosp. Dr. Domingo Luciani (Llanito) | Acevedo Jorge |  |  |  | Poli — Emergencia Nueva (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Acosta Alexander | 47 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Acosta Alí | 47 |  | Baruta | Ingresados por sismo |  |
@@ -1472,11 +1475,13 @@
 | Hosp. Dr. Domingo Luciani (Llanito) | Antonelle Merin / Antonelle Merrin | 17 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Politrauma Emerg. Vieja |
 | Hosp. Dr. Domingo Luciani (Llanito) | Anyi Pérez | 45 |  |  | Politrauma — Emergencia Vieja («Trauma Vieja») (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Aponto Jessica |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Hosp. Dr. Domingo Luciani (Llanito) | Arbelo Valery | 10 |  |  | Pediatria (27/06) | Fuente: Hosp. Domingo Luciani 27JUN (lista por servicio) |
 | Hosp. Dr. Domingo Luciani (Llanito) | Ardis Fañez (?) | 53 |  |  | POLI I (7:20 am) | Fuente: Hosp. Domingo Luciani 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Arellano Camila | 17 | 33420428 |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Dr. Domingo Luciani (Llanito) | Arfieta Doris |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Quirófano |
 | Hosp. Dr. Domingo Luciani (Llanito) | Ariana Barno (?) | 23 |  | La Guaira – Caribe | Trauma – Piso 4 (27/06) | Fuente: Hosp. Domingo Luciani 27JUN (últimos ingresos) |
 | Hosp. Dr. Domingo Luciani (Llanito) | Ariso Renijilo | 54 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · La Guaira – Ingresos 9am |
+| Hosp. Dr. Domingo Luciani (Llanito) | Arnalza Mauricio | 74 |  |  | Emergencia (27/06) | Fuente: Hosp. Domingo Luciani 27JUN (lista por servicio) |
 | Hosp. Dr. Domingo Luciani (Llanito) | Arnoldo Córdova |  |  | Guarenas (?) | Neurocirugía – Piso 5 (27/06) | Fuente: Hosp. Domingo Luciani 27JUN (últimos ingresos) |
 | Hosp. Dr. Domingo Luciani (Llanito) | Arrieta Dolis | 65 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Arrieta Doris | 65 |  | Baruta | Ingresados por sismo |  |
@@ -1496,10 +1501,12 @@
 | Hosp. Dr. Domingo Luciani (Llanito) | Balbueno Wilmed | 37 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Balbueno Wilmer | 37 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Baras Esmeralda | 54 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Politrauma Emerg. Nueva |
+| Hosp. Dr. Domingo Luciani (Llanito) | Barrero Ricardo | 42 |  |  | Traumatologia (27/06) | Fuente: Hosp. Domingo Luciani 27JUN (lista por servicio) |
 | Hosp. Dr. Domingo Luciani (Llanito) | Barreto Ricardo | 42 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Barreto Yoseanny | 30 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Quirófano – F |
 | Hosp. Dr. Domingo Luciani (Llanito) | Baute Morelis | 65 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Pol I – F; Politrauma |
 | Hosp. Dr. Domingo Luciani (Llanito) | Bencomo Norky | 37 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado; PISO 2 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Bencomo Vargas | 37 |  |  | Traumatologia (27/06) | Fuente: Hosp. Domingo Luciani 27JUN (lista por servicio) |
 | Hosp. Dr. Domingo Luciani (Llanito) | Bercomo Nailis | 37 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado; POLITRAUMA |
 | Hosp. Dr. Domingo Luciani (Llanito) | Bercomo Norkis | 37 |  | La Guaira | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Ingresos 6am-9:20pm |
 | Hosp. Dr. Domingo Luciani (Llanito) | Betancour Maria | 74 |  | PETARE | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
@@ -1510,6 +1517,7 @@
 | Hosp. Dr. Domingo Luciani (Llanito) | Blanco Briceño Carmen |  |  |  | Lista (img.3) |  |
 | Hosp. Dr. Domingo Luciani (Llanito) | Blanco Carmen | 55 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Blanco Jesica | 63 |  |  | Politrauma — Emergencia Vieja («Trauma Vieja») (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Blanco Jessica | 53 |  |  | Politrauma Emergencia (27/06) | Fuente: Hosp. Domingo Luciani 27JUN (lista por servicio) |
 | Hosp. Dr. Domingo Luciani (Llanito) | Blanco José | 6 |  | El Hatillo | Ingresados por sismo |  |
 | Hosp. Dr. Domingo Luciani (Llanito) | Blanco Sofia Segura |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Politrauma |
 | Hosp. Dr. Domingo Luciani (Llanito) | Blanco Sofia Segura / Blanco Yessica |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Politrauma |
@@ -1524,6 +1532,7 @@
 | Hosp. Dr. Domingo Luciani (Llanito) | Boado Evelin | 51 |  | La Guaira | EMG Trauma (7:30 am) | Fuente: Hosp. Domingo Luciani 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Boado Evoelyn |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Politrauma Emerg. Nueva |
 | Hosp. Dr. Domingo Luciani (Llanito) | Bolívar Yoscarli |  |  |  | Quirófano (26/06, 1:00 pm) (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Bolivar Yuscoili | 12 |  |  | Quirofano (27/06) | Fuente: Hosp. Domingo Luciani 27JUN (lista por servicio) |
 | Hosp. Dr. Domingo Luciani (Llanito) | Bompard Radhi |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Politrauma |
 | Hosp. Dr. Domingo Luciani (Llanito) | Bompard Rodni |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Bomparo Rodni |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 |
@@ -1534,9 +1543,12 @@
 | Hosp. Dr. Domingo Luciani (Llanito) | Bospartte Ronny | 38 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Bosporte Romy | 33 |  | La Guaira | EMG Trauma (7:30 am) | Fuente: Hosp. Domingo Luciani 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Bradian García | 8 |  | La Guaira | Pediatría (7:00 am) | Fuente: Hosp. Domingo Luciani 26JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Bradion Garcia | 8 |  |  | Pediatria (27/06) | Fuente: Hosp. Domingo Luciani 27JUN (lista por servicio) |
 | Hosp. Dr. Domingo Luciani (Llanito) | Brate Celis (?) | 62 |  |  | Politrauma — Emergencia Vieja | Fuente: Hosp. Domingo Luciani 26JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Brito | 50 |  |  | Traumatologia (27/06) | Fuente: Hosp. Domingo Luciani 27JUN (lista por servicio) |
 | Hosp. Dr. Domingo Luciani (Llanito) | Brito Gina | 49 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Cardiología Piso 2 – H-11 – F |
 | Hosp. Dr. Domingo Luciani (Llanito) | Brocar Saúl |  |  |  | Quirófano (26/06, 1:00 pm) (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Bruces Saul | 26 |  |  | Quirofano (27/06) | Fuente: Hosp. Domingo Luciani 27JUN (lista por servicio) |
 | Hosp. Dr. Domingo Luciani (Llanito) | Brunyeli Caraballo | 29 |  | Sin información | Cardiología Piso 2 (H-11) | Fuente: GSheet VENEZUELA HOSPITALES (203000) · lesión: Sin información · Lista manuscrita Domingo Luciani — BAJA CONFIABILIDAD \ |
 | Hosp. Dr. Domingo Luciani (Llanito) | Bubal Clara | 62 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Buce Saul | 26 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Trauma |
@@ -1557,6 +1569,7 @@
 | Hosp. Dr. Domingo Luciani (Llanito) | Candad Victoria | 29 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Trauma |
 | Hosp. Dr. Domingo Luciani (Llanito) | Caraballo Branyerlis | 29 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Cardiología Piso 2 – H-11 – F |
 | Hosp. Dr. Domingo Luciani (Llanito) | Cardozo Carla | 25 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Cardozo Carlos | 25 |  |  | Politrauma Emergencia (27/06) | Fuente: Hosp. Domingo Luciani 27JUN (lista por servicio) |
 | Hosp. Dr. Domingo Luciani (Llanito) | Cardozo Marka | 26 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Medicina Interna |
 | Hosp. Dr. Domingo Luciani (Llanito) | Carlos Castro |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Politrauma / Rx |
 | Hosp. Dr. Domingo Luciani (Llanito) | Carmen Mendoza | 48 |  | La Guaira | Trauma – Piso 4 (27/06) | Fuente: Hosp. Domingo Luciani 27JUN (últimos ingresos) |
@@ -1585,6 +1598,7 @@
 | Hosp. Dr. Domingo Luciani (Llanito) | Castro Juan | 26 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Cecis Tania | 62 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Politrauma Emerg. Nueva |
 | Hosp. Dr. Domingo Luciani (Llanito) | Cela Tania | 34 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Cerrano Nancy | 67 |  |  | Traumatologia (27/06) | Fuente: Hosp. Domingo Luciani 27JUN (lista por servicio) |
 | Hosp. Dr. Domingo Luciani (Llanito) | Chacón Carlos | 43 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Chalon Carlos |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Pediatría |
 | Hosp. Dr. Domingo Luciani (Llanito) | Cisnero Roja | 57 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
@@ -1593,6 +1607,7 @@
 | Hosp. Dr. Domingo Luciani (Llanito) | Clara Inés Chptra (?) | 62 |  | Petare (?) | EMG Trauma (7:30 am) | Fuente: Hosp. Domingo Luciani 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Clasta Clara Ines | 62 |  | Petare | EMG Trauma (cont.) | Fuente: GSheet VENEZUELA HOSPITALES (203000) · lesión: Sin información · Lista manuscrita Domingo Luciani — BAJA CONFIABILIDAD \ |
 | Hosp. Dr. Domingo Luciani (Llanito) | Colis Tania |  |  |  | Politrauma — Emergencia Nueva | Fuente: Hosp. Domingo Luciani 26JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Concalve Luci | 61 |  |  | Politrauma Emergencia (27/06) | Fuente: Hosp. Domingo Luciani 27JUN (lista por servicio) |
 | Hosp. Dr. Domingo Luciani (Llanito) | Córdova Arnaldo | 19 |  | Guarenas | Ingresados por sismo |  |
 | Hosp. Dr. Domingo Luciani (Llanito) | Coyo Rafael | 32 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Da Silva Antony | 19 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Politrauma Emerg. Vieja |
@@ -1616,10 +1631,13 @@
 | Hosp. Dr. Domingo Luciani (Llanito) | Denny Ruiz | 41 |  | La Guaira | Politrauma (MI) (7:20 am) | Fuente: Hosp. Domingo Luciani 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Desmon Lewin | 10 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Pediatría |
 | Hosp. Dr. Domingo Luciani (Llanito) | Desmond Levis | 10 |  | Sin información | Pediatría | Fuente: GSheet VENEZUELA HOSPITALES (203000) · lesión: Sin información · Sin notas |
+| Hosp. Dr. Domingo Luciani (Llanito) | Desmont Lewis | 10 |  |  | Pediatria (27/06) | Fuente: Hosp. Domingo Luciani 27JUN (lista por servicio) |
 | Hosp. Dr. Domingo Luciani (Llanito) | Diaz Maubri |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Politrauma Emerg. Nueva |
+| Hosp. Dr. Domingo Luciani (Llanito) | Díaz Pomcades Scarlet | 82 |  |  | Emergencia (27/06) | Fuente: Hosp. Domingo Luciani 27JUN (lista por servicio) |
 | Hosp. Dr. Domingo Luciani (Llanito) | Diego Obregón |  |  |  | Triaje de cirugía |  |
 | Hosp. Dr. Domingo Luciani (Llanito) | Diesmon Hayis (?) | 10 |  | La Guaira (Catia La Mar) | Pediatría (27/06) | Fuente: Hosp. Domingo Luciani 27JUN (últimos ingresos) |
 | Hosp. Dr. Domingo Luciani (Llanito) | Dirito Rosa (?) | 64 |  | Chacao | Ingresados por sismo |  |
+| Hosp. Dr. Domingo Luciani (Llanito) | Discamo Pedro |  |  |  | Uci (27/06) | Fuente: Hosp. Domingo Luciani 27JUN (lista por servicio) |
 | Hosp. Dr. Domingo Luciani (Llanito) | Diuto Rosa | 64 |  | Sin información | Lista general (continuación, sin encabezado) | Fuente: GSheet VENEZUELA HOSPITALES (203000) · lesión: Sin información · Lista manuscrita 'Pacientes del sismo' 25/06/2026 2:00pm — BAJA CONFIABILIDAD \ |
 | Hosp. Dr. Domingo Luciani (Llanito) | Divito Rosa | 64 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Donacimiento Sebastian | 16 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 |
@@ -1634,6 +1652,7 @@
 | Hosp. Dr. Domingo Luciani (Llanito) | Econguela Jesus | 60 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado; PISO 4 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Edelso Rengifo | 59 | 9995694 | La Guaira | Sin información | Fuente: GSheet VENEZUELA HOSPITALES (203000) · lesión: Sin información · Nombre dudoso (manuscrito) \ |
 | Hosp. Dr. Domingo Luciani (Llanito) | Edis Tania | 62 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado; UCI |
+| Hosp. Dr. Domingo Luciani (Llanito) | Eforde Jesus | 30 |  |  | Quirofano (27/06) | Fuente: Hosp. Domingo Luciani 27JUN (lista por servicio) |
 | Hosp. Dr. Domingo Luciani (Llanito) | Efren Guarimbe | 30 |  | Sin información | Cardiología Piso 2 (H-12) | Fuente: GSheet VENEZUELA HOSPITALES (203000) · lesión: Sin información · Lista manuscrita Domingo Luciani — BAJA CONFIABILIDAD \ |
 | Hosp. Dr. Domingo Luciani (Llanito) | Ekarce Doria | 23 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Politrauma Emerg. Nueva |
 | Hosp. Dr. Domingo Luciani (Llanito) | Ekarce/scarlet Doria | 23 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado; Politrauma Emerg. Nueva |
@@ -1648,7 +1667,9 @@
 | Hosp. Dr. Domingo Luciani (Llanito) | Fabina Ribas |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Faontado Miel (?) |  |  |  | Pediatría (II) | Fuente: Hosp. Domingo Luciani 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Fariña Arelis | 53 | 11058065 |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado; Rx |
+| Hosp. Dr. Domingo Luciani (Llanito) | Farina Arels | 53 |  |  | Politrauma Emergencia (27/06) | Fuente: Hosp. Domingo Luciani 27JUN (lista por servicio) |
 | Hosp. Dr. Domingo Luciani (Llanito) | Farinez Arelis | 53 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Pol I – F |
+| Hosp. Dr. Domingo Luciani (Llanito) | Fernandes Emili | 2 |  |  | Quirofano (27/06) | Fuente: Hosp. Domingo Luciani 27JUN (lista por servicio) |
 | Hosp. Dr. Domingo Luciani (Llanito) | Fernández Efraín | 31 |  | Catia | Ingresados por sismo |  |
 | Hosp. Dr. Domingo Luciani (Llanito) | Fernández Emile |  |  |  | Quirófano (26/06, 1:00 pm) (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Fernandez Emili | 31 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado; UPT, llegó la familia |
@@ -1693,6 +1714,7 @@
 | Hosp. Dr. Domingo Luciani (Llanito) | García Díaz Yeuni Fernanda (?) | 34 |  | Petare | Ingresados por sismo |  |
 | Hosp. Dr. Domingo Luciani (Llanito) | Garcia Fernanda | 34 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 |
 | Hosp. Dr. Domingo Luciani (Llanito) | García José | 89 |  | La Guaira | EMG Trauma (7:30 am) | Fuente: Hosp. Domingo Luciani 26JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Garcia Odalis | 43 |  |  | Medicina Interna (27/06) | Fuente: Hosp. Domingo Luciani 27JUN (lista por servicio) |
 | Hosp. Dr. Domingo Luciani (Llanito) | Garcia Vega | 1 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado; PEDIATRIA |
 | Hosp. Dr. Domingo Luciani (Llanito) | Garcia Yenny | 34 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Garcias Odalys | 43 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Medicina Interna – F |
@@ -1710,6 +1732,7 @@
 | Hosp. Dr. Domingo Luciani (Llanito) | Goncalves Lucy | 61 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Trauma |
 | Hosp. Dr. Domingo Luciani (Llanito) | Gonzales Albyma | 59 |  | Altamira | Registro hospitalario | Fuente: GSheet VENEZUELA HOSPITALES (203000) |
 | Hosp. Dr. Domingo Luciani (Llanito) | Gonzales Albymar | 59 |  | Altamira | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Gonzales Alexandra | 42 |  |  | Politrauma Emergencia (27/06) | Fuente: Hosp. Domingo Luciani 27JUN (lista por servicio) |
 | Hosp. Dr. Domingo Luciani (Llanito) | Gonzalez Albeymar | 59 |  | Altamira | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Gonzalez Albimar | 59 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Gonzalez Alexander |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Politrauma |
@@ -1747,6 +1770,7 @@
 | Hosp. Dr. Domingo Luciani (Llanito) | Guavini Efren P.2 | 30 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Guavini Efren P.2 / Guavini Padron Efren | 30 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Guavini Efren P.2 / Guavini Padron Efren / Guarimbe Efren | 30 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Guerra Rosa Pino | 39 |  |  | Emergencia (27/06) | Fuente: Hosp. Domingo Luciani 27JUN (lista por servicio) |
 | Hosp. Dr. Domingo Luciani (Llanito) | Guerreiro Guerreiro |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado; POLITRAUMA EMERG NUEVA |
 | Hosp. Dr. Domingo Luciani (Llanito) | Guerreiro Jesus | 44 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Politrauma Emerg. Nueva |
 | Hosp. Dr. Domingo Luciani (Llanito) | Guerrero Deiverson | 20 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
@@ -1754,9 +1778,11 @@
 | Hosp. Dr. Domingo Luciani (Llanito) | Guzman Paola | 12 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Harrufo Ariana | 84 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Trauma |
 | Hosp. Dr. Domingo Luciani (Llanito) | Henrrique Isquierdo | 55 |  | Sin información | Politrauma Nueva | Fuente: GSheet VENEZUELA HOSPITALES (203000) · lesión: Sin información · Unico - sin coincidencia previa |
+| Hosp. Dr. Domingo Luciani (Llanito) | Hernandez Cesar | 48 |  |  | Traumatologia (27/06) | Fuente: Hosp. Domingo Luciani 27JUN (lista por servicio) |
 | Hosp. Dr. Domingo Luciani (Llanito) | Hernández Deiby |  |  |  | Poli — Emergencia Nueva (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Hernandez Francisco | 62 | 8176273 |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado; UPT 2. |
 | Hosp. Dr. Domingo Luciani (Llanito) | Hernández Rey |  |  |  | Quirófano (26/06, 1:00 pm) (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Herrera | 25 |  |  | Traumatologia (27/06) | Fuente: Hosp. Domingo Luciani 27JUN (lista por servicio) |
 | Hosp. Dr. Domingo Luciani (Llanito) | Herrera Meilano Gladiuska |  |  |  | Lista (img.3) |  |
 | Hosp. Dr. Domingo Luciani (Llanito) | Herrera Merlano Gladivska |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Herrero Gladiuska | 26 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Cardiología Piso 2 – H-10 – F |
@@ -1775,12 +1801,14 @@
 | Hosp. Dr. Domingo Luciani (Llanito) | Isabel Vega | 50 |  |  | Politrauma — Emergencia Vieja («Trauma Vieja») (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Isax Martínez | 10 |  | La Guaira | Trauma – Piso 4 (27/06) | Fuente: Hosp. Domingo Luciani 27JUN (últimos ingresos) |
 | Hosp. Dr. Domingo Luciani (Llanito) | Iscala Yenny (?) | 42 |  | Baruta | Ingresados por sismo |  |
+| Hosp. Dr. Domingo Luciani (Llanito) | Iscala Yeny | 42 |  |  | Traumatologia (27/06) | Fuente: Hosp. Domingo Luciani 27JUN (lista por servicio) |
 | Hosp. Dr. Domingo Luciani (Llanito) | Isquiebdo Henraique | 55 |  | Sin información | Politrauma - Emergencia Nueva | Fuente: GSheet VENEZUELA HOSPITALES (203000) · lesión: Sin información · Lista manuscrita 'Pacientes del sismo' 25/06/2026 2:00pm — BAJA CONFIABILIDAD \ |
 | Hosp. Dr. Domingo Luciani (Llanito) | Isquiel Henrique | 55 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Politrauma Emerg. Nueva |
 | Hosp. Dr. Domingo Luciani (Llanito) | Isquier Henrique / Isquier Henriaique |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Politrauma Emerg. Nueva |
 | Hosp. Dr. Domingo Luciani (Llanito) | Isquier Henrrique (?) |  |  |  | Politrauma — Emergencia Nueva | Fuente: Hosp. Domingo Luciani 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Isquierdo Henriquez | 55 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Politrauma Emerg. Nueva |
 | Hosp. Dr. Domingo Luciani (Llanito) | Isquierdo Jean | 83 |  | palos grande | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Izquiel Enrique | 63 |  |  | Medicina Interna (27/06) | Fuente: Hosp. Domingo Luciani 27JUN (lista por servicio) |
 | Hosp. Dr. Domingo Luciani (Llanito) | Izquierdo Iraima | 83 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Fallecida |
 | Hosp. Dr. Domingo Luciani (Llanito) | Izquierdo Jean | 83 |  | Palos Grandes | Ingresados por sismo |  |
 | Hosp. Dr. Domingo Luciani (Llanito) | Jancel Rey (?) |  |  |  | Quirófano (II) | Fuente: Hosp. Domingo Luciani 26JUN26 |
@@ -1794,6 +1822,7 @@
 | Hosp. Dr. Domingo Luciani (Llanito) | Jimenez Axel | 4 |  | Los Corales | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Pediatría – Madre: Mileidi Lopez |
 | Hosp. Dr. Domingo Luciani (Llanito) | Jimenez Axel / Jimenes Axel | 4 |  | Los Corales | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Pediatría – Madre: Mileidi Lopez |
 | Hosp. Dr. Domingo Luciani (Llanito) | Jimenez Axiel / Jimenez Axel | 4 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Qx |
+| Hosp. Dr. Domingo Luciani (Llanito) | Jinderli Cavarra | 13 |  |  | Pediatria (27/06) | Fuente: Hosp. Domingo Luciani 27JUN (lista por servicio) |
 | Hosp. Dr. Domingo Luciani (Llanito) | Jiver Samuel | 30 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · La Guaira – Ingresos 9am |
 | Hosp. Dr. Domingo Luciani (Llanito) | Joiber Silva | 7 |  | La Guaira | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Pediatría |
 | Hosp. Dr. Domingo Luciani (Llanito) | José Daniel Bena (?) | 35 |  | La Guaira | Cirugía (27/06) | Fuente: Hosp. Domingo Luciani 27JUN (últimos ingresos) |
@@ -1809,10 +1838,12 @@
 | Hosp. Dr. Domingo Luciani (Llanito) | Lewis Desmon | 10 |  | La Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Pediatría – Madre: Elisa Calderon |
 | Hosp. Dr. Domingo Luciani (Llanito) | Leyibe Pedra |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Nombre incierto |
 | Hosp. Dr. Domingo Luciani (Llanito) | Lidice Velázquez | 12 |  | La Guaira (Los Corales) | Pediatría (27/06) | Fuente: Hosp. Domingo Luciani 27JUN (últimos ingresos) |
+| Hosp. Dr. Domingo Luciani (Llanito) | Liliana Onhuela | 51 |  |  | Politrauma Emergencia (27/06) | Fuente: Hosp. Domingo Luciani 27JUN (lista por servicio) |
 | Hosp. Dr. Domingo Luciani (Llanito) | Liscamo Pedro | 40 |  | Cahacaito | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Liscano Pedro | 40 |  | Chacaíto | Ingresados por sismo |  |
 | Hosp. Dr. Domingo Luciani (Llanito) | Lopez Fronin Rivas |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Politrauma |
 | Hosp. Dr. Domingo Luciani (Llanito) | Lopez Haddy F | 42 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Lopez William | 28 |  |  | Quirofano (27/06) | Fuente: Hosp. Domingo Luciani 27JUN (lista por servicio) |
 | Hosp. Dr. Domingo Luciani (Llanito) | Lostra Visbal Clara |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Loyo Clara |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Loyo Visbal Clara |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
@@ -1839,6 +1870,7 @@
 | Hosp. Dr. Domingo Luciani (Llanito) | Marangel Munon | 59 |  | Sin información | Grupo 'Omaciento Sebastian' (continuación) | Fuente: GSheet VENEZUELA HOSPITALES (203000) · lesión: Sin información · Lista manuscrita 'Pacientes del sismo' 25/06/2026 2:00pm — BAJA CONFIABILIDAD \ |
 | Hosp. Dr. Domingo Luciani (Llanito) | Marcano Katiuska | 56 |  | La Guaira | Ingresados por sismo |  |
 | Hosp. Dr. Domingo Luciani (Llanito) | Marcano Rosa |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Hosp. Dr. Domingo Luciani (Llanito) | Marcano Stiven | 7 |  |  | Pediatria (27/06) | Fuente: Hosp. Domingo Luciani 27JUN (lista por servicio) |
 | Hosp. Dr. Domingo Luciani (Llanito) | Maria Castallero | 65 |  | Guarenas | Politrauma (Medicina Interna) | Fuente: GSheet VENEZUELA HOSPITALES (203000) · lesión: Sin información · Lista manuscrita Domingo Luciani — BAJA CONFIABILIDAD \ |
 | Hosp. Dr. Domingo Luciani (Llanito) | María Castañedo | 65 |  | Guarenas (?) | Politrauma (MI) (7:20 am) | Fuente: Hosp. Domingo Luciani 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Marla Cardoza | 25 |  |  | Medicina Interna (9:00 am) | Fuente: Hosp. Domingo Luciani 26JUN26 |
@@ -1870,8 +1902,10 @@
 | Hosp. Dr. Domingo Luciani (Llanito) | Mirelis Baute | 65 |  |  | POLI I (7:20 am) | Fuente: Hosp. Domingo Luciani 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Mirkis Bercomo | 37 | 18485859 | La Guaira | Sin información | Fuente: GSheet VENEZUELA HOSPITALES (203000) · lesión: Sin información · Nombre dudoso (manuscrito) \ |
 | Hosp. Dr. Domingo Luciani (Llanito) | Misy Gabriela Parra |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Politrauma |
+| Hosp. Dr. Domingo Luciani (Llanito) | Moreno | 31 |  |  | Traumatologia (27/06) | Fuente: Hosp. Domingo Luciani 27JUN (lista por servicio) |
 | Hosp. Dr. Domingo Luciani (Llanito) | Moreno Gismel | 31 |  | La Guaira | EMG Trauma (7:30 am) | Fuente: Hosp. Domingo Luciani 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Moreno Gismeli | 31 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Quirófano – F |
+| Hosp. Dr. Domingo Luciani (Llanito) | Morruffo Adriana | 37 |  |  | Traumatologia (27/06) | Fuente: Hosp. Domingo Luciani 27JUN (lista por servicio) |
 | Hosp. Dr. Domingo Luciani (Llanito) | MUÃ‘ON MARIANGEL | 59 |  |  | Registro hospitalario | Fuente: GSheet VENEZUELA HOSPITALES (203000) |
 | Hosp. Dr. Domingo Luciani (Llanito) | MUÃ‘OZ JOSEFINA | 72 |  |  | Registro hospitalario | Fuente: GSheet VENEZUELA HOSPITALES (203000) |
 | Hosp. Dr. Domingo Luciani (Llanito) | Muñon Mariangel | 59 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
@@ -1881,9 +1915,12 @@
 | Hosp. Dr. Domingo Luciani (Llanito) | Nohori Marrero | 20 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Politrauma Emerg. Vieja |
 | Hosp. Dr. Domingo Luciani (Llanito) | Nombre Completo |  |  |  | Nota | Fuente: GSheet VENEZUELA HOSPITALES (203000) |
 | Hosp. Dr. Domingo Luciani (Llanito) | Norkis Bencomo | 37 |  | Sin información | Cardiología Piso 2 (H-11) | Fuente: GSheet VENEZUELA HOSPITALES (203000) · lesión: Sin información · Lista manuscrita Domingo Luciani — BAJA CONFIABILIDAD \ |
+| Hosp. Dr. Domingo Luciani (Llanito) | Obuber Manuel | 38 |  |  | Medicina Interna (27/06) | Fuente: Hosp. Domingo Luciani 27JUN (lista por servicio) |
 | Hosp. Dr. Domingo Luciani (Llanito) | Odalis Garcias | 43 |  | Sin información | Medicina Interna | Fuente: GSheet VENEZUELA HOSPITALES (203000) · lesión: Sin información · Lista manuscrita Domingo Luciani — BAJA CONFIABILIDAD \ |
 | Hosp. Dr. Domingo Luciani (Llanito) | Odalys García | 43 |  |  | Medicina Interna (9:00 am) | Fuente: Hosp. Domingo Luciani 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Odebe Manuel | 38 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Medicina Interna – M |
+| Hosp. Dr. Domingo Luciani (Llanito) | Oduber Manuel | 38 |  |  | Quirofano (27/06) | Fuente: Hosp. Domingo Luciani 27JUN (lista por servicio) |
+| Hosp. Dr. Domingo Luciani (Llanito) | Oduper Manuel | 38 |  |  | Quirofano (27/06) | Fuente: Hosp. Domingo Luciani 27JUN (lista por servicio) |
 | Hosp. Dr. Domingo Luciani (Llanito) | Ojeda Doris Arrieta |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Politrauma |
 | Hosp. Dr. Domingo Luciani (Llanito) | Oldaz Luisana | 58 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Omaciento Sebastian | 16 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
@@ -1904,6 +1941,7 @@
 | Hosp. Dr. Domingo Luciani (Llanito) | Padron Jean Franco | 42 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Dr. Domingo Luciani (Llanito) | Padrón Jesús Cirilo |  |  |  | Lista (img.2) |  |
 | Hosp. Dr. Domingo Luciani (Llanito) | Paenri Perez | 14 |  | Sin información | Cardiología Piso 2 (H-9) | Fuente: GSheet VENEZUELA HOSPITALES (203000) · lesión: Sin información · Lista manuscrita Domingo Luciani — BAJA CONFIABILIDAD \ |
+| Hosp. Dr. Domingo Luciani (Llanito) | Palinaa Maria |  |  |  | Quirofano (27/06) | Fuente: Hosp. Domingo Luciani 27JUN (lista por servicio) |
 | Hosp. Dr. Domingo Luciani (Llanito) | Paola Alcoido |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Politrauma Emerg. Nueva |
 | Hosp. Dr. Domingo Luciani (Llanito) | Parada Antonio | 78 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado; PISO 2 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Parenyi Perez | 14 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado; PISO 2 |
@@ -1944,6 +1982,7 @@
 | Hosp. Dr. Domingo Luciani (Llanito) | Rengifo Delli | 46 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Rengifo Guillermina | 46 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Requena Dilia | 52 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado; Tiene familia |
+| Hosp. Dr. Domingo Luciani (Llanito) | Revoredo Luis | 57 |  |  | Traumatologia (27/06) | Fuente: Hosp. Domingo Luciani 27JUN (lista por servicio) |
 | Hosp. Dr. Domingo Luciani (Llanito) | Rey Jenicel |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Quirófano |
 | Hosp. Dr. Domingo Luciani (Llanito) | Rey Jennal | 29 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Rey Jenncel | 29 |  | chacao | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
@@ -1961,6 +2000,7 @@
 | Hosp. Dr. Domingo Luciani (Llanito) | Rivas López Franin (?) |  |  |  | Lista (img.3) |  |
 | Hosp. Dr. Domingo Luciani (Llanito) | Rivero Daniel | 60 |  | Macaracuay | Ingresados por sismo |  |
 | Hosp. Dr. Domingo Luciani (Llanito) | Rivero Jose | 53 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado; PISO 4 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Roada Evelyn | 54 |  |  | Traumatologia (27/06) | Fuente: Hosp. Domingo Luciani 27JUN (lista por servicio) |
 | Hosp. Dr. Domingo Luciani (Llanito) | Roda Heida | 71 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado; POLITRAUMA EMERG NUEVA |
 | Hosp. Dr. Domingo Luciani (Llanito) | Rodes Galicia |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado; Alta |
 | Hosp. Dr. Domingo Luciani (Llanito) | Rodriguez Camila | 17 | 34234386 |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado; Triaje |
@@ -1982,6 +2022,7 @@
 | Hosp. Dr. Domingo Luciani (Llanito) | Rueda Isabel | 50 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Trauma |
 | Hosp. Dr. Domingo Luciani (Llanito) | Ruiz Dannis |  |  |  | Quirófano (26/06, 1:00 pm) (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Ruiz Denni | 49 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Politrauma – La Guaira |
+| Hosp. Dr. Domingo Luciani (Llanito) | Ruiz Donnis | 41 |  |  | Quirofano (27/06) | Fuente: Hosp. Domingo Luciani 27JUN (lista por servicio) |
 | Hosp. Dr. Domingo Luciani (Llanito) | Salasaa Arturo | 13 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Pediatría |
 | Hosp. Dr. Domingo Luciani (Llanito) | Salasab Arturo |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Pediatría |
 | Hosp. Dr. Domingo Luciani (Llanito) | Salazar Arturo | 13 |  |  | Cirugía Pediátrica (niño solo) |  |
@@ -1995,6 +2036,7 @@
 | Hosp. Dr. Domingo Luciani (Llanito) | Sanchez Catalina |  |  | La Guaira | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Ingresos 6am-9:20pm |
 | Hosp. Dr. Domingo Luciani (Llanito) | Sanchez Estiven | 28 | 28037310 |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado; Alta |
 | Hosp. Dr. Domingo Luciani (Llanito) | Sanchez Katalina | 65 |  | La Guaira | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Ingresos 6am-9:20pm |
+| Hosp. Dr. Domingo Luciani (Llanito) | Sanchez Rosa | 77 |  |  | Traumatologia (27/06) | Fuente: Hosp. Domingo Luciani 27JUN (lista por servicio) |
 | Hosp. Dr. Domingo Luciani (Llanito) | Sandoval Adriana |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Dr. Domingo Luciani (Llanito) | Sandoval Nelly | 62 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Saneth Ataboni |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Trauma |
@@ -2043,14 +2085,18 @@
 | Hosp. Dr. Domingo Luciani (Llanito) | Tanie Celis | 62 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Politrauma Emerg. Vieja – Qx |
 | Hosp. Dr. Domingo Luciani (Llanito) | Tarabito Espitia Joseani | 32 |  | Petare | Registro hospitalario | Fuente: GSheet VENEZUELA HOSPITALES (203000) |
 | Hosp. Dr. Domingo Luciani (Llanito) | Thiomar Perez | 23 |  | La Guaira | Sin información | Fuente: GSheet VENEZUELA HOSPITALES (203000) · lesión: Sin información · Edad aproximada (±23) \ |
+| Hosp. Dr. Domingo Luciani (Llanito) | Torealba Nubia | 68 |  |  | Traumatologia (27/06) | Fuente: Hosp. Domingo Luciani 27JUN (lista por servicio) |
 | Hosp. Dr. Domingo Luciani (Llanito) | Torralba Nuria | 68 |  | Chacao | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Torralba Nurria (?) | 68 |  | Chacao | Ingresados por sismo |  |
 | Hosp. Dr. Domingo Luciani (Llanito) | Torrealba Nuria | 68 |  | Sin información | Lista general (continuación, sin encabezado) | Fuente: GSheet VENEZUELA HOSPITALES (203000) · lesión: Sin información · Lista manuscrita 'Pacientes del sismo' 25/06/2026 2:00pm — BAJA CONFIABILIDAD \ |
 | Hosp. Dr. Domingo Luciani (Llanito) | Torrealba Nuvia | 68 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Torres Luna |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Torres Milagro |  |  |  | Uci (27/06) | Fuente: Hosp. Domingo Luciani 27JUN (lista por servicio) |
 | Hosp. Dr. Domingo Luciani (Llanito) | Torres Milagros | 46 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Tortosa Jesus | 52 |  | La Guaira | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Ingresos 6am-9:20pm |
+| Hosp. Dr. Domingo Luciani (Llanito) | Trujillo Dejo |  |  |  | Traumatologia (27/06) | Fuente: Hosp. Domingo Luciani 27JUN (lista por servicio) |
 | Hosp. Dr. Domingo Luciani (Llanito) | Trujillo Elián | 19 |  | La Guaira | Ingresados por sismo |  |
+| Hosp. Dr. Domingo Luciani (Llanito) | Trujillo Ethan |  |  |  | Uci (27/06) | Fuente: Hosp. Domingo Luciani 27JUN (lista por servicio) |
 | Hosp. Dr. Domingo Luciani (Llanito) | Trujillo Henam |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Terapia – M; La Guaira |
 | Hosp. Dr. Domingo Luciani (Llanito) | Trujillo Meriam | 19 |  | La Guaira | Poli-Trauma Emergencia Nueva / Terapia (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Uequiola Mauro | 55 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Politrauma Emerg. Vieja |
@@ -2062,7 +2108,9 @@
 | Hosp. Dr. Domingo Luciani (Llanito) | Valeri Conables (?) | 10 |  | La Guaira (Caribe Azul) | Pediatría (27/06) | Fuente: Hosp. Domingo Luciani 27JUN (últimos ingresos) |
 | Hosp. Dr. Domingo Luciani (Llanito) | Valerin | 6 |  | La Guaira | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Pediatría – Reanimación |
 | Hosp. Dr. Domingo Luciani (Llanito) | Valerin Aviba (?) | 6 |  | La Guaira (Los Caribes) | Pediatría (27/06) | Fuente: Hosp. Domingo Luciani 27JUN (últimos ingresos) |
+| Hosp. Dr. Domingo Luciani (Llanito) | Valero | 46 |  |  | Traumatologia (27/06) | Fuente: Hosp. Domingo Luciani 27JUN (lista por servicio) |
 | Hosp. Dr. Domingo Luciani (Llanito) | Vasaceto Andreina | 43 |  | Sin información | Grupo 'Omaciento Sebastian' (continuación) | Fuente: GSheet VENEZUELA HOSPITALES (203000) · lesión: Sin información · Lista manuscrita 'Pacientes del sismo' 25/06/2026 2:00pm — BAJA CONFIABILIDAD \ |
+| Hosp. Dr. Domingo Luciani (Llanito) | Vasavez Gladys | 72 |  |  | Emergencia (27/06) | Fuente: Hosp. Domingo Luciani 27JUN (lista por servicio) |
 | Hosp. Dr. Domingo Luciani (Llanito) | Vascocelo Andreina / Vasconelo Andreina |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Vascoceto Andreina | 43 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Vasconcelo Andreína (?) |  |  |  | Lista (img.2) |  |
@@ -2071,6 +2119,7 @@
 | Hosp. Dr. Domingo Luciani (Llanito) | Vásquez Gladys |  |  |  | Poli — Emergencia Nueva (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Vásquez Luis | 77 |  | Sin familiar | Ingresados por sismo | ✚ posible fallecido (marca en lista) |
 | Hosp. Dr. Domingo Luciani (Llanito) | Vazque Luis | 77 |  | Sin información | Lista general (continuación, sin encabezado) | Fuente: GSheet VENEZUELA HOSPITALES (203000) · lesión: Sin información · Lista manuscrita 'Pacientes del sismo' 25/06/2026 2:00pm — BAJA CONFIABILIDAD \ |
+| Hosp. Dr. Domingo Luciani (Llanito) | Vazquez Gladys | 72 |  |  | Politrauma Emergencia (27/06) | Fuente: Hosp. Domingo Luciani 27JUN (lista por servicio) |
 | Hosp. Dr. Domingo Luciani (Llanito) | Vega María | 54 |  |  | Politrauma — Emergencia Vieja («Trauma Vieja») (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Vega Samuel | 11 |  | Petare | Ingresados por sismo |  |
 | Hosp. Dr. Domingo Luciani (Llanito) | Vegas Isabel | 50 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Poli Emerg. Nueva – F; La Guaira |
@@ -2079,10 +2128,15 @@
 | Hosp. Dr. Domingo Luciani (Llanito) | Veguiole Mauro | 55 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Politrauma Emerg. Vieja |
 | Hosp. Dr. Domingo Luciani (Llanito) | Veguiole Menro | 35 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Politrauma Emerg. Vieja |
 | Hosp. Dr. Domingo Luciani (Llanito) | Velázquez Ilidis |  |  |  | Quirófano (26/06, 1:00 pm) (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Velazquez Lioxe | 12 |  |  | Pediatria (27/06) | Fuente: Hosp. Domingo Luciani 27JUN (lista por servicio) |
 | Hosp. Dr. Domingo Luciani (Llanito) | Vequiola Mauro | 55 |  | La Guaira | EMG Trauma (7:30 am) | Fuente: Hosp. Domingo Luciani 26JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Vera Jace | 41 |  |  | Politrauma Emergencia (27/06) | Fuente: Hosp. Domingo Luciani 27JUN (lista por servicio) |
 | Hosp. Dr. Domingo Luciani (Llanito) | Victoria Caridad | 29 |  |  | Politrauma — Emergencia Vieja («Trauma Vieja») (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Vieira Maria | 74 |  |  | Emergencia (27/06) | Fuente: Hosp. Domingo Luciani 27JUN (lista por servicio) |
 | Hosp. Dr. Domingo Luciani (Llanito) | Viera José |  |  |  | Poli — Emergencia Nueva (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Viera José Luis | 41 |  |  | Emergencia (27/06) | Fuente: Hosp. Domingo Luciani 27JUN (lista por servicio) |
 | Hosp. Dr. Domingo Luciani (Llanito) | Viera Mario |  |  |  | Poli — Emergencia Nueva (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Vierra Maria |  |  |  | Politrauma Emergencia (27/06) | Fuente: Hosp. Domingo Luciani 27JUN (lista por servicio) |
 | Hosp. Dr. Domingo Luciani (Llanito) | Vilches Brayan | 23 |  | Petare | Ingresados por sismo |  |
 | Hosp. Dr. Domingo Luciani (Llanito) | Vilchez Brayan | 23 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Villamar Ares | 23 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · La Guaira – Ingresos 9am |
@@ -2104,11 +2158,13 @@
 | Hosp. Dr. Domingo Luciani (Llanito) | Yessica Blanco |  |  |  | Triaje de cirugía |  |
 | Hosp. Dr. Domingo Luciani (Llanito) | Yina Brito | 49 |  | Sin información | Cardiología Piso 2 (H-11) | Fuente: GSheet VENEZUELA HOSPITALES (203000) · lesión: Sin información · Lista manuscrita Domingo Luciani — BAJA CONFIABILIDAD \ |
 | Hosp. Dr. Domingo Luciani (Llanito) | Yinderli Cavarca | 13 |  | La Guaira | Pediatría (7:00 am) | Fuente: Hosp. Domingo Luciani 26JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Yoalbis Silva | 7 |  |  | Pediatria (27/06) | Fuente: Hosp. Domingo Luciani 27JUN (lista por servicio) |
 | Hosp. Dr. Domingo Luciani (Llanito) | Yoanha Pirma (?) | 18 |  | Barlovento (?) | Trauma – Piso 4 (27/06) | Fuente: Hosp. Domingo Luciani 27JUN (últimos ingresos) |
 | Hosp. Dr. Domingo Luciani (Llanito) | Yoselin Garabit (?) | 33 |  | La Guaira | Cirugía (27/06) | Fuente: Hosp. Domingo Luciani 27JUN (últimos ingresos) |
 | Hosp. Dr. Domingo Luciani (Llanito) | Yosemi Garoboto (?) | 30 |  |  | Politrauma — Emergencia Vieja | Fuente: Hosp. Domingo Luciani 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Yuliany Mora | 52 |  |  | Politrauma — Emergencia Vieja («Trauma Vieja») (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Yuniscarly Bednar (?) | 17 |  | La Guaira (Playa Grande) | Pediatría – UCI (27/06) | Fuente: Hosp. Domingo Luciani 27JUN (últimos ingresos) |
+| Hosp. Dr. Domingo Luciani (Llanito) | Zamora Samy | 38 |  |  | Quirofano (27/06) | Fuente: Hosp. Domingo Luciani 27JUN (lista por servicio) |
 | Periférico de Catia | Abdly Abdelys | 28 | 26254624 |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Cirugía General |
 | Periférico de Catia | Abrau Isabel | 36 |  |  | Trauma (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
 | Periférico de Catia | Abreu Ana | 36 | 22036301 |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Cirugía General |
@@ -4370,3 +4426,4 @@
 - **Actualización 27JUN26 (GSheet VENEZUELA HOSPITALES):** de 2.416 registros (4 hojas) se añadieron las **406 no repetidas** (dedup por cédula global y nombre por grupo). Grupos nuevos: Hospital de Pariata, IVSS Misiones, Sobrevivientes, Residencias, No encontrados.
 - **Actualización 27JUN26 (Hosp. Vargas de Caracas):** de 137 registros (6 listas) se añadieron las **76 no repetidas** (dedup por cédula global y nombre en el grupo Vargas de Caracas).
 - **Actualización 27JUN26 (Domingo Luciani, últimos ingresos):** de 40 registros se añadieron las **30 no repetidas** (dedup por nombre en el grupo Domingo Luciani).
+- **Actualización 27JUN26 (Domingo Luciani, lista por servicio):** de 111 registros se añadieron las **54 no repetidas** (dedup por nombre; incluye repetidos internos de la lista).
