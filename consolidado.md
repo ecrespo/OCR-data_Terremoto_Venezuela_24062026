@@ -32,6 +32,8 @@
 
 > 🆕 **Actualización 27JUN26 (Hosp. Vargas de Caracas, fotos 25–26/06):** se añadieron **76 personas nuevas** (priorización, turno nocturno, emergencia adulto/pediátrica, Sala 19 y pizarra; incluye fallecidos). Llevan «Fuente: Hosp. Vargas de Caracas 25-26JUN (foto)» en Nota.
 
+> 🆕 **Actualización 26JUN26 (Transcripción listados papel — paoavs):** se añadieron **146 personas nuevas** de listados en papel no digitalizados previamente: Hospital General de Lídice Dr. Jesús Yerena (42, centro nuevo), Sala 19 La Guaira (11 nuevos), Listado sin identificar págs. 3-4 (25), Campo de Golf sobrevivientes listados 5-6-7 y suplemento (27), Emergencia Adulto Trauma/UCC/Obs (8, hospital sin identificar), Emergencia Pediátrica (5, hospital sin identificar), Hospital Vargas de Caracas (28 nuevos). Llevan «Fuente: Transcripción listados papel 26JUN26 (paoavs)» en Nota.
+
 ## Resumen
 
 | Hospital / Área | Personas (únicas) | De ellas, nuevas (UCV) |
@@ -43,14 +45,14 @@
 | Periférico de Catia | 373 | 66 |
 | Rescatados — Alcaldía de Chacao (Los Palos Grandes / Bellocampo) | 17 | 0 |
 | Hosp. Universitario de Caracas (UCV) | 117 | 102 |
-| Hosp. Vargas de Caracas | 375 | 122 |
+| Hosp. Vargas de Caracas | 403 | 122 |
 | Hosp. Militar Univ. Dr. Carlos Arvelo | 139 | 137 |
 | Cruz Roja (Caracas) | 40 | 27 |
 | Hosp. Ana Francisca Pérez de León II | 84 | 22 |
 | Clínica El Ávila | 42 | 34 |
 | Hosp. Dr. Ricardo Baquero González | 45 | 0 |
 | Hospital J.M. de los Ríos (Niños) | 2 | 0 |
-| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | 445 | 0 |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | 472 | 0 |
 | Seguro Social La Guaira (IVSS) | 130 | 0 |
 | Centro de Acopio Caraballeda | 236 | 0 |
 | Hospital Materno Infantil del Valle (Hugo Chávez Frías) | 35 | 0 |
@@ -60,7 +62,12 @@
 | Sobrevivientes — Terremoto 24/06 | 40 | 0 |
 | Personas en residencias | 15 | 0 |
 | No encontrados / reportados | 18 | 0 |
-| **TOTAL** | **4250** | **657** |
+| Hosp. General de Lídice Dr. Jesús Yerena | 42 | 0 |
+| Sala 19 — La Guaira (Hosp. Vargas) | 11 | 0 |
+| Sin identificar — Listado págs. 3-4 | 25 | 0 |
+| Sin identificar — Emergencia Adulto (Trauma Shock/UCC/Obs) | 8 | 0 |
+| Sin identificar — Emergencia Pediátrica | 5 | 0 |
+| **TOTAL** | **4396** | **657** |
 
 ## Listado consolidado
 
@@ -4337,3 +4344,149 @@
 - **Actualización 26JUN26 (Google Sheets consolidada):** de 391 registros se añadieron las **95 no repetidas** (dedup por cédula y nombre). Grupo nuevo: Materno Infantil del Valle.
 - **Actualización 27JUN26 (GSheet VENEZUELA HOSPITALES):** de 2.416 registros (4 hojas) se añadieron las **406 no repetidas** (dedup por cédula global y nombre por grupo). Grupos nuevos: Hospital de Pariata, IVSS Misiones, Sobrevivientes, Residencias, No encontrados.
 - **Actualización 27JUN26 (Hosp. Vargas de Caracas):** de 137 registros (6 listas) se añadieron las **76 no repetidas** (dedup por cédula global y nombre en el grupo Vargas de Caracas).
+| Hosp. General de Lídice Dr. Jesús Yerena | Joannys Guevara | 9 | 37550828 |  | Pediatría | Fuente: Transcripción listados papel 26JUN26 (paoavs) |
+| Hosp. General de Lídice Dr. Jesús Yerena | Moises Nieves | 5 |  |  | menor | Fuente: Transcripción listados papel 26JUN26 (paoavs) |
+| Hosp. General de Lídice Dr. Jesús Yerena | Kristal Mejias | 25 | 29738341 |  |  | Fuente: Transcripción listados papel 26JUN26 (paoavs) |
+| Hosp. General de Lídice Dr. Jesús Yerena | Daniel Pereira | 45 | 14568514 |  |  | Fuente: Transcripción listados papel 26JUN26 (paoavs) |
+| Hosp. General de Lídice Dr. Jesús Yerena | Joselin Morfe | 42 | 15396174 |  |  | Fuente: Transcripción listados papel 26JUN26 (paoavs) |
+| Hosp. General de Lídice Dr. Jesús Yerena | Abraham Zapata | 9 |  |  | Pediatría — Suma | Fuente: Transcripción listados papel 26JUN26 (paoavs) |
+| Hosp. General de Lídice Dr. Jesús Yerena | Johana Mejia | 40 |  |  | Neumología — Aislamiento 1 | Fuente: Transcripción listados papel 26JUN26 (paoavs) |
+| Hosp. General de Lídice Dr. Jesús Yerena | Daniela Caballero | 16 | 33765341 |  | Trauma | Fuente: Transcripción listados papel 26JUN26 (paoavs) |
+| Hosp. General de Lídice Dr. Jesús Yerena | Francis Brito | 36 |  |  |  | Fuente: Transcripción listados papel 26JUN26 (paoavs) |
+| Hosp. General de Lídice Dr. Jesús Yerena | Adela Silva | 61 |  |  |  | Fuente: Transcripción listados papel 26JUN26 (paoavs) |
+| Hosp. General de Lídice Dr. Jesús Yerena | Penys Frias | 22 |  |  |  | Fuente: Transcripción listados papel 26JUN26 (paoavs) |
+| Hosp. General de Lídice Dr. Jesús Yerena | Yeny Diaz | 61 | 7858766 |  | Neumología — Aislamiento 2 | Fuente: Transcripción listados papel 26JUN26 (paoavs) |
+| Hosp. General de Lídice Dr. Jesús Yerena | Nancy Marcano | 59 |  |  |  | Fuente: Transcripción listados papel 26JUN26 (paoavs) |
+| Hosp. General de Lídice Dr. Jesús Yerena | Jesus Vegas | 27 |  |  |  | Fuente: Transcripción listados papel 26JUN26 (paoavs) |
+| Hosp. General de Lídice Dr. Jesús Yerena | Wilfredo Quintero | 50 |  |  |  | Fuente: Transcripción listados papel 26JUN26 (paoavs) |
+| Hosp. General de Lídice Dr. Jesús Yerena | Ana Rosa Cardenas | 49 |  |  |  | Fuente: Transcripción listados papel 26JUN26 (paoavs) |
+| Hosp. General de Lídice Dr. Jesús Yerena | Carlos Daniel Maya Carpio | 26 | 27042623 |  | Columna | Fuente: Transcripción listados papel 26JUN26 (paoavs) |
+| Hosp. General de Lídice Dr. Jesús Yerena | Aslau Meaño | 9 |  |  |  | Fuente: Transcripción listados papel 26JUN26 (paoavs) |
+| Hosp. General de Lídice Dr. Jesús Yerena | Katerin Apaez | 32 |  |  |  | Fuente: Transcripción listados papel 26JUN26 (paoavs) |
+| Hosp. General de Lídice Dr. Jesús Yerena | Vanessa Roche | 33 |  |  |  | Fuente: Transcripción listados papel 26JUN26 (paoavs) |
+| Hosp. General de Lídice Dr. Jesús Yerena | Lizia Paredes | 37 |  |  | Cirugía — cama 6 | Fuente: Transcripción listados papel 26JUN26 (paoavs) |
+| Hosp. General de Lídice Dr. Jesús Yerena | Jesus Betaucourt | 7 |  |  | menor | Fuente: Transcripción listados papel 26JUN26 (paoavs) |
+| Hosp. General de Lídice Dr. Jesús Yerena | Camila Betaucourt | 6 |  |  | menor | Fuente: Transcripción listados papel 26JUN26 (paoavs) |
+| Hosp. General de Lídice Dr. Jesús Yerena | Heny Paredes | 55 | 11481942 |  | Cuidados Intermedios | Fuente: Transcripción listados papel 26JUN26 (paoavs) |
+| Hosp. General de Lídice Dr. Jesús Yerena | Valery Alfonzo | 6 |  |  | menor | Fuente: Transcripción listados papel 26JUN26 (paoavs) |
+| Hosp. General de Lídice Dr. Jesús Yerena | Celin Aguilera | 47 | 13572554 |  |  | Fuente: Transcripción listados papel 26JUN26 (paoavs) |
+| Hosp. General de Lídice Dr. Jesús Yerena | Lobo Paredes Yohana | 43 | 16904041 |  | UCI — cama 2 | Fuente: Transcripción listados papel 26JUN26 (paoavs) |
+| Hosp. General de Lídice Dr. Jesús Yerena | Daniel Herrera | 41 |  |  | T/S — cama 1 | Fuente: Transcripción listados papel 26JUN26 (paoavs) |
+| Hosp. General de Lídice Dr. Jesús Yerena | Atriley Narvaez | 55 | 13373526 |  |  | Fuente: Transcripción listados papel 26JUN26 (paoavs) |
+| Hosp. General de Lídice Dr. Jesús Yerena | Ana Celis Vargas | 63 |  |  |  | Fuente: Transcripción listados papel 26JUN26 (paoavs) |
+| Hosp. General de Lídice Dr. Jesús Yerena | Andrea de los Ángeles Suárez | 17 | 33262062 |  |  | Fuente: Transcripción listados papel 26JUN26 (paoavs) |
+| Hosp. General de Lídice Dr. Jesús Yerena | Cristian Rivas | 64 | 6010203 |  |  | Fuente: Transcripción listados papel 26JUN26 (paoavs) |
+| Hosp. General de Lídice Dr. Jesús Yerena | Jonathan Gutierrez | 43 | 15507016 |  |  | Fuente: Transcripción listados papel 26JUN26 (paoavs) |
+| Hosp. General de Lídice Dr. Jesús Yerena | Luis E. Santoyo Yaguaracucho |  | 30954460 |  | Columna | Fuente: Transcripción listados papel 26JUN26 (paoavs) |
+| Hosp. General de Lídice Dr. Jesús Yerena | Juan Urbina | 15 | 35013098 |  |  | Fuente: Transcripción listados papel 26JUN26 (paoavs) |
+| Hosp. General de Lídice Dr. Jesús Yerena | Katherine Alexandra Apaez |  | 21034349 |  | Columna | Fuente: Transcripción listados papel 26JUN26 (paoavs) |
+| Hosp. General de Lídice Dr. Jesús Yerena | Jesus Angel Vera Morales |  | 21534349 |  | Columna | Fuente: Transcripción listados papel 26JUN26 (paoavs) |
+| Hosp. General de Lídice Dr. Jesús Yerena | Lubina Juan | 15 |  |  | Trauma | Fuente: Transcripción listados papel 26JUN26 (paoavs) |
+| Hosp. General de Lídice Dr. Jesús Yerena | Aguilera Eoli |  | 18572554 |  | UCI — cama 3 | Fuente: Transcripción listados papel 26JUN26 (paoavs) |
+| Hosp. General de Lídice Dr. Jesús Yerena | Trias Denis |  |  |  | Terapia — quemado | Fuente: Transcripción listados papel 26JUN26 (paoavs) |
+| Hosp. General de Lídice Dr. Jesús Yerena | Jesus Bello | 9 |  |  | Pediatría — Catia la Mar | Fuente: Transcripción listados papel 26JUN26 (paoavs) |
+| Hosp. General de Lídice Dr. Jesús Yerena | Lionelis Bolivar | 12 |  |  | Pediatría — Catia la Mar | Fuente: Transcripción listados papel 26JUN26 (paoavs) |
+| Sala 19 — La Guaira (Hosp. Vargas) | Daiberli Gonzalez |  |  |  | Sala 19 — cama 17 | Fuente: Transcripción listados papel 26JUN26 (paoavs) |
+| Sala 19 — La Guaira (Hosp. Vargas) | Emerson Lopez |  |  |  | Sala 19 — cama 4 | Fuente: Transcripción listados papel 26JUN26 (paoavs) |
+| Sala 19 — La Guaira (Hosp. Vargas) | Cristofer Gil |  |  |  | Sala 19 — cama 5 | Fuente: Transcripción listados papel 26JUN26 (paoavs) |
+| Sala 19 — La Guaira (Hosp. Vargas) | Vanesa Gonzalez |  |  |  | Sala 19 — cama 6 | Fuente: Transcripción listados papel 26JUN26 (paoavs) |
+| Sala 19 — La Guaira (Hosp. Vargas) | Crismerli Moreno |  |  |  | Sala 19 — cama 15 | Fuente: Transcripción listados papel 26JUN26 (paoavs) |
+| Sala 19 — La Guaira (Hosp. Vargas) | Carmen Vargas |  |  |  | Sala 19 — cama 8 | Fuente: Transcripción listados papel 26JUN26 (paoavs) |
+| Sala 19 — La Guaira (Hosp. Vargas) | Franki Campos |  |  |  | Sala 19 — cama 12 | Fuente: Transcripción listados papel 26JUN26 (paoavs) |
+| Sala 19 — La Guaira (Hosp. Vargas) | Heila Martinez |  |  |  | Sala 19 — cama 7 | Fuente: Transcripción listados papel 26JUN26 (paoavs) |
+| Sala 19 — La Guaira (Hosp. Vargas) | Maura Gonzalez |  |  |  | Sala 19 — cama 16 | Fuente: Transcripción listados papel 26JUN26 (paoavs) |
+| Sala 19 — La Guaira (Hosp. Vargas) | Geraldine de Abreu |  |  |  | Sala 19 — cama 18 | Fuente: Transcripción listados papel 26JUN26 (paoavs) |
+| Sala 19 — La Guaira (Hosp. Vargas) | Maria Pernia |  |  |  | Sala 19 — cama 19 | Fuente: Transcripción listados papel 26JUN26 (paoavs) |
+| Sin identificar — Listado págs. 3-4 | Yolimar Benavidez |  |  |  | Sin información | Fuente: Transcripción listados papel 26JUN26 (paoavs) |
+| Sin identificar — Listado págs. 3-4 | Michel Chiuico |  |  |  | Sin información | Fuente: Transcripción listados papel 26JUN26 (paoavs) |
+| Sin identificar — Listado págs. 3-4 | Nirxon Ramirez |  |  |  | Sin información | Fuente: Transcripción listados papel 26JUN26 (paoavs) |
+| Sin identificar — Listado págs. 3-4 | Gilmer Castillo |  |  |  | Sin información | Fuente: Transcripción listados papel 26JUN26 (paoavs) |
+| Sin identificar — Listado págs. 3-4 | Adolfo Guarenas |  |  |  | Sin información | Fuente: Transcripción listados papel 26JUN26 (paoavs) |
+| Sin identificar — Listado págs. 3-4 | Nicole Hernandez |  |  |  | Sin información | Fuente: Transcripción listados papel 26JUN26 (paoavs) |
+| Sin identificar — Listado págs. 3-4 | Gari Graterol |  |  |  | Sin información | Fuente: Transcripción listados papel 26JUN26 (paoavs) |
+| Sin identificar — Listado págs. 3-4 | Nahomi Graterol |  |  |  | Sin información | Fuente: Transcripción listados papel 26JUN26 (paoavs) |
+| Sin identificar — Listado págs. 3-4 | Jean Ramirez |  |  |  | Sin información | Fuente: Transcripción listados papel 26JUN26 (paoavs) |
+| Sin identificar — Listado págs. 3-4 | Alanis Carmona |  |  |  | Sin información | Fuente: Transcripción listados papel 26JUN26 (paoavs) |
+| Sin identificar — Listado págs. 3-4 | Arelia Serrano |  |  |  | Sin información | Fuente: Transcripción listados papel 26JUN26 (paoavs) |
+| Sin identificar — Listado págs. 3-4 | Kanedy Renott |  |  |  | Sin información | Fuente: Transcripción listados papel 26JUN26 (paoavs) |
+| Sin identificar — Listado págs. 3-4 | Coromoto Larez |  |  |  | Sin información | Fuente: Transcripción listados papel 26JUN26 (paoavs) |
+| Sin identificar — Listado págs. 3-4 | Mayderlyn Martinez |  |  |  | Sin información | Fuente: Transcripción listados papel 26JUN26 (paoavs) |
+| Sin identificar — Listado págs. 3-4 | Mariannys Aranguren |  |  |  | Sin información | Fuente: Transcripción listados papel 26JUN26 (paoavs) |
+| Sin identificar — Listado págs. 3-4 | Biomela Placidomaria |  |  |  | Sin información | Fuente: Transcripción listados papel 26JUN26 (paoavs) |
+| Sin identificar — Listado págs. 3-4 | Saray Sepulpeda |  |  |  | Sin información | Fuente: Transcripción listados papel 26JUN26 (paoavs) |
+| Sin identificar — Listado págs. 3-4 | Rosa Marquez |  |  |  | Sin información | Fuente: Transcripción listados papel 26JUN26 (paoavs) |
+| Sin identificar — Listado págs. 3-4 | Joselvis Vasquez |  |  |  | Sin información | Fuente: Transcripción listados papel 26JUN26 (paoavs) |
+| Sin identificar — Listado págs. 3-4 | Nelyari Blanco |  |  |  | Sin información | Fuente: Transcripción listados papel 26JUN26 (paoavs) |
+| Sin identificar — Listado págs. 3-4 | Benjamin Dewentt |  |  |  | Sin información | Fuente: Transcripción listados papel 26JUN26 (paoavs) |
+| Sin identificar — Listado págs. 3-4 | Delmita Ojeda |  |  |  | Sin información | Fuente: Transcripción listados papel 26JUN26 (paoavs) |
+| Sin identificar — Listado págs. 3-4 | Domingo Blanco |  |  |  | Sin información | Fuente: Transcripción listados papel 26JUN26 (paoavs) |
+| Sin identificar — Listado págs. 3-4 | Yanay Villam |  |  |  | Sin información | Fuente: Transcripción listados papel 26JUN26 (paoavs) |
+| Sin identificar — Listado págs. 3-4 | Anyelimar Blanco |  |  |  | Sin información | Fuente: Transcripción listados papel 26JUN26 (paoavs) |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Yeison Forfon |  |  |  | Sobrevivientes | Fuente: Transcripción listados papel 26JUN26 (paoavs) |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Charlie Jaromilla |  |  |  | Sobrevivientes | Fuente: Transcripción listados papel 26JUN26 (paoavs) |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Guillmar Gomez |  |  |  | Sobrevivientes | Fuente: Transcripción listados papel 26JUN26 (paoavs) |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Eliecer Rodriguez Martinez |  |  |  | Sobrevivientes | Fuente: Transcripción listados papel 26JUN26 (paoavs) |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Yelinar Perez |  |  |  | Sobrevivientes | Fuente: Transcripción listados papel 26JUN26 (paoavs) |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Jose A. Rodriguez |  |  |  | Sobrevivientes | Fuente: Transcripción listados papel 26JUN26 (paoavs) |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Jose Rodriguez |  |  |  | Sobrevivientes | Fuente: Transcripción listados papel 26JUN26 (paoavs) |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Mario Montilla |  |  |  | Sobrevivientes | Fuente: Transcripción listados papel 26JUN26 (paoavs) |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Ronielis Peralta |  |  |  | Sobrevivientes | Fuente: Transcripción listados papel 26JUN26 (paoavs) |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Darwin Manuel Medina |  |  |  | Sobrevivientes | Fuente: Transcripción listados papel 26JUN26 (paoavs) |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Derwin Manuel Medina |  |  |  | Sobrevivientes | Fuente: Transcripción listados papel 26JUN26 (paoavs) |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Ariyanlis Meza |  |  |  | Sobrevivientes | Fuente: Transcripción listados papel 26JUN26 (paoavs) |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Jerson Rodriguez |  |  |  | Sobrevivientes | Fuente: Transcripción listados papel 26JUN26 (paoavs) |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Yusglar Rodriguez |  |  |  | Sobrevivientes | Fuente: Transcripción listados papel 26JUN26 (paoavs) |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Olivio Escalante |  |  |  | Sobrevivientes | Fuente: Transcripción listados papel 26JUN26 (paoavs) |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Julionny Rosales |  |  |  | Sobrevivientes | Fuente: Transcripción listados papel 26JUN26 (paoavs) |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Marco Palao |  |  |  | Sobrevivientes | Fuente: Transcripción listados papel 26JUN26 (paoavs) |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Kitty Dimas |  |  |  | Sobrevivientes | Fuente: Transcripción listados papel 26JUN26 (paoavs) |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Jasmin Puerto |  |  |  | Sobrevivientes | Fuente: Transcripción listados papel 26JUN26 (paoavs) |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Solaiby Farraes |  |  |  | Sobrevivientes | Fuente: Transcripción listados papel 26JUN26 (paoavs) |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Charon Yepez |  |  |  | Sobrevivientes | Fuente: Transcripción listados papel 26JUN26 (paoavs) |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Oriana Urruchuto Torres |  |  |  | Sobrevivientes | Fuente: Transcripción listados papel 26JUN26 (paoavs) |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Freymary Izagoirre |  |  |  | Sobrevivientes | Fuente: Transcripción listados papel 26JUN26 (paoavs) |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Yusmely Idriarte |  |  |  | Sobrevivientes | Fuente: Transcripción listados papel 26JUN26 (paoavs) |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Fabiona Jaimes |  |  |  | Sobrevivientes | Fuente: Transcripción listados papel 26JUN26 (paoavs) |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Jonailfer Zeipa |  |  |  | Sobrevivientes | Fuente: Transcripción listados papel 26JUN26 (paoavs) |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Diana Conde |  |  |  | Sobrevivientes | Fuente: Transcripción listados papel 26JUN26 (paoavs) |
+| Sin identificar — Emergencia Adulto (Trauma Shock/UCC/Obs) | Marguri Figueroa | 45 | 15594121 |  | Trauma Shock | Fuente: Transcripción listados papel 26JUN26 (paoavs) · hospital no identificado |
+| Sin identificar — Emergencia Adulto (Trauma Shock/UCC/Obs) | Claudia Verde | 45 | 14743694 |  | Trauma Shock | Fuente: Transcripción listados papel 26JUN26 (paoavs) · hospital no identificado |
+| Sin identificar — Emergencia Adulto (Trauma Shock/UCC/Obs) | Gbardo Oreste | 80 |  |  | UCC | Fuente: Transcripción listados papel 26JUN26 (paoavs) · hospital no identificado |
+| Sin identificar — Emergencia Adulto (Trauma Shock/UCC/Obs) | Utaldina Uiuos | 72 |  |  | UCC | Fuente: Transcripción listados papel 26JUN26 (paoavs) · hospital no identificado |
+| Sin identificar — Emergencia Adulto (Trauma Shock/UCC/Obs) | Ana Marquez |  |  |  | UCC | Fuente: Transcripción listados papel 26JUN26 (paoavs) · hospital no identificado |
+| Sin identificar — Emergencia Adulto (Trauma Shock/UCC/Obs) | Joha Muñoz | 41 | 19478371 |  | Obs Masc | Fuente: Transcripción listados papel 26JUN26 (paoavs) · hospital no identificado |
+| Sin identificar — Emergencia Adulto (Trauma Shock/UCC/Obs) | Cermin Gaule | 64 | 5223140 |  | Obs Fem | Fuente: Transcripción listados papel 26JUN26 (paoavs) · hospital no identificado |
+| Sin identificar — Emergencia Adulto (Trauma Shock/UCC/Obs) | America Leal | 75 | 644450 |  | Obs Fem | Fuente: Transcripción listados papel 26JUN26 (paoavs) · hospital no identificado |
+| Sin identificar — Emergencia Pediátrica | Kilan Luciano | 6 |  |  | Pediatría · cama 6 | Fuente: Transcripción listados papel 26JUN26 (paoavs) · hospital no identificado |
+| Sin identificar — Emergencia Pediátrica | Yerderly Ravelo | 3 |  |  | Pediatría | Fuente: Transcripción listados papel 26JUN26 (paoavs) · hospital no identificado |
+| Sin identificar — Emergencia Pediátrica | Shonaiker Suarez | 13 |  |  | Pediatría | Fuente: Transcripción listados papel 26JUN26 (paoavs) · hospital no identificado |
+| Sin identificar — Emergencia Pediátrica | Tatiana | 12 |  |  | Pediatría · solo nombre en listado | Fuente: Transcripción listados papel 26JUN26 (paoavs) · hospital no identificado |
+| Sin identificar — Emergencia Pediátrica | Jhosuar Lovero | 9 |  |  | Pediatría | Fuente: Transcripción listados papel 26JUN26 (paoavs) · hospital no identificado |
+| Hosp. Vargas de Caracas | Valeria Gonzalez | 14 | 31383685 |  | Hospitalizado sismo | Fuente: Transcripción listados papel 26JUN26 (paoavs) |
+| Hosp. Vargas de Caracas | Geraldina de Abreu | 49 | 18709145 |  | Hospitalizado sismo | Fuente: Transcripción listados papel 26JUN26 (paoavs) |
+| Hosp. Vargas de Caracas | Elita Mayore |  | 13069223 |  | Hospitalizado sismo | Fuente: Transcripción listados papel 26JUN26 (paoavs) |
+| Hosp. Vargas de Caracas | Helay Perezco |  | 29536127 |  | Hospitalizado sismo | Fuente: Transcripción listados papel 26JUN26 (paoavs) · Lesionada |
+| Hosp. Vargas de Caracas | Darberlin Gruals |  | 30527436 |  | Hospitalizado sismo | Fuente: Transcripción listados papel 26JUN26 (paoavs) |
+| Hosp. Vargas de Caracas | Evelin Guerta |  | 17710348 |  | Hospitalizado sismo | Fuente: Transcripción listados papel 26JUN26 (paoavs) |
+| Hosp. Vargas de Caracas | Estefani Geseu |  | 31428812 |  | Hospitalizado sismo | Fuente: Transcripción listados papel 26JUN26 (paoavs) · Traslado Trinidad |
+| Hosp. Vargas de Caracas | Veronica Uribe |  | 22026527 |  | Hospitalizado sismo | Fuente: Transcripción listados papel 26JUN26 (paoavs) |
+| Hosp. Vargas de Caracas | Jose Borrego |  | 26327360 |  | Hospitalizado sismo | Fuente: Transcripción listados papel 26JUN26 (paoavs) · Sala 19 |
+| Hosp. Vargas de Caracas | Criszely Moreno |  | 15164293 |  | Hospitalizado sismo | Fuente: Transcripción listados papel 26JUN26 (paoavs) |
+| Hosp. Vargas de Caracas | Cristofer Gil |  | 32919300 |  | Hospitalizado sismo | Fuente: Transcripción listados papel 26JUN26 (paoavs) |
+| Hosp. Vargas de Caracas | Carmen Vargas |  | 22550086 |  | Hospitalizado sismo | Fuente: Transcripción listados papel 26JUN26 (paoavs) |
+| Hosp. Vargas de Caracas | Kaleusra Perez |  | 18819136 |  | Hospitalizado sismo | Fuente: Transcripción listados papel 26JUN26 (paoavs) |
+| Hosp. Vargas de Caracas | Darwin Colmenag |  | 25867267 |  | Hospitalizado sismo | Fuente: Transcripción listados papel 26JUN26 (paoavs) |
+| Hosp. Vargas de Caracas | Cesar Marquez |  | 16312925 |  | Hospitalizado sismo | Fuente: Transcripción listados papel 26JUN26 (paoavs) |
+| Hosp. Vargas de Caracas | Maria Angelica Bag | 20 | 31178460 |  | Hospitalizado sismo | Fuente: Transcripción listados papel 26JUN26 (paoavs) |
+| Hosp. Vargas de Caracas | Grimele Moreto | 24 | 15164293 |  | Hospitalizado sismo | Fuente: Transcripción listados papel 26JUN26 (paoavs) |
+| Hosp. Vargas de Caracas | Guangelena Guyalo | 96 | 3154118 |  | Hospitalizado sismo | Fuente: Transcripción listados papel 26JUN26 (paoavs) |
+| Hosp. Vargas de Caracas | Reines Medina | 64 | 6086109 |  | Hospitalizado sismo | Fuente: Transcripción listados papel 26JUN26 (paoavs) |
+| Hosp. Vargas de Caracas | Naeloth Moreno |  | 21018899 |  | Hospitalizado sismo | Fuente: Transcripción listados papel 26JUN26 (paoavs) |
+| Hosp. Vargas de Caracas | Juancarlos Ponso | 49 | 12485868 |  | Hospitalizado sismo | Fuente: Transcripción listados papel 26JUN26 (paoavs) |
+| Hosp. Vargas de Caracas | Miia Olivares | 51 | 11640996 |  | Hospitalizado sismo | Fuente: Transcripción listados papel 26JUN26 (paoavs) |
+| Hosp. Vargas de Caracas | Josef Ali |  | 34063891 |  | Hospitalizado sismo | Fuente: Transcripción listados papel 26JUN26 (paoavs) |
+| Hosp. Vargas de Caracas | Neride Montaya | 32 | 22480906 |  | Hospitalizado sismo | Fuente: Transcripción listados papel 26JUN26 (paoavs) |
+| Hosp. Vargas de Caracas | Wisthan Gonzalez | 55 | 11563403 |  | Hospitalizado sismo | Fuente: Transcripción listados papel 26JUN26 (paoavs) |
+| Hosp. Vargas de Caracas | Jose Villegas | 32 | 26254358 |  | Hospitalizado sismo | Fuente: Transcripción listados papel 26JUN26 (paoavs) |
+| Hosp. Vargas de Caracas | Adonial Diaz Bruna | 28 | 26199790 |  | Hospitalizado sismo | Fuente: Transcripción listados papel 26JUN26 (paoavs) |
+| Hosp. Vargas de Caracas | Dayilbeth Uzcategui | 26 | 26590820 |  | Hospitalizado sismo | Fuente: Transcripción listados papel 26JUN26 (paoavs) |
