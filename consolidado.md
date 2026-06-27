@@ -26,28 +26,32 @@
 
 > 🆕 **Actualización 26JUN26 (data1804 — Pérez Carreño Piso 1 + Pediatría):** se añadieron **77 personas nuevas** (lista de Piso 1 con cédula y Pediatría del 26/06). Llevan «Fuente: PC Piso 1 / Pediatría 26JUN (data1804)» en Nota.
 
+> 🆕 **Actualización 26JUN26 (Google Sheets consolidada):** se añadieron **95 personas nuevas** de la hoja `lista_heridos_hospitales_consolidada.xlsx` (grupo nuevo: **Materno Infantil del Valle**, más listas «Sin identificar»). Llevan «Fuente: Google Sheets consolidada (hoja 1949)» en Nota.
+
 ## Resumen
 
 | Hospital / Área | Personas (únicas) | De ellas, nuevas (UCV) |
 | --- | ---: | ---: |
 | Hosp. José Gregorio Hernández (Magallanes) | 51 | 2 |
-| Hosp. Gral. Dr. José María Vargas (La Guaira) | 368 | 0 |
-| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | 838 | 6 |
+| Hosp. Gral. Dr. José María Vargas (La Guaira) | 393 | 0 |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | 840 | 6 |
 | Hosp. Dr. Domingo Luciani (Llanito) | 581 | 139 |
 | Periférico de Catia | 327 | 66 |
 | Rescatados — Alcaldía de Chacao (Los Palos Grandes / Bellocampo) | 17 | 0 |
 | Hosp. Universitario de Caracas (UCV) | 117 | 102 |
-| Hosp. Vargas de Caracas | 290 | 122 |
+| Hosp. Vargas de Caracas | 296 | 122 |
 | Hosp. Militar Univ. Dr. Carlos Arvelo | 138 | 137 |
 | Cruz Roja (Caracas) | 33 | 27 |
 | Hosp. Ana Francisca Pérez de León II | 58 | 22 |
 | Clínica El Ávila | 37 | 34 |
-| Hosp. Dr. Ricardo Baquero González | 6 | 0 |
+| Hosp. Dr. Ricardo Baquero González | 45 | 0 |
 | Hospital J.M. de los Ríos (Niños) | 2 | 0 |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | 445 | 0 |
 | Seguro Social La Guaira (IVSS) | 129 | 0 |
 | Centro de Acopio Caraballeda | 236 | 0 |
-| **TOTAL** | **3673** | **657** |
+| Hospital Materno Infantil del Valle (Hugo Chávez Frías) | 19 | 0 |
+| Sin identificar — Lista PNA-GNB | 4 | 0 |
+| **TOTAL** | **3768** | **657** |
 
 ## Listado consolidado
 
@@ -111,10 +115,14 @@
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Adrian Tablante |  |  |  | Lista pacientes atendidos |  |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Adriana Bracho | 42 | 16310954 |  | Lista pacientes atendidos |  |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Aguirrez Dilan |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
+| Hosp. Gral. Dr. José María Vargas (La Guaira) | Aimara Turman | 7 |  | Caraballeda | Lista pacientes atendidos | Fuente: Google Sheets consolidada (hoja 1949) |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Alana Gonzalez | 6 |  | Caribe | Lista pacientes atendidos |  |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Alexander Jimenez | 58 |  | Los Corales | Lista pacientes atendidos |  |
+| Hosp. Gral. Dr. José María Vargas (La Guaira) | Alexander Rebolledo | 50 |  |  | Lista pacientes atendidos | Fuente: Google Sheets consolidada (hoja 1949) |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Alexandra Reboredo | 10 |  |  | Lista pacientes atendidos |  |
+| Hosp. Gral. Dr. José María Vargas (La Guaira) | Alexsis Moron | 50 |  |  | Lista pacientes atendidos | Fuente: Google Sheets consolidada (hoja 1949) |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Alkelis Moron | 50 |  | Caribe | Lista pacientes atendidos |  |
+| Hosp. Gral. Dr. José María Vargas (La Guaira) | Alouqui Moron | 50 |  | Caribe | Lista pacientes atendidos | Fuente: Google Sheets consolidada (hoja 1949) |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Alquile Moron | 50 |  | Caribe | Lista pacientes atendidos |  |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Alvarez Abraham |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Alvarez Josue | 42 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
@@ -136,6 +144,7 @@
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Aranza Vergara | 9 |  | Oppe 27 | Lista pacientes atendidos |  |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Arena Genyeilis | 7 |  | OPPE 27 | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Arena Genyerlin |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
+| Hosp. Gral. Dr. José María Vargas (La Guaira) | Argenis Landteza | 21 |  | Caribe | Lista pacientes atendidos | Fuente: Google Sheets consolidada (hoja 1949) |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Argensis Landaeta | 21 |  | Caribe | Lista pacientes atendidos |  |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Ariana Brando |  | 30456508 | Tanaguarena | Lista pacientes atendidos |  |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Aries Yonny |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
@@ -157,6 +166,7 @@
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Bogado Antonella |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Bolivar Blanco |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Brandon Aranna |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
+| Hosp. Gral. Dr. José María Vargas (La Guaira) | Brisa Gil | 19 |  | Caribe | Lista pacientes atendidos | Fuente: Google Sheets consolidada (hoja 1949) |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Brito Samuel |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Cabarga Yendelis | 17 | 32273006 |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Cabrera Lucrecia |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
@@ -187,16 +197,19 @@
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Darwin Durand |  | 14536129 | Los Corales | Lista pacientes atendidos |  |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Dayana Cardona |  | 17484972 | Oppe 30 | Lista pacientes atendidos |  |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Dayelisbeth Uzcategui | 37 |  | Caribe | Lista pacientes atendidos |  |
+| Hosp. Gral. Dr. José María Vargas (La Guaira) | Dayeliseth Uzcategui | 37 |  | Caribe | Lista pacientes atendidos | Fuente: Google Sheets consolidada (hoja 1949) |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | De Salcedo Mariela | 65 | 62488422 | Los Corales | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Deira Leon | 7 |  | Playa Grande | Lista pacientes atendidos |  |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Diaz Anyeli |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Diego Diaz |  |  | Caraballeda | Lista pacientes atendidos |  |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Dioneisis Gonzalez | 36 | 18757095 | Caraballeda | Lista pacientes atendidos |  |
+| Hosp. Gral. Dr. José María Vargas (La Guaira) | Dionesis Gonzalez | 36 | 18756770 | Caraballeda | Lista pacientes atendidos | Fuente: Google Sheets consolidada (hoja 1949) |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Disnemelia |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Dominguez Anzul |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Dorante Eric / Dorante Erick | 13 |  | Tanaguarena | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Douglas Merra | 47 | 13526796 | Caribe | Lista pacientes atendidos |  |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Duran Darwin |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
+| Hosp. Gral. Dr. José María Vargas (La Guaira) | Edgar Orama | 8 |  | Tanaguarena | Lista pacientes atendidos | Fuente: Google Sheets consolidada (hoja 1949) |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Eduar Orama |  |  | Tanaguarena | Lista pacientes atendidos |  |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Eduardo Tabio |  |  | Caribe | Lista pacientes atendidos |  |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Eduaryelis Perez | 2 |  | Caribe | Lista pacientes atendidos |  |
@@ -212,6 +225,7 @@
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Espinoza Alfonzo |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Esteffany Jessen |  | 31106940 | Caribe | Lista pacientes atendidos |  |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Esther Pacheco |  | 23617880 | Caraballeda | Lista pacientes atendidos |  |
+| Hosp. Gral. Dr. José María Vargas (La Guaira) | Evelin G. | 38 |  | Negra Hipolita | Lista pacientes atendidos | Fuente: Google Sheets consolidada (hoja 1949) |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Evelin Guerra | 39 |  | Negra Hipolita | Lista pacientes atendidos |  |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Evelin Guevara | 39 |  |  | Lista pacientes atendidos |  |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Farias Aurimar |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
@@ -268,16 +282,19 @@
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Jenny Ramirez |  | 12717464 | Caribe | Lista pacientes atendidos |  |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Jesus Garcia | 50 | 13044495 | Caribe | Lista pacientes atendidos |  |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Jesus Rodriguez | 28 |  | Caribe | Lista pacientes atendidos |  |
+| Hosp. Gral. Dr. José María Vargas (La Guaira) | Jhoali Rosales | 52 |  | Macuto | Lista pacientes atendidos | Fuente: Google Sheets consolidada (hoja 1949) |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Jhoalvi Rosales | 52 |  | Macuto | Lista pacientes atendidos |  |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Jhonny Steven | 45 | 16509990 | Tanaguarena | Lista pacientes atendidos |  |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Jimenez Axiel |  |  | Los Corales | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Jimenez Leonela |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
+| Hosp. Gral. Dr. José María Vargas (La Guaira) | Joel Naroa | 47 |  | Tanaguarena | Lista pacientes atendidos | Fuente: Google Sheets consolidada (hoja 1949) |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Joel Naroza | 47 |  | Tanaguarena | Lista pacientes atendidos |  |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Johana Amundarain |  |  | Caribe | Lista pacientes atendidos |  |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Johana Lopez |  | 15839387 | Playa Grande | Lista pacientes atendidos |  |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Jonathan Romero | 45 |  | Caribe | Lista pacientes atendidos |  |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Jose Angel Rosas | 44 |  | Caribe | Lista pacientes atendidos |  |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Jose Daniel Rivero |  | 12162900 | La Guaira | Lista pacientes atendidos |  |
+| Hosp. Gral. Dr. José María Vargas (La Guaira) | Jose Lucategui | 44 | 6332765 | Caribe | Lista pacientes atendidos | Fuente: Google Sheets consolidada (hoja 1949) |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Jose Uzcategui |  | 6225765 | Los Corales | Lista pacientes atendidos |  |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Josue Guerra |  |  |  | Lista pacientes atendidos |  |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Juan Carlos Jimenez | 10 |  | Macuto | Lista pacientes atendidos |  |
@@ -286,6 +303,7 @@
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Juan Moron |  | 4121307 | Caribe | Lista pacientes atendidos |  |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Junior Camacaro | 26 |  | Naiguata | Lista pacientes atendidos |  |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Kembelis Ugueto | 38 |  | Los Corales | Lista pacientes atendidos |  |
+| Hosp. Gral. Dr. José María Vargas (La Guaira) | Kembels Ugueto | 38 |  | Los Corales | Lista pacientes atendidos | Fuente: Google Sheets consolidada (hoja 1949) |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Kervi Gonzalez |  | 29665230 | Playa Grande | Lista pacientes atendidos |  |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Landaeta Argemis | 21 |  | Caribe | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Landaeta Argenis | 21 |  | Caribe | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
@@ -294,11 +312,13 @@
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Leon Manuel |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Liendo Jose |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Lilibeth Gutierrez | 43 |  | Caribe | Lista pacientes atendidos |  |
+| Hosp. Gral. Dr. José María Vargas (La Guaira) | Lisbeth Gutierrez | 43 |  | Caribe | Lista pacientes atendidos | Fuente: Google Sheets consolidada (hoja 1949) |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Lisbeth Jaimes | 48 |  | Caribe | Lista pacientes atendidos |  |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Liss Pacheco |  | 11406862 | Caribe | Lista pacientes atendidos |  |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Lopez Hagadi |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Lopez Juan |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Lopez Tairy |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
+| Hosp. Gral. Dr. José María Vargas (La Guaira) | Luis Rebollido | 57 |  | Caribe | Lista pacientes atendidos | Fuente: Google Sheets consolidada (hoja 1949) |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Luis Reboredo | 57 |  | Caribe | Lista pacientes atendidos |  |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Luis Sosa | 40 | 16888430 | Caraballeda | Lista pacientes atendidos |  |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Luna Eylin |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
@@ -309,6 +329,7 @@
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Maria Falcon | 18 |  | Caribe | Lista pacientes atendidos |  |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Maria Ugas |  | 11966827 | Playa Grande | Lista pacientes atendidos |  |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Maria Viedra | 64 |  | Los Corales | Lista pacientes atendidos |  |
+| Hosp. Gral. Dr. José María Vargas (La Guaira) | Maria Viera | 64 |  | Los Corales | Lista pacientes atendidos | Fuente: Google Sheets consolidada (hoja 1949) |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Marian Eurieta |  | 14314453 | Guanape | Lista pacientes atendidos |  |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Marielis de Salcedo | 65 | 6488422 | Los Corales | Lista pacientes atendidos |  |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Marin Anais |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
@@ -333,6 +354,7 @@
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Mora Nathalia |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Mora Nestor Jose | 65 |  | Macuto | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Moran Stefanny |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
+| Hosp. Gral. Dr. José María Vargas (La Guaira) | Moreno Altara | 80 |  | Caribe | Lista pacientes atendidos | Fuente: Google Sheets consolidada (hoja 1949) |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Moreno Altra | 80 |  | Caribe | Lista pacientes atendidos |  |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Morillo Diego | 9 meses |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Moron Arquelis |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
@@ -351,6 +373,7 @@
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Olga Tovar |  | 6487637 | Los Corales | Lista pacientes atendidos |  |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Omar Beltran |  | 13582518 | La Llanada | Lista pacientes atendidos |  |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Orama Eduan |  |  | Tanaguarena | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 |
+| Hosp. Gral. Dr. José María Vargas (La Guaira) | Oscar Horrada | 65 |  | Los Corales | Lista pacientes atendidos | Fuente: Google Sheets consolidada (hoja 1949) |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Oscata Horrada | 65 |  | Los Corales | Lista pacientes atendidos |  |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Oscate Horrada | 61 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Pacheco Austin |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
@@ -383,6 +406,7 @@
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Richard Rivas |  | 15929488 | Camurichico | Lista pacientes atendidos |  |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Rickac Malave |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Rigal Quisaira | 52 |  | Caribe | Lista pacientes atendidos |  |
+| Hosp. Gral. Dr. José María Vargas (La Guaira) | Rigal Quisara | 52 |  | Caribe | Lista pacientes atendidos | Fuente: Google Sheets consolidada (hoja 1949) |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Rivas Fabian |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Rivas Franmy |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Rodrigo Colon |  | 29910634 | Naiguata | Lista pacientes atendidos |  |
@@ -402,7 +426,9 @@
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Rosi Gonzalez | 41 |  | Caribe | Lista pacientes atendidos |  |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Rosio Montana |  | 2007992 | Caribe | Lista pacientes atendidos |  |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Rosis Gonzalez | 41 |  | Caribe | Lista pacientes atendidos |  |
+| Hosp. Gral. Dr. José María Vargas (La Guaira) | Ross Gonzalez | 41 |  | Caribe | Lista pacientes atendidos | Fuente: Google Sheets consolidada (hoja 1949) |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Ruth Clemo |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
+| Hosp. Gral. Dr. José María Vargas (La Guaira) | Sabrina Misequeda | 6 |  | Playa Grande | Lista pacientes atendidos | Fuente: Google Sheets consolidada (hoja 1949) |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Sabrina Mosqueda | 6 |  | Playa Grande | Lista pacientes atendidos |  |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Salazar Elon |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Salazar Yohan | 32 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
@@ -428,6 +454,7 @@
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Sugely |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Sura Luisa |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Teran Jose |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
+| Hosp. Gral. Dr. José María Vargas (La Guaira) | Tibisay Diaz | 6 |  | Caribe | Lista pacientes atendidos | Fuente: Google Sheets consolidada (hoja 1949) |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Tibizai Diaz | 60 |  | Caribe | Lista pacientes atendidos |  |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Tomas Gomez |  | 33218202 | Caribe | Lista pacientes atendidos |  |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Toro Eliu |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
@@ -459,11 +486,13 @@
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Yamileth Garcia |  | 24713737 | Aeropuerto | Lista pacientes atendidos |  |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Yanna Lemus | 72 | 7996011 | Caribe | Lista pacientes atendidos |  |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Yarilis Calzadilla | 50 | 13373579 | Tanaguarena | Lista pacientes atendidos |  |
+| Hosp. Gral. Dr. José María Vargas (La Guaira) | Yarlis Calzadilla | 50 | 13357379 | Tanaguarena | Lista pacientes atendidos | Fuente: Google Sheets consolidada (hoja 1949) |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Yendel Cabarca |  |  |  | Lista pacientes atendidos |  |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Yesive Querales |  | 24182992 | Los Corales | Lista pacientes atendidos |  |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Yoalber Rosales |  | 22250708 | Caribe | Lista pacientes atendidos |  |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Yoeviyer Rodriguez | 9 |  | Oppe 26 | Lista pacientes atendidos |  |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Yohan Villafanda | 36 |  | Macuto | Lista pacientes atendidos |  |
+| Hosp. Gral. Dr. José María Vargas (La Guaira) | Yohan Villafranca | 16 |  | Macuto | Lista pacientes atendidos | Fuente: Google Sheets consolidada (hoja 1949) |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Yonay Arias | 52 |  | Macuto | Lista pacientes atendidos |  |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Yorlen Yoltren |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Yoselin Badillo | 7 |  | Tanaguarena | Lista pacientes atendidos |  |
@@ -488,6 +517,7 @@
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Alberto Ortiz | 72 |  | Caracas | Piso 1 (Medicina Interna) | Fuente: PC Piso 1 / Pediatría 26JUN (data1804) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Alejandra Soja |  | 6904629 |  | Adultos (Triaje) |  |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Alejandra Sosa | Sin información | 62046290 | Sin información | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Sin información |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Alejandra Soya |  | 6994629 |  | Listas manuscritas legibles | Fuente: Google Sheets consolidada (hoja 1949) · Transcripción de manuscrito; revisar contra foto si es crítico |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Alexander Guzmán | 21 | 32958824 | Oriente | Piso 1 (Traumatología) | Fuente: PC Piso 1 / Pediatría 26JUN (data1804) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Alexandra Bastidos | 14 | 34672792 | Caracas | Piso 1 (Medicina Interna) | Fuente: PC Piso 1 / Pediatría 26JUN (data1804) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Alexandra Cardenas |  | 28143770 |  | Adultos (L1) / Adultos (Traumashock) | unificado de 4 registros |
@@ -856,6 +886,7 @@
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | José Maestre | 58 | 11203343 | Caracas | Piso 1 (Traumatología) | Fuente: PC Piso 1 / Pediatría 26JUN (data1804) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | José Mora | 29 | 25752962 | Caracas | Piso 1 (Traumatología) | Fuente: PC Piso 1 / Pediatría 26JUN (data1804) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | José Páez | 70 | 5529720 | Caracas | Piso 1 (Traumatología) | Fuente: PC Piso 1 / Pediatría 26JUN (data1804) |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Jose Palma |  | 6448829 |  | Listas manuscritas legibles | Fuente: Google Sheets consolidada (hoja 1949) · Transcripción de manuscrito; revisar contra foto si es crítico |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | José Plaza | 53 | 6340043 | Caracas | Piso 1 (Medicina Interna) | Fuente: PC Piso 1 / Pediatría 26JUN (data1804) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | José Regardis (?) | 56 | 22020770 | Caracas | Piso 1 (Cirugía IV) | Fuente: PC Piso 1 / Pediatría 26JUN (data1804) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Jphan Abel (?) |  |  |  | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
@@ -2494,6 +2525,8 @@
 | Hosp. Vargas de Caracas | Guzman Josefina |  | 4817701 |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Vargas de Caracas | Hassan Josef |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Vargas de Caracas | Heberth Chiquinquira |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
+| Hosp. Vargas de Caracas | Héctor Ilaves |  |  |  | Heridos atendidos en emergencia | Fuente: Google Sheets consolidada (hoja 1949) |
+| Hosp. Vargas de Caracas | Heilyn Gil |  |  |  | Heridos atendidos en emergencia | Fuente: Google Sheets consolidada (hoja 1949) |
 | Hosp. Vargas de Caracas | Henriquez Isquiel | 55 |  | La Guaira – No Hablaba | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Politraumatismo |
 | Hosp. Vargas de Caracas | Herrera Jhoan |  | 30186534 |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Vargas de Caracas | Herrera Valentina |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
@@ -2508,6 +2541,7 @@
 | Hosp. Vargas de Caracas | Kerry Medina |  | 6086109 | La Jaso | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: F |
 | Hosp. Vargas de Caracas | Lara Inon |  | 12485868 | Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: F |
 | Hosp. Vargas de Caracas | Leal America |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Vargas de Caracas | Leandro Fossia |  |  |  | Heridos atendidos en emergencia | Fuente: Google Sheets consolidada (hoja 1949) |
 | Hosp. Vargas de Caracas | Ledezma Griselda |  | 2987711 |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Vargas de Caracas | Ledezma Liseth |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Vargas de Caracas | Llarvez Hector |  | 19606465 |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
@@ -2517,8 +2551,10 @@
 | Hosp. Vargas de Caracas | Lopez Nazare |  |  | Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Vargas de Caracas | Lopez Nazareth |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Vargas de Caracas | Lopez Osmary |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
+| Hosp. Vargas de Caracas | Luis Castellano |  |  |  | Heridos atendidos en emergencia | Fuente: Google Sheets consolidada (hoja 1949) |
 | Hosp. Vargas de Caracas | Luque Erick |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Vargas de Caracas | Magalis Apura |  | 15164293 | Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: F |
+| Hosp. Vargas de Caracas | Magdalena Rodríguez |  |  |  | Heridos atendidos en emergencia | Fuente: Google Sheets consolidada (hoja 1949) |
 | Hosp. Vargas de Caracas | Maria Elena Santa |  |  | San Bernardino | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: F |
 | Hosp. Vargas de Caracas | Maria Pirdez |  | 27026323 | Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: F |
 | Hosp. Vargas de Caracas | Maria Quintana |  |  | Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: F |
@@ -2641,6 +2677,7 @@
 | Hosp. Vargas de Caracas | Villegas Juana |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Vargas de Caracas | Vivas Ubelinda |  | 5645025 |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Vargas de Caracas | Yoanny Maros |  | 14953283 | Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: F |
+| Hosp. Vargas de Caracas | Yorman Orozco |  |  |  | Heridos atendidos en emergencia | Fuente: Google Sheets consolidada (hoja 1949) |
 | Hosp. Vargas de Caracas | Yovana Hassan |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: F · Pediátrico |
 | Hosp. Militar Univ. Dr. Carlos Arvelo | Acosta Ambar | 19 | 31950088 | PNA | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: San Juan |
 | Hosp. Militar Univ. Dr. Carlos Arvelo | Aguilar Carmen | 21 |  | PNA | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: San Martín |
@@ -2908,12 +2945,51 @@
 | Clínica El Ávila | Tovar Alejandro |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Clínica El Ávila | Zerpa Graciela |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Clínica El Ávila | Zorrillo Doris |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Dr. Ricardo Baquero González | Ana Abreu | 36 | 22036031 |  | Lista impresa / emergencia | Fuente: Google Sheets consolidada (hoja 1949) |
+| Hosp. Dr. Ricardo Baquero González | Ángela Galaviz | 53 | 11666062 |  | Lista impresa / emergencia | Fuente: Google Sheets consolidada (hoja 1949) |
+| Hosp. Dr. Ricardo Baquero González | Ashley Lopez Mora | 8 |  | Caribe | Emergencia pediatría | Fuente: Google Sheets consolidada (hoja 1949) |
+| Hosp. Dr. Ricardo Baquero González | Belquis Novaz | 65 | 6056892 |  | Lista impresa / emergencia | Fuente: Google Sheets consolidada (hoja 1949) |
+| Hosp. Dr. Ricardo Baquero González | Carla León | 44 | 12700355 |  | Lista impresa / emergencia | Fuente: Google Sheets consolidada (hoja 1949) · Posible duplicado por nombre |
+| Hosp. Dr. Ricardo Baquero González | Carolina Salazar | 49 | 13333359 |  | Lista impresa / emergencia | Fuente: Google Sheets consolidada (hoja 1949) |
 | Hosp. Dr. Ricardo Baquero González | Cordoba Eduanyelis | 6 |  |  | Ingreso por sismo (lista consolidada) | Fuente: Drive SISMO 2026 VZLA |
+| Hosp. Dr. Ricardo Baquero González | Daniela Carrillo | 15 | 33325559 | La Guaira | Emergencia traumatología | Fuente: Google Sheets consolidada (hoja 1949) |
+| Hosp. Dr. Ricardo Baquero González | Didilet Grillet | 37 | 18183230 |  | Lista impresa / emergencia | Fuente: Google Sheets consolidada (hoja 1949) |
+| Hosp. Dr. Ricardo Baquero González | Eduangelys Córdoba | 6 |  |  | Lista impresa / emergencia | Fuente: Google Sheets consolidada (hoja 1949) |
+| Hosp. Dr. Ricardo Baquero González | Eduardo Cordova | 60 |  | La Guaira | Emergencia cirugía | Fuente: Google Sheets consolidada (hoja 1949) |
+| Hosp. Dr. Ricardo Baquero González | Francis Márquez | 22 | 30580369 |  | Lista impresa / emergencia | Fuente: Google Sheets consolidada (hoja 1949) |
+| Hosp. Dr. Ricardo Baquero González | Gabriel Dagrela | 48 | 13303135 | Los Corales | Emergencia traumatología | Fuente: Google Sheets consolidada (hoja 1949) |
 | Hosp. Dr. Ricardo Baquero González | Gonzalez Yaneska |  |  |  | Ingreso por sismo (lista consolidada) | Fuente: Drive SISMO 2026 VZLA |
+| Hosp. Dr. Ricardo Baquero González | Gyottis Carrasco | 47 | 15573081 |  | Lista impresa / emergencia | Fuente: Google Sheets consolidada (hoja 1949) |
+| Hosp. Dr. Ricardo Baquero González | Jaime Arocha | 7 |  | Caraballeda | Emergencia traumatología | Fuente: Google Sheets consolidada (hoja 1949) |
+| Hosp. Dr. Ricardo Baquero González | John Gresen | 47 |  | Los Corales | Emergencia cirugía | Fuente: Google Sheets consolidada (hoja 1949) |
+| Hosp. Dr. Ricardo Baquero González | Keiber Elorza | 26 |  | Altavista | Emergencia traumatología | Fuente: Google Sheets consolidada (hoja 1949) |
+| Hosp. Dr. Ricardo Baquero González | Kimberly Mora Zerpa | 34 |  | Caribe, La Guaira | Emergencia traumatología | Fuente: Google Sheets consolidada (hoja 1949) |
+| Hosp. Dr. Ricardo Baquero González | Lollis Vanesa Semerie | 49 | 13571636 | Playa Grande | Terapia intensiva | Fuente: Google Sheets consolidada (hoja 1949) |
 | Hosp. Dr. Ricardo Baquero González | Lopez Valeria | 20 | 31341560 |  | Ingreso por sismo (lista consolidada) | Fuente: Drive SISMO 2026 VZLA |
+| Hosp. Dr. Ricardo Baquero González | Luisangelys Zapata | 20 | 32972237 |  | Lista impresa / emergencia | Fuente: Google Sheets consolidada (hoja 1949) |
+| Hosp. Dr. Ricardo Baquero González | Luz Mary Garrido | 39 |  | Valles del Tuy | Emergencia traumatología | Fuente: Google Sheets consolidada (hoja 1949) |
+| Hosp. Dr. Ricardo Baquero González | María Araque | 75 | 5641550 |  | Lista impresa / emergencia | Fuente: Google Sheets consolidada (hoja 1949) · Posible duplicado por nombre |
+| Hosp. Dr. Ricardo Baquero González | María Pereira | 8 |  |  | Lista impresa / emergencia | Fuente: Google Sheets consolidada (hoja 1949) |
+| Hosp. Dr. Ricardo Baquero González | Mariela Páez | 64 | 8617776 |  | Lista impresa / emergencia | Fuente: Google Sheets consolidada (hoja 1949) |
+| Hosp. Dr. Ricardo Baquero González | Michell Rivera | 25 |  | La Guaira | Emergencia cirugía | Fuente: Google Sheets consolidada (hoja 1949) |
+| Hosp. Dr. Ricardo Baquero González | Miguel Rodriguez | 56 |  | La Guaira | Emergencia traumatología | Fuente: Google Sheets consolidada (hoja 1949) |
+| Hosp. Dr. Ricardo Baquero González | Miguel Serrano | 11 |  | Tanaguarenas | Emergencia pediatría | Fuente: Google Sheets consolidada (hoja 1949) |
+| Hosp. Dr. Ricardo Baquero González | Niangel Nieto | 18 | 31962087 |  | Lista impresa / emergencia | Fuente: Google Sheets consolidada (hoja 1949) |
+| Hosp. Dr. Ricardo Baquero González | Olga Ramírez | 70 | 5139601 |  | Lista impresa / emergencia | Fuente: Google Sheets consolidada (hoja 1949) · Posible duplicado por nombre |
+| Hosp. Dr. Ricardo Baquero González | Orlando Dexgullo | 45 | 15541032 |  | Lista impresa / emergencia | Fuente: Google Sheets consolidada (hoja 1949) |
 | Hosp. Dr. Ricardo Baquero González | Pereira Villamizar Maria Isabel | 8 |  |  | Ingreso por sismo (lista consolidada) | Fuente: Drive SISMO 2026 VZLA |
+| Hosp. Dr. Ricardo Baquero González | Rusanari Caricu | 38 | 19010017 | Caraballeda | Emergencia traumatología | Fuente: Google Sheets consolidada (hoja 1949) |
 | Hosp. Dr. Ricardo Baquero González | Semeria Irllis | 49 |  |  | Ingreso por sismo (lista consolidada) | Fuente: Drive SISMO 2026 VZLA |
+| Hosp. Dr. Ricardo Baquero González | Simón Contreras | 64 | 5685519 |  | Lista impresa / emergencia | Fuente: Google Sheets consolidada (hoja 1949) |
+| Hosp. Dr. Ricardo Baquero González | Sofia Lopez Mora | 15 |  | Caribe | Emergencia pediatría | Fuente: Google Sheets consolidada (hoja 1949) |
+| Hosp. Dr. Ricardo Baquero González | Steven Yonsar | 24 |  | Playa Gde. | Emergencia cirugía | Fuente: Google Sheets consolidada (hoja 1949) |
+| Hosp. Dr. Ricardo Baquero González | Tania Teran | 55 |  | Verde | Emergencia traumatología | Fuente: Google Sheets consolidada (hoja 1949) · Posible duplicado por nombre |
 | Hosp. Dr. Ricardo Baquero González | Tovar Yeison | 17 |  |  | Ingreso por sismo (lista consolidada) | Fuente: Drive SISMO 2026 VZLA |
+| Hosp. Dr. Ricardo Baquero González | Valery Lopez Mora | 12 |  | Caribe | Emergencia pediatría | Fuente: Google Sheets consolidada (hoja 1949) |
+| Hosp. Dr. Ricardo Baquero González | Valeyer Gorrin | 22 |  | Ciudad Caribia | Emergencia cirugía | Fuente: Google Sheets consolidada (hoja 1949) |
+| Hosp. Dr. Ricardo Baquero González | Yaritza Cavargas | 54 | 11166237 |  | Lista impresa / emergencia | Fuente: Google Sheets consolidada (hoja 1949) |
+| Hosp. Dr. Ricardo Baquero González | Yelis Ospino | 39 |  | La Guaira, Caribe | Emergencia cirugía | Fuente: Google Sheets consolidada (hoja 1949) |
+| Hosp. Dr. Ricardo Baquero González | Zislet Millan | 39 |  | Caribe, La Guaira | Emergencia traumatología | Fuente: Google Sheets consolidada (hoja 1949) |
 | Hospital J.M. de los Ríos (Niños) | Torrealba Rodriguez Sebastian |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hospital J.M. de los Ríos (Niños) | Torrealba Rodriguez Sebastian Ciudad Caribia |  |  |  | Ingreso por sismo (lista consolidada) | Fuente: Drive SISMO 2026 VZLA |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Abigail Renott (?) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
@@ -3726,6 +3802,29 @@
 | Centro de Acopio Caraballeda | Yepez Eidert |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Centro de Acopio Caraballeda | Yepez Sharon |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Centro de Acopio Caraballeda | Zerpa Jonailfer |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Hospital Materno Infantil del Valle (Hugo Chávez Frías) | Ana Valero |  |  |  | Obstetricia | Fuente: Google Sheets consolidada (hoja 1949) |
+| Hospital Materno Infantil del Valle (Hugo Chávez Frías) | Claudia Moreno |  |  |  | Obstetricia/UCIN | Fuente: Google Sheets consolidada (hoja 1949) |
+| Hospital Materno Infantil del Valle (Hugo Chávez Frías) | Dayron Rodríguez |  |  |  | Obstetricia | Fuente: Google Sheets consolidada (hoja 1949) |
+| Hospital Materno Infantil del Valle (Hugo Chávez Frías) | Deivis Parada |  |  |  | Obstetricia | Fuente: Google Sheets consolidada (hoja 1949) |
+| Hospital Materno Infantil del Valle (Hugo Chávez Frías) | Elizabeth Hernández |  |  |  | Obstetricia | Fuente: Google Sheets consolidada (hoja 1949) |
+| Hospital Materno Infantil del Valle (Hugo Chávez Frías) | Emilly Sánchez |  |  |  | Obstetricia | Fuente: Google Sheets consolidada (hoja 1949) |
+| Hospital Materno Infantil del Valle (Hugo Chávez Frías) | Fabrielis Montilla |  |  |  | Obstetricia | Fuente: Google Sheets consolidada (hoja 1949) |
+| Hospital Materno Infantil del Valle (Hugo Chávez Frías) | Karina Perra |  |  |  | Obstetricia/UCIN | Fuente: Google Sheets consolidada (hoja 1949) |
+| Hospital Materno Infantil del Valle (Hugo Chávez Frías) | María Martínez |  |  |  | Obstetricia | Fuente: Google Sheets consolidada (hoja 1949) |
+| Hospital Materno Infantil del Valle (Hugo Chávez Frías) | María Nieto |  |  |  | UCIN | Fuente: Google Sheets consolidada (hoja 1949) |
+| Hospital Materno Infantil del Valle (Hugo Chávez Frías) | Sara Domínguez |  |  |  | Obstetricia | Fuente: Google Sheets consolidada (hoja 1949) |
+| Hospital Materno Infantil del Valle (Hugo Chávez Frías) | Valeria Urdaneta |  |  |  | Obstetricia | Fuente: Google Sheets consolidada (hoja 1949) |
+| Hospital Materno Infantil del Valle (Hugo Chávez Frías) | Yennifer Vásquez |  |  |  | Obstetricia | Fuente: Google Sheets consolidada (hoja 1949) |
+| Hospital Materno Infantil del Valle (Hugo Chávez Frías) | Yohanesa González |  |  |  | Obstetricia | Fuente: Google Sheets consolidada (hoja 1949) |
+| Hospital Materno Infantil del Valle (Hugo Chávez Frías) | Yolemy Cárdenas |  |  |  | UCIN | Fuente: Google Sheets consolidada (hoja 1949) |
+| Hospital Materno Infantil del Valle (Hugo Chávez Frías) | Yosay Bermudetto |  |  |  | Obstetricia | Fuente: Google Sheets consolidada (hoja 1949) |
+| Hospital Materno Infantil del Valle (Hugo Chávez Frías) | Yuleisy Oliviera |  |  |  | Obstetricia | Fuente: Google Sheets consolidada (hoja 1949) |
+| Hospital Materno Infantil del Valle (Hugo Chávez Frías) | Yusairy González |  |  |  | Obstetricia | Fuente: Google Sheets consolidada (hoja 1949) |
+| Hospital Materno Infantil del Valle (Hugo Chávez Frías) | Yusmely Palacios |  |  |  | Obstetricia/UCIN | Fuente: Google Sheets consolidada (hoja 1949) |
+| Sin identificar — Lista PNA-GNB | Danieli Carelis García | 30 |  |  | PNA | Fuente: Google Sheets consolidada (hoja 1949) |
+| Sin identificar — Lista PNA-GNB | González Ahimar | 56 |  |  | Lista consolidada | Fuente: Google Sheets consolidada (hoja 1949) |
+| Sin identificar — Lista PNA-GNB | Luis Martínez | 49 | 6683348 |  | S/M GNB | Fuente: Google Sheets consolidada (hoja 1949) · Posible duplicado por nombre |
+| Sin identificar — Lista PNA-GNB | Yoselyn Guerra | 19 | 31752478 |  | S/2 | Fuente: Google Sheets consolidada (hoja 1949) · Posible duplicado por nombre |
 
 ## Notas de consolidación
 
@@ -3744,3 +3843,4 @@
 - **Actualización 26JUN26 (SISMO_1554):** se añadieron las **151 no repetidas** de Catia/Ricardo Baquero (con cédula), Pérez Carreño Trauma Shock (1 fallecido: Marco Reina) y Luciani 26/06.
 - **Actualización 26JUN26 (Listado 337 en riesgo):** de 319 transcritas se añadieron las **27 no repetidas** (dedup por nombre dentro de cada hospital).
 - **Actualización 26JUN26 (data1804):** Pérez Carreño Piso 1 (73, con cédula) + Pediatría (20); se añadieron las **77 no repetidas** (dedup por cédula y nombre).
+- **Actualización 26JUN26 (Google Sheets consolidada):** de 391 registros se añadieron las **95 no repetidas** (dedup por cédula y nombre). Grupo nuevo: Materno Infantil del Valle.
