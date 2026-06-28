@@ -53,6 +53,8 @@ uv run python consolidado_app/app.py                          # interfaz web: ht
 | Hospital General de Lídice (Dr. Jesús Yerena) | Listado general con cédula + Pediatría + detalle por servicio/cama (24–26/06) | [Hosp_Lidice.md](data/20260627/Hosp_Lidice/Hosp_Lidice.md) |
 | Lista actualizada por servicio (27/06, 10:30) | UPT, Traumatología, UPT-Pediatría, Cirugía (21 pacientes, La Guaira) | [Lista_27JUN_1030.md](data/20260627/Lista_27JUN_1030/Lista_27JUN_1030.md) |
 | Hospital Pérez Carreño | Registro correlativo de pacientes (correlativos 914–1071 — 145 registros, con cédula y edad) | [Hosp_Perez_Carreno_registro_correlativo.md](data/20260627/Hosp_Perez_Carreño_2005/Hosp_Perez_Carreno_registro_correlativo.md) |
+| Google Drive «SISMO 2026 VZLA» (carga 27/06) | **15 Excel digitalizados por hospital** (Lídice, Victorino, Ciudad Caribia, El Ávila, Catia, Pérez Carreño, Universitario, Vargas, Parque del Oeste, consolidados…) | [SISMO_2026_VZLA_20260627292400/](data/20260627/SISMO_2026_VZLA_20260627292400/README.md) |
+| Dropbox «Pacientes Consolidados 26JUN26 15:12» (17 hojas) | Un markdown por hoja del libro oficial (BUSCAR + 16 centros: Luciani, Pérez Carreño, Vargas, Catia, Caraballeda, Militar, Seguro Social La Guaira…) | [Dropbox_26JUN26_1512/](data/20260627/Dropbox_26JUN26_1512/README.md) |
 
 ### 2026-06-26
 

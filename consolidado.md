@@ -42,25 +42,29 @@
 
 > 🆕 **Actualización 27JUN26 (Pérez Carreño, registro correlativo 914–1071):** se añadieron **71 personas nuevas** (con cédula y edad). Llevan «Fuente: Pérez Carreño registro correlativo (914-1071)» en Nota.
 
+> 🆕 **Actualización 27JUN26 (consolidado «todos los archivos» + Victorino + Parque del Oeste):** se añadieron **1494 personas nuevas** (centros nuevos: Victorino, Ciudad Caribia, Parque del Oeste, pared azul, desplazados, Min. Salud). Llevan la fuente en Nota.
+
+> 🆕 **Revalidación 27JUN26 (Dropbox corte 15:12):** se añadieron **5 personas** que aún no estaban (el resto ya constaba). Llevan «Fuente: Dropbox 26JUN26 15:12 (revalidación)» en Nota.
+
 ## Resumen
 
 | Hospital / Área | Personas (únicas) | De ellas, nuevas (UCV) |
 | --- | ---: | ---: |
-| Hosp. José Gregorio Hernández (Magallanes) | 63 | 2 |
+| Hosp. José Gregorio Hernández (Magallanes) | 73 | 2 |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | 407 | 0 |
-| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | 962 | 6 |
-| Hosp. Dr. Domingo Luciani (Llanito) | 751 | 139 |
-| Periférico de Catia | 373 | 66 |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | 1057 | 6 |
+| Hosp. Dr. Domingo Luciani (Llanito) | 1019 | 139 |
+| Periférico de Catia | 429 | 66 |
 | Rescatados — Alcaldía de Chacao (Los Palos Grandes / Bellocampo) | 17 | 0 |
-| Hosp. Universitario de Caracas (UCV) | 117 | 102 |
-| Hosp. Vargas de Caracas | 375 | 122 |
-| Hosp. Militar Univ. Dr. Carlos Arvelo | 139 | 137 |
+| Hosp. Universitario de Caracas (UCV) | 121 | 102 |
+| Hosp. Vargas de Caracas | 684 | 122 |
+| Hosp. Militar Univ. Dr. Carlos Arvelo | 140 | 137 |
 | Cruz Roja (Caracas) | 40 | 27 |
 | Hosp. Ana Francisca Pérez de León II | 84 | 22 |
-| Clínica El Ávila | 42 | 34 |
+| Clínica El Ávila | 92 | 34 |
 | Hosp. Dr. Ricardo Baquero González | 45 | 0 |
 | Hospital J.M. de los Ríos (Niños) | 2 | 0 |
-| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | 445 | 0 |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | 623 | 0 |
 | Seguro Social La Guaira (IVSS) | 130 | 0 |
 | Centro de Acopio Caraballeda | 236 | 0 |
 | Hospital Materno Infantil del Valle (Hugo Chávez Frías) | 35 | 0 |
@@ -71,7 +75,14 @@
 | Personas en residencias | 15 | 0 |
 | No encontrados / reportados | 18 | 0 |
 | Hospital General de Lídice (Dr. Jesús Yerena) | 43 | 0 |
-| **TOTAL** | **4465** | **657** |
+| Sin identificar (Hospital pared azul) | 108 | 0 |
+| Ministerio de Salud / Centro de asistencia | 74 | 0 |
+| Centro desplazados / refugio | 230 | 0 |
+| Hospital Ciudad Caribia | 34 | 0 |
+| Fuente desconocida | 5 | 0 |
+| Hospital Victorino Santaella | 35 | 0 |
+| Sobrevivientes — Parque del Oeste | 40 | 0 |
+| **TOTAL** | **5962** | **657** |
 
 ## Listado consolidado
 
@@ -86,10 +97,13 @@
 | Hosp. José Gregorio Hernández (Magallanes) | Aranguren Yonaiker | 21 |  | Los Corales | Reporte pacientes atendidos | Politraumatismos |
 | Hosp. José Gregorio Hernández (Magallanes) | Arcear Reines | 22 | 30282613 | Catia | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. José Gregorio Hernández (Magallanes) | Arrieta José | 45 | 15720959 | Catia La Mar | Reporte pacientes atendidos | Fractura de fémur |
+| Hosp. José Gregorio Hernández (Magallanes) | Behila Andison | 53 | 11204504 | Catia | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. José Gregorio Hernández (Magallanes) | Bermúdez Génesis | 33 | 20925605 | La Guaira | Reporte pacientes atendidos | Fractura de miembros inferiores |
 | Hosp. José Gregorio Hernández (Magallanes) | Cantero Tunilda | 41 | 34316929 | Catia | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
+| Hosp. José Gregorio Hernández (Magallanes) | Carlos Peña | 47 | 13822791 | Catia | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. José Gregorio Hernández (Magallanes) | Carrillo Jose | 52 | 48815362 | Gramoven | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. José Gregorio Hernández (Magallanes) | Castro Yulianyel | 7 | 27116321 |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Hosp. José Gregorio Hernández (Magallanes) | Cataleya Castañeda | 2 |  | Propatria | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. José Gregorio Hernández (Magallanes) | Costanda Cataleya | 2 | 4856810 | Propatria | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. José Gregorio Hernández (Magallanes) | Daren Elianyelis | 15 |  | Maiquetía | Reporte pacientes atendidos | Contusión craneal |
 | Hosp. José Gregorio Hernández (Magallanes) | Dayana Rondon | 19 |  | La Guaira | Sin información | Fuente: GSheet VENEZUELA HOSPITALES (203000) · lesión: Sin información · POSIBILIDAD: posible misma persona que 'Dayana Rondon' registrada en Hospital Pérez Carreño (cédula 168.008, sin edad). Verificar. |
@@ -101,6 +115,8 @@
 | Hosp. José Gregorio Hernández (Magallanes) | Genire Eliangelis |  | 33916827 | Maiquetía | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. José Gregorio Hernández (Magallanes) | Gil Michel | 22 | 30091537 | Playa Grande | Reporte pacientes atendidos |  |
 | Hosp. José Gregorio Hernández (Magallanes) | Gil Michelle |  | 30041537 | Playa Grande | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. José Gregorio Hernández (Magallanes) | Gisela Hernández | 52 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. José Gregorio Hernández (Magallanes) | Golfan Hazza | 30 | 20749273 | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. José Gregorio Hernández (Magallanes) | Gueira Juan | 40 | 17755824 | Guarenas | Reporte pacientes atendidos | Politraumatismos |
 | Hosp. José Gregorio Hernández (Magallanes) | Hernandez Bisla | 58 |  | La Guaira | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. José Gregorio Hernández (Magallanes) | Hernandez Criemary | 44 | 20127874 | Catia | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
@@ -111,11 +127,13 @@
 | Hosp. José Gregorio Hernández (Magallanes) | Jimenez Hidrel | 29 | 26219522 | Catia | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. José Gregorio Hernández (Magallanes) | Jimenez Luis Jose | 47 | 13044965 |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado; Politraumatismo |
 | Hosp. José Gregorio Hernández (Magallanes) | Jonaikel Aranguren | 21 |  | La Guaira | Sin información | Fuente: GSheet VENEZUELA HOSPITALES (203000) · lesión: Sin información · Sin información |
+| Hosp. José Gregorio Hernández (Magallanes) | Juan Perozo | 31 | 23565521 | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. José Gregorio Hernández (Magallanes) | Juices Erick | 27 | 27225952 | Caribe | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. José Gregorio Hernández (Magallanes) | Juices Ericka | 19 | 31995463 | Caribe | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. José Gregorio Hernández (Magallanes) | Llenno Torres | 45 |  | La Guaira | Sin información | Fuente: GSheet VENEZUELA HOSPITALES (203000) · lesión: Sin información · Nombre dudoso (¿Glenny/Lenny?) \ |
 | Hosp. José Gregorio Hernández (Magallanes) | Luis Jose Gimenes | 47 | 13044905 | Caribe | Sin información | Fuente: GSheet VENEZUELA HOSPITALES (203000) · lesión: Sin información · Cédula y apellido de lectura incierta \ |
 | Hosp. José Gregorio Hernández (Magallanes) | Maikelg Alvares | Sin información |  | La Guaira | Sin información | Fuente: GSheet VENEZUELA HOSPITALES (203000) · lesión: Sin información · Sin edad \ |
+| Hosp. José Gregorio Hernández (Magallanes) | Maikili Álvarez |  | 30045425 | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. José Gregorio Hernández (Magallanes) | Marquez Gabriel | 65 | 10535710 |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. José Gregorio Hernández (Magallanes) | Mata Yoalbert | 7 |  | Playa Grande | Reporte pacientes atendidos | Traumatismo facial |
 | Hosp. José Gregorio Hernández (Magallanes) | Maza Galpan | 30 | 20779273 |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
@@ -139,7 +157,10 @@
 | Hosp. José Gregorio Hernández (Magallanes) | Urdaneta Alexander | 37 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado; Traumatismo Rodilla y Hombro |
 | Hosp. José Gregorio Hernández (Magallanes) | Uruchuto Alexander | 37 |  |  | Reporte pacientes atendidos | Traumatismo de rodilla y hombro |
 | Hosp. José Gregorio Hernández (Magallanes) | Yoalbel Moto | 7 |  | La Guaira | Sin información | Fuente: GSheet VENEZUELA HOSPITALES (203000) · lesión: Sin información · Sin información |
+| Hosp. José Gregorio Hernández (Magallanes) | Yoalbert Mota | 7 |  | Playa Grande | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. José Gregorio Hernández (Magallanes) | Yulianne Rondón | 43 | 17116573 | Catia | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. José Gregorio Hernández (Magallanes) | Zapata Carmen | 66 | 6856684 | Mare II | Reporte pacientes atendidos | Fractura de fémur |
+| Hosp. José Gregorio Hernández (Magallanes) | Zunilda Cantero | 91 | 24316929 | Catia | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Abedario Beatriz |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Abraham Chavez |  | 18032277 | La Llanada | Lista pacientes atendidos |  |
 | Hosp. Gral. Dr. José María Vargas (La Guaira) | Abraham Gonzalez | 7 |  | Caribe | Lista pacientes atendidos |  |
@@ -554,11 +575,13 @@
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Acosta Bastidas Yanelis Del Valle Carolina |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Acosta Bastidas Yanels del Valle Carolina |  |  |  | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Acosta Israel | 10 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado; Fecha: 25/6/26 pm |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | ACUÑA PEDRO |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Aderly Olechea Cordero |  |  | La Guaira | Trauma Shock 26/06 | Fuente: Drive SISMO_1554 26JUN26 · Trauma Shock |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Adian Milagro |  | 10583198 |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Nuevos Ingresos |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Adriana Sandoval |  | 34518879 |  | Adultos (L3) |  |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Adriana Vestidas |  | 17856045 |  | Adultos (L1) / Adultos (Traumashock) | unificado de 2 registros |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Adriano Bastido |  | 178560450 |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Alani Matute | 4 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Albarran Mara |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Traumashock |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Albarrán María |  |  | La Vega | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Alberto Ortiz | 72 |  | Caracas | Piso 1 (Medicina Interna) | Fuente: PC Piso 1 / Pediatría 26JUN (data1804) |
@@ -578,10 +601,12 @@
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Alonzo Oropeza Erika Marulo (?) |  |  |  | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Alouro Isabel |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Traumashock |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Alvarado Contrera Yorgyn Andrés |  |  | Maiquetía | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | ALVARADO ELIANNI |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Alvarez Willian |  |  |  | Personas en riesgo | Fuente: Listado 337 personas en riesgo (N° 241) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Alvaro Ortiz |  | 4163469 |  | Adultos (L2) |  |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Amilcar Stabilito |  | 232410590 |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Amilcar Stabilitto |  | 23241059 | La Guaira | La Yaguara (nuevo) |  |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Amilka Escalito | 64 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Amilka Estabilito | 64 |  | La Guaira | Trauma Shock 26/06 | Fuente: Drive SISMO_1554 26JUN26 · Trauma Shock |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Ana Aguilera |  | 20003134 |  | Adultos (L1) / Adultos (Traumashock) | unificado de 2 registros |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Ana Dias |  | 10576803 |  | Adultos (L1) |  |
@@ -591,6 +616,7 @@
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Anabela Morillo |  | 34588981 |  | Adultos (Triaje) |  |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Anabella Victoria Murillo Montoña | 16 | 34588982 |  | Registro correlativo (N° 932) | Fuente: Pérez Carreño registro correlativo (914-1071) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Anaque Vuelta María José (?) |  |  |  | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Anderiy OSECHA | 24 | 29732537 | La Guaira | Neurocirugía | Fuente: GSheet consolidado todos los archivos (27JUN) · Neurocirugía |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Anderson Mendoza |  |  |  | Pediatría (AMPC) | ¿cédula? 27399202 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Andeyly Osecha (?) | 24 | 29933537 | La Guaira | Piso 1 (Traumatología) | Fuente: PC Piso 1 / Pediatría 26JUN (data1804) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Andrade de Viera |  |  | La Guaira Sector Caribe | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
@@ -600,11 +626,14 @@
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Angarita Carrillo Carmen Victoria |  |  |  | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Angel Fernandez |  | 16310014 |  | Adultos (L2) |  |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Ángel Gamboa | 15 | 33601212 | Barlovento | Piso 1 (Medicina II) | Fuente: PC Piso 1 / Pediatría 26JUN (data1804) |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Angel Parada | 12 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Ángel Paredez | 12 |  | La Guaira | Trauma Shock 26/06 | Fuente: Drive SISMO_1554 26JUN26 · Trauma Shock |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Angelys Gonzalo | 37 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Angy Josefina Sanabria Barrero | 44 |  |  | Registro correlativo (N° 1042) | Fuente: Pérez Carreño registro correlativo (914-1071) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Antoni Duarte | 15 | 33623213 | Caracas | Piso 1 (Medicina Interna) | Fuente: PC Piso 1 / Pediatría 26JUN (data1804) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Anyeli Gonzalez | 37 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado; Trauma shock Pasillo de ascensor |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Anyeliy Gonzals (?) | 37 |  | La Guaira | Trauma Shock 26/06 | Fuente: Drive SISMO_1554 26JUN26 · Trauma Shock |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Anyerlys González | 37 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Aponte Borges Carlos |  |  | La Guaira (Acc. T) | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Arana Eduar |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Sin cédula |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Argelis Anyelis Ruiz Roa |  |  |  | Registro correlativo (N° 919) | Fuente: Pérez Carreño registro correlativo (914-1071) |
@@ -617,10 +646,12 @@
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Asly Carreño Romero | 13 |  |  | Registro correlativo (N° 1021) | Fuente: Pérez Carreño registro correlativo (914-1071) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Aslys Damayber Carreño | 8 |  |  | Registro correlativo (N° 1024) | Fuente: Pérez Carreño registro correlativo (914-1071) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Asunción González | 76 | 3423091 | Caracas | Piso 1 (Traumatología) | Fuente: PC Piso 1 / Pediatría 26JUN (data1804) |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Asy CEREÑO | 8 |  | La Guaira - Caraballeda | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) · Alta |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Auri Castillo | Sin información | 263291930 | Sin información | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Sin información |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Avea Whilian |  | 19768837 |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Avedano Marlene |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Traumashock |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Avedano Wiston |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Traumashock |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | AVENDANO MARLENE |  |  |  | Registro hospitalario (15:12) | Fuente: Dropbox 26JUN26 15:12 (revalidación) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Avendaño Marleno |  |  | La Guaira - Los Corales | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Ayari Castillo |  | 26327913 |  | Adultos (L2) |  |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Ayaris Castillo Castro | 27 | 6327913 |  | Registro correlativo (N° 959) | Fuente: Pérez Carreño registro correlativo (914-1071) |
@@ -644,6 +675,7 @@
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Beronica Bastardo |  | 30170626 |  | Adultos (Traumashock) |  |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Bivzela Harerid |  | 37890594 |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Bladimir Lisenco Boaz | 25 |  | La Guaira | Trauma Shock 26/06 | Fuente: Drive SISMO_1554 26JUN26 · Trauma Shock |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Bladimir Saco | 30 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Blanco Galvis Máximo Miguel |  |  | La Guaira Tanaguarena | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Blanco Luis |  |  | San Martín | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Bolivar Bolivar J. Jose |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
@@ -656,6 +688,7 @@
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Bracho Adriana |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Branco Galvis Maximo Miguel | Sin información |  | Sin información | Traslado desde La Guaira | Fuente: GSheet VENEZUELA HOSPITALES (203000) · lesión: Sin información · Nuevo (no estaba en los registros) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Brayan Montáñez | 25 | 27965399 | Caracas | Piso 1 (Traumatología) | Fuente: PC Piso 1 / Pediatría 26JUN (data1804) |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Breiner Vivas | 24 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Breiner Vivian | 24 |  | La Guaira | Trauma Shock 26/06 | Fuente: Drive SISMO_1554 26JUN26 · Trauma Shock |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Brian González | 26 | 27598748 | Caracas | Piso 1 (Traumatología) | Fuente: PC Piso 1 / Pediatría 26JUN (data1804) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Briceno Amikar |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Piso 3 – Traumachok; La Guaira |
@@ -672,6 +705,7 @@
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Bueno Diaz Aleido | Sin información |  | Catia | Traslado desde La Guaira | Fuente: GSheet VENEZUELA HOSPITALES (203000) · lesión: Sin información · Nuevo (no estaba en los registros) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Bueno Díaz Alendo (?) |  |  | Catia | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Bueno Diaz Merida |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | BUENO NERIO |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Cabello Brisneidy |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado; Trauma Shock / Cirugía General |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Candelano Rois |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Traumashock |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Candelario Navas | Sin información | 294164930 | Sin información | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Sin información |
@@ -686,6 +720,7 @@
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Carreño Ashly / Carreño Asly | 8 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · SIN FAMILIAR – Pediátrico |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Carreño Ashlys |  |  | Caribe → La Guaira | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Carreno Asly |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Carreño Derek Josue | 5 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Carreno Espinoza Zuleika Yaxnei |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Carreño Romero Asly Janzise (?) |  |  | La Guaira Caribe | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Carreño Romero Derek Josué |  |  | Caribe → La Guaira | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
@@ -707,6 +742,9 @@
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Cenaida Paredez |  | 6405488 |  | Adultos (L1) / Adultos (Traumashock) | unificado de 2 registros |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Cendiela Paredez | Sin información | 61454880 | Sin información | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Sin información |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Cesar Charneco (?) | 5 |  |  | Pediatría (AMPC) |  |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | César CHARNELO | 5 |  | La Guaira - Caraballeda | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Cesar Chauran | 5 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Cesar Chemelo | 5 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Cesar Chermeto | 5 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | César Mathias Carmelo Figuera | 5 |  |  | Registro correlativo (N° 1038) | Fuente: Pérez Carreño registro correlativo (914-1071) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Cesar Pacheco |  | 26327366 |  | Adultos (L1) |  |
@@ -716,8 +754,11 @@
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Charmelo Cesar | 5 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Emerg. Pediátrica – Caraballeda |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Chirinos Martínez Maximiliano José |  |  | La Guaira (Hotel cluadsout?) | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Chirinos Miranda Dulce |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Christopher ORTEGA | 12 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Cirsne SUÁREZ | 15 | 15099391 | Barlovento | Medicina Int | Fuente: GSheet consolidado todos los archivos (27JUN) · Medicina Int |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Cisdelis Quintero | Sin información | 3260572960 | Sin información | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Sin información |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Clariángela Mutinez (?) | 30 |  | La Guaira | Trauma Shock 26/06 | Fuente: Drive SISMO_1554 26JUN26 · Trauma Shock |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Clariongelis Martínez | 30 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Cnepeo Louvia |  | 24718019 |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Cohalue Gabriel |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Neuro – Traumachok; La Guaira |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Colina Angarita Yohander Abel |  |  |  | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
@@ -742,6 +783,7 @@
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Crisdeilis Quintero |  | 32865296 |  | Adultos (L1) |  |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Crisne Suárez | 49 | 15099371 | Caracas | Piso 1 (Medicina Interna) | Fuente: PC Piso 1 / Pediatría 26JUN (data1804) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Cristina Isabel Orozco Durán |  |  |  | Registro correlativo (N° 976) | Fuente: Pérez Carreño registro correlativo (914-1071) |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Cristopher LEÓN | 6 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Cruz Hernandez |  | 4636722 |  | Adultos (L1) / Adultos (Traumashock) | unificado de 2 registros |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Cruzcenaida Paredez |  | 64054880 |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Da Silva Jairo |  |  | La Guaira | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
@@ -761,6 +803,7 @@
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Delmo Ramírez | 81 | 2976008 | Catia | Piso 1 (CCV) | Fuente: PC Piso 1 / Pediatría 26JUN (data1804) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Derecho Carreño | 4 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Dereck Carreño | 4 |  |  | Pediatría (AMPC) | hermano de Ashly Carreño |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Derek CARREÑO | 4 |  | La Guaira - Caraballeda | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) · Alta |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Diacua Eduar |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Traumashock |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Dias Geeurosy |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Traumashock |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Días Lozada Ana Felicia |  |  |  | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
@@ -771,10 +814,12 @@
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Diaz Irma |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Traumashock |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Díaz Romero Briangelys Nazareth |  |  |  | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Diaz Romero Briaugelys Nazareth | Sin información |  | Sin información | Traslado desde La Guaira | Fuente: GSheet VENEZUELA HOSPITALES (203000) · lesión: Sin información · Nuevo (no estaba en los registros) |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | DIAZ SANDRA |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Diaz Victor |  | 11537536 |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Diego Garcia |  | 33423811 |  | Adultos (L3) |  |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Dies Genny |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Traumachok; La Guaira |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Domingo Stomeo (?) | 58 | 6252115 | Caracas | Piso 1 (Medicina Interna) | Fuente: PC Piso 1 / Pediatría 26JUN (data1804) |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | DORANTE ERIC | 15 |  |  | Registro hospitalario (15:12) | Fuente: Dropbox 26JUN26 15:12 (revalidación) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Dorante Erick | 15 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Traumashock |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Drana Eduar |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Duan Polencia Giannis Dohany (?) |  |  |  | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
@@ -787,19 +832,25 @@
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Edid Saavedra | 45 | 14196949 | Caracas | Piso 1 (Traumatología) | Fuente: PC Piso 1 / Pediatría 26JUN (data1804) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Eduanyeli Valentine Perez Olibo | 1 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Pediatría |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Eduanyelis Pérez (?) | 9 |  |  | Pediatría (AMPC) |  |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Eduar Omana |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Eduar Orana |  |  |  | Adultos (L3) |  |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Eduardelyz Pérez | 3 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Eduardo Díaz | 20 |  |  | Piso 1 (Medicina Interna) | Fuente: PC Piso 1 / Pediatría 26JUN (data1804) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Eduaryeli Valentina Pérez | 1 |  |  | Registro correlativo (N° 981) | Fuente: Pérez Carreño registro correlativo (914-1071) |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Eduaryely PÁEZ | 2 |  | La Guaira - La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) · CAITA |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Edvar Corna | Sin información |  | Sin información | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Sin información |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Edwar Alenxander Oramas Rodríguez |  |  |  | Registro correlativo (N° 992) | Fuente: Pérez Carreño registro correlativo (914-1071) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Edwin Virano | 50 | 12112970 |  | Registro correlativo (N° 1036) | Fuente: Pérez Carreño registro correlativo (914-1071) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Egibelto Amilkar | 69 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Piso 3 – Traumachok; Cirugía ATJ Ortopedia; La Guaira |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Eiban Yegue |  | 24058780 |  | Adultos (Triaje) |  |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Eildimar Milano / Reynis Milano Gómez | 13 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Elianni Idalgo |  | 32976229 |  | Adultos (Traumashock) |  |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Elias Jesús Lujano Milan | 15 |  |  | Registro correlativo (N° 1052) | Fuente: Pérez Carreño registro correlativo (914-1071) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Eliezer Figuera | 30 | 24087020 | Caracas | Piso 1 (Trauma (Emg)) | Fuente: PC Piso 1 / Pediatría 26JUN (data1804) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Elisabeth Chacón |  | 27374286 |  | Adultos (Triaje) |  |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Elizabeth Gonzalez |  | 17709218 | La Guaira | La Yaguara (nuevo) |  |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Elizabetz Malpica | 3 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Elizbetho MALESANO |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Eman Gladys |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Traumashock |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Emelys Ramos | 10 |  |  | Pediatría (AMPC) | posible duplicado de 'Emili Ramos' (lista pediátrica de procedencia) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Emili Mosquera |  | 28285779 |  | Adultos (L4) |  |
@@ -807,6 +858,7 @@
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Emilia Palacios | 91 | 1736666 | Caracas | Piso 1 (Cirugía IV) | Fuente: PC Piso 1 / Pediatría 26JUN (data1804) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Emily Ramos | 10 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Emira Guerra |  | 26019884 |  | Adultos (L3) |  |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Endy RAMOS | 10 |  | La Guaira - Caña de Mar | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Enmira Guerra | Sin información | 260128840 | Sin información | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Sin información |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Enrique Dios |  |  | La Guaira | Trauma Shock 26/06 | Fuente: Drive SISMO_1554 26JUN26 · Trauma Shock |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Eric Godoy |  | 18749225 |  | Adultos (L1) |  |
@@ -825,6 +877,7 @@
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Espinoza Milagro |  |  | La Guaira | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Espinoza Milagro Adrián |  |  | La Guaira Caribe | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Estabilito Anicar |  |  |  | Personas en riesgo | Fuente: Listado 337 personas en riesgo (N° 333) |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | ESTABILITTO ANICAR |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Esteves Carreño Yolinnys Alberto |  |  | La Guaira | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Esteves Volnoys |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Traumashock |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Esteves Yolnnys |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Traumashock |
@@ -848,6 +901,7 @@
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Figueroa Irma Celeste |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Figueroa Yeangel |  |  | La Guaira Taraguarena | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Fleici Valero |  | 13374764 |  | Adultos (L2) |  |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | FLORES LUNA |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Flores Yorclano (?) | 10 |  | La Guaira | Pediatría 26/06 | Fuente: PC Piso 1 / Pediatría 26JUN (data1804) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Flores Yordino / Flores Yordano | 10 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Emerg. Pediátrica – La Guaira |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Fran Rondon |  | 19659867 |  | Adultos (L1) / Adultos (Traumashock) | unificado de 2 registros |
@@ -892,9 +946,12 @@
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Giménez Mathías | 12 |  | La Guaira | Pediatría 26/06 | Fuente: PC Piso 1 / Pediatría 26JUN (data1804) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Gladys Coromoto Colmenarz | 74 | 4349555 |  | Registro correlativo (N° 923) | Fuente: Pérez Carreño registro correlativo (914-1071) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Glendys Rodríguez |  |  | Charallave (La Guaira) | Trauma Shock 26/06 | Fuente: Drive SISMO_1554 26JUN26 · Trauma Shock |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Gloli LUJENO | 10 |  | La Guaira - Caña de Mar | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Glorys Lujano | 10 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Godoy Erica |  |  |  | Personas en riesgo | Fuente: Listado 337 personas en riesgo (N° 254) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Goleara Emiea |  | 22919884 |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Gómez Cardona Manuel Alberto |  |  |  | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | GOMEZ LESVIA |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Goncalve Gabriel |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Traumashock |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Goncalves Gabriel |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Traumashock |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Gonzales De Arismendi Milenis Yanett |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
@@ -902,6 +959,7 @@
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Gonzales Perez Valeria Oriana |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Gonzales Velasquez Fabián | 7 M |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Pediatría |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Gonzalez Adriana |  |  |  | Personas en riesgo | Fuente: Listado 337 personas en riesgo (N° 335) |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | GONZALEZ ALEXANDRA | 42 |  |  | Registro hospitalario (15:12) | Fuente: Dropbox 26JUN26 15:12 (revalidación) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Gonzalez Angely |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Traumashock |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Gonzalez Anyely |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Traumashock |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | González de Ansmendi Milens Yanett |  |  | Los Cauros / Playa Verde (?) | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
@@ -918,10 +976,12 @@
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Gonzalez Nyerlys | 37 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | González Velásquez Fabián Mauricio | 9 meses |  | Catia la Mar | Pediatría (procedencia) |  |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Gonzalo León |  | 22916224 |  | Adultos (L3) / Adultos (Triaje) | unificado de 2 registros |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | GONZALOS ISABEL |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Goohza Milerbis |  | 16468240 |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Grama Rodríguez Eduard Alexander |  |  | Tanaguarena | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Granado Reudas Crisbel Naymar (?) |  |  |  | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Granados Reudas Crisbel Naymar | Sin información |  | Sin información | Traslado desde La Guaira | Fuente: GSheet VENEZUELA HOSPITALES (203000) · lesión: Sin información · Nuevo (no estaba en los registros) |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Greisy Hernandez |  | 27638281 | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Guerrero Wile | 40 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Traumashock |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Guerrero Willy |  |  | La Guaira - Tanaguarena | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Guillen Gonzales Guillen Gonzales |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
@@ -929,6 +989,7 @@
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Guillén González Mario Eugenio |  |  |  | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Gurstoo Emira |  | 22016224 |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Gustavo Farfán | 41 | 4088777 | Caracas | Piso 1 (Traumatología) | Fuente: PC Piso 1 / Pediatría 26JUN (data1804) |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Gustavo FORFÁN | 31 | 4088771 | Caracas | Traumatología | Fuente: GSheet consolidado todos los archivos (27JUN) · Traumatología |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Gutiérrez Fabricio |  |  | La Guaira Tanaguarena | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Gutierrez Jabricio |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Piso 3 – Traumachok – Pasillo Asesor – Traumatología; La Guaira |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Harleidi Rivero |  | 360917840 |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Triaje |
@@ -943,6 +1004,8 @@
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Herrera Joso Alfonzo |  |  | La Guaira Caribe | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Hilary Ramírez | 10 a |  |  | Emergencia Pediátrica 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Hinoris Yimmy | Sin información |  | Guarenas | Sin información | Fuente: GSheet VENEZUELA HOSPITALES (203000) · lesión: Sin información · Apellido incierto \ |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Hoja Derecha |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Hoja Izquierda |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Horaina Crisbel Gómez Galíndez | 25 | 32353328 |  | Registro correlativo (N° 929) | Fuente: Pérez Carreño registro correlativo (914-1071) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Horaydayoru |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Traumatología Emergencias – Pasillo Asesor; La Guaira |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Iadera Elianyerlis (?) | 1 |  | La Guaira | Pediatría 26/06 | Fuente: PC Piso 1 / Pediatría 26JUN (data1804) |
@@ -953,11 +1016,15 @@
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Infante Yhelena |  |  | La Guaira - Caraballeda | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Ingri Milano Yurmi (?) |  |  | La Guaira | Trauma Shock 26/06 | Fuente: Drive SISMO_1554 26JUN26 · Trauma Shock |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Irma Figueroa | 68 | 6496725 | La Guaira | Piso 1 (Traumatología) | Fuente: PC Piso 1 / Pediatría 26JUN (data1804) |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Isaac Arias | 8 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Isaac ARON | 8 |  | La Guaira - Tanaguarena | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) · Sin Familiar |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Isabel Gonzales |  | 29701695 |  | Adultos (Traumashock) |  |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Isabel Gonzalez | Sin información | 291016950 | Sin información | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Sin información |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Isabel Torres |  | 4718019 |  | Adultos (Triaje) |  |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Isabelis Reveredo | 10 |  |  | Registro correlativo (N° 1037) | Fuente: Pérez Carreño registro correlativo (914-1071) |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Isabella REBOLLIDO | 10 |  | La Guaira - La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Isabella Reboredo | 10 |  |  | Pediatría (AMPC) |  |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Isac Arron | 8 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Isaiel Alonso |  |  | La Guaira | Trauma Shock 26/06 | Fuente: Drive SISMO_1554 26JUN26 · Trauma Shock |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Jackson Pierre | 48 | 33410042 | Caracas | Piso 1 (Cirugía IV) | Fuente: PC Piso 1 / Pediatría 26JUN (data1804) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Jaimes Lisbet |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado; Trauma Shock |
@@ -969,7 +1036,9 @@
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Jesús González Sanabria | 13 |  |  | Registro correlativo (N° 1046) | Fuente: Pérez Carreño registro correlativo (914-1071) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Jesús Pérez Ramírez | 19 | 32502284 |  | Registro correlativo (N° 1071) | Fuente: Pérez Carreño registro correlativo (914-1071) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Jhonny Iorayo (?) | 73 | 3716642 | Caracas | Piso 1 (Trauma (Emg)) | Fuente: PC Piso 1 / Pediatría 26JUN (data1804) |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Jhonny LORAYO | 30 | 3716612 | Caracas | Trauma (Emg) | Fuente: GSheet consolidado todos los archivos (27JUN) · Trauma (Emg) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Jhonny Velásquez | 32 | 25639312 | Caracas | Piso 1 (Traumatología) | Fuente: PC Piso 1 / Pediatría 26JUN (data1804) |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Jier Tozo | 19 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Jimenez Mathias / Jimenez Mathia | 12 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Emerg. Pediátrica – La Guaira |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Jiménez Rafael Mathías Alejandro |  |  | La Guaira | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Jimenez Rangel Mathias Alejandro | 12 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Emerg. Pediátrica – La Guaira |
@@ -998,6 +1067,7 @@
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Karleidi Rivero |  | 36091784 |  | Adultos (Triaje) |  |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Keilimar Garcia |  | 32543420 |  | Adultos (L3) |  |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Kevi Gonzales | 32 |  | La Guaira | Trauma Shock 26/06 | Fuente: Drive SISMO_1554 26JUN26 · Trauma Shock |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Kevin González | 32 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | La Rosa Noel |  |  | La Guaira (Hotel Edmar Suiz?) | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | La Rosa Yoel |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Traumashock |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Ladera Eliayelis | 1 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Pediatría – Lista alta; Mamá Yosbelis Díaz |
@@ -1006,6 +1076,7 @@
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Lara Saul | Sin información |  | La Guaira | Sin información | Fuente: GSheet VENEZUELA HOSPITALES (203000) · lesión: Sin información · Registro manuscrito (lista nombre/procedencia) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Larez Giel (?) |  |  | Camurichito | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Launsett Burgos Carla Antonia |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | LEDON YADIRA |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Leida Pérez | 75 | 6110129 | Caracas | Piso 1 (Cirugía I) | Fuente: PC Piso 1 / Pediatría 26JUN (data1804) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Lemus María |  |  | La Guaira - Caribe | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Leon Mailin |  | 15512093 |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
@@ -1017,8 +1088,11 @@
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Lesvia Morales |  | 5965096 |  | Adultos (Triaje) |  |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Liam | 3 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Emerg. Pediátrica – solo nombre |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Lian (3x 5/D) |  |  | Pariata | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Ligia Inés Ramírez Mendoza | 17 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Liliana Valentina Carrizo | 16 |  |  | Registro correlativo (N° 999) | Fuente: Pérez Carreño registro correlativo (914-1071) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Lisbet Jaimen |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Traumachok; La Guaira |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Lisbeth MATERNO | 3 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Lisbeth Medrano | 39 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Lisenco Tatiana |  |  | La Guaira Caraballeda | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Lisenco Wladimir |  |  | La Guaira Caraballeda | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Liserco Bladimir | 80 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Traumachok; Guardia |
@@ -1030,6 +1104,7 @@
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Lopez Davila Thais Bernar | Sin información |  | Sin información | Traslado desde La Guaira | Fuente: GSheet VENEZUELA HOSPITALES (203000) · lesión: Sin información · Nuevo (no estaba en los registros) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | López Dávila Thays Bernar (?) |  |  |  | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Lopez Dufar |  |  |  | Personas en riesgo | Fuente: Listado 337 personas en riesgo (N° 315) |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | LOPEZ DUINAR |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | López Eliman |  |  | La Guaira - Caribe | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Lopez Elimar | 42 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Traumashock |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Lopez Emerson |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
@@ -1064,16 +1139,19 @@
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Malave Alfonso Samari Valentina |  |  | Caraballeda | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Malave Cordero Alani Isabela |  |  | La Guaira | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Malavé Tamara |  |  | La Guaira - Caraballeda | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Mandy Yusleidy | 8 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Manuel Gomez |  | 18814839 |  | Adultos (L2) |  |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Manuel Páez | 73 | 22016754 | Caracas | Piso 1 (Traumatología) | Fuente: PC Piso 1 / Pediatría 26JUN (data1804) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Manuela D'Anzola |  | 296723 |  | Adultos (L3) / Adultos (Triaje) | unificado de 2 registros |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Manuela De Anzola |  | 2967230 |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Triaje |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Manyuri sedeño |  | 19194021 | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Maraeco Yenni |  | 18834289 |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Marcano Yenny |  |  |  | Personas en riesgo | Fuente: Listado 337 personas en riesgo (N° 299) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Marcela Bernal |  | 6049995 |  | Adultos (Triaje) |  |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Marelis Márquez | 24 | 24568687 |  | Registro correlativo (N° 914) | Fuente: Pérez Carreño registro correlativo (914-1071) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Maria Araque |  | 28100561 |  | Adultos (L4) |  |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | María de los Reyes Sanz | 89 | 2335421 |  | Registro correlativo (N° 918) | Fuente: Pérez Carreño registro correlativo (914-1071) |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Maria Fernandez |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | María Fernández González |  |  | La Guaira | Trauma Shock 26/06 | Fuente: Drive SISMO_1554 26JUN26 · Trauma Shock |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | María García | 76 | 5343665 | Caracas | Piso 1 (Traumatología) | Fuente: PC Piso 1 / Pediatría 26JUN (data1804) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Maria Guillen |  | 60592880 |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
@@ -1084,9 +1162,11 @@
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Maria Quillen |  | 6059288 |  | Adultos (L2) |  |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | María Rosario Albarán de Matos | 92 | 1871690 |  | Registro correlativo (N° 1050) | Fuente: Pérez Carreño registro correlativo (914-1071) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Maria Zamora |  | 27044236 |  | Adultos (L1) | ⚠ cédula 27044236 compartida con otro registro del mismo hospital (posible error OCR) |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Maricruz Rivero |  | 30091784 | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Marin Tova Valeska |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado; Traumatología Pasillo de ascensor |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Mariño Amilcar |  |  | La Guaira Caraballeda | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Marioate Mahtenen (?) | 67 |  | La Guaira | Trauma Shock 26/06 | Fuente: Drive SISMO_1554 26JUN26 · Trauma Shock |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Marisela Manterola | 67 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Marlene Davila |  | 19102824 |  | Adultos (L4) |  |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Marlene Falivena (?) | 50 | 10350629 | Caracas | Piso 1 (Medicina Interna) | Fuente: PC Piso 1 / Pediatría 26JUN (data1804) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Marlin Martinez |  | 10576899 |  | Adultos (L4) |  |
@@ -1111,6 +1191,8 @@
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Materano Lisbeth | 3 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Emerg. Pediátrica |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Mathias Aaron Moreno Moyetones | 8 |  |  | Registro correlativo (N° 921) | Fuente: Pérez Carreño registro correlativo (914-1071) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Matías Jiménez | 13 |  |  | Pediatría (AMPC) | C.I. (?) |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Mattia Jimenez | 12 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Mattias Jiménez | 12 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Maximiliano Chirinos | 6 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Maximiliano Quiñones | 6 |  |  | Pediatría (AMPC) |  |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Máximo José Chirinos Márquez | 6 |  |  | Registro correlativo (N° 1017) | Fuente: Pérez Carreño registro correlativo (914-1071) |
@@ -1143,6 +1225,8 @@
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Meria Yoliby |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado; Trauma Shock / Neurocirugia Tomografia |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Merido Bueno |  | 17158021 |  | Adultos (Triaje) |  |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Mía Acevedo | 7 meses |  | Catia la Mar | Pediatría (procedencia) |  |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Mia MUNTEL | 6 |  | La Guaira - Caña de Mar | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) · Alta |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Mia Puentes | 6 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Mielles Torres Andrés |  |  | La Guaira Caraballeda | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Mietes Andrés | 10 |  | La Guaira | Pediatría 26/06 | Fuente: PC Piso 1 / Pediatría 26JUN (data1804) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Miguel Peñaloza | 29 | 26465438 | Caracas | Piso 1 (Trauma (Emg) · PDL) | Fuente: PC Piso 1 / Pediatría 26JUN (data1804) |
@@ -1153,11 +1237,13 @@
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Milano Guerra Ingria |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Traumashock |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Milano Ingrid |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Traumashock |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Mileibis Gonzalez |  | 26468240 |  | Adultos (L3) |  |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Milton CHANG | 49 | 18671016 | Caracas | Traumatología | Fuente: GSheet consolidado todos los archivos (27JUN) · Traumatología |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Milton Saya (?) | 25 | 28301019 | La Guaira | Piso 1 (Traumatología) | Fuente: PC Piso 1 / Pediatría 26JUN (data1804) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Miludiz Oleidy |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Traumashock |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Minora Yimmy (?) |  |  | Guarenas | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Minoris Yimmy |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Miranda Torres Victoria Elena |  |  | La Guaira | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Mírter CASTILLO | 30 | 20683196 | Caracas | Cirugía IV | Fuente: GSheet consolidado todos los archivos (27JUN) · Cirugía IV |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Mivandes Victoria |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado; Traumatología / pasillo de ascensor  A cargo de Traumatología, Neurocirugía y Cirugía General ALTA MEDICA POR ESPECIALISTA |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Moceral Maria |  | 25049995 |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Molina Ignacio |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Pediatría – 1 año 5 meses; Mamá: Jhonelis Ortiveros |
@@ -1171,6 +1257,7 @@
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Moreno Dimexis |  |  | La Guaira | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Moreno Domieas (?) |  |  | La Guaira | Trauma Shock 26/06 | Fuente: Drive SISMO_1554 26JUN26 · Trauma Shock |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Moreno Domiexis | 96 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Traumachok; La Guaira |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Moreno Dominis | 36 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Moreno Tapia Franxelis Oriana |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Moreria Eidimar |  |  | La Guaira - Caribe | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Morzelo Lesvia |  | 46965996 |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
@@ -1181,24 +1268,32 @@
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Murillo Montoya Anabella Victoria |  |  |  | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Nadin Lopez | Sin información | 153416660 | Sin información | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Sin información |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Nahomy Esquina Feria | 20 | 32099725 |  | Registro correlativo (N° 922) | Fuente: Pérez Carreño registro correlativo (914-1071) |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Nana GARCÍA | 76 | 5813665 | Caracas | Traumatología | Fuente: GSheet consolidado todos los archivos (27JUN) · Traumatología |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Nani MALAVE | 4 |  | La Guaira - La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Narcano YENNI |  | 18384289 | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Narciso Brorton (?) | 72 | 8303296 | Pto. La Cruz | Piso 1 () | Fuente: PC Piso 1 / Pediatría 26JUN (data1804) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Natalia Romero | 5 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Natalio Ferreiro (?) | 5 |  |  | Pediatría (AMPC) |  |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Nathacha Medina |  | 29565365 |  | Adultos (L2) |  |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Nathiel JIMÉNEZ | 12 |  | La Guaira - La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Navaz Yodalis Mercedes |  |  | Ciudad Caribia | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Nayibi Molina |  | 29768360 |  | Adultos (L1) |  |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Nelly Defreites | 63 |  | La Guaira | Trauma Shock 26/06 | Fuente: Drive SISMO_1554 26JUN26 · Trauma Shock |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Nelly UPIILAGE | 63 |  | Caracas | Cirugía IV | Fuente: GSheet consolidado todos los archivos (27JUN) · Cirugía IV |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Nelly Villega | 63 |  | Caracas | Piso 1 (Cx I (Emergencia)) | Fuente: PC Piso 1 / Pediatría 26JUN (data1804) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Nelson Zambrano Espinoza | 49 | 13823921 |  | Registro correlativo (N° 915) | Fuente: Pérez Carreño registro correlativo (914-1071) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Neri Chavez | Sin información | 184620400 | Sin información | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Sin información |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Ninoska Ruiz | 52 | 6673326 | Miranda | Piso 1 (Medicina Interna) | Fuente: PC Piso 1 / Pediatría 26JUN (data1804) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Niver Garcia | Sin información | 253375140 | Sin información | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Sin información |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Nombre Completo |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Novis Candelario |  |  |  | Personas en riesgo | Fuente: Listado 337 personas en riesgo (N° 272) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Olga Ramírez | 85 | 3243794 | Los Teques | Piso 1 (Cirugía IV) | Fuente: PC Piso 1 / Pediatría 26JUN (data1804) |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Olianyeli EULANDIZ | 6 |  | La Guaira - La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Olivio Lilian |  |  | La Guaira - Caribe | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Orama Angel |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Orama Eduan |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Traumachok Neuro – Triaje; La Guaira |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Oriana Ramirez |  | 27006264 |  | Adultos (L1) / Adultos (Traumashock) | unificado de 2 registros |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Oriangelys Meléndez | 6 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Orlando León | 81 | 2552085 | Caropita | Piso 1 (Cx de la mano) | Fuente: PC Piso 1 / Pediatría 26JUN (data1804) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Oropeza Francisco |  | 26647295 |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Nuevos Ingresos |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Oropeza Lourde |  | 143128520 |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 |
@@ -1233,6 +1328,7 @@
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Paredes Ceneida |  |  |  | Personas en riesgo | Fuente: Listado 337 personas en riesgo (N° 247) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Paredes Cruzeenda |  |  |  | Personas en riesgo | Fuente: Listado 337 personas en riesgo (N° 326) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Paredes Cruzeendda |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | PAREDES CRUZEENIDDA |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Paredes Reyes Ángel |  |  | La Guaira Los Corales | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Paredes Yudi |  | 38834721 |  | Ingreso por sismo (lista consolidada) | Fuente: Drive SISMO 2026 VZLA |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Paredes Yulid |  |  |  | Personas en riesgo | Fuente: Listado 337 personas en riesgo (N° 328) |
@@ -1271,6 +1367,7 @@
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Polanco Yauripaz Lian Santiago |  |  |  | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Polanco Yauripoma Lean Santiago | 5 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Pediatría |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Polanco Yuripanz Lian Santiago | Sin información |  | Sin información | Traslado desde La Guaira | Fuente: GSheet VENEZUELA HOSPITALES (203000) · lesión: Sin información · Nuevo (no estaba en los registros) |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | PORRA DUGLAS | 35 |  |  | Registro hospitalario (15:12) | Fuente: Dropbox 26JUN26 15:12 (revalidación) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Porras Castro |  |  | La Guaira - Tanaguarena | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Porras Douglas |  |  | La Guaira - Tanaguarena | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Pulido Morales Yuli |  |  | La Guaira Tanaguarena | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
@@ -1311,6 +1408,7 @@
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Ríos Ygenesis |  |  | Bramoven (?) | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Rivas Evan Armando | 55 | 20048909 |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | RIVAS LOPEZ FRANCIS |  |  |  | Registro hospitalario | Fuente: GSheet VENEZUELA HOSPITALES (203000) |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | RIVERAS MARLEIDI |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Rivero Marleidi |  |  |  | Personas en riesgo | Fuente: Listado 337 personas en riesgo (N° 313) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Rlzzias Ibseni |  | 34891836 |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Rodrigo Fernandez |  |  |  | Adultos (L2) |  |
@@ -1328,6 +1426,7 @@
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Rodriguez Yosbeily |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Pediatría – Lista alta; de alta con Lilian Olivo |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Rodríguez Yosheily |  |  | La Guaira - Caribe | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Roman Vuleidy |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Traumachok – Triaje Neuro; La Guaira |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Romel Fajardo | 33 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Romero Duque Ynslubi Amarelis | Sin información |  | Caribe | Traslado desde La Guaira | Fuente: GSheet VENEZUELA HOSPITALES (203000) · lesión: Sin información · Nuevo (no estaba en los registros) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Romero Duque Yrubru Anareths (?) |  |  | Caribe | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Romero Jesus |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Traumatología – Pasillo Asesor; Piso 1; La Guaira |
@@ -1367,12 +1466,15 @@
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Santiago Polanco Youripana | 3 |  |  | Registro correlativo (N° 935) | Fuente: Pérez Carreño registro correlativo (914-1071) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Sanvicente Liam | 5 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Pediatría – Lista alta; Mamá Frangelis Mejía; Argenis Sanvicente |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Sarahi Olivero Salazar | 24 | 26323489 |  | Registro correlativo (N° 1048) | Fuente: Pérez Carreño registro correlativo (914-1071) |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | SARMIENTO BRIGADA | 57 |  |  | Registro hospitalario (15:12) | Fuente: Dropbox 26JUN26 15:12 (revalidación) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Sarmiento Brígida |  |  | La Guaira Playa Grande | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Saul García | 9 a |  |  | Emergencia Pediátrica 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 · Pasillo 1 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Sebastián Salcedo | 5 a |  |  | Emergencia Pediátrica 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | SEGURA ALEIDA |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Seigan Yachelys |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Traumashock |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Seigan Yadehis |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Traumachok – Accidente moto; Rx; Triaje; La Guaira |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Seija Peña Yaleinis |  |  | La Guaira | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Serena SILVA | 10 |  | La Guaira - Caraballeda | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Silva Samara | 10 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Emerg. Pediátrica – Costabrava |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Silva Somara | 10 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Emerg. Pediátrica – Costabrava |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Soja Lozada Reina Alejandra |  | 69046290 |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Triaje |
@@ -1386,11 +1488,13 @@
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Sosa Elisanyelis |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Traumashock |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Sosa Elisauyeli |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Traumashock |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Sosa Jose Luis |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Traumashock |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | SOUJA ALEJANDRA |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Stabilito Anilea (?) |  |  | La Guaira - Caribe | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Sucre Francis Medina |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · 18 años |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Sucre Petna |  |  |  | Personas en riesgo | Fuente: Listado 337 personas en riesgo (N° 240) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | T Junior |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado; Pasillo de ascensor |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Tairy López |  |  | La Guaira | Trauma Shock 26/06 | Fuente: Drive SISMO_1554 26JUN26 · Trauma Shock · Alta |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Tatiana de Saco | 53 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Thais Lopez |  | 13641870 |  | Adultos (L2) |  |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Tirado López Yunior David |  |  |  | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Tirado Lovera Yunior David | Sin información |  | Sin información | Traslado desde La Guaira | Fuente: GSheet VENEZUELA HOSPITALES (203000) · lesión: Sin información · Ya registrado en Perez Carreño |
@@ -1410,6 +1514,7 @@
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Urbina Edwin |  | 12113971 |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Nuevos Ingresos |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Urdidas Adriana |  |  |  | Personas en riesgo | Fuente: Listado 337 personas en riesgo (N° 238) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Uribe Veronica |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | URIDIAS ADRIANA |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Uscategui Jose | Sin información |  | Los Corales / La Guaira | Traslado desde La Guaira | Fuente: GSheet VENEZUELA HOSPITALES (203000) · lesión: Sin información · Nuevo (no estaba en los registros) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Uzcátegui José |  |  | Los Corales → La Guaira | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Valdivel Erick Gustavo |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Traumashock |
@@ -1417,6 +1522,7 @@
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Valerio Lucy |  |  |  | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Valerio Prada Enecy (?) |  |  |  | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Valerio Prada Erecy | Sin información |  | Sin información | Traslado desde La Guaira | Fuente: GSheet VENEZUELA HOSPITALES (203000) · lesión: Sin información · Nuevo (no estaba en los registros) |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Valesca Torres | 14 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Valeska Nahomy Toro Cardona | 14 | 34002798 |  | Registro correlativo (N° 1047) | Fuente: Pérez Carreño registro correlativo (914-1071) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Vargas Ana |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Pediatría – Lista alta; 2-3 meses; Mamá Carla Jiménez |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Vargas Damián |  |  | Catia - Agua Salud | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
@@ -1430,11 +1536,13 @@
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Víctor Castro | 29 | 19220385 | Caracas | Piso 1 (Medicina II / Trauma (Emg)) | Fuente: PC Piso 1 / Pediatría 26JUN (data1804) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Victor Dias |  | 11517536 |  | Adultos (L4) |  |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Víctor Quintero | 24 | 28434483 | La Guaira | Piso 1 (Neurocirugía) | Fuente: PC Piso 1 / Pediatría 26JUN (data1804) |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Victor TORRALBA | 9 |  | La Guaira - Caraballeda | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) · Sin familiar |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Victoria Alvarado | Sin información | 3104515880 | Sin información | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Sin información |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Victoria Miranda |  | 34054588 |  | Adultos (L3) | ⚠ cédula 34054588 también aparece en otro hospital |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Victoria Ramírez | 13 a |  |  | Emergencia Pediátrica 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Vielma Maria |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Viera Yulid Paredes |  |  |  | Personas en riesgo | Fuente: Listado 337 personas en riesgo (N° 250) |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Viktor Torrealba |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Villahermosa Delfino Yohalbes Jose |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Villalta Daron | 8 |  | La Guaira | Pediatría 26/06 | Fuente: PC Piso 1 / Pediatría 26JUN (data1804) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Villastro Aran Isaac | Sin información |  | La Guaira - Tanaguarena | Traslado desde La Guaira | Fuente: GSheet VENEZUELA HOSPITALES (203000) · lesión: Sin información · Nuevo (no estaba en los registros) |
@@ -1449,8 +1557,12 @@
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Wilian Alvarez |  | 16125101 |  | Adultos (L1) / Adultos (Traumashock) | unificado de 2 registros |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Williams Martinez | Sin información | 193678640 | Sin información | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Sin información |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Willian José Cordero | 35 | 20278124 |  | Registro correlativo (N° 931) | Fuente: Pérez Carreño registro correlativo (914-1071) |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Wilmer Jose S |  | 11513282 | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Wilston Avendaño | 23 |  | La Guaira | Piso 1 (Trauma (Emg)) | Fuente: PC Piso 1 / Pediatría 26JUN (data1804) |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Wiston AVENDAÑO | 23 |  | La Guaira | Traumatología | Fuente: GSheet consolidado todos los archivos (27JUN) · Traumatología |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Wuilliams Martinez |  | 19367804 |  | Adultos (L2) |  |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Yadamo FLORES | 10 |  | La Guaira - La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Yadano Flores | 10 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Yadira Cordero |  | 12763837 |  | Adultos (L1) |  |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Yaneli Acosta |  | 31760907 |  | Adultos (Triaje) |  |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Yaptista Yermin |  | 13948173 |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
@@ -1478,7 +1590,9 @@
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Yolebis Seigar |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado; Trauma Shock / Accidente de moto Rx Triaje |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Yolimex Méndez | 11 |  |  | Registro correlativo (N° 1060) | Fuente: Pérez Carreño registro correlativo (914-1071) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Yoluvis Esteves |  |  | La Guaira | Trauma Shock 26/06 | Fuente: Drive SISMO_1554 26JUN26 · Trauma Shock |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Yonaiker Mendoza | 11 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Yonathan Rafael Berrios Antia | 31 | 25987810 |  | Registro correlativo (N° 917) | Fuente: Pérez Carreño registro correlativo (914-1071) |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Yoneidy UNDEZ | 11 |  | La Guaira - Tanaguarena | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Yoneiver Isaac Rodríguez Quiroz | 1 |  |  | Registro correlativo (N° 1045) | Fuente: Pérez Carreño registro correlativo (914-1071) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Yoni Ortuño |  | 5199693 |  | Adultos (L4) |  |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Yonielbys Rodríguez | 1 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
@@ -1490,12 +1604,14 @@
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | (…) Yorinof |  |  | El Valle | Pérez Carreño 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Yorman Enmanuel Baptistas Herrera | 19 | 31949173 |  | Registro correlativo (N° 950) | Fuente: Pérez Carreño registro correlativo (914-1071) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Yorman Hannser Medina Hernández | 50 | 11921559 |  | Registro correlativo (N° 952) | Fuente: Pérez Carreño registro correlativo (914-1071) |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Yosbanyer Rodríguez | 9 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Yosbeilys Rodríguez | 3 |  |  | Pediatría (AMPC) | hermana de Toribelbys |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Yosbily Isabelis Rodríguez Olivo | 3 |  |  | Registro correlativo (N° 1044) | Fuente: Pérez Carreño registro correlativo (914-1071) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Yose Palma |  | 6448839 |  | Adultos (L4) |  |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Yosenia Coronado | 40 |  | La Guaira | Trauma Shock 26/06 | Fuente: Drive SISMO_1554 26JUN26 · Trauma Shock |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Yoswel Alexis Gutiérrez | 14 |  |  | Registro correlativo (N° 1062) | Fuente: Pérez Carreño registro correlativo (914-1071) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Yoswell Sebastián Ramírez Vegas | 1 |  |  | Registro correlativo (N° 927) | Fuente: Pérez Carreño registro correlativo (914-1071) |
+| Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Youblanyer RODRÍGUEZ | 9 |  | La Guaira - Caracas | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Yulaidy Romero |  |  | La Guaira | Trauma Shock 26/06 | Fuente: Drive SISMO_1554 26JUN26 · Trauma Shock |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Yuliet García | 8 a |  |  | Emergencia Pediátrica 26/06 | Fuente: Hosp. Pérez Carreño 26JUN26 |
 | Hosp. Miguel Pérez Carreño (Caracas / La Yaguara) | Yunior Tirado |  | 26372024 |  | Adultos (L4) |  |
@@ -1516,16 +1632,19 @@
 | Hosp. Dr. Domingo Luciani (Llanito) | Acevedo Estefani | 37 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado; POLIT EMERGENCIA NUEVA |
 | Hosp. Dr. Domingo Luciani (Llanito) | Acevedo Gorge | 20 |  |  | Emergencia (27/06) | Fuente: Hosp. Domingo Luciani 27JUN (lista por servicio) |
 | Hosp. Dr. Domingo Luciani (Llanito) | Acevedo Jorge |  |  |  | Poli — Emergencia Nueva (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | ACHILLE SEPE | 91 | 1458202 | GUAIRA | SISMO | Fuente: GSheet consolidado todos los archivos (27JUN) · SISMO |
 | Hosp. Dr. Domingo Luciani (Llanito) | Acosta Alexander | 47 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Acosta Alí | 47 |  | Baruta | Ingresados por sismo |  |
 | Hosp. Dr. Domingo Luciani (Llanito) | Acosta Hasael | 13 |  | Baruta | Ingresados por sismo |  |
 | Hosp. Dr. Domingo Luciani (Llanito) | Acosta Isael | 10 |  | Baruta | Ingresados por sismo |  |
 | Hosp. Dr. Domingo Luciani (Llanito) | Acosta Israel | 10 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Ade Arteaga |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Dr. Domingo Luciani (Llanito) | Adilla Radoski | 4 |  | Sin información | Pediatría | Fuente: GSheet VENEZUELA HOSPITALES (203000) · lesión: Sin información · Apareció familiar |
 | Hosp. Dr. Domingo Luciani (Llanito) | Adonelle Merrin | 17 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Politrauma Emerg. Vieja |
 | Hosp. Dr. Domingo Luciani (Llanito) | Aelf García (?) | 4 |  | La Guaira (Los Caribes) | Pediatría (27/06) | Fuente: Hosp. Domingo Luciani 27JUN (últimos ingresos) |
 | Hosp. Dr. Domingo Luciani (Llanito) | Aguilen Kelyns |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · La Guaira – Ingresos 9am |
 | Hosp. Dr. Domingo Luciani (Llanito) | Aguilera Yuleymi | 39 |  | La Guaira | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Ingresos 6am-9:20pm |
+| Hosp. Dr. Domingo Luciani (Llanito) | Aide |  |  | La Guaira | Rx | Fuente: GSheet consolidado todos los archivos (27JUN) · Rx |
 | Hosp. Dr. Domingo Luciani (Llanito) | Aidec Artenza (?) | 72 |  | La Guaira | EMG Trauma (7:30 am) | Fuente: Hosp. Domingo Luciani 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Al-Alabi Janeth | 26 |  | Caribe | Politrauma (MI) (7:20 am) | Fuente: Hosp. Domingo Luciani 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Al-Alalahi Mahmod (?) | 56 |  | La Guaira | EMG Trauma (7:30 am) | Fuente: Hosp. Domingo Luciani 26JUN26 |
@@ -1535,31 +1654,51 @@
 | Hosp. Dr. Domingo Luciani (Llanito) | Alayon Suhyn | 25 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Alba Manuel | 77 |  | N.R. | Registro hospitalario | Fuente: GSheet VENEZUELA HOSPITALES (203000) |
 | Hosp. Dr. Domingo Luciani (Llanito) | Albe Manuel (?) | 74 |  | N.A. | Ingresados por sismo |  |
+| Hosp. Dr. Domingo Luciani (Llanito) | Alberto |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Dr. Domingo Luciani (Llanito) | Alberto Fuente | 52 |  | Sin información | Cardiología Piso 2 (H-12) | Fuente: GSheet VENEZUELA HOSPITALES (203000) · lesión: Sin información · Lista manuscrita Domingo Luciani — BAJA CONFIABILIDAD \ |
+| Hosp. Dr. Domingo Luciani (Llanito) | ALBERTO JOSE FUENTES | 52 | 15658725 | PETARE | SISMO | Fuente: GSheet consolidado todos los archivos (27JUN) · SISMO |
 | Hosp. Dr. Domingo Luciani (Llanito) | Alem Piobran | 54 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Ya Barros – Ingresos 9am |
+| Hosp. Dr. Domingo Luciani (Llanito) | Alexander |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Dr. Domingo Luciani (Llanito) | Alexandra |  |  | La Guaira | 42 años | Fuente: GSheet consolidado todos los archivos (27JUN) · 42 años |
 | Hosp. Dr. Domingo Luciani (Llanito) | AlHalabi Mahmuol | 56 |  | La Guaira | EMG Trauma (cont.) | Fuente: GSheet VENEZUELA HOSPITALES (203000) · lesión: Sin información · Lista manuscrita Domingo Luciani — BAJA CONFIABILIDAD \ |
 | Hosp. Dr. Domingo Luciani (Llanito) | Alreu Emma | 8 |  | Sabana Grande | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Ana |  |  | La Guaira | 74 años | Fuente: GSheet consolidado todos los archivos (27JUN) · 74 años |
 | Hosp. Dr. Domingo Luciani (Llanito) | Ana Gildert | 4 |  | La Guaira | Pediatría (7:00 am) | Fuente: Hosp. Domingo Luciani 26JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Ana Hildert |  |  | La Guaira | Pediatría | Fuente: GSheet consolidado todos los archivos (27JUN) · Pediatría |
+| Hosp. Dr. Domingo Luciani (Llanito) | Ana Hildert / Ana Gildert |  |  | La Guaira | Tomografía | Fuente: GSheet consolidado todos los archivos (27JUN) · Tomografía |
+| Hosp. Dr. Domingo Luciani (Llanito) | Ana Lucia Hilders |  |  | La Guaira | Pediatría Emergencia | Fuente: GSheet consolidado todos los archivos (27JUN) · Pediatría Emergencia |
 | Hosp. Dr. Domingo Luciani (Llanito) | Ana Tilizys (?) | 4 |  | La Guaira (Los Corales) | Pediatría (27/06) | Fuente: Hosp. Domingo Luciani 27JUN (últimos ingresos) |
+| Hosp. Dr. Domingo Luciani (Llanito) | Anabella |  |  | La Guaira | 9 años | Fuente: GSheet consolidado todos los archivos (27JUN) · 9 años |
 | Hosp. Dr. Domingo Luciani (Llanito) | Ander Sebastian | No especificada |  | Sin información | Pediatría | Fuente: GSheet VENEZUELA HOSPITALES (203000) · lesión: Sin información · Sin notas |
 | Hosp. Dr. Domingo Luciani (Llanito) | Anderson Auba | 9 |  | Sin información | Pediatria | Fuente: GSheet VENEZUELA HOSPITALES (203000) · lesión: Sin información · Unico - sin coincidencia previa |
 | Hosp. Dr. Domingo Luciani (Llanito) | Anderson Hugo | 9 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado; PEDIATRIA PISO 6 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Andreina |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Dr. Domingo Luciani (Llanito) | Andreina Vasconulo |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Politrauma |
+| Hosp. Dr. Domingo Luciani (Llanito) | ANDREINA VASRONCILOS GARCES | 43 | 16106589 | LA GUAIRA | SISMO | Fuente: GSheet consolidado todos los archivos (27JUN) · SISMO |
 | Hosp. Dr. Domingo Luciani (Llanito) | Andres Urios | 9 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Pediatría |
 | Hosp. Dr. Domingo Luciani (Llanito) | Aneis Bresimo | 37 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · La Guaira – Ingresos 9am |
 | Hosp. Dr. Domingo Luciani (Llanito) | Anez Amivi | 34 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · La Guaira – Ingresos 9am |
+| Hosp. Dr. Domingo Luciani (Llanito) | Ángel |  |  | La Guaira | 12 años | Fuente: GSheet consolidado todos los archivos (27JUN) · 12 años |
 | Hosp. Dr. Domingo Luciani (Llanito) | Angely Díaz | 22 |  | La Guaira (Caraballeda) | Traumatología (27/06 10:30) | Fuente: Lista 27JUN 10:30 (Domingo Luciani) |
 | Hosp. Dr. Domingo Luciani (Llanito) | Anthon Jesus | 52 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · La Guaira – Ingresos 9am |
+| Hosp. Dr. Domingo Luciani (Llanito) | Anthony Dasilve |  |  | La Guaira | — | Fuente: GSheet consolidado todos los archivos (27JUN) · — |
 | Hosp. Dr. Domingo Luciani (Llanito) | Antonella Marín | 17 |  |  | Politrauma — Emergencia Vieja | Fuente: Hosp. Domingo Luciani 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Antonelle Merin / Antonelle Merrin | 17 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Politrauma Emerg. Vieja |
 | Hosp. Dr. Domingo Luciani (Llanito) | Anyi Pérez | 45 |  |  | Politrauma — Emergencia Vieja («Trauma Vieja») (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Aponto Jessica |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Dr. Domingo Luciani (Llanito) | Arbelo Valery | 10 |  |  | Pediatria (27/06) | Fuente: Hosp. Domingo Luciani 27JUN (lista por servicio) |
 | Hosp. Dr. Domingo Luciani (Llanito) | Ardis Fañez (?) | 53 |  |  | POLI I (7:20 am) | Fuente: Hosp. Domingo Luciani 26JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | ARELIS SANCHEZ FARIÑA | 53 | 11058565 | CARIBE | SISMO | Fuente: GSheet consolidado todos los archivos (27JUN) · SISMO |
 | Hosp. Dr. Domingo Luciani (Llanito) | Arellano Camila | 17 | 33420428 |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Dr. Domingo Luciani (Llanito) | Arfieta Doris |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Quirófano |
+| Hosp. Dr. Domingo Luciani (Llanito) | Ariana |  |  | La Guaira | Quirofano - 37 años | Fuente: GSheet consolidado todos los archivos (27JUN) · Quirofano - 37 años |
 | Hosp. Dr. Domingo Luciani (Llanito) | Ariana Barno (?) | 23 |  | La Guaira – Caribe | Trauma – Piso 4 (27/06) | Fuente: Hosp. Domingo Luciani 27JUN (últimos ingresos) |
+| Hosp. Dr. Domingo Luciani (Llanito) | Ariana Jesus |  |  | La Guaira | Quirófano | Fuente: GSheet consolidado todos los archivos (27JUN) · Quirófano |
+| Hosp. Dr. Domingo Luciani (Llanito) | ARIANA MARRUFO | 37 | 20559349 | GUAIRA | SISMO | Fuente: GSheet consolidado todos los archivos (27JUN) · SISMO |
+| Hosp. Dr. Domingo Luciani (Llanito) | Ariana Marrupe |  |  | La Guaira | Quirófano | Fuente: GSheet consolidado todos los archivos (27JUN) · Quirófano |
 | Hosp. Dr. Domingo Luciani (Llanito) | Ariso Renijilo | 54 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · La Guaira – Ingresos 9am |
+| Hosp. Dr. Domingo Luciani (Llanito) | Arnaldo |  |  | La Guaira | 19 años | Fuente: GSheet consolidado todos los archivos (27JUN) · 19 años |
+| Hosp. Dr. Domingo Luciani (Llanito) | ARNALDO RAFAEL CORDOVA GONZALEZ | 19 |  | GUARENAS | SISMO | Fuente: GSheet consolidado todos los archivos (27JUN) · SISMO |
 | Hosp. Dr. Domingo Luciani (Llanito) | Arnalza Mauricio | 74 |  |  | Emergencia (27/06) | Fuente: Hosp. Domingo Luciani 27JUN (lista por servicio) |
 | Hosp. Dr. Domingo Luciani (Llanito) | Arnoldo Córdova |  |  | Guarenas (?) | Neurocirugía – Piso 5 (27/06) | Fuente: Hosp. Domingo Luciani 27JUN (últimos ingresos) |
 | Hosp. Dr. Domingo Luciani (Llanito) | Arrieta Dolis | 65 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
@@ -1568,10 +1707,13 @@
 | Hosp. Dr. Domingo Luciani (Llanito) | Arteaga Aide |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Politrauma – Rx |
 | Hosp. Dr. Domingo Luciani (Llanito) | Arteaga Gladys | 72 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Arteta Doris (?) |  |  |  | Quirófano (II) | Fuente: Hosp. Domingo Luciani 26JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Arturo |  |  | La Guaira | 13 años | Fuente: GSheet consolidado todos los archivos (27JUN) · 13 años |
 | Hosp. Dr. Domingo Luciani (Llanito) | Arvelo Valeri | 6 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado; PEDIATRIA PISO 6 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Ascanio Luis | 15 |  | La Guaira | EMG Trauma (7:30 am) | Fuente: Hosp. Domingo Luciani 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Astrid Méndez | 38 |  |  | Politrauma — Emergencia Vieja («Trauma Vieja») (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Aurora Ordoz |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Politrauma |
+| Hosp. Dr. Domingo Luciani (Llanito) | Axiel |  |  | La Guaira | Qx (Quirófano) - 4 años | Fuente: GSheet consolidado todos los archivos (27JUN) · Qx (Quirófano) - 4 años |
+| Hosp. Dr. Domingo Luciani (Llanito) | AXIEL DAVIANGEL JIMENEZ LOPEZ | 4 | 22764817 | CARICUAO | SISMO | Fuente: GSheet consolidado todos los archivos (27JUN) · SISMO |
 | Hosp. Dr. Domingo Luciani (Llanito) | Axiel Giménez |  |  |  | Pediatría (II) | Fuente: Hosp. Domingo Luciani 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Axiel Jimenez |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Pediatría |
 | Hosp. Dr. Domingo Luciani (Llanito) | Balas Laura | 33 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Politrauma Emerg. Nueva |
@@ -1583,6 +1725,7 @@
 | Hosp. Dr. Domingo Luciani (Llanito) | Barrero Ricardo | 42 |  |  | Traumatologia (27/06) | Fuente: Hosp. Domingo Luciani 27JUN (lista por servicio) |
 | Hosp. Dr. Domingo Luciani (Llanito) | Barreto Ricardo | 42 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Barreto Yoseanny | 30 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Quirófano – F |
+| Hosp. Dr. Domingo Luciani (Llanito) | Basparte Ronny |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Dr. Domingo Luciani (Llanito) | Baute Morelis | 65 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Pol I – F; Politrauma |
 | Hosp. Dr. Domingo Luciani (Llanito) | Bencomo Norky | 37 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado; PISO 2 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Bencomo Vargas | 37 |  |  | Traumatologia (27/06) | Fuente: Hosp. Domingo Luciani 27JUN (lista por servicio) |
@@ -1590,10 +1733,12 @@
 | Hosp. Dr. Domingo Luciani (Llanito) | Bercomo Norkis | 37 |  | La Guaira | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Ingresos 6am-9:20pm |
 | Hosp. Dr. Domingo Luciani (Llanito) | Betancour Maria | 74 |  | PETARE | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Betancourt María | 74 |  | Petare | Ingresados por sismo |  |
+| Hosp. Dr. Domingo Luciani (Llanito) | BETANCOURT MARIANA |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Dr. Domingo Luciani (Llanito) | Betancourt Mario | 74 |  | Petare | Registro hospitalario | Fuente: GSheet VENEZUELA HOSPITALES (203000) |
 | Hosp. Dr. Domingo Luciani (Llanito) | Bisbal Clara | 62 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Bisval Clara | 62 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Blanco Briceño Carmen |  |  |  | Lista (img.3) |  |
+| Hosp. Dr. Domingo Luciani (Llanito) | BLANCO BRICEÑO YELLYS |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Dr. Domingo Luciani (Llanito) | Blanco Carmen | 55 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Blanco Jesica | 63 |  |  | Politrauma — Emergencia Vieja («Trauma Vieja») (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Blanco Jessica | 53 |  |  | Politrauma Emergencia (27/06) | Fuente: Hosp. Domingo Luciani 27JUN (lista por servicio) |
@@ -1624,11 +1769,15 @@
 | Hosp. Dr. Domingo Luciani (Llanito) | Bradian García | 8 |  | La Guaira | Pediatría (7:00 am) | Fuente: Hosp. Domingo Luciani 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Bradion Garcia | 8 |  |  | Pediatria (27/06) | Fuente: Hosp. Domingo Luciani 27JUN (lista por servicio) |
 | Hosp. Dr. Domingo Luciani (Llanito) | Brate Celis (?) | 62 |  |  | Politrauma — Emergencia Vieja | Fuente: Hosp. Domingo Luciani 26JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | BRAYAN JOSE VILCHEZ VILLALOBOS | 23 | 30244918 | PETARE | SISMO | Fuente: GSheet consolidado todos los archivos (27JUN) · ALTA · SISMO |
+| Hosp. Dr. Domingo Luciani (Llanito) | Brengifo Guillermina |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Dr. Domingo Luciani (Llanito) | Brito | 50 |  |  | Traumatologia (27/06) | Fuente: Hosp. Domingo Luciani 27JUN (lista por servicio) |
 | Hosp. Dr. Domingo Luciani (Llanito) | Brito Gina | 49 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Cardiología Piso 2 – H-11 – F |
 | Hosp. Dr. Domingo Luciani (Llanito) | Brocar Saúl |  |  |  | Quirófano (26/06, 1:00 pm) (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | BRUCE FERRER | 26 | 2977725 | GUAIRA | SISMO | Fuente: GSheet consolidado todos los archivos (27JUN) · SISMO |
 | Hosp. Dr. Domingo Luciani (Llanito) | Bruces Saul | 26 |  |  | Quirofano (27/06) | Fuente: Hosp. Domingo Luciani 27JUN (lista por servicio) |
 | Hosp. Dr. Domingo Luciani (Llanito) | Brunyeli Caraballo | 29 |  | Sin información | Cardiología Piso 2 (H-11) | Fuente: GSheet VENEZUELA HOSPITALES (203000) · lesión: Sin información · Lista manuscrita Domingo Luciani — BAJA CONFIABILIDAD \ |
+| Hosp. Dr. Domingo Luciani (Llanito) | Bryan |  |  | La Guaira | 23 años | Fuente: GSheet consolidado todos los archivos (27JUN) · 23 años |
 | Hosp. Dr. Domingo Luciani (Llanito) | Bubal Clara | 62 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Buce Saul | 26 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Trauma |
 | Hosp. Dr. Domingo Luciani (Llanito) | Bui Dannis | 41 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Quirófano – M |
@@ -1645,12 +1794,22 @@
 | Hosp. Dr. Domingo Luciani (Llanito) | Cadarca Yenderli |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Pediatría |
 | Hosp. Dr. Domingo Luciani (Llanito) | Caldera Lewis | 40 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Calos González (?) |  |  |  | Politrauma — Emergencia Nueva | Fuente: Hosp. Domingo Luciani 26JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | CAMILA RODRIGUEZ ACEVEDO | 15 | 34034386 | LA GUAIRA | SISMO | Fuente: GSheet consolidado todos los archivos (27JUN) · ALTA · SISMO |
 | Hosp. Dr. Domingo Luciani (Llanito) | Candad Victoria | 29 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Trauma |
 | Hosp. Dr. Domingo Luciani (Llanito) | Caraballo Branyerlis | 29 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Cardiología Piso 2 – H-11 – F |
 | Hosp. Dr. Domingo Luciani (Llanito) | Cardozo Carla | 25 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Cardozo Carlos | 25 |  |  | Politrauma Emergencia (27/06) | Fuente: Hosp. Domingo Luciani 27JUN (lista por servicio) |
 | Hosp. Dr. Domingo Luciani (Llanito) | Cardozo Marka | 26 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Medicina Interna |
+| Hosp. Dr. Domingo Luciani (Llanito) | Carina |  |  | La Guaira | Traumo | Fuente: GSheet consolidado todos los archivos (27JUN) · Traumo |
+| Hosp. Dr. Domingo Luciani (Llanito) | Carla |  |  | La Guaira | 25 años | Fuente: GSheet consolidado todos los archivos (27JUN) · 25 años |
+| Hosp. Dr. Domingo Luciani (Llanito) | CARLA CARDOZA | 25 | 27678425 | GUAIRA | SISMO | Fuente: GSheet consolidado todos los archivos (27JUN) · SISMO |
+| Hosp. Dr. Domingo Luciani (Llanito) | Carles |  |  | La Guaira | Rx (Rr) | Fuente: GSheet consolidado todos los archivos (27JUN) · Rx (Rr) |
+| Hosp. Dr. Domingo Luciani (Llanito) | Carlos |  |  | La Guaira | 13 años | Fuente: GSheet consolidado todos los archivos (27JUN) · 13 años |
+| Hosp. Dr. Domingo Luciani (Llanito) | CARLOS ALEXANDER CHACON G | 13 | 34005746 | UPT | SISMO | Fuente: GSheet consolidado todos los archivos (27JUN) · SISMO |
 | Hosp. Dr. Domingo Luciani (Llanito) | Carlos Castro |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Politrauma / Rx |
+| Hosp. Dr. Domingo Luciani (Llanito) | CARLOS GUERRA | 37 | 22851004 | PETARE | FUERTE DOLOR | Fuente: GSheet consolidado todos los archivos (27JUN) · FUERTE DOLOR |
+| Hosp. Dr. Domingo Luciani (Llanito) | Carmen |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Dr. Domingo Luciani (Llanito) | CARMEN BORGES BECERRA | 68 | 6370687 | HATILLO | SISMO | Fuente: GSheet consolidado todos los archivos (27JUN) · ALTA · SISMO |
 | Hosp. Dr. Domingo Luciani (Llanito) | Carmen Mendoza | 48 |  | La Guaira | Trauma – Piso 4 (27/06) | Fuente: Hosp. Domingo Luciani 27JUN (últimos ingresos) |
 | Hosp. Dr. Domingo Luciani (Llanito) | Carrasquel Santiago | 14 |  | La Guaira | EMG Trauma (7:30 am) | Fuente: Hosp. Domingo Luciani 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Carrizaje Santiago | 94 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · La Guaira – Ingresos 9am |
@@ -1675,26 +1834,39 @@
 | Hosp. Dr. Domingo Luciani (Llanito) | Castillo Yaiskar | 28 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Politrauma Emerg. Vieja |
 | Hosp. Dr. Domingo Luciani (Llanito) | Castro Erick | 51 | 11635045 |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado; POLITRAUMA |
 | Hosp. Dr. Domingo Luciani (Llanito) | Castro Juan | 26 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Castro Visbal Clara |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Dr. Domingo Luciani (Llanito) | Catarcos Yendeli |  |  | La Guaira | Quirófano | Fuente: GSheet consolidado todos los archivos (27JUN) · Quirófano |
 | Hosp. Dr. Domingo Luciani (Llanito) | Cecis Tania | 62 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Politrauma Emerg. Nueva |
 | Hosp. Dr. Domingo Luciani (Llanito) | Cela Tania | 34 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Cerrano Nancy | 67 |  |  | Traumatologia (27/06) | Fuente: Hosp. Domingo Luciani 27JUN (lista por servicio) |
 | Hosp. Dr. Domingo Luciani (Llanito) | Chacón Carlos | 43 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Chalon Carlos |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Pediatría |
+| Hosp. Dr. Domingo Luciani (Llanito) | Cirilo |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Dr. Domingo Luciani (Llanito) | Cisnero Roja | 57 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Cisnero Rosa | 57 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Cladiuska Herrera | 25 |  | Sin información | Cardiología Piso 2 (H-10) | Fuente: GSheet VENEZUELA HOSPITALES (203000) · lesión: Sin información · Lista manuscrita Domingo Luciani — BAJA CONFIABILIDAD \ |
+| Hosp. Dr. Domingo Luciani (Llanito) | Clara |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Dr. Domingo Luciani (Llanito) | Clara Inés Chptra (?) | 62 |  | Petare (?) | EMG Trauma (7:30 am) | Fuente: Hosp. Domingo Luciani 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Clasta Clara Ines | 62 |  | Petare | EMG Trauma (cont.) | Fuente: GSheet VENEZUELA HOSPITALES (203000) · lesión: Sin información · Lista manuscrita Domingo Luciani — BAJA CONFIABILIDAD \ |
+| Hosp. Dr. Domingo Luciani (Llanito) | CLAUDIO FEBLES | 78 | 7266866 | LA GUAIRA | SISMO | Fuente: GSheet consolidado todos los archivos (27JUN) · SISMO |
 | Hosp. Dr. Domingo Luciani (Llanito) | Claudio Flebes (?) | 78 |  | La Guaira (Naiguatá) | Traumatología (27/06 10:30) | Fuente: Lista 27JUN 10:30 (Domingo Luciani) |
 | Hosp. Dr. Domingo Luciani (Llanito) | Colis Tania |  |  |  | Politrauma — Emergencia Nueva | Fuente: Hosp. Domingo Luciani 26JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | COLUMNA DERECHA |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Dr. Domingo Luciani (Llanito) | Concalve Luci | 61 |  |  | Politrauma Emergencia (27/06) | Fuente: Hosp. Domingo Luciani 27JUN (lista por servicio) |
+| Hosp. Dr. Domingo Luciani (Llanito) | CONTRERAS ELIBETO |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Dr. Domingo Luciani (Llanito) | Córdova Arnaldo | 19 |  | Guarenas | Ingresados por sismo |  |
 | Hosp. Dr. Domingo Luciani (Llanito) | Coyo Rafael | 32 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Da Conceicao Brayan |  |  | Maiquetía (?) | Ingresos (encabezado) (27/06 10:30) | Fuente: Lista 27JUN 10:30 (Domingo Luciani) |
 | Hosp. Dr. Domingo Luciani (Llanito) | Da Silva Antony | 19 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Politrauma Emerg. Vieja |
 | Hosp. Dr. Domingo Luciani (Llanito) | Da Silva Engeerbueth | 21 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Politrauma Emerg. Vieja |
 | Hosp. Dr. Domingo Luciani (Llanito) | Da Silva Engerbeth | 21 |  | Sin información | Politrauma - Emergencia Vieja | Fuente: GSheet VENEZUELA HOSPITALES (203000) · lesión: Sin información · Lista manuscrita 'Pacientes del sismo' 25/06/2026 2:00pm — BAJA CONFIABILIDAD \ |
+| Hosp. Dr. Domingo Luciani (Llanito) | Dana |  |  | La Guaira | 12 años | Fuente: GSheet consolidado todos los archivos (27JUN) · 12 años |
+| Hosp. Dr. Domingo Luciani (Llanito) | Daniel |  |  | La Guaira | 60 años | Fuente: GSheet consolidado todos los archivos (27JUN) · 60 años |
+| Hosp. Dr. Domingo Luciani (Llanito) | DANIEL ANTONIO RIVERO LOPEZ | 60 | 6691779 | MACARACUAY | SISMO | Fuente: GSheet consolidado todos los archivos (27JUN) · SISMO |
+| Hosp. Dr. Domingo Luciani (Llanito) | DANIELA ALBARACIL | 40 | 18515903 | LA GUAIRA | SISMO | Fuente: GSheet consolidado todos los archivos (27JUN) · SISMO |
+| Hosp. Dr. Domingo Luciani (Llanito) | DANNA CASTAÑO PALACIOS | 12 | 36111155 | LA GUAIRA | SISMO | Fuente: GSheet consolidado todos los archivos (27JUN) · SISMO |
 | Hosp. Dr. Domingo Luciani (Llanito) | Dannis Puig | 41 |  |  | Quirófano (9:27 am) | Fuente: Hosp. Domingo Luciani 26JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Darealin |  |  | La Guaira | Quirofano - 13 años | Fuente: GSheet consolidado todos los archivos (27JUN) · Quirofano - 13 años |
 | Hosp. Dr. Domingo Luciani (Llanito) | Dasilva Alexandra | 21 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Politrauma Emerg. Vieja |
 | Hosp. Dr. Domingo Luciani (Llanito) | Dasilva Anthony | 14 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Politrauma Emerg. Vieja |
 | Hosp. Dr. Domingo Luciani (Llanito) | Dasilva Anthony / Antony Dasilva | 14 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Politrauma Emerg. Vieja |
@@ -1704,19 +1876,28 @@
 | Hosp. Dr. Domingo Luciani (Llanito) | De Cepe Yolando (?) |  |  |  | Politrauma — Emergencia Nueva | Fuente: Hosp. Domingo Luciani 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | De Cope Yolanda |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Politrauma Emerg. Nueva |
 | Hosp. Dr. Domingo Luciani (Llanito) | Deazat Esteban | 50 | 16116675 |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado; Alta |
+| Hosp. Dr. Domingo Luciani (Llanito) | Dedoz Luisaura |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Dr. Domingo Luciani (Llanito) | DEILY JAVIER HERNANDEZ QUERALES | 40 | 17386172 | GUAIRA | SISMO | Fuente: GSheet consolidado todos los archivos (27JUN) · SISMO |
+| Hosp. Dr. Domingo Luciani (Llanito) | DEIVISON JOSE GUERRERO CAMPO | 20 | 31341194 | ANTIMANO | HAB | Fuente: GSheet consolidado todos los archivos (27JUN) · HAB |
 | Hosp. Dr. Domingo Luciani (Llanito) | Delgado Edimar | 23 |  | San Martín | Ingresados por sismo |  |
 | Hosp. Dr. Domingo Luciani (Llanito) | Delgado Edimer | 23 |  | Sin información | Lista general (continuación, sin encabezado) | Fuente: GSheet VENEZUELA HOSPITALES (203000) · lesión: Sin información · Lista manuscrita 'Pacientes del sismo' 25/06/2026 2:00pm — BAJA CONFIABILIDAD \ |
 | Hosp. Dr. Domingo Luciani (Llanito) | Deneris Pius (?) | 41 |  | La Guaira | Trauma – Piso 4 (27/06) | Fuente: Hosp. Domingo Luciani 27JUN (últimos ingresos) |
 | Hosp. Dr. Domingo Luciani (Llanito) | Denna Castaño | 12 |  | Sin información | Pediatria | Fuente: GSheet VENEZUELA HOSPITALES (203000) · lesión: Sin información · Ya reportado en Domingo Luciani (duplicado de lista previa) |
 | Hosp. Dr. Domingo Luciani (Llanito) | Dennis Ruiz | 47 |  | La Guaira | Politrauma (Medicina Interna) | Fuente: GSheet VENEZUELA HOSPITALES (203000) · lesión: Sin información · Lista manuscrita Domingo Luciani — BAJA CONFIABILIDAD \ |
 | Hosp. Dr. Domingo Luciani (Llanito) | Denny Ruiz | 41 |  | La Guaira | Politrauma (MI) (7:20 am) | Fuente: Hosp. Domingo Luciani 26JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Derverson |  |  | La Guaira | 20 años | Fuente: GSheet consolidado todos los archivos (27JUN) · 20 años |
 | Hosp. Dr. Domingo Luciani (Llanito) | Desmon Lewin | 10 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Pediatría |
 | Hosp. Dr. Domingo Luciani (Llanito) | Desmond Levis | 10 |  | Sin información | Pediatría | Fuente: GSheet VENEZUELA HOSPITALES (203000) · lesión: Sin información · Sin notas |
 | Hosp. Dr. Domingo Luciani (Llanito) | Desmont Lewis | 10 |  |  | Pediatria (27/06) | Fuente: Hosp. Domingo Luciani 27JUN (lista por servicio) |
 | Hosp. Dr. Domingo Luciani (Llanito) | Diaz Maubri |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Politrauma Emerg. Nueva |
 | Hosp. Dr. Domingo Luciani (Llanito) | Díaz Pomcades Scarlet | 82 |  |  | Emergencia (27/06) | Fuente: Hosp. Domingo Luciani 27JUN (lista por servicio) |
+| Hosp. Dr. Domingo Luciani (Llanito) | Diego |  |  | La Guaira | Triage De Medicina | Fuente: GSheet consolidado todos los archivos (27JUN) · Triage De Medicina |
 | Hosp. Dr. Domingo Luciani (Llanito) | Diego Obregón |  |  |  | Triaje de cirugía |  |
+| Hosp. Dr. Domingo Luciani (Llanito) | DIEGO OBREGON ROJAS | 14 | 34004259 | LA GUAIRA | SISMO | Fuente: GSheet consolidado todos los archivos (27JUN) · SISMO |
 | Hosp. Dr. Domingo Luciani (Llanito) | Diesmon Hayis (?) | 10 |  | La Guaira (Catia La Mar) | Pediatría (27/06) | Fuente: Hosp. Domingo Luciani 27JUN (últimos ingresos) |
+| Hosp. Dr. Domingo Luciani (Llanito) | Dilia |  |  | La Guaira | Emergencia - 56 años | Fuente: GSheet consolidado todos los archivos (27JUN) · Emergencia - 56 años |
+| Hosp. Dr. Domingo Luciani (Llanito) | DILIA RAMONA REQUENA | 52 | 9914674 | BARUTA | SISMO | Fuente: GSheet consolidado todos los archivos (27JUN) · ALTA · SISMO |
+| Hosp. Dr. Domingo Luciani (Llanito) | DIOSCARLY BOLIVAR | 12 | 27858660 | GUAIRA | SISMO | Fuente: GSheet consolidado todos los archivos (27JUN) · SISMO |
 | Hosp. Dr. Domingo Luciani (Llanito) | Dirito Rosa (?) | 64 |  | Chacao | Ingresados por sismo |  |
 | Hosp. Dr. Domingo Luciani (Llanito) | Discamo Pedro |  |  |  | Uci (27/06) | Fuente: Hosp. Domingo Luciani 27JUN (lista por servicio) |
 | Hosp. Dr. Domingo Luciani (Llanito) | Diuto Rosa | 64 |  | Sin información | Lista general (continuación, sin encabezado) | Fuente: GSheet VENEZUELA HOSPITALES (203000) · lesión: Sin información · Lista manuscrita 'Pacientes del sismo' 25/06/2026 2:00pm — BAJA CONFIABILIDAD \ |
@@ -1726,25 +1907,47 @@
 | Hosp. Dr. Domingo Luciani (Llanito) | Doria Scarlet |  |  |  | Politrauma — Emergencia Nueva | Fuente: Hosp. Domingo Luciani 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Doria Scarlet / Doria Karle |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Politrauma Emerg. Nueva |
 | Hosp. Dr. Domingo Luciani (Llanito) | Doria Scarlet / Doria Karle / Doria Bkarlet |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Politrauma Emerg. Nueva |
+| Hosp. Dr. Domingo Luciani (Llanito) | Doris |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Dr. Domingo Luciani (Llanito) | Doris Echarte | 23 |  | 23 de Enero | EMG Trauma | Fuente: GSheet VENEZUELA HOSPITALES (203000) · lesión: Sin información · Lista manuscrita Domingo Luciani — BAJA CONFIABILIDAD \ |
+| Hosp. Dr. Domingo Luciani (Llanito) | Douglas |  |  | La Guaira | Quirofano - 20 años | Fuente: GSheet consolidado todos los archivos (27JUN) · Quirofano - 20 años |
+| Hosp. Dr. Domingo Luciani (Llanito) | Douglas Pabon |  |  | La Guaira | Quirófano | Fuente: GSheet consolidado todos los archivos (27JUN) · Quirófano |
 | Hosp. Dr. Domingo Luciani (Llanito) | Duce Samuel | 25 |  | La Guaira | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Ingresos 6am-9:20pm |
 | Hosp. Dr. Domingo Luciani (Llanito) | Dugarte Estefany | 34 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Dr. Domingo Luciani (Llanito) | Echarle Doris | 23 |  | Catia | EMG Trauma (7:30 am) | Fuente: Hosp. Domingo Luciani 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Econguela Jesus | 60 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado; PISO 4 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Edelso Rengifo | 59 | 9995694 | La Guaira | Sin información | Fuente: GSheet VENEZUELA HOSPITALES (203000) · lesión: Sin información · Nombre dudoso (manuscrito) \ |
+| Hosp. Dr. Domingo Luciani (Llanito) | Edimer |  |  | La Guaira | 23 años | Fuente: GSheet consolidado todos los archivos (27JUN) · 23 años |
 | Hosp. Dr. Domingo Luciani (Llanito) | Edis Tania | 62 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado; UCI |
+| Hosp. Dr. Domingo Luciani (Llanito) | Eduardo |  |  | La Guaira | 65 años | Fuente: GSheet consolidado todos los archivos (27JUN) · 65 años |
+| Hosp. Dr. Domingo Luciani (Llanito) | EDUARDO JOSE RODRIGUEZ SOTO | 65 | 8582370 | PETARE | SISMO | Fuente: GSheet consolidado todos los archivos (27JUN) · ALTA · SISMO |
+| Hosp. Dr. Domingo Luciani (Llanito) | Efan Trujillo |  |  | La Guaira | Quirófano | Fuente: GSheet consolidado todos los archivos (27JUN) · Quirófano |
 | Hosp. Dr. Domingo Luciani (Llanito) | Eforde Jesus | 30 |  |  | Quirofano (27/06) | Fuente: Hosp. Domingo Luciani 27JUN (lista por servicio) |
+| Hosp. Dr. Domingo Luciani (Llanito) | Efren |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Dr. Domingo Luciani (Llanito) | EFREN DE JESUS GUAIRINI PADRON | 30 | 24336559 | GUARENAS | HAF | Fuente: GSheet consolidado todos los archivos (27JUN) · HAF |
 | Hosp. Dr. Domingo Luciani (Llanito) | Efren Guarimbe | 30 |  | Sin información | Cardiología Piso 2 (H-12) | Fuente: GSheet VENEZUELA HOSPITALES (203000) · lesión: Sin información · Lista manuscrita Domingo Luciani — BAJA CONFIABILIDAD \ |
 | Hosp. Dr. Domingo Luciani (Llanito) | Ekarce Doria | 23 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Politrauma Emerg. Nueva |
 | Hosp. Dr. Domingo Luciani (Llanito) | Ekarce/scarlet Doria | 23 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado; Politrauma Emerg. Nueva |
+| Hosp. Dr. Domingo Luciani (Llanito) | Elian |  |  | La Guaira | 19 años | Fuente: GSheet consolidado todos los archivos (27JUN) · 19 años |
+| Hosp. Dr. Domingo Luciani (Llanito) | ELIOMAR PEREZ | 12 |  | GUAIRA | SISMO | Fuente: GSheet consolidado todos los archivos (27JUN) · ALTA · SISMO |
 | Hosp. Dr. Domingo Luciani (Llanito) | Emelio Fernandez | 31 |  | Sin información | Medicina Interna | Fuente: GSheet VENEZUELA HOSPITALES (203000) · lesión: Sin información · Lista manuscrita Domingo Luciani — BAJA CONFIABILIDAD \ |
+| Hosp. Dr. Domingo Luciani (Llanito) | Emile |  |  | La Guaira | Quirofano | Fuente: GSheet consolidado todos los archivos (27JUN) · Quirofano |
+| Hosp. Dr. Domingo Luciani (Llanito) | Emily |  |  | La Guaira | Quirofano - 24 años | Fuente: GSheet consolidado todos los archivos (27JUN) · Quirofano - 24 años |
+| Hosp. Dr. Domingo Luciani (Llanito) | ENGELBERTH DASILVA | 21 | 30369681 | GUAIRA | SISMO | Fuente: GSheet consolidado todos los archivos (27JUN) · ALTA · SISMO |
 | Hosp. Dr. Domingo Luciani (Llanito) | Engerberth Da Silva | 21 |  | Sin información | Politrauma Vieja | Fuente: GSheet VENEZUELA HOSPITALES (203000) · lesión: Sin información · Unico - sin coincidencia previa |
+| Hosp. Dr. Domingo Luciani (Llanito) | Engerberth Dasilve |  |  | La Guaira | — | Fuente: GSheet consolidado todos los archivos (27JUN) · — |
+| Hosp. Dr. Domingo Luciani (Llanito) | Enoide |  |  | La Guaira | Quirofano - 26 años | Fuente: GSheet consolidado todos los archivos (27JUN) · Quirofano - 26 años |
 | Hosp. Dr. Domingo Luciani (Llanito) | Enrique Izquierdo | 63 |  |  | Medicina Interna (9:00 am) | Fuente: Hosp. Domingo Luciani 26JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | ERNESTO CASTRO JUAN | 26 |  | BARUTA | CAIDA | Fuente: GSheet consolidado todos los archivos (27JUN) · ALTA · CAIDA |
+| Hosp. Dr. Domingo Luciani (Llanito) | ERNESTO JOSE APONTE LIENDO | 50 | 11640417 | LA GUAIRA | SISMO | Fuente: GSheet consolidado todos los archivos (27JUN) · SISMO |
 | Hosp. Dr. Domingo Luciani (Llanito) | Escalona Ivis | 55 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | ESCARLET TERESA DIAZ PUNCELES | 82 | 2155100 | GUAIRA | SISMO | Fuente: GSheet consolidado todos los archivos (27JUN) · SISMO |
 | Hosp. Dr. Domingo Luciani (Llanito) | Espitia Yohany Garabuto |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Politrauma |
 | Hosp. Dr. Domingo Luciani (Llanito) | Espitia Yohany Garabuto / Espitia Garabito Yohany |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Politrauma |
+| Hosp. Dr. Domingo Luciani (Llanito) | Estefania |  |  | La Guaira | 15 años | Fuente: GSheet consolidado todos los archivos (27JUN) · 15 años |
 | Hosp. Dr. Domingo Luciani (Llanito) | Evelin Boada | 54 |  |  | Politrauma — Emergencia Vieja («Trauma Vieja») (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Evely Boada | 54 |  | La Guaira | EMG Trauma (cont.) | Fuente: GSheet VENEZUELA HOSPITALES (203000) · lesión: Sin información · Lista manuscrita Domingo Luciani — BAJA CONFIABILIDAD \ |
+| Hosp. Dr. Domingo Luciani (Llanito) | Fabiana |  |  | La Guaira | 23 años | Fuente: GSheet consolidado todos los archivos (27JUN) · 23 años |
+| Hosp. Dr. Domingo Luciani (Llanito) | FABIANA PAOLA RIVAS RIVAS | 23 | 29815388 | LA GUAIRA | SISMO | Fuente: GSheet consolidado todos los archivos (27JUN) · SISMO |
 | Hosp. Dr. Domingo Luciani (Llanito) | Fabina Ribas |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Faontado Miel (?) |  |  |  | Pediatría (II) | Fuente: Hosp. Domingo Luciani 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Fariña Arelis | 53 | 11058065 |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado; Rx |
@@ -1772,14 +1975,21 @@
 | Hosp. Dr. Domingo Luciani (Llanito) | Filinson Saya (?) | 2 días |  | La Guaira – traslado | Neurocirugía (27/06) | Fuente: Hosp. Domingo Luciani 27JUN (últimos ingresos) |
 | Hosp. Dr. Domingo Luciani (Llanito) | Frak Arias | 18 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Politrauma Emerg. Vieja |
 | Hosp. Dr. Domingo Luciani (Llanito) | Fran Arias | 18 |  | La Guaira | Cirugía (27/06) | Fuente: Hosp. Domingo Luciani 27JUN (últimos ingresos) |
+| Hosp. Dr. Domingo Luciani (Llanito) | Francisca |  |  | La Guaira | 63 años | Fuente: GSheet consolidado todos los archivos (27JUN) · 63 años |
 | Hosp. Dr. Domingo Luciani (Llanito) | Francisca González | 83 |  | La Guaira | Politrauma (MI) (7:20 am) | Fuente: Hosp. Domingo Luciani 26JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | FRANCISCA PEREZ DE BURGOS | 63 | 6399935 | PETARE | SISMO | Fuente: GSheet consolidado todos los archivos (27JUN) · SISMO |
 | Hosp. Dr. Domingo Luciani (Llanito) | Frank Arias | 18 |  |  | Politrauma — Emergencia Vieja | Fuente: Hosp. Domingo Luciani 26JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Frankenil |  |  | La Guaira | 53 años | Fuente: GSheet consolidado todos los archivos (27JUN) · 53 años |
 | Hosp. Dr. Domingo Luciani (Llanito) | Frankeril Rivas |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | FRANKLIN RIVAS | 53 | 12138770 | LA GUAIRA | SISMO | Fuente: GSheet consolidado todos los archivos (27JUN) · ALTA · SISMO |
+| Hosp. Dr. Domingo Luciani (Llanito) | Fronis |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Dr. Domingo Luciani (Llanito) | Frontado Miel | 7 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Fronto Litel |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · CI: 10582260 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Fuente Galvis Alberto |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Dr. Domingo Luciani (Llanito) | Fuentes Alberto | 52 |  | Petare | Ingresados por sismo |  |
 | Hosp. Dr. Domingo Luciani (Llanito) | Fuentes Carlos |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado; Fecha: 25/6/26 pm |
 | Hosp. Dr. Domingo Luciani (Llanito) | Fuentes Galvis Alberto |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Gabriela |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Dr. Domingo Luciani (Llanito) | Galcia Rodas | 71 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Politrauma Emerg. Vieja |
 | Hosp. Dr. Domingo Luciani (Llanito) | Galgs Silva (?) | 7 |  | La Guaira (Los Caribes) | Pediatría (27/06) | Fuente: Hosp. Domingo Luciani 27JUN (últimos ingresos) |
 | Hosp. Dr. Domingo Luciani (Llanito) | Galicia Rodas | 71 |  |  | Politrauma — Emergencia Vieja | Fuente: Hosp. Domingo Luciani 26JUN26 |
@@ -1804,11 +2014,16 @@
 | Hosp. Dr. Domingo Luciani (Llanito) | Garett Juan | 41 |  | La Guaira | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Ingresos 6am-9:20pm |
 | Hosp. Dr. Domingo Luciani (Llanito) | Garobito Yoseanny | 30 |  | Sin información | Quirófano (Cirugía) | Fuente: GSheet VENEZUELA HOSPITALES (203000) · lesión: Sin información · Lista manuscrita 'Pacientes del sismo' 25/06/2026 2:00pm — BAJA CONFIABILIDAD \ |
 | Hosp. Dr. Domingo Luciani (Llanito) | Gato Yaleska | 23 | 30514231 |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Hosp. Dr. Domingo Luciani (Llanito) | Geen Guanire |  |  | La Guaira | Quirófano | Fuente: GSheet consolidado todos los archivos (27JUN) · Quirófano |
+| Hosp. Dr. Domingo Luciani (Llanito) | Gianeli |  |  | La Guaira | Quirofano | Fuente: GSheet consolidado todos los archivos (27JUN) · Quirofano |
 | Hosp. Dr. Domingo Luciani (Llanito) | Gilbert Ana | 4 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Pediatría – La Guaira |
 | Hosp. Dr. Domingo Luciani (Llanito) | Gimeli Moreno |  |  |  | Quirófano (26/06, 1:00 pm) (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Gimerlly Mora (?) | 31 |  | La Guaira – Tanaguarena | Trauma – Piso 4 (27/06) | Fuente: Hosp. Domingo Luciani 27JUN (últimos ingresos) |
 | Hosp. Dr. Domingo Luciani (Llanito) | GISMELY ALEXANDRA MORENO MEGGY | 31 | 22336934 | Parroquia Caraballeda OPP 25 torre F apartamento 201 Tanaguarena | EMG Trauma (cont.) | Fuente: GSheet VENEZUELA HOSPITALES (203000) · Dato publicado el 26 de junio: Con vida, atendida, última referencia con vídeo: https://x.com/abogadosvenezu1/status/2070638550614524415 GISMELI MORENO · lesión: Sin información · Lista manuscrita Domingo Luciani — BAJA CONFIABILIDAD \ |
 | Hosp. Dr. Domingo Luciani (Llanito) | Gisorelis Moreno (?) | 37 |  |  | Quirófano (9:27 am) | Fuente: Hosp. Domingo Luciani 26JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | GLADIUSKA MILANO HERRERA | 25 | 31745693 | SAN BLAS | SISMO | Fuente: GSheet consolidado todos los archivos (27JUN) · SISMO |
+| Hosp. Dr. Domingo Luciani (Llanito) | Gladys |  |  | La Guaira | 72 años | Fuente: GSheet consolidado todos los archivos (27JUN) · 72 años |
+| Hosp. Dr. Domingo Luciani (Llanito) | GLORIA YAJAIRA BAEZ DE SALAS | 72 | 4542986 | GUAIRA | SISMO | Fuente: GSheet consolidado todos los archivos (27JUN) · SISMO |
 | Hosp. Dr. Domingo Luciani (Llanito) | Gomez Lucy | 61 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Politrauma – Caribe; TRM |
 | Hosp. Dr. Domingo Luciani (Llanito) | Goncalve Luci | 61 |  |  | Politrauma — Emergencia Vieja («Trauma Vieja») (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Goncalves Lucy | 61 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Trauma |
@@ -1831,6 +2046,7 @@
 | Hosp. Dr. Domingo Luciani (Llanito) | González Sleymar (?) | 59 |  | Altamira | Ingresados por sismo |  |
 | Hosp. Dr. Domingo Luciani (Llanito) | Gonzalez Stefhany | 22 |  | Caricuao | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Gonzalez Stephany | 22 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Gonzalez Sthephany |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Dr. Domingo Luciani (Llanito) | Gonzalez Valeri | 10 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Pediatría |
 | Hosp. Dr. Domingo Luciani (Llanito) | Gonzalez Valeri / Gonzalez Valery | 10 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Pediatría |
 | Hosp. Dr. Domingo Luciani (Llanito) | González Valery |  |  |  | Pediatría (II) | Fuente: Hosp. Domingo Luciani 26JUN26 |
@@ -1842,11 +2058,14 @@
 | Hosp. Dr. Domingo Luciani (Llanito) | Gorros Julia | 34 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · La Guaira – Ingresos 9am |
 | Hosp. Dr. Domingo Luciani (Llanito) | Gotti Jean | 44 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · La Guaira – Ingresos 9am |
 | Hosp. Dr. Domingo Luciani (Llanito) | Goyo Rafael | 32 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Gratos Vega |  |  | La Guaira | Pediatría | Fuente: GSheet consolidado todos los archivos (27JUN) · Pediatría |
+| Hosp. Dr. Domingo Luciani (Llanito) | Gualdron Pabon Efren |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Dr. Domingo Luciani (Llanito) | Gualina Padron Efren |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Guan Rodríguy (?) | 37 |  | La Guaira | Cirugía (27/06) | Fuente: Hosp. Domingo Luciani 27JUN (últimos ingresos) |
 | Hosp. Dr. Domingo Luciani (Llanito) | Guapin Efren | 30 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Piso 2 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Guapini Efren | 30 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Piso 2 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Guapini Efren P2 | 30 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Guapiri Efren |  |  | La Guaira | P2 (Piso 2) | Fuente: GSheet consolidado todos los archivos (27JUN) · P2 (Piso 2) |
 | Hosp. Dr. Domingo Luciani (Llanito) | Guarine Efrén |  |  |  | Quirófano (26/06, 1:00 pm) (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Guarini Padrón Efrén (?) |  |  |  | Lista (img.2) |  |
 | Hosp. Dr. Domingo Luciani (Llanito) | Guavini Efren P.2 | 30 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
@@ -1857,12 +2076,21 @@
 | Hosp. Dr. Domingo Luciani (Llanito) | Guerreiro Jesus | 44 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Politrauma Emerg. Nueva |
 | Hosp. Dr. Domingo Luciani (Llanito) | Guerrero Deiverson | 20 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Guerrero Guerrero |  |  |  | Politrauma — Emergencia Nueva | Fuente: Hosp. Domingo Luciani 26JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | GUERRERO KATIUSKA |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Dr. Domingo Luciani (Llanito) | Guillermina |  |  | La Guaira | 46 años | Fuente: GSheet consolidado todos los archivos (27JUN) · 46 años |
 | Hosp. Dr. Domingo Luciani (Llanito) | Guzman Paola | 12 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Gymeli Moreno |  |  | La Guaira | Quirófano | Fuente: GSheet consolidado todos los archivos (27JUN) · Quirófano |
+| Hosp. Dr. Domingo Luciani (Llanito) | Haddy |  |  | La Guaira | 42 años | Fuente: GSheet consolidado todos los archivos (27JUN) · 42 años |
+| Hosp. Dr. Domingo Luciani (Llanito) | HALLY ARTEAGA | 72 | 36144414 | LA GUAIRA | SISMO | Fuente: GSheet consolidado todos los archivos (27JUN) · SISMO |
 | Hosp. Dr. Domingo Luciani (Llanito) | Harrufo Ariana | 84 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Trauma |
+| Hosp. Dr. Domingo Luciani (Llanito) | HARRY VLADIMIR ERAZO RANGEL | 21 | 30887105 | LA GUAIRA | SISMO | Fuente: GSheet consolidado todos los archivos (27JUN) · SISMO |
+| Hosp. Dr. Domingo Luciani (Llanito) | Hasael |  |  | La Guaira | 13 años | Fuente: GSheet consolidado todos los archivos (27JUN) · 13 años |
 | Hosp. Dr. Domingo Luciani (Llanito) | Hemberly Figuera |  |  |  | Cirugía (27/06 10:30) | Fuente: Lista 27JUN 10:30 (Domingo Luciani) |
 | Hosp. Dr. Domingo Luciani (Llanito) | Henrrique Isquierdo | 55 |  | Sin información | Politrauma Nueva | Fuente: GSheet VENEZUELA HOSPITALES (203000) · lesión: Sin información · Unico - sin coincidencia previa |
+| Hosp. Dr. Domingo Luciani (Llanito) | HERIAM TRUJILLO | 19 | 32869625 | LA GUAIRA | QUEMADURA | Fuente: GSheet consolidado todos los archivos (27JUN) · QUEMADURA |
 | Hosp. Dr. Domingo Luciani (Llanito) | Hernandez Cesar | 48 |  |  | Traumatologia (27/06) | Fuente: Hosp. Domingo Luciani 27JUN (lista por servicio) |
 | Hosp. Dr. Domingo Luciani (Llanito) | Hernández Deiby |  |  |  | Poli — Emergencia Nueva (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | HERNANDEZ EFRAIN |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Dr. Domingo Luciani (Llanito) | Hernandez Francisco | 62 | 8176273 |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado; UPT 2. |
 | Hosp. Dr. Domingo Luciani (Llanito) | Hernández Rey |  |  |  | Quirófano (26/06, 1:00 pm) (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Herrera | 25 |  |  | Traumatologia (27/06) | Fuente: Hosp. Domingo Luciani 27JUN (lista por servicio) |
@@ -1870,6 +2098,7 @@
 | Hosp. Dr. Domingo Luciani (Llanito) | Herrera Merlano Gladivska |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Herrero Gladiuska | 26 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Cardiología Piso 2 – H-10 – F |
 | Hosp. Dr. Domingo Luciani (Llanito) | Herrero Merlano Gladiuska |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Herrero Merlano Wladiscka |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Dr. Domingo Luciani (Llanito) | Hilden Ana |  |  |  | Pediatría (II) | Fuente: Hosp. Domingo Luciani 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Hilden Anz | 4 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Pediatría |
 | Hosp. Dr. Domingo Luciani (Llanito) | Hilden Anz / Hilden Ana | 4 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Pediatría |
@@ -1881,6 +2110,8 @@
 | Hosp. Dr. Domingo Luciani (Llanito) | Huoa Anderson | 9 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Pediatría |
 | Hosp. Dr. Domingo Luciani (Llanito) | Hura Anderson | 9 |  | Sin información | Pediatría | Fuente: GSheet VENEZUELA HOSPITALES (203000) · lesión: Sin información · Lista manuscrita 'Pacientes del sismo' 25/06/2026 2:00pm — BAJA CONFIABILIDAD \ |
 | Hosp. Dr. Domingo Luciani (Llanito) | Ibarra Ana | 74 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | IDERLYN RANGEL | 32 | 21133027 | PETARE | INFARTO | Fuente: GSheet consolidado todos los archivos (27JUN) · INFARTO |
+| Hosp. Dr. Domingo Luciani (Llanito) | IREALY DUGARTE LOPEZ | 34 | 21192584 | LA GUAIRA | SISMO | Fuente: GSheet consolidado todos los archivos (27JUN) · ALTA · SISMO |
 | Hosp. Dr. Domingo Luciani (Llanito) | Isabel Vega | 50 |  |  | Politrauma — Emergencia Vieja («Trauma Vieja») (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Isax Martínez | 10 |  | La Guaira | Trauma – Piso 4 (27/06) | Fuente: Hosp. Domingo Luciani 27JUN (últimos ingresos) |
 | Hosp. Dr. Domingo Luciani (Llanito) | Iscala Yenny (?) | 42 |  | Baruta | Ingresados por sismo |  |
@@ -1891,40 +2122,81 @@
 | Hosp. Dr. Domingo Luciani (Llanito) | Isquier Henrrique (?) |  |  |  | Politrauma — Emergencia Nueva | Fuente: Hosp. Domingo Luciani 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Isquierdo Henriquez | 55 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Politrauma Emerg. Nueva |
 | Hosp. Dr. Domingo Luciani (Llanito) | Isquierdo Jean | 83 |  | palos grande | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Israel |  |  | La Guaira | 10 años | Fuente: GSheet consolidado todos los archivos (27JUN) · 10 años |
+| Hosp. Dr. Domingo Luciani (Llanito) | Ivis |  |  | La Guaira | 55 años | Fuente: GSheet consolidado todos los archivos (27JUN) · 55 años |
+| Hosp. Dr. Domingo Luciani (Llanito) | IVIS MILEIDY ESCALONA ARVELO | 55 | 6693609 | PETARE | SX CORONARIO | Fuente: GSheet consolidado todos los archivos (27JUN) · SX CORONARIO |
 | Hosp. Dr. Domingo Luciani (Llanito) | Izquiel Enrique | 63 |  |  | Medicina Interna (27/06) | Fuente: Hosp. Domingo Luciani 27JUN (lista por servicio) |
+| Hosp. Dr. Domingo Luciani (Llanito) | IZQUIEL HENRIQUE | 55 |  | GUAIRA | SISMO | Fuente: GSheet consolidado todos los archivos (27JUN) · SISMO |
 | Hosp. Dr. Domingo Luciani (Llanito) | Izquierdo Iraima | 83 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Fallecida |
 | Hosp. Dr. Domingo Luciani (Llanito) | Izquierdo Jean | 83 |  | Palos Grandes | Ingresados por sismo |  |
 | Hosp. Dr. Domingo Luciani (Llanito) | Jancel Rey (?) |  |  |  | Quirófano (II) | Fuente: Hosp. Domingo Luciani 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Janelly Nabi | 26 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Politrauma – Caribe |
 | Hosp. Dr. Domingo Luciani (Llanito) | Janet Anhalabi | 23 |  |  | Politrauma — Emergencia Vieja («Trauma Vieja») (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Jarry Erazo | 21 |  | La Guaira (Pariata) | Traumatología (27/06 10:30) | Fuente: Lista 27JUN 10:30 (Domingo Luciani) |
+| Hosp. Dr. Domingo Luciani (Llanito) | JEAN FRANCO GARUFF | 41 |  | GUAIRA | SISMO | Fuente: GSheet consolidado todos los archivos (27JUN) · ALTA · SISMO |
 | Hosp. Dr. Domingo Luciani (Llanito) | Jelani Rodriguez | 32 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado; QUIROFANO |
+| Hosp. Dr. Domingo Luciani (Llanito) | Jelri Yenfestic |  |  | La Guaira | — | Fuente: GSheet consolidado todos los archivos (27JUN) · — |
 | Hosp. Dr. Domingo Luciani (Llanito) | Jencel Rey | 8 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Quirófano |
+| Hosp. Dr. Domingo Luciani (Llanito) | Jennicel |  |  | La Guaira | 29 años | Fuente: GSheet consolidado todos los archivos (27JUN) · 29 años |
+| Hosp. Dr. Domingo Luciani (Llanito) | JENNICEL REY GONZALEZ | 29 | 24998762 | CHACAO | SISMO | Fuente: GSheet consolidado todos los archivos (27JUN) · SISMO |
 | Hosp. Dr. Domingo Luciani (Llanito) | Jenny Icala | 42 |  | Sin información | Cardiología Piso 2 (H-10) | Fuente: GSheet VENEZUELA HOSPITALES (203000) · lesión: Sin información · Lista manuscrita Domingo Luciani — BAJA CONFIABILIDAD \ |
+| Hosp. Dr. Domingo Luciani (Llanito) | JENNY ISCALA | 42 | 16803900 | LAS MINAS | SISMO | Fuente: GSheet consolidado todos los archivos (27JUN) · SISMO |
+| Hosp. Dr. Domingo Luciani (Llanito) | Jesús |  |  | La Guaira | 68 años | Fuente: GSheet consolidado todos los archivos (27JUN) · 68 años |
+| Hosp. Dr. Domingo Luciani (Llanito) | JESUS CIRILIO PEDRON | 68 | 6479370 | LA GUAIRA | SISMO | Fuente: GSheet consolidado todos los archivos (27JUN) · ALTA · SISMO |
+| Hosp. Dr. Domingo Luciani (Llanito) | JESUS DAVID MAYORA SANJUAN | 26 | 31954864 | LA GUAIRA | SISMO | Fuente: GSheet consolidado todos los archivos (27JUN) · SISMO |
 | Hosp. Dr. Domingo Luciani (Llanito) | Jesús Edur Granpuela (?) | 60 |  | La Guaira | Cirugía (27/06) | Fuente: Hosp. Domingo Luciani 27JUN (últimos ingresos) |
 | Hosp. Dr. Domingo Luciani (Llanito) | Jesús Eparick |  |  | ? | Quirófano (26/06, 1:00 pm) (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | JESUS GUERRERO | 44 | 15488399 | BELLO MONTE | SISMO | Fuente: GSheet consolidado todos los archivos (27JUN) · ALTA · SISMO |
+| Hosp. Dr. Domingo Luciani (Llanito) | JESUS RIVERO OVALLES | 53 | 12162906 | LA GUAIRA | SISMO | Fuente: GSheet consolidado todos los archivos (27JUN) · SISMO |
+| Hosp. Dr. Domingo Luciani (Llanito) | JESUS TORTOZA | 52 | 11691451 | GUAIRA | SISMO | Fuente: GSheet consolidado todos los archivos (27JUN) · ALTA · SISMO |
+| Hosp. Dr. Domingo Luciani (Llanito) | JHOAN MARTINEZ | 10 |  | LA GUAIRA | SISMO | Fuente: GSheet consolidado todos los archivos (27JUN) · SISMO |
 | Hosp. Dr. Domingo Luciani (Llanito) | Jimenez Axel | 4 |  | Los Corales | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Pediatría – Madre: Mileidi Lopez |
 | Hosp. Dr. Domingo Luciani (Llanito) | Jimenez Axel / Jimenes Axel | 4 |  | Los Corales | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Pediatría – Madre: Mileidi Lopez |
 | Hosp. Dr. Domingo Luciani (Llanito) | Jimenez Axiel / Jimenez Axel | 4 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Qx |
+| Hosp. Dr. Domingo Luciani (Llanito) | Jinderli Cavarca |  |  | La Guaira | Pediatría | Fuente: GSheet consolidado todos los archivos (27JUN) · Pediatría |
 | Hosp. Dr. Domingo Luciani (Llanito) | Jinderli Cavarra | 13 |  |  | Pediatria (27/06) | Fuente: Hosp. Domingo Luciani 27JUN (lista por servicio) |
 | Hosp. Dr. Domingo Luciani (Llanito) | Jiver Samuel | 30 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · La Guaira – Ingresos 9am |
+| Hosp. Dr. Domingo Luciani (Llanito) | JOAIBER SILVA | 7 |  | GUAIRA | SISMO | Fuente: GSheet consolidado todos los archivos (27JUN) · SISMO |
+| Hosp. Dr. Domingo Luciani (Llanito) | Joenis Ramirez |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Dr. Domingo Luciani (Llanito) | Johan |  |  | La Guaira | 10 años | Fuente: GSheet consolidado todos los archivos (27JUN) · 10 años |
 | Hosp. Dr. Domingo Luciani (Llanito) | Joiber Silva | 7 |  | La Guaira | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Pediatría |
 | Hosp. Dr. Domingo Luciani (Llanito) | Jordy Barreta |  |  |  | Traumatología (27/06 10:30) | Fuente: Lista 27JUN 10:30 (Domingo Luciani) |
+| Hosp. Dr. Domingo Luciani (Llanito) | JORGUE LUIS OVIEDO NOGUERA | 70 | 4851620 | GUAIRA | SISMO | Fuente: GSheet consolidado todos los archivos (27JUN) · SISMO |
+| Hosp. Dr. Domingo Luciani (Llanito) | José |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Dr. Domingo Luciani (Llanito) | JOSE ANGEL ROSA MORE | 44 | 15810755 | LA GUAIRA | SISMO | Fuente: GSheet consolidado todos los archivos (27JUN) · ALTA · SISMO |
 | Hosp. Dr. Domingo Luciani (Llanito) | José Daniel Bena (?) | 35 |  | La Guaira | Cirugía (27/06) | Fuente: Hosp. Domingo Luciani 27JUN (últimos ingresos) |
+| Hosp. Dr. Domingo Luciani (Llanito) | JOSE GUARDIA | 54 | 10858768 | LOMAS DEL AVILA | DOLOR ABDOMINAL | Fuente: GSheet consolidado todos los archivos (27JUN) · DOLOR ABDOMINAL |
+| Hosp. Dr. Domingo Luciani (Llanito) | JOSE LUIS ROMERO LISCANO | 60 | 6894583 | LA CAMPIÑA | SX CORONARIO | Fuente: GSheet consolidado todos los archivos (27JUN) · SX CORONARIO |
+| Hosp. Dr. Domingo Luciani (Llanito) | JOSE LUIS VERA DELGADO | 31 | 19122776 | GUAIRA | SISMO | Fuente: GSheet consolidado todos los archivos (27JUN) · ALTA · SISMO |
+| Hosp. Dr. Domingo Luciani (Llanito) | Joseani |  |  | La Guaira | 32 años | Fuente: GSheet consolidado todos los archivos (27JUN) · 32 años |
+| Hosp. Dr. Domingo Luciani (Llanito) | Josefina |  |  | La Guaira | 72 años | Fuente: GSheet consolidado todos los archivos (27JUN) · 72 años |
+| Hosp. Dr. Domingo Luciani (Llanito) | JOSEFINA MUÑOZ JURENCIA | 72 | 5982195 | ARAGUA | DESCOMPENSADO | Fuente: GSheet consolidado todos los archivos (27JUN) · DESCOMPENSADO |
 | Hosp. Dr. Domingo Luciani (Llanito) | Joseph Miranda | 24 |  | Catia | EMG Trauma (7:30 am) | Fuente: Hosp. Domingo Luciani 26JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Juan |  |  | La Guaira | 26 años | Fuente: GSheet consolidado todos los archivos (27JUN) · 26 años |
+| Hosp. Dr. Domingo Luciani (Llanito) | JULIA PALMA | 66 | 8376384 | LA VICTORIA | SISMO | Fuente: GSheet consolidado todos los archivos (27JUN) · SISMO |
 | Hosp. Dr. Domingo Luciani (Llanito) | Jull Samuel | 25 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado; POLITRAUMA |
+| Hosp. Dr. Domingo Luciani (Llanito) | Karina |  |  | La Guaira | 30 años | Fuente: GSheet consolidado todos los archivos (27JUN) · 30 años |
+| Hosp. Dr. Domingo Luciani (Llanito) | KARINA RODRIGUEZ CABRERA | 30 | 25683044 | LA GUAIRA | SISMO | Fuente: GSheet consolidado todos los archivos (27JUN) · SISMO |
 | Hosp. Dr. Domingo Luciani (Llanito) | Karla Cardoza | 25 |  | Sin información | Medicina Interna | Fuente: GSheet VENEZUELA HOSPITALES (203000) · lesión: Sin información · Lista manuscrita Domingo Luciani — BAJA CONFIABILIDAD \ |
+| Hosp. Dr. Domingo Luciani (Llanito) | KATISUSKA MARCANO | 56 | 9855602 | GUAIRA | SISMO | Fuente: GSheet consolidado todos los archivos (27JUN) · ALTA · SISMO |
+| Hosp. Dr. Domingo Luciani (Llanito) | Kel Boupard |  |  | La Guaira | — | Fuente: GSheet consolidado todos los archivos (27JUN) · — |
 | Hosp. Dr. Domingo Luciani (Llanito) | Kimguili Lguilo (?) | 37 |  | La Guaira | Cirugía (27/06) | Fuente: Hosp. Domingo Luciani 27JUN (últimos ingresos) |
 | Hosp. Dr. Domingo Luciani (Llanito) | Lander Sebastián |  |  |  | Cirugía Pediátrica (niño solo) |  |
 | Hosp. Dr. Domingo Luciani (Llanito) | Landi Sebastien | 7 |  | Sin información | Pediatría | Fuente: GSheet VENEZUELA HOSPITALES (203000) · lesión: Sin información · Lista manuscrita 'Pacientes del sismo' 25/06/2026 2:00pm — BAJA CONFIABILIDAD \ |
 | Hosp. Dr. Domingo Luciani (Llanito) | Lando Sebastian | 7 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · CI: 47513650 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Lastra Visbal Clara |  |  |  | Lista (img.2) |  |
+| Hosp. Dr. Domingo Luciani (Llanito) | Leon Daneylin |  |  | La Guaira | Quirófano | Fuente: GSheet consolidado todos los archivos (27JUN) · Quirófano |
 | Hosp. Dr. Domingo Luciani (Llanito) | León Darealin |  |  |  | Quirófano (26/06, 1:00 pm) (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Lerlymar Escobar | 31 |  | La Guaira (Tanaguarena) | Traumatología (27/06 10:30) | Fuente: Lista 27JUN 10:30 (Domingo Luciani) |
+| Hosp. Dr. Domingo Luciani (Llanito) | Lewis |  |  | La Guaira | 10 años | Fuente: GSheet consolidado todos los archivos (27JUN) · 10 años |
 | Hosp. Dr. Domingo Luciani (Llanito) | Lewis Desmon | 10 |  | La Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Pediatría – Madre: Elisa Calderon |
 | Hosp. Dr. Domingo Luciani (Llanito) | Leyibe Pedra |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Nombre incierto |
 | Hosp. Dr. Domingo Luciani (Llanito) | Lidice Velázquez | 12 |  | La Guaira (Los Corales) | Pediatría (27/06) | Fuente: Hosp. Domingo Luciani 27JUN (últimos ingresos) |
+| Hosp. Dr. Domingo Luciani (Llanito) | Lidis |  |  | La Guaira | Quirofano | Fuente: GSheet consolidado todos los archivos (27JUN) · Quirofano |
+| Hosp. Dr. Domingo Luciani (Llanito) | Lidis Velazquez |  |  | La Guaira | Quirófano | Fuente: GSheet consolidado todos los archivos (27JUN) · Quirófano |
+| Hosp. Dr. Domingo Luciani (Llanito) | LILIANA COROMOTO ORIHUELA FRANCO | 51 | 12669657 | GUAIRA | SISMO | Fuente: GSheet consolidado todos los archivos (27JUN) · ALTA · SISMO |
 | Hosp. Dr. Domingo Luciani (Llanito) | Liliana Onhuela | 51 |  |  | Politrauma Emergencia (27/06) | Fuente: Hosp. Domingo Luciani 27JUN (lista por servicio) |
+| Hosp. Dr. Domingo Luciani (Llanito) | LILIANY N BORGES HERRERA | 25 | 32141445 | LA GUAIRA | SISMO | Fuente: GSheet consolidado todos los archivos (27JUN) · ALTA · SISMO |
 | Hosp. Dr. Domingo Luciani (Llanito) | Liscamo Pedro | 40 |  | Cahacaito | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Liscano Pedro | 40 |  | Chacaíto | Ingresados por sismo |  |
 | Hosp. Dr. Domingo Luciani (Llanito) | Lopez Fronin Rivas |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Politrauma |
@@ -1934,11 +2206,19 @@
 | Hosp. Dr. Domingo Luciani (Llanito) | Loyo Clara |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Loyo Visbal Clara |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Luce Samuel | 25 | 29977725 | La Guaira | Sin información | Fuente: GSheet VENEZUELA HOSPITALES (203000) · lesión: Sin información · Hora 2 – ingresos 6:00 a 9:20 pm \ |
+| Hosp. Dr. Domingo Luciani (Llanito) | Luci |  |  | La Guaira | Emergencia - 61 años | Fuente: GSheet consolidado todos los archivos (27JUN) · Emergencia - 61 años |
+| Hosp. Dr. Domingo Luciani (Llanito) | LUCI GONCALVES | 61 | 6493087 | GUAIRA | SISMO | Fuente: GSheet consolidado todos los archivos (27JUN) · ALTA · SISMO |
+| Hosp. Dr. Domingo Luciani (Llanito) | Lucy de |  |  | La Guaira | Maternidad (Sección inferior) | Fuente: GSheet consolidado todos los archivos (27JUN) · Maternidad (Sección inferior) |
 | Hosp. Dr. Domingo Luciani (Llanito) | Lucy De Castillo | 48 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Lucy Goncal | 67 |  | Caribe | Politrauma (Medicina Interna) | Fuente: GSheet VENEZUELA HOSPITALES (203000) · lesión: Sin información · Lista manuscrita Domingo Luciani — BAJA CONFIABILIDAD \ |
 | Hosp. Dr. Domingo Luciani (Llanito) | Lucy Gonzálvez | 61 |  | Caribe | Politrauma (MI) (7:20 am) | Fuente: Hosp. Domingo Luciani 26JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Luis |  |  | La Guaira | 77 años | Fuente: GSheet consolidado todos los archivos (27JUN) · 77 años |
+| Hosp. Dr. Domingo Luciani (Llanito) | LUIS MARIANO REBOLLEDO GUARDIA | 57 | 31291495 | CARIBIA | SISMO | Fuente: GSheet consolidado todos los archivos (27JUN) · SISMO |
 | Hosp. Dr. Domingo Luciani (Llanito) | Luis Reborelo | 57 |  |  | POLI I (7:20 am) | Fuente: Hosp. Domingo Luciani 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Luis Torrealba | 61 |  | La Guaira – traslado | Cirugía – Piso (27/06) | Fuente: Hosp. Domingo Luciani 27JUN (últimos ingresos) |
+| Hosp. Dr. Domingo Luciani (Llanito) | LUIS TORRES | 61 |  | GUAIRA | SISMO | Fuente: GSheet consolidado todos los archivos (27JUN) · SISMO |
+| Hosp. Dr. Domingo Luciani (Llanito) | Luisana |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Dr. Domingo Luciani (Llanito) | LUISANA RAMONA ORDAZ CARRION | 58 | 9947561 | LA GUAIRA | SISMO | Fuente: GSheet consolidado todos los archivos (27JUN) · ALTA · SISMO |
 | Hosp. Dr. Domingo Luciani (Llanito) | Luna Yennifer |  |  | Catia La Mar | Ingresos (encabezado) (27/06 10:30) | Fuente: Lista 27JUN 10:30 (Domingo Luciani) |
 | Hosp. Dr. Domingo Luciani (Llanito) | Lure Torres |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado; Vc Pediatría |
 | Hosp. Dr. Domingo Luciani (Llanito) | Machado Anabela | 9 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
@@ -1946,11 +2226,14 @@
 | Hosp. Dr. Domingo Luciani (Llanito) | Machado Anarella | 9 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Machado Anarella / Machado Anarela | 9 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Mahmud Anhalabi | 56 |  |  | Politrauma — Emergencia Vieja («Trauma Vieja») (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | MAIRA MARIBE GIL MACHIL | 57 | 9998618 | LA GUAIRA | SISMO | Fuente: GSheet consolidado todos los archivos (27JUN) · SISMO |
 | Hosp. Dr. Domingo Luciani (Llanito) | Majano Jose | 26 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · La Guaira – Ingresos 9am |
 | Hosp. Dr. Domingo Luciani (Llanito) | Mamud Halabi | 56 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Trauma |
+| Hosp. Dr. Domingo Luciani (Llanito) | MANUEL ALVES | 77 | 6511409 | CARABALLEDA | SISMO | Fuente: GSheet consolidado todos los archivos (27JUN) · ALTA · SISMO |
 | Hosp. Dr. Domingo Luciani (Llanito) | Manuel Coluan (?) |  |  |  | Politrauma — Emergencia Nueva | Fuente: Hosp. Domingo Luciani 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Manuel Ochebe | 38 |  | Sin información | Medicina Interna | Fuente: GSheet VENEZUELA HOSPITALES (203000) · lesión: Sin información · Lista manuscrita Domingo Luciani — BAJA CONFIABILIDAD \ |
 | Hosp. Dr. Domingo Luciani (Llanito) | Manuel Odrube (?) | 38 |  |  | Medicina Interna (9:00 am) | Fuente: Hosp. Domingo Luciani 26JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | MAR JERRY ESCOBAR | 31 | 26327348 | LA GUAIRA | SISMO | Fuente: GSheet consolidado todos los archivos (27JUN) · SISMO |
 | Hosp. Dr. Domingo Luciani (Llanito) | Marabito Espitia Joseani | 32 |  | Petare | Ingresados por sismo |  |
 | Hosp. Dr. Domingo Luciani (Llanito) | Marabito Joseani | 32 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Marabito Joseani / Marabito Joscani | 32 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
@@ -1958,8 +2241,15 @@
 | Hosp. Dr. Domingo Luciani (Llanito) | Marcano Katiuska | 56 |  | La Guaira | Ingresados por sismo |  |
 | Hosp. Dr. Domingo Luciani (Llanito) | Marcano Rosa |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Dr. Domingo Luciani (Llanito) | Marcano Stiven | 7 |  |  | Pediatria (27/06) | Fuente: Hosp. Domingo Luciani 27JUN (lista por servicio) |
+| Hosp. Dr. Domingo Luciani (Llanito) | MARCELA MARTINEZ ROJAS | 66 | 5979453 | EL CARMEN | CAIDA DE PISO | Fuente: GSheet consolidado todos los archivos (27JUN) · CAIDA DE PISO |
+| Hosp. Dr. Domingo Luciani (Llanito) | María |  |  | La Guaira | Teléfono hermana: 0212 8733207 | Fuente: GSheet consolidado todos los archivos (27JUN) · Teléfono hermana: 0212 8733207 |
+| Hosp. Dr. Domingo Luciani (Llanito) | MARIA CARIDAD VIERRA RAMIREZ | 64 | 6396589 | GUAIRA | SISMO | Fuente: GSheet consolidado todos los archivos (27JUN) · SISMO |
 | Hosp. Dr. Domingo Luciani (Llanito) | Maria Castallero | 65 |  | Guarenas | Politrauma (Medicina Interna) | Fuente: GSheet VENEZUELA HOSPITALES (203000) · lesión: Sin información · Lista manuscrita Domingo Luciani — BAJA CONFIABILIDAD \ |
 | Hosp. Dr. Domingo Luciani (Llanito) | María Castañedo | 65 |  | Guarenas (?) | Politrauma (MI) (7:20 am) | Fuente: Hosp. Domingo Luciani 26JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Maria Cavalo |  |  | La Guaira | Quirófano | Fuente: GSheet consolidado todos los archivos (27JUN) · Quirófano |
+| Hosp. Dr. Domingo Luciani (Llanito) | Mariangel |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Dr. Domingo Luciani (Llanito) | Mariangel Moñon |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Dr. Domingo Luciani (Llanito) | MARIANGEL MUÑOZ BELLORIN | 59 | 6311703 | LA GUAIRA | SISMO | Fuente: GSheet consolidado todos los archivos (27JUN) · SISMO |
 | Hosp. Dr. Domingo Luciani (Llanito) | Marla Cardoza | 25 |  |  | Medicina Interna (9:00 am) | Fuente: Hosp. Domingo Luciani 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Marrupo Ariana |  |  |  | Quirófano (26/06, 1:00 pm) (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Martinez Isaac | 10 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Quirófano |
@@ -1967,8 +2257,10 @@
 | Hosp. Dr. Domingo Luciani (Llanito) | Martinez Joan | 10 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Pediatría |
 | Hosp. Dr. Domingo Luciani (Llanito) | Martinez Johan | 10 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Martinez Johan Isaac | 10 |  | La Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Pediatría – Padre: Carmen Midy |
+| Hosp. Dr. Domingo Luciani (Llanito) | Matilde |  |  | La Guaira | 36 años | Fuente: GSheet consolidado todos los archivos (27JUN) · 36 años |
 | Hosp. Dr. Domingo Luciani (Llanito) | Maubios Diaz | 51 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Politrauma Emerg. Nueva |
 | Hosp. Dr. Domingo Luciani (Llanito) | Mauricio Arriaga | 64 |  | La Guaira (Parque Mar – Los Corales) | Traumatología (27/06 10:30) | Fuente: Lista 27JUN 10:30 (Domingo Luciani) |
+| Hosp. Dr. Domingo Luciani (Llanito) | MAURICIO DE JESUS ARREAZA ARREAZA | 74 | 3802781 | GUAIRA | SISMO | Fuente: GSheet consolidado todos los archivos (27JUN) · SISMO |
 | Hosp. Dr. Domingo Luciani (Llanito) | Mauro Veguida | 55 |  | La Guaira | EMG Trauma | Fuente: GSheet VENEZUELA HOSPITALES (203000) · lesión: Sin información · Lista manuscrita Domingo Luciani — BAJA CONFIABILIDAD \ |
 | Hosp. Dr. Domingo Luciani (Llanito) | Mayora Jesus | 26 |  | La Guaira | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Ingresos 6am-9:20pm |
 | Hosp. Dr. Domingo Luciani (Llanito) | Mayorca Jesus | 26 |  | La Guaira | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Ingresos 6am-9:20pm |
@@ -1980,12 +2272,16 @@
 | Hosp. Dr. Domingo Luciani (Llanito) | Mendoza Astrid | 38 | 20781654 |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado; Alta |
 | Hosp. Dr. Domingo Luciani (Llanito) | Merin Antonella | 17 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Dr. Domingo Luciani (Llanito) | Merlano Gladivska Herrero |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Politrauma |
+| Hosp. Dr. Domingo Luciani (Llanito) | Miel |  |  | La Guaira | Qx (Quirófano) - 7 años | Fuente: GSheet consolidado todos los archivos (27JUN) · Qx (Quirófano) - 7 años |
 | Hosp. Dr. Domingo Luciani (Llanito) | Mijares Isalibeth | 45 |  | Petare | Registro hospitalario | Fuente: GSheet VENEZUELA HOSPITALES (203000) |
 | Hosp. Dr. Domingo Luciani (Llanito) | Mijares Isolibeth | 45 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Mijares Isolibeth / Mijares Isolbeth / Mijares Isalibeth | 45 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Milagros |  |  | La Guaira | 46 años | Fuente: GSheet consolidado todos los archivos (27JUN) · 46 años |
 | Hosp. Dr. Domingo Luciani (Llanito) | Milano Gladiska | 25 |  | Sin información | Grupo 'Omaciento Sebastian' (continuación) | Fuente: GSheet VENEZUELA HOSPITALES (203000) · lesión: Sin información · Lista manuscrita 'Pacientes del sismo' 25/06/2026 2:00pm — BAJA CONFIABILIDAD \ |
 | Hosp. Dr. Domingo Luciani (Llanito) | Milano Gladiuska | 25 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Milano Gladivska | 29 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Milano Wadiuska |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Dr. Domingo Luciani (Llanito) | MINELY BAUTE | 65 | 6483724 | LA GUAIRA | SISMO | Fuente: GSheet consolidado todos los archivos (27JUN) · SISMO |
 | Hosp. Dr. Domingo Luciani (Llanito) | Miranda Jose | 24 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Trauma |
 | Hosp. Dr. Domingo Luciani (Llanito) | Miranda Victoria |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Dr. Domingo Luciani (Llanito) | Mirelis Baute | 65 |  |  | POLI I (7:20 am) | Fuente: Hosp. Domingo Luciani 26JUN26 |
@@ -1997,13 +2293,22 @@
 | Hosp. Dr. Domingo Luciani (Llanito) | Morruffo Adriana | 37 |  |  | Traumatologia (27/06) | Fuente: Hosp. Domingo Luciani 27JUN (lista por servicio) |
 | Hosp. Dr. Domingo Luciani (Llanito) | MUÃ‘ON MARIANGEL | 59 |  |  | Registro hospitalario | Fuente: GSheet VENEZUELA HOSPITALES (203000) |
 | Hosp. Dr. Domingo Luciani (Llanito) | MUÃ‘OZ JOSEFINA | 72 |  |  | Registro hospitalario | Fuente: GSheet VENEZUELA HOSPITALES (203000) |
+| Hosp. Dr. Domingo Luciani (Llanito) | Muñon |  |  | La Guaira | 59 años | Fuente: GSheet consolidado todos los archivos (27JUN) · 59 años |
 | Hosp. Dr. Domingo Luciani (Llanito) | Muñon Mariangel | 59 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Muñoz Josefina | 72 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Nahomi Marrero | 20 |  |  | Politrauma — Emergencia Vieja | Fuente: Hosp. Domingo Luciani 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Nairoby Pairares |  |  |  | Poli-Trauma Emergencia Nueva / Terapia (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Nancy |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Dr. Domingo Luciani (Llanito) | NANCY DEL VALLE SERRANO | 67 | 7997334 | LA GUAIRA | SISMO | Fuente: GSheet consolidado todos los archivos (27JUN) · SISMO |
+| Hosp. Dr. Domingo Luciani (Llanito) | NAYIBETH ACEVEDO | 37 | 18753433 | LA GUAIRA | SISMO | Fuente: GSheet consolidado todos los archivos (27JUN) · SISMO |
+| Hosp. Dr. Domingo Luciani (Llanito) | Nelscy |  |  | La Guaira | 37 años | Fuente: GSheet consolidado todos los archivos (27JUN) · 37 años |
+| Hosp. Dr. Domingo Luciani (Llanito) | NOHEMI MARRERO | 20 | 32771433 | GUAIRA | SISMO | Fuente: GSheet consolidado todos los archivos (27JUN) · ALTA · SISMO |
+| Hosp. Dr. Domingo Luciani (Llanito) | Nohemy Martero |  |  | La Guaira | Politrauma Emergencia Vieja | Fuente: GSheet consolidado todos los archivos (27JUN) · Politrauma Emergencia Vieja |
 | Hosp. Dr. Domingo Luciani (Llanito) | Nohori Marrero | 20 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Politrauma Emerg. Vieja |
 | Hosp. Dr. Domingo Luciani (Llanito) | Nombre Completo |  |  |  | Nota | Fuente: GSheet VENEZUELA HOSPITALES (203000) |
+| Hosp. Dr. Domingo Luciani (Llanito) | Nombre y Apellido |  |  | La Guaira | Ubicación / Observación | Fuente: GSheet consolidado todos los archivos (27JUN) · Ubicación / Observación |
 | Hosp. Dr. Domingo Luciani (Llanito) | Norkis Bencomo | 37 |  | Sin información | Cardiología Piso 2 (H-11) | Fuente: GSheet VENEZUELA HOSPITALES (203000) · lesión: Sin información · Lista manuscrita Domingo Luciani — BAJA CONFIABILIDAD \ |
+| Hosp. Dr. Domingo Luciani (Llanito) | Nuvia |  |  | La Guaira | 68 años | Fuente: GSheet consolidado todos los archivos (27JUN) · 68 años |
 | Hosp. Dr. Domingo Luciani (Llanito) | Obuber Manuel | 38 |  |  | Medicina Interna (27/06) | Fuente: Hosp. Domingo Luciani 27JUN (lista por servicio) |
 | Hosp. Dr. Domingo Luciani (Llanito) | Odalis Garcias | 43 |  | Sin información | Medicina Interna | Fuente: GSheet VENEZUELA HOSPITALES (203000) · lesión: Sin información · Lista manuscrita Domingo Luciani — BAJA CONFIABILIDAD \ |
 | Hosp. Dr. Domingo Luciani (Llanito) | Odalys García | 43 |  |  | Medicina Interna (9:00 am) | Fuente: Hosp. Domingo Luciani 26JUN26 |
@@ -2012,7 +2317,11 @@
 | Hosp. Dr. Domingo Luciani (Llanito) | Oduper Manuel | 38 |  |  | Quirofano (27/06) | Fuente: Hosp. Domingo Luciani 27JUN (lista por servicio) |
 | Hosp. Dr. Domingo Luciani (Llanito) | Ojeda Doris Arrieta |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Politrauma |
 | Hosp. Dr. Domingo Luciani (Llanito) | Oldaz Luisana | 58 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Olga |  |  | La Guaira | 63 años | Fuente: GSheet consolidado todos los archivos (27JUN) · 63 años |
 | Hosp. Dr. Domingo Luciani (Llanito) | Omaciento Sebastian | 16 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | OMAIRA SERRANO | 66 | 25123984 | GUAIRA | SISMO | Fuente: GSheet consolidado todos los archivos (27JUN) · ALTA · SISMO |
+| Hosp. Dr. Domingo Luciani (Llanito) | Omar |  |  | La Guaira | 40 años | Fuente: GSheet consolidado todos los archivos (27JUN) · 40 años |
+| Hosp. Dr. Domingo Luciani (Llanito) | OMAR JOSE PORTILLO | 4 | 17710539 | LA GUAIRA | SISMO | Fuente: GSheet consolidado todos los archivos (27JUN) · SISMO |
 | Hosp. Dr. Domingo Luciani (Llanito) | Omar Portillo |  |  |  | Lista (img.2) |  |
 | Hosp. Dr. Domingo Luciani (Llanito) | Omasenio Sebastian |  |  |  | Personas en riesgo | Fuente: Listado 337 personas en riesgo (N° 215) |
 | Hosp. Dr. Domingo Luciani (Llanito) | Omasiento Sebastián | 16 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
@@ -2021,6 +2330,7 @@
 | Hosp. Dr. Domingo Luciani (Llanito) | Ordaz Lusana | 58 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Orihuela Liana |  |  |  | Poli — Emergencia Nueva (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Osho Elick | 54 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · La Guaira – Ingresos 9am |
+| Hosp. Dr. Domingo Luciani (Llanito) | Pabon Jesus Cirilo |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Dr. Domingo Luciani (Llanito) | Padilla Godoy | 4 |  | La Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Pediatría – Mamá: Andreina Vasconalo |
 | Hosp. Dr. Domingo Luciani (Llanito) | Padilla Rodoski | 4 |  |  | Cirugía Pediátrica (niño solo) |  |
 | Hosp. Dr. Domingo Luciani (Llanito) | Padon Efren Gualino |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Politrauma |
@@ -2037,8 +2347,12 @@
 | Hosp. Dr. Domingo Luciani (Llanito) | Parra Estefanía | 15 |  | Baruta | Ingresados por sismo |  |
 | Hosp. Dr. Domingo Luciani (Llanito) | Parra Gabriela | 19 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Parra Misel Gabriela |  |  |  | Lista (img.2) |  |
+| Hosp. Dr. Domingo Luciani (Llanito) | Parra Mixel Gabriela |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Dr. Domingo Luciani (Llanito) | Paulina |  |  | La Guaira | 8 años | Fuente: GSheet consolidado todos los archivos (27JUN) · 8 años |
+| Hosp. Dr. Domingo Luciani (Llanito) | Pedro |  |  | La Guaira | 40 años | Fuente: GSheet consolidado todos los archivos (27JUN) · 40 años |
 | Hosp. Dr. Domingo Luciani (Llanito) | Pedro Aliscano | 40 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Alta/cirugía |
 | Hosp. Dr. Domingo Luciani (Llanito) | Pedro Jesus | 68 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | PEDRO MIGUEL QUINTERO DAVILA | 71 | 6273270 | PETARE | SISMO | Fuente: GSheet consolidado todos los archivos (27JUN) · SISMO |
 | Hosp. Dr. Domingo Luciani (Llanito) | Pedron David |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Dr. Domingo Luciani (Llanito) | Pedron Jesús | 68 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Perez Aranyi | 14 |  | La Guaira | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Ingresos 6am-9:20pm |
@@ -2052,9 +2366,16 @@
 | Hosp. Dr. Domingo Luciani (Llanito) | Piasardo Reinier | 40 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · CI: 16390168 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Piñero Sebastian | 16 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Pireto Sebastián | 16 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Porfilio |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Dr. Domingo Luciani (Llanito) | Posada Antonio | 78 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Cardiología Piso 2 – H-9 – M |
 | Hosp. Dr. Domingo Luciani (Llanito) | Prada Gabriela | 15 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · CI: 24037224 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Rada Alceida (?) |  |  |  | Politrauma — Emergencia Nueva | Fuente: Hosp. Domingo Luciani 26JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Radni |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Dr. Domingo Luciani (Llanito) | Rafael |  |  | La Guaira | 50 años | Fuente: GSheet consolidado todos los archivos (27JUN) · 50 años |
+| Hosp. Dr. Domingo Luciani (Llanito) | RAFAEL ALEJANDRO GOYO ORDAZ | 32 | 24801393 | LA GUAIRA | SISMO | Fuente: GSheet consolidado todos los archivos (27JUN) · ALTA · SISMO |
+| Hosp. Dr. Domingo Luciani (Llanito) | RAFAEL ERNESTO ROJAS REYES | 22 | 11314662 | LA GUAIRA | SISMO | Fuente: GSheet consolidado todos los archivos (27JUN) · ALTA · SISMO |
+| Hosp. Dr. Domingo Luciani (Llanito) | RAFAEL GONZALEZ RANGEL | 39 | 17709451 | CARICUAO | SISMO | Fuente: GSheet consolidado todos los archivos (27JUN) · ALTA · SISMO |
+| Hosp. Dr. Domingo Luciani (Llanito) | Rainny |  |  | La Guaira | 38 años | Fuente: GSheet consolidado todos los archivos (27JUN) · 38 años |
 | Hosp. Dr. Domingo Luciani (Llanito) | Ramírez Escalante Mariangel |  |  |  | Lista (img.3) |  |
 | Hosp. Dr. Domingo Luciani (Llanito) | Ramirez Gabriela | 37 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Quirófano |
 | Hosp. Dr. Domingo Luciani (Llanito) | Ramirez Jose | 37 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
@@ -2063,8 +2384,12 @@
 | Hosp. Dr. Domingo Luciani (Llanito) | Ramirez Nairoby |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Politrauma Emerg. Nueva |
 | Hosp. Dr. Domingo Luciani (Llanito) | Ramirez Quintana | 32 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado; SALA DE PARTO |
 | Hosp. Dr. Domingo Luciani (Llanito) | Ramirez Quintero | 32 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Sala de Parto |
+| Hosp. Dr. Domingo Luciani (Llanito) | Raul Donis |  |  | La Guaira | Quirófano | Fuente: GSheet consolidado todos los archivos (27JUN) · Quirófano |
 | Hosp. Dr. Domingo Luciani (Llanito) | Re Yvaire | 29 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Cardiología Piso 2 – H-10 – F |
 | Hosp. Dr. Domingo Luciani (Llanito) | Reboredo Luis | 57 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Pol I – M |
+| Hosp. Dr. Domingo Luciani (Llanito) | REINA FRONTADO MIEL | 7 | 10582260 | LA GUAIRA | SISMO | Fuente: GSheet consolidado todos los archivos (27JUN) · SISMO |
+| Hosp. Dr. Domingo Luciani (Llanito) | René |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Dr. Domingo Luciani (Llanito) | RENE JOSE SUAREZ | 62 | 6484464 | LA GUAIRA | SISMO | Fuente: GSheet consolidado todos los archivos (27JUN) · SISMO |
 | Hosp. Dr. Domingo Luciani (Llanito) | Rengifo Adelso | 59 |  | La Guaira | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Ingresos 6am-9:20pm |
 | Hosp. Dr. Domingo Luciani (Llanito) | Rengifo Adolfo | 59 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado; POLITRAUMA |
 | Hosp. Dr. Domingo Luciani (Llanito) | Rengifo Deili | 46 |  | Petare | Ingresados por sismo |  |
@@ -2072,6 +2397,7 @@
 | Hosp. Dr. Domingo Luciani (Llanito) | Rengifo Guillermina | 46 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Requena Dilia | 52 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado; Tiene familia |
 | Hosp. Dr. Domingo Luciani (Llanito) | Revoredo Luis | 57 |  |  | Traumatologia (27/06) | Fuente: Hosp. Domingo Luciani 27JUN (lista por servicio) |
+| Hosp. Dr. Domingo Luciani (Llanito) | Rey |  |  | La Guaira | Quirofano | Fuente: GSheet consolidado todos los archivos (27JUN) · Quirofano |
 | Hosp. Dr. Domingo Luciani (Llanito) | Rey Jenicel |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Quirófano |
 | Hosp. Dr. Domingo Luciani (Llanito) | Rey Jennal | 29 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Rey Jenncel | 29 |  | chacao | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
@@ -2079,6 +2405,8 @@
 | Hosp. Dr. Domingo Luciani (Llanito) | Rey Jennicel | 29 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Rey Jennicel / Rey Jennail | 29 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Ribas Fabiana | 23 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Ricardo |  |  | La Guaira | 42 años | Fuente: GSheet consolidado todos los archivos (27JUN) · 42 años |
+| Hosp. Dr. Domingo Luciani (Llanito) | RICARDO BARRETO FERNANDEZ | 42 | 16309658 | LA GUAIRA | SISMO | Fuente: GSheet consolidado todos los archivos (27JUN) · SISMO |
 | Hosp. Dr. Domingo Luciani (Llanito) | Rivas Fabiana | 23 |  | La Guaira | EMG Trauma (7:30 am) | Fuente: Hosp. Domingo Luciani 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Rivas Fabina | 23 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Rivas Francis |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 |
@@ -2087,11 +2415,14 @@
 | Hosp. Dr. Domingo Luciani (Llanito) | Rivas Lopez Francis |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Politrauma |
 | Hosp. Dr. Domingo Luciani (Llanito) | Rivas Lopez Francis / Rivas Lopez Franin |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Rivas López Franin (?) |  |  |  | Lista (img.3) |  |
+| Hosp. Dr. Domingo Luciani (Llanito) | Rivas Lopez Fronis |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Dr. Domingo Luciani (Llanito) | Rivero Daniel | 60 |  | Macaracuay | Ingresados por sismo |  |
 | Hosp. Dr. Domingo Luciani (Llanito) | Rivero Jose | 53 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado; PISO 4 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Roada Evelyn | 54 |  |  | Traumatologia (27/06) | Fuente: Hosp. Domingo Luciani 27JUN (lista por servicio) |
 | Hosp. Dr. Domingo Luciani (Llanito) | Roda Heida | 71 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado; POLITRAUMA EMERG NUEVA |
 | Hosp. Dr. Domingo Luciani (Llanito) | Rodes Galicia |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado; Alta |
+| Hosp. Dr. Domingo Luciani (Llanito) | Rodni Boupard |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Dr. Domingo Luciani (Llanito) | Rodoski |  |  | La Guaira | 52 años | Fuente: GSheet consolidado todos los archivos (27JUN) · 52 años |
 | Hosp. Dr. Domingo Luciani (Llanito) | Rodriguez Camila | 17 | 34234386 |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado; Triaje |
 | Hosp. Dr. Domingo Luciani (Llanito) | Rodriguez Carreno Maria Salome | 82 | 5609377 |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Dr. Domingo Luciani (Llanito) | Rodríguez Eduardo | 65 |  | Petare | Ingresados por sismo |  |
@@ -2106,11 +2437,17 @@
 | Hosp. Dr. Domingo Luciani (Llanito) | Romero Jose | 60 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Rondón Ángel | 12 |  | Baruta | Ingresados por sismo |  |
 | Hosp. Dr. Domingo Luciani (Llanito) | Rony Bosporte | 33 |  | La Guaira | EMG Trauma (cont.) | Fuente: GSheet VENEZUELA HOSPITALES (203000) · lesión: Sin información · Lista manuscrita Domingo Luciani — BAJA CONFIABILIDAD \ |
+| Hosp. Dr. Domingo Luciani (Llanito) | Rosa |  |  | La Guaira | 57 años | Fuente: GSheet consolidado todos los archivos (27JUN) · 57 años |
+| Hosp. Dr. Domingo Luciani (Llanito) | ROSA DIVITO FALLORE | 64 | 5311847 | CHACAO | SISMO | Fuente: GSheet consolidado todos los archivos (27JUN) · ALTA · SISMO |
+| Hosp. Dr. Domingo Luciani (Llanito) | ROSA ELENA CISNERO | 57 | 9666949 | EL HATILLO | DESCOMPENSADO | Fuente: GSheet consolidado todos los archivos (27JUN) · DESCOMPENSADO |
+| Hosp. Dr. Domingo Luciani (Llanito) | ROSA MARIBEL GUERRA PINO | 39 | 19627944 | GUAIRA | SISMO | Fuente: GSheet consolidado todos los archivos (27JUN) · SISMO |
 | Hosp. Dr. Domingo Luciani (Llanito) | Rosa Pájaro |  |  |  | UPT (27/06 10:30) | Fuente: Lista 27JUN 10:30 (Domingo Luciani) |
 | Hosp. Dr. Domingo Luciani (Llanito) | Rosalis Vasquez | 18 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Politrauma Emerg. Nueva |
 | Hosp. Dr. Domingo Luciani (Llanito) | Rotaby Reyes |  |  | Catia La Mar | Ingresos (encabezado) (27/06 10:30) | Fuente: Lista 27JUN 10:30 (Domingo Luciani) |
+| Hosp. Dr. Domingo Luciani (Llanito) | ROTNY BOMPART | 33 | 24896082 | LA GUAIRA | SISMO | Fuente: GSheet consolidado todos los archivos (27JUN) · SISMO |
 | Hosp. Dr. Domingo Luciani (Llanito) | Rrez Eliomor | 23 |  | La Guaira | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Ingresos 6am-9:20pm |
 | Hosp. Dr. Domingo Luciani (Llanito) | Rueda Isabel | 50 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Trauma |
+| Hosp. Dr. Domingo Luciani (Llanito) | Ruit |  |  | La Guaira | Quirofano | Fuente: GSheet consolidado todos los archivos (27JUN) · Quirofano |
 | Hosp. Dr. Domingo Luciani (Llanito) | Ruiz Dannis |  |  |  | Quirófano (26/06, 1:00 pm) (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Ruiz Denni | 49 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Politrauma – La Guaira |
 | Hosp. Dr. Domingo Luciani (Llanito) | Ruiz Donnis | 41 |  |  | Quirofano (27/06) | Fuente: Hosp. Domingo Luciani 27JUN (lista por servicio) |
@@ -2120,6 +2457,8 @@
 | Hosp. Dr. Domingo Luciani (Llanito) | Salazar Helen |  |  |  | Politrauma — Emergencia Nueva | Fuente: Hosp. Domingo Luciani 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Salega Gaem | 23 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · CI: 29819565 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Salogar Arturo | 13 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Samuel |  |  | La Guaira | 28 años | Fuente: GSheet consolidado todos los archivos (27JUN) · 28 años |
+| Hosp. Dr. Domingo Luciani (Llanito) | SAMUEL A. BLANCO DIAS | 23 | 31308884 | LA GUAIRA | SISMO | Fuente: GSheet consolidado todos los archivos (27JUN) · SISMO |
 | Hosp. Dr. Domingo Luciani (Llanito) | Samuel Blanco | 23 |  | La Guaira (Caraballeda) | Traumatología (27/06 10:30) | Fuente: Lista 27JUN 10:30 (Domingo Luciani) |
 | Hosp. Dr. Domingo Luciani (Llanito) | Samuel Lariago (?) | 6 |  | Petare (?) | Pediatría (27/06) | Fuente: Hosp. Domingo Luciani 27JUN (últimos ingresos) |
 | Hosp. Dr. Domingo Luciani (Llanito) | Sanchez Arelis F | 53 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado; POLITRAUMA MI |
@@ -2127,14 +2466,20 @@
 | Hosp. Dr. Domingo Luciani (Llanito) | Sanchez Camillas |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · La Guaira – Ingresos 9am |
 | Hosp. Dr. Domingo Luciani (Llanito) | Sanchez Catalina |  |  | La Guaira | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Ingresos 6am-9:20pm |
 | Hosp. Dr. Domingo Luciani (Llanito) | Sanchez Estiven | 28 | 28037310 |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado; Alta |
+| Hosp. Dr. Domingo Luciani (Llanito) | SANCHEZ FRANCISCO |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Dr. Domingo Luciani (Llanito) | Sanchez Katalina | 65 |  | La Guaira | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Ingresos 6am-9:20pm |
 | Hosp. Dr. Domingo Luciani (Llanito) | Sanchez Rosa | 77 |  |  | Traumatologia (27/06) | Fuente: Hosp. Domingo Luciani 27JUN (lista por servicio) |
 | Hosp. Dr. Domingo Luciani (Llanito) | Sandoval Adriana |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Dr. Domingo Luciani (Llanito) | Sandoval Nelly | 62 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Saneth Ataboni |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Trauma |
+| Hosp. Dr. Domingo Luciani (Llanito) | SANTIAGO MARTINEZ RIOS | 89 | 19275667 | PETARE | DOLOR ABDOMINAL | Fuente: GSheet consolidado todos los archivos (27JUN) · DOLOR ABDOMINAL |
 | Hosp. Dr. Domingo Luciani (Llanito) | Santiago Rivas | 16 | 33285910 |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Hosp. Dr. Domingo Luciani (Llanito) | Saul |  |  | La Guaira | Quirofano - 26 años | Fuente: GSheet consolidado todos los archivos (27JUN) · Quirofano - 26 años |
 | Hosp. Dr. Domingo Luciani (Llanito) | Saul Brah (?) | 24 |  | La Guaira (Caribe) | Trauma – Piso 4 (27/06) | Fuente: Hosp. Domingo Luciani 27JUN (últimos ingresos) |
+| Hosp. Dr. Domingo Luciani (Llanito) | Saul Bruon |  |  | La Guaira | Quirófano | Fuente: GSheet consolidado todos los archivos (27JUN) · Quirófano |
+| Hosp. Dr. Domingo Luciani (Llanito) | Sebastian |  |  | La Guaira | 16 años | Fuente: GSheet consolidado todos los archivos (27JUN) · 16 años |
 | Hosp. Dr. Domingo Luciani (Llanito) | Sebastián Carrasquel | 12 |  | La Guaira | EMG Trauma (7:30 am) | Fuente: Hosp. Domingo Luciani 26JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | SEBASTIAN DONACIENTO MARTINEZ | 16 | 33101293 | LA GUAIRA | SISMO | Fuente: GSheet consolidado todos los archivos (27JUN) · FALLECIDO · SISMO |
 | Hosp. Dr. Domingo Luciani (Llanito) | Sebastián Doncimento (?) | 16 |  |  | UCI | Fuente: Hosp. Domingo Luciani 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Sebastian Donecimiento | 16 |  | Sin información | UCI | Fuente: GSheet VENEZUELA HOSPITALES (203000) · lesión: Sin información · Lista manuscrita 'Pacientes del sismo' 25/06/2026 2:00pm — BAJA CONFIABILIDAD \ |
 | Hosp. Dr. Domingo Luciani (Llanito) | Sebastian Kendi | 16 |  | Sin información | Pediatria | Fuente: GSheet VENEZUELA HOSPITALES (203000) · lesión: Sin información · Unico - sin coincidencia previa |
@@ -2147,6 +2492,7 @@
 | Hosp. Dr. Domingo Luciani (Llanito) | Serra Amira | 66 |  | La Guaira | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Ingresos 6am-9:20pm |
 | Hosp. Dr. Domingo Luciani (Llanito) | Serrano González Nancy |  |  |  | Lista (img.2) |  |
 | Hosp. Dr. Domingo Luciani (Llanito) | Serrano Nancy | 67 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | SERRANO WLADISKA |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Dr. Domingo Luciani (Llanito) | Servis Canines | 46 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · La Guaira – Ingresos 9am |
 | Hosp. Dr. Domingo Luciani (Llanito) | Sierez Francisca |  |  |  | Personas en riesgo | Fuente: Listado 337 personas en riesgo (N° 176) |
 | Hosp. Dr. Domingo Luciani (Llanito) | Silua Yohaiber (?) |  |  |  | Pediatría (II) | Fuente: Hosp. Domingo Luciani 26JUN26 |
@@ -2164,13 +2510,18 @@
 | Hosp. Dr. Domingo Luciani (Llanito) | Silva Yohandry / Silva Johandai |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Simenez Axiel | 4 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Qx |
 | Hosp. Dr. Domingo Luciani (Llanito) | Smel Fernández (?) | 37 |  |  | Medicina Interna (9:00 am) | Fuente: Hosp. Domingo Luciani 26JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Sofia |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Dr. Domingo Luciani (Llanito) | Soncha Catalina | 64 |  | La Guaira | EMG Trauma (7:30 am) | Fuente: Hosp. Domingo Luciani 26JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | STEFHANY GONZALEZ NAVARRO | 22 | 30464608 | CARICUAO | SISMO | Fuente: GSheet consolidado todos los archivos (27JUN) · ALTA · SISMO |
+| Hosp. Dr. Domingo Luciani (Llanito) | Sthephany |  |  | La Guaira | 22 años | Fuente: GSheet consolidado todos los archivos (27JUN) · 22 años |
 | Hosp. Dr. Domingo Luciani (Llanito) | Stiven Sánchez | 24 |  |  | Politrauma — Emergencia Vieja («Trauma Vieja») (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Streu Emma (?) | 8 |  | Sabana Grande | Ingresados por sismo |  |
 | Hosp. Dr. Domingo Luciani (Llanito) | Suárez Granado René |  |  |  | Lista (img.3) |  |
 | Hosp. Dr. Domingo Luciani (Llanito) | Suarez Julio | 19 |  | La Guaira | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Ingresos 6am-9:20pm |
 | Hosp. Dr. Domingo Luciani (Llanito) | Suarez Rene | 62 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Suarez Tulip | 43 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · La Guaira – Ingresos 9am |
+| Hosp. Dr. Domingo Luciani (Llanito) | Suheyn |  |  | La Guaira | 25 años | Fuente: GSheet consolidado todos los archivos (27JUN) · 25 años |
+| Hosp. Dr. Domingo Luciani (Llanito) | SUYIN SINAI ALAYON DIAZ | 50 | 27190139 | MARICHE | DESCOMPENSADO | Fuente: GSheet consolidado todos los archivos (27JUN) · DESCOMPENSADO |
 | Hosp. Dr. Domingo Luciani (Llanito) | Tabiana Rivera (?) | 23 |  | La Guaira (Tanaguarena) | Trauma – Piso 4 (27/06) | Fuente: Hosp. Domingo Luciani 27JUN (últimos ingresos) |
 | Hosp. Dr. Domingo Luciani (Llanito) | Tania Celis (?) | 62 |  |  | UCI | Fuente: Hosp. Domingo Luciani 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Tania Celis / Tanic Celis | 62 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Politrauma Emerg. Vieja – Qx |
@@ -2197,13 +2548,20 @@
 | Hosp. Dr. Domingo Luciani (Llanito) | Urbina Siliberto | 80 |  | Petare | Registro hospitalario | Fuente: GSheet VENEZUELA HOSPITALES (203000) |
 | Hosp. Dr. Domingo Luciani (Llanito) | Urbina Silibeto | 80 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Urbina Silibeto / Urbina Siliberto | 80 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Uscategui Luis |  |  | La Guaira | — | Fuente: GSheet consolidado todos los archivos (27JUN) · — |
+| Hosp. Dr. Domingo Luciani (Llanito) | Valeri |  |  | La Guaira | 10 años | Fuente: GSheet consolidado todos los archivos (27JUN) · 10 años |
+| Hosp. Dr. Domingo Luciani (Llanito) | VALERI ALEXANDRA LOPEZ MORA | 12 | 36905651 | LA GUAIRA | SISMO | Fuente: GSheet consolidado todos los archivos (27JUN) · SISMO |
+| Hosp. Dr. Domingo Luciani (Llanito) | VALERI ALVAREZ | 6 | 27441738 | CATIA LA MAR | SISMO | Fuente: GSheet consolidado todos los archivos (27JUN) · SISMO |
 | Hosp. Dr. Domingo Luciani (Llanito) | Valeri Conables (?) | 10 |  | La Guaira (Caribe Azul) | Pediatría (27/06) | Fuente: Hosp. Domingo Luciani 27JUN (últimos ingresos) |
+| Hosp. Dr. Domingo Luciani (Llanito) | VALERI GONZALEZ TOVAR | 10 | 25464507 | LA GUAIRA | SISMO | Fuente: GSheet consolidado todos los archivos (27JUN) · SISMO |
 | Hosp. Dr. Domingo Luciani (Llanito) | Valerin | 6 |  | La Guaira | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Pediatría – Reanimación |
 | Hosp. Dr. Domingo Luciani (Llanito) | Valerin Aviba (?) | 6 |  | La Guaira (Los Caribes) | Pediatría (27/06) | Fuente: Hosp. Domingo Luciani 27JUN (últimos ingresos) |
+| Hosp. Dr. Domingo Luciani (Llanito) | Valerio |  |  | La Guaira | (Sección inferior) | Fuente: GSheet consolidado todos los archivos (27JUN) · (Sección inferior) |
 | Hosp. Dr. Domingo Luciani (Llanito) | Valero | 46 |  |  | Traumatologia (27/06) | Fuente: Hosp. Domingo Luciani 27JUN (lista por servicio) |
 | Hosp. Dr. Domingo Luciani (Llanito) | Valery López | 12 |  | La Guaira (Caribe – Caraballeda) | UPT – Pediatría (27/06 10:30) | Fuente: Lista 27JUN 10:30 (Domingo Luciani) |
 | Hosp. Dr. Domingo Luciani (Llanito) | Vasaceto Andreina | 43 |  | Sin información | Grupo 'Omaciento Sebastian' (continuación) | Fuente: GSheet VENEZUELA HOSPITALES (203000) · lesión: Sin información · Lista manuscrita 'Pacientes del sismo' 25/06/2026 2:00pm — BAJA CONFIABILIDAD \ |
 | Hosp. Dr. Domingo Luciani (Llanito) | Vasavez Gladys | 72 |  |  | Emergencia (27/06) | Fuente: Hosp. Domingo Luciani 27JUN (lista por servicio) |
+| Hosp. Dr. Domingo Luciani (Llanito) | Vascocelo Andreina |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Dr. Domingo Luciani (Llanito) | Vascocelo Andreina / Vasconelo Andreina |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Vascoceto Andreina | 43 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Vasconcelo Andreína (?) |  |  |  | Lista (img.2) |  |
@@ -2223,7 +2581,9 @@
 | Hosp. Dr. Domingo Luciani (Llanito) | Velázquez Ilidis |  |  |  | Quirófano (26/06, 1:00 pm) (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Velazquez Lioxe | 12 |  |  | Pediatria (27/06) | Fuente: Hosp. Domingo Luciani 27JUN (lista por servicio) |
 | Hosp. Dr. Domingo Luciani (Llanito) | Vequiola Mauro | 55 |  | La Guaira | EMG Trauma (7:30 am) | Fuente: Hosp. Domingo Luciani 26JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Vequiole Menro |  |  | La Guaira | — | Fuente: GSheet consolidado todos los archivos (27JUN) · — |
 | Hosp. Dr. Domingo Luciani (Llanito) | Vera Jace | 41 |  |  | Politrauma Emergencia (27/06) | Fuente: Hosp. Domingo Luciani 27JUN (lista por servicio) |
+| Hosp. Dr. Domingo Luciani (Llanito) | Victoria |  |  | La Guaira | Qx (Quirófano) - 10 años | Fuente: GSheet consolidado todos los archivos (27JUN) · Qx (Quirófano) - 10 años |
 | Hosp. Dr. Domingo Luciani (Llanito) | Victoria Caridad | 29 |  |  | Politrauma — Emergencia Vieja («Trauma Vieja») (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Vieira Maria | 74 |  |  | Emergencia (27/06) | Fuente: Hosp. Domingo Luciani 27JUN (lista por servicio) |
 | Hosp. Dr. Domingo Luciani (Llanito) | Viera José |  |  |  | Poli — Emergencia Nueva (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
@@ -2235,33 +2595,59 @@
 | Hosp. Dr. Domingo Luciani (Llanito) | Villamar Ares | 23 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · La Guaira – Ingresos 9am |
 | Hosp. Dr. Domingo Luciani (Llanito) | Visbal Clara Lojo |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Politrauma |
 | Hosp. Dr. Domingo Luciani (Llanito) | Viviana Tarqui |  |  |  | Cirugía (27/06 10:30) | Fuente: Lista 27JUN 10:30 (Domingo Luciani) |
+| Hosp. Dr. Domingo Luciani (Llanito) | WILFRED QUESADA ZAMARRA | 39 | 17769820 | LA GUAIRA | SISMO | Fuente: GSheet consolidado todos los archivos (27JUN) · SISMO |
+| Hosp. Dr. Domingo Luciani (Llanito) | WILMARI MATILDE ABELLO | 36 | 18134813 | PETARE | SISMO | Fuente: GSheet consolidado todos los archivos (27JUN) · FALLECIDO · SISMO |
+| Hosp. Dr. Domingo Luciani (Llanito) | Wilmer |  |  | La Guaira | 37 años | Fuente: GSheet consolidado todos los archivos (27JUN) · 37 años |
 | Hosp. Dr. Domingo Luciani (Llanito) | Winchester Kellys | 28 |  | Petare | Ingresados por sismo |  |
+| Hosp. Dr. Domingo Luciani (Llanito) | Wladiuska |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Dr. Domingo Luciani (Llanito) | Wuinter Rodríguez | 31 |  | La Guaira (Quebrada de…) | Traumatología (27/06 10:30) | Fuente: Lista 27JUN 10:30 (Domingo Luciani) |
 | Hosp. Dr. Domingo Luciani (Llanito) | Yandi Sebastian |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Pediatría |
+| Hosp. Dr. Domingo Luciani (Llanito) | YANDRY SILVA | 9 |  | GUAIRA | SISMO | Fuente: GSheet consolidado todos los archivos (27JUN) · SISMO |
 | Hosp. Dr. Domingo Luciani (Llanito) | Yandy Sebastián |  |  |  | Pediatría (II) | Fuente: Hosp. Domingo Luciani 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Yañez Yelitza | 57 | 9953902 |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado; Medicatura |
 | Hosp. Dr. Domingo Luciani (Llanito) | Yasqueidy Fernandez | 35 |  | La Guaira | EMG Trauma | Fuente: GSheet VENEZUELA HOSPITALES (203000) · lesión: Sin información · Lista manuscrita Domingo Luciani — BAJA CONFIABILIDAD \ |
 | Hosp. Dr. Domingo Luciani (Llanito) | Yelen Jalanar (?) | 23 |  | La Guaira | Trauma – Piso 4 (27/06) | Fuente: Hosp. Domingo Luciani 27JUN (últimos ingresos) |
+| Hosp. Dr. Domingo Luciani (Llanito) | YELITZA ODALI YACIZ | 43 | 15831697 | LA GUAIRA | SISMO | Fuente: GSheet consolidado todos los archivos (27JUN) · SISMO |
+| Hosp. Dr. Domingo Luciani (Llanito) | Yenderlin |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Dr. Domingo Luciani (Llanito) | YENDERLIN CABRERA | 13 | 25862641 | LA GUAIRA | SISMO | Fuente: GSheet consolidado todos los archivos (27JUN) · SISMO |
+| Hosp. Dr. Domingo Luciani (Llanito) | Yenderlin Calbarga |  |  | La Guaira | Pediatría Emergencia | Fuente: GSheet consolidado todos los archivos (27JUN) · Pediatría Emergencia |
 | Hosp. Dr. Domingo Luciani (Llanito) | Yenderly C. Cabarcas | 13 |  | La Guaira (Caribe) | Pediatría – UCI (27/06) | Fuente: Hosp. Domingo Luciani 27JUN (últimos ingresos) |
 | Hosp. Dr. Domingo Luciani (Llanito) | Yendi Sebastien | 7 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Pediatría |
 | Hosp. Dr. Domingo Luciani (Llanito) | Yenire Rer | 29 |  | Sin información | Cardiología Piso 2 (H-10) | Fuente: GSheet VENEZUELA HOSPITALES (203000) · lesión: Sin información · Lista manuscrita Domingo Luciani — BAJA CONFIABILIDAD \ |
 | Hosp. Dr. Domingo Luciani (Llanito) | Yenjeil | 13 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Quirófano – F; Carbacas |
 | Hosp. Dr. Domingo Luciani (Llanito) | Yenjerlis Carbacas (?) | 13 |  |  | Quirófano (9:27 am) | Fuente: Hosp. Domingo Luciani 26JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Yenny |  |  | La Guaira | 34 años | Fuente: GSheet consolidado todos los archivos (27JUN) · 34 años |
 | Hosp. Dr. Domingo Luciani (Llanito) | Yeremia Blanco | Sin información |  | Sin información | Cardiología Piso 2 (H-10) | Fuente: GSheet VENEZUELA HOSPITALES (203000) · lesión: Sin información · Lista manuscrita Domingo Luciani — BAJA CONFIABILIDAD \ |
 | Hosp. Dr. Domingo Luciani (Llanito) | Yesica Blanco | 53 |  |  | POLI I (7:20 am) | Fuente: Hosp. Domingo Luciani 26JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | YESIRET MENDEZ | 24 | 30654788 | GUARENAS | SISMO | Fuente: GSheet consolidado todos los archivos (27JUN) · ALTA · SISMO |
+| Hosp. Dr. Domingo Luciani (Llanito) | Yessica |  |  | La Guaira | Piso 2 | Fuente: GSheet consolidado todos los archivos (27JUN) · Piso 2 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Yessica Aponte | 19 |  |  | Politrauma — Emergencia Vieja («Trauma Vieja») (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Yessica Blanco |  |  |  | Triaje de cirugía |  |
+| Hosp. Dr. Domingo Luciani (Llanito) | Yessika |  |  | La Guaira | 53 años | Fuente: GSheet consolidado todos los archivos (27JUN) · 53 años |
+| Hosp. Dr. Domingo Luciani (Llanito) | YESSTY BLANCO | 53 | 11635019 | LA GUAIRA | SISMO | Fuente: GSheet consolidado todos los archivos (27JUN) · SISMO |
 | Hosp. Dr. Domingo Luciani (Llanito) | Yina Brito | 49 |  | Sin información | Cardiología Piso 2 (H-11) | Fuente: GSheet VENEZUELA HOSPITALES (203000) · lesión: Sin información · Lista manuscrita Domingo Luciani — BAJA CONFIABILIDAD \ |
 | Hosp. Dr. Domingo Luciani (Llanito) | Yinderli Cavarca | 13 |  | La Guaira | Pediatría (7:00 am) | Fuente: Hosp. Domingo Luciani 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Yoalbis Silva | 7 |  |  | Pediatria (27/06) | Fuente: Hosp. Domingo Luciani 27JUN (lista por servicio) |
+| Hosp. Dr. Domingo Luciani (Llanito) | YOANDERLIN RODRIGUEZ MENDEZ | 19 | 32200735 | GUARENA | DOLOR | Fuente: GSheet consolidado todos los archivos (27JUN) · DOLOR |
 | Hosp. Dr. Domingo Luciani (Llanito) | Yoanha Pirma (?) | 18 |  | Barlovento (?) | Trauma – Piso 4 (27/06) | Fuente: Hosp. Domingo Luciani 27JUN (últimos ingresos) |
+| Hosp. Dr. Domingo Luciani (Llanito) | Yohany |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Dr. Domingo Luciani (Llanito) | YOLANDA BARROETA IZAGUIRRE | 46 | 14313018 | LA GUAIRA | SISMO | Fuente: GSheet consolidado todos los archivos (27JUN) · SISMO |
+| Hosp. Dr. Domingo Luciani (Llanito) | YOLANDA DE CESPE | 88 | 1446454 | CARABALLEDA | SISMO | Fuente: GSheet consolidado todos los archivos (27JUN) · ALTA · SISMO |
+| Hosp. Dr. Domingo Luciani (Llanito) | Yolande De Ceco |  |  | La Guaira | — | Fuente: GSheet consolidado todos los archivos (27JUN) · — |
+| Hosp. Dr. Domingo Luciani (Llanito) | Yoscarli |  |  | La Guaira | Quirofano | Fuente: GSheet consolidado todos los archivos (27JUN) · Quirofano |
 | Hosp. Dr. Domingo Luciani (Llanito) | Yoselin Garabit (?) | 33 |  | La Guaira | Cirugía (27/06) | Fuente: Hosp. Domingo Luciani 27JUN (últimos ingresos) |
+| Hosp. Dr. Domingo Luciani (Llanito) | YOSELY GUEVARA | 55 | 6693479 | PETARE | SISMO | Fuente: GSheet consolidado todos los archivos (27JUN) · ALTA · SISMO |
 | Hosp. Dr. Domingo Luciani (Llanito) | Yosemi Garoboto (?) | 30 |  |  | Politrauma — Emergencia Vieja | Fuente: Hosp. Domingo Luciani 26JUN26 |
+| Hosp. Dr. Domingo Luciani (Llanito) | Yoserni Garabito |  |  | La Guaira | Politrauma Emergencia Vieja | Fuente: GSheet consolidado todos los archivos (27JUN) · Politrauma Emergencia Vieja |
+| Hosp. Dr. Domingo Luciani (Llanito) | YULEIDY PUELLO BLANCO | 28 | 26368632 | LA GUAIRA | SISMO | Fuente: GSheet consolidado todos los archivos (27JUN) · SISMO |
 | Hosp. Dr. Domingo Luciani (Llanito) | Yuliany Mora | 52 |  |  | Politrauma — Emergencia Vieja («Trauma Vieja») (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
 | Hosp. Dr. Domingo Luciani (Llanito) | Yuniscarly Bednar (?) | 17 |  | La Guaira (Playa Grande) | Pediatría – UCI (27/06) | Fuente: Hosp. Domingo Luciani 27JUN (últimos ingresos) |
 | Hosp. Dr. Domingo Luciani (Llanito) | Zamora Samy | 38 |  |  | Quirofano (27/06) | Fuente: Hosp. Domingo Luciani 27JUN (lista por servicio) |
+| Hosp. Dr. Domingo Luciani (Llanito) | Zoda Aleida |  |  | La Guaira | — | Fuente: GSheet consolidado todos los archivos (27JUN) · — |
+| Periférico de Catia | Abdaly Villamizar 28 a | 28254624 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Periférico de Catia | Abdly Abdelys | 28 | 26254624 |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Cirugía General |
 | Periférico de Catia | Abrau Isabel | 36 |  |  | Trauma (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
+| Periférico de Catia | Abre Jose | 49 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Periférico de Catia | Abreu Ana | 36 | 22036301 |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Cirugía General |
 | Periférico de Catia | Abreu Isabel |  |  | Alta vista, 81 (?) | Registro de emergencia | caída |
 | Periférico de Catia | Alandra Mendoza | 29 |  | Alta Vista | Sin información | Fuente: GSheet VENEZUELA HOSPITALES (203000) · lesión: Sin información · N° lista manuscrita: 77 |
@@ -2270,19 +2656,26 @@
 | Periférico de Catia | Albino Walter / Albino Varker | 45 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Prosganda abdominal / Sola / Acc Moto 4:15 |
 | Periférico de Catia | Alcantara Amalis | 39 | 174433320 | Sin información | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Cirugía General |
 | Periférico de Catia | Alcántara Amelis | 39 | 17443332 |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Cirugía General |
+| Periférico de Catia | Aldo Chacón | 54 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Periférico de Catia | Aletis Zacarías (?) |  |  | — | Registro de emergencia | caída |
 | Periférico de Catia | Aletis Zacaries | 45 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Solo |
 | Periférico de Catia | Alex Palencia |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Periférico de Catia | Alexander Chirinos | 21 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Periférico de Catia | Alexandra Chirino 21 a | 31995517 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Periférico de Catia | Alexis Zacarias | 46 |  | Calle San Isidro | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Periférico de Catia | Alfredo Núñez | 67 |  | Con Magallanes | Registro de emergencia | F. abierta (?) |
 | Periférico de Catia | Álvaro Fabias | 56 | 9960614 | Caracas: Sabana Grande | Traumatología Masculino | Fuente: Drive SISMO_1554 26JUN26 |
+| Periférico de Catia | Álvaro Fabias 56 a | 9960614 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Periférico de Catia | Álvaro Fadia | 56 | 99605140 | Sin información | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Emergencia |
 | Periférico de Catia | Alvaro Ruiz | 23 |  | Sin información | Sin información | Fuente: GSheet VENEZUELA HOSPITALES (203000) · lesión: Sin información · Falleció \ |
 | Periférico de Catia | Amarili Blanco | 67 |  |  | Hospitalización Mujeres | Fuente: Drive SISMO_1554 26JUN26 |
+| Periférico de Catia | Amarili Blanco 67 a |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Periférico de Catia | Ana Abreu 36 a | 22636301 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Periférico de Catia | Ana González | 46 |  | Calle San Andrés (?) | Registro de emergencia | caída |
 | Periférico de Catia | Angel Silva | 38 | 258703990 | La Guaira | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Sin información |
 | Periférico de Catia | Angela Galaviz | 53 | 116660620 | Sin información | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Emergencia |
 | Periférico de Catia | Angely Espinoza | Sin información |  | Playa Verde | Sin información | Fuente: GSheet VENEZUELA HOSPITALES (203000) · lesión: Sin información · N° lista manuscrita: 2 |
+| Periférico de Catia | Anyisnay Greu | 23 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Periférico de Catia | Arautza Ramirez | 11 |  | Sin información | Sin información | Fuente: GSheet VENEZUELA HOSPITALES (203000) · lesión: Sin información · N° lista manuscrita: 78 |
 | Periférico de Catia | Arocha Jaime | 7 |  | Caraballeda | Emergencia - Traumatología | Fuente: GSheet VENEZUELA HOSPITALES (203000) · lesión: Sin información · Foto 1/5 (Pacientes de emergencia) \ |
 | Periférico de Catia | Ashley López | 5 |  | La Guaira: Caribe | Pediatría | Fuente: Drive SISMO_1554 26JUN26 |
@@ -2290,18 +2683,22 @@
 | Periférico de Catia | Belquis Novaz | 65 | 60568920 | Sin información | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Cirugía General |
 | Periférico de Catia | Benites Karli | 43 |  |  | Trauma (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
 | Periférico de Catia | Bereza Celameric | 49 | 135716360 | La Guaira | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Sin información |
+| Periférico de Catia | Beris Planas | 52 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Periférico de Catia | Bertma Laguna |  |  |  | Trauma Shock | Fuente: Drive SISMO_1554 26JUN26 |
 | Periférico de Catia | Capella Harold | 33 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Traumat. odf con lacera / Sola / Consulta 3:21 |
 | Periférico de Catia | Capota Harold | 33 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Solo |
 | Periférico de Catia | Capote Harold | 43 |  | San Lorenzo | Registro de emergencia | dolor |
 | Periférico de Catia | Carla Leen | 49 | 17700355 | La Guaira | Traumatología Femenino | Fuente: Drive SISMO_1554 26JUN26 |
+| Periférico de Catia | Carla Leen 49 a | 17700355 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Periférico de Catia | Carla León | 44 | 127003550 | Sin información | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Cirugía General |
 | Periférico de Catia | Carlos Katia (?) | 30 |  | Santa Cruz, Aragua | Registro de emergencia | caída |
 | Periférico de Catia | Carlos Malier | 26 |  | La Guaira, Maiquetia | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Emerg |
 | Periférico de Catia | Carlos Maya | 26 |  | La Guaira | Sin información | Fuente: GSheet VENEZUELA HOSPITALES (203000) · lesión: Sin información · N° lista manuscrita: 11 |
 | Periférico de Catia | Carmen Marín | 53 |  | Caracas: Catia | Hospitalización Mujeres | Fuente: Drive SISMO_1554 26JUN26 |
+| Periférico de Catia | Carmen Marín 53 a |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Periférico de Catia | Carmesn Quintera | 22 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Sola |
 | Periférico de Catia | Carolina Salazar | 49 | 133333590 | Sin información | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Cirugía General |
+| Periférico de Catia | Caroline Zubizar |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Periférico de Catia | Carrasco Gyotisbel (?) | 47 |  |  | Cirugía (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
 | Periférico de Catia | Carreño Daniela | 15 | 32525559 |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Cirugía/Trauma |
 | Periférico de Catia | Carrero Jignex (?) | 45 |  |  | Trauma (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
@@ -2333,12 +2730,14 @@
 | Periférico de Catia | Cranaska Scoth | 54 |  | Alta Vista / Catia | Sin información | Fuente: GSheet VENEZUELA HOSPITALES (203000) · lesión: Sin información · N° lista manuscrita: 8 |
 | Periférico de Catia | Danely Rodríguez |  |  | Los Paraísos de #13 | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Periférico de Catia | Daner Salazar | 50 | 11557611 | Caracas: Catia | Ingresados Piso de Cirugía | Fuente: Drive SISMO_1554 26JUN26 |
+| Periférico de Catia | Daner Salazar 50 a | 11557611 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Periférico de Catia | Daniela Ysabel | 32 |  | Alta Vista 81 | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Periférico de Catia | Darío Reuben | 64 |  |  | Trauma (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
 | Periférico de Catia | Darío Rubén | 64 |  | Los Frailes | Registro de emergencia | caída |
 | Periférico de Catia | David Betancourt | 61 |  | Valles del Tuy | Sin información | Fuente: GSheet VENEZUELA HOSPITALES (203000) · lesión: Sin información · N° lista manuscrita: 32 |
 | Periférico de Catia | Deagrela José | 48 | 13373135 |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Cirugía General |
 | Periférico de Catia | Deivy Rodríguez | 19 |  | Caracas: Catia | Hospitalización Masculinos | Fuente: Drive SISMO_1554 26JUN26 |
+| Periférico de Catia | Deivy Rodriguez 19 Años |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Periférico de Catia | Delgado Orlando | 45 |  |  | Trauma (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
 | Periférico de Catia | Dereck Torjaz / Dereck Torres | 17 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Solo |
 | Periférico de Catia | Dereck Torres | 5 |  | Calle real Los Flores | Registro de emergencia | caída |
@@ -2346,9 +2745,11 @@
 | Periférico de Catia | Derek Frequez | 51 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Solo |
 | Periférico de Catia | Didilet Grillet | 37 | 181832300 | Sin información | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Cirugía General |
 | Periférico de Catia | Dilia Lemos | 49 | 13531669 | Caracas: La Silsa | Traumatología Femenino | Fuente: Drive SISMO_1554 26JUN26 |
+| Periférico de Catia | Dilia Lemos 49 a | 13531669 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Periférico de Catia | Edgar González | 48 |  | Carrizal, Los Teques | Registro de emergencia | oreja (?) |
 | Periférico de Catia | Eduangelys Córdoba | 6 |  | Sin información | Cirugía General | Fuente: GSheet VENEZUELA HOSPITALES (203000) · lesión: Sin información · Sin información |
 | Periférico de Catia | Edurriguez Cordova | Sin información |  | Carretera vieja Cs-Lg | Sin información | Fuente: GSheet VENEZUELA HOSPITALES (203000) · lesión: Sin información · N° lista manuscrita: 9 |
+| Periférico de Catia | Eduyolis Rivero | 6 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Periférico de Catia | Edvangely Carboda | 6 |  | Vía La Guaira | Pediatría | Fuente: Drive SISMO_1554 26JUN26 |
 | Periférico de Catia | Elorza Keiber | 26 |  | Altavista | Emergencia - Traumatología | Fuente: GSheet VENEZUELA HOSPITALES (203000) · lesión: Sin información · Foto 1/5 (Pacientes de emergencia) \ |
 | Periférico de Catia | Ender Rangel | 150 |  | por Suere | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Hermanos / Caída |
@@ -2373,6 +2774,7 @@
 | Periférico de Catia | Garces Rosa Ángel | 32 |  |  | Trauma (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
 | Periférico de Catia | Garcia Yenny |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Periférico de Catia | Garrido Luz Mary | 39 |  | Valles del Tuy | Emergencia - Traumatología | Fuente: GSheet VENEZUELA HOSPITALES (203000) · lesión: Sin información · Foto 1/5 (Pacientes de emergencia) \ |
+| Periférico de Catia | Geecan Jhon | 42 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Periférico de Catia | Geecon Jhon (?) | 42 |  |  | Medicina (?) (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
 | Periférico de Catia | Georrin Valella | 22 | 30114918 |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Cirugía General |
 | Periférico de Catia | Gisbet Peña | 51 |  | Casalta + sector Rio | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
@@ -2387,6 +2789,7 @@
 | Periférico de Catia | Gresen John | 47 |  | Los Corales | Emergencia - Cirugía | Fuente: GSheet VENEZUELA HOSPITALES (203000) · lesión: Sin información · Foto 1/5 (Pacientes de emergencia) \ |
 | Periférico de Catia | Greyli Oropeza (?) | 24 |  | — | Registro de emergencia | caída |
 | Periférico de Catia | Greysi Oropoza | 20 |  | La Guaira detras | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · TRM |
+| Periférico de Catia | Guide Colmenares | 58 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Periférico de Catia | Guillen Mariana | 6 |  |  | Pediatría (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
 | Periférico de Catia | Gustavo Ávila (?) | 72 |  | Cañada 23 de Enero | Registro de emergencia | caída |
 | Periférico de Catia | Gustavo Avile | 52 |  | La Guaira | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · TRM |
@@ -2401,11 +2804,14 @@
 | Periférico de Catia | Hernández Yamileth | 61 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Cirugía/Trauma |
 | Periférico de Catia | Hero Marcela (?) | 41 |  | — | Registro de emergencia | acc. moto |
 | Periférico de Catia | Hiangely Nieto | 18 |  | Caraballeda, La Guaira | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · TRM |
+| Periférico de Catia | Hilali Rodriguez 31 a | 23710358 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Periférico de Catia | Hilari Moro | 13 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Periférico de Catia | Hillali Rodríguez | 31 | 23710358 | Caracas: Catia | Hospitalización Mujeres | Fuente: Drive SISMO_1554 26JUN26 |
 | Periférico de Catia | Hriangely Nieto (?) | 26 |  | La Quebrada | Registro de emergencia | cara (?) |
 | Periférico de Catia | Ibarra Ana |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Periférico de Catia | Ingrid Lopez | 58 | 105288780 | Sin información | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Cirugía / Trauma |
 | Periférico de Catia | Iván Mendieta | 65 |  |  | Hospitalización Masculinos | Fuente: Drive SISMO_1554 26JUN26 |
+| Periférico de Catia | Ivan Mendieta 65 años |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Periférico de Catia | Jaimez Rubén Darío | 74 | 6433372 |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Cirugía General |
 | Periférico de Catia | Janeht Seville | 49 |  |  | Trauma (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
 | Periférico de Catia | Jannet Tejera | 72 |  | La Guaira | Sin información | Fuente: GSheet VENEZUELA HOSPITALES (203000) · lesión: Sin información · N° lista manuscrita: 75 |
@@ -2413,13 +2819,16 @@
 | Periférico de Catia | Jesel John | 49 | 13827925 |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Cirugía/Trauma |
 | Periférico de Catia | Jesus Garces | 5 |  | La Guaira | Sin información | Fuente: GSheet VENEZUELA HOSPITALES (203000) · lesión: Sin información · N° lista manuscrita: 83 |
 | Periférico de Catia | Jesús Orozco | 63 | 8178191 | La Guaira: Sumba | Traumatología Masculino | Fuente: Drive SISMO_1554 26JUN26 |
+| Periférico de Catia | Jesús Orozco 63 a | 8178191 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Periférico de Catia | Jesús Vegas | 20 |  | Playa Grande | Registro de emergencia | caída |
 | Periférico de Catia | Jhnnson Esteban | 20 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Pareja |
 | Periférico de Catia | Jhon Gessen | 47 | 138279250 | Sin información | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Cirugía General |
 | Periférico de Catia | Jhonson Esteban | 52 |  | La Guaira, Maiquetía | Registro de emergencia | caída |
+| Periférico de Catia | Jhonson Estébez 24 a | 29571733 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Periférico de Catia | Jhonson Steban | 24 |  | Playa Grande | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · TRM |
 | Periférico de Catia | José Agre | 49 |  |  | Trauma (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
 | Periférico de Catia | Jose Alarcon | 47 | 135153640 | Ciudad Caribe | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Sin información |
+| Periférico de Catia | José Alarcón 47 a | 13515304 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Periférico de Catia | José Archeta |  |  |  | Trauma Shock | Fuente: Drive SISMO_1554 26JUN26 |
 | Periférico de Catia | José Arvojo |  |  |  | Trauma Shock | Fuente: Drive SISMO_1554 26JUN26 |
 | Periférico de Catia | Jose Coffair | 69 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Prepa |
@@ -2427,6 +2836,8 @@
 | Periférico de Catia | José Márquez |  |  |  | Trauma Shock | Fuente: Drive SISMO_1554 26JUN26 |
 | Periférico de Catia | Jose Orozco | 63 |  | La Guaira | Sin información | Fuente: GSheet VENEZUELA HOSPITALES (203000) · lesión: Sin información · N° lista manuscrita: 70 |
 | Periférico de Catia | Jose Pertuz | 60 |  | La Guaira | Sin información | Fuente: GSheet VENEZUELA HOSPITALES (203000) · lesión: Sin información · N° lista manuscrita: 42 \ |
+| Periférico de Catia | José Planas 52 a | 12163470 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Periférico de Catia | Jyotisbel Carrasco | 47 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Periférico de Catia | Karle Jean | 54 |  | Casalta, bloque 10 | Registro de emergencia | caída |
 | Periférico de Catia | Kenic Núñez | 40 |  |  | Trauma (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
 | Periférico de Catia | Lama Daniela | 3 |  | 3er plan de la Selva | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Hijo / Caída 6:57 |
@@ -2435,8 +2846,14 @@
 | Periférico de Catia | Lemus Dilsia | 49 |  |  | Trauma (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
 | Periférico de Catia | León Karles | 49 |  |  | Trauma (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
 | Periférico de Catia | Leonardo Machado | 28 | 258785560 | La Pastora | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Sin información |
+| Periférico de Catia | Leoneldi Sidira 30 a | 25175345 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Periférico de Catia | Leonidy Silvera | 30 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Periférico de Catia | Lien Castro | 6 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Periférico de Catia | Ligney Carrero | 45 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Periférico de Catia | Linares Milagros | 45 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Periférico de Catia | Lisman Quintana | 3 |  |  | Trauma (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
 | Periférico de Catia | Lismar Quintan (?) | 69 |  | Gramoven (?) | Registro de emergencia | caída |
+| Periférico de Catia | Lismar Quintana | 3 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Periférico de Catia | Lismen Quintan | 68 |  | Gramoven Nuevo H. | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Periférico de Catia | López Marioly | 44 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Fractura de propina / Sola / Golpe 3:50 |
 | Periférico de Catia | Lopez Mora Ashley | 8 |  | Caribe | Emergencia - Pediatría | Fuente: GSheet VENEZUELA HOSPITALES (203000) · lesión: Sin información · Foto 1/5 (Pacientes de emergencia) \ |
@@ -2450,12 +2867,14 @@
 | Periférico de Catia | Luisangely Zapata | 28 |  | Carayaca, B.N. | Registro de emergencia |  |
 | Periférico de Catia | Luisangelys Zapata | 20 | 329722370 | Sin información | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Cirugía General |
 | Periférico de Catia | Luisanyeli Zapata | 20 | 31962237 | Caracas: El Atillo | Ingresados Piso de Cirugía | Fuente: Drive SISMO_1554 26JUN26 |
+| Periférico de Catia | Luisanyeli Zapata 20 a | 31962237 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Periférico de Catia | Maa Gonzalez | 67 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Solo |
 | Periférico de Catia | Madden Yaletzy | 45 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Sola |
 | Periférico de Catia | Madno Valketz | 44 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Sola |
 | Periférico de Catia | Magaly Cid | Sin información |  | Sin información | Sin información | Fuente: GSheet VENEZUELA HOSPITALES (203000) · lesión: Sin información · Falleció (reportada S/S/V) \ |
 | Periférico de Catia | Manuel Garces | 7 |  | La Guaira | Sin información | Fuente: GSheet VENEZUELA HOSPITALES (203000) · lesión: Sin información · N° lista manuscrita: 82 |
 | Periférico de Catia | Marcó Mortales | 77 | 102790360 | Sin información | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Cirugía General |
+| Periférico de Catia | Margaret Pestano 35 a | 19915985 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Periférico de Catia | María Araque | 75 | 56415500 | Sin información | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Emergencia |
 | Periférico de Catia | Maria Brito | 56 |  | Sin información | Sin información | Fuente: GSheet VENEZUELA HOSPITALES (203000) · lesión: Sin información · Falleció |
 | Periférico de Catia | Maria Ditaz Jonny | 12 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Amiga |
@@ -2472,6 +2891,7 @@
 | Periférico de Catia | Marie Bamba | 27 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Solo |
 | Periférico de Catia | Marie Zean | 49 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Zolo |
 | Periférico de Catia | Mariela Páez | 64 | 86177760 | Sin información | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Cirugía General |
+| Periférico de Catia | Marin Cartaya | 53 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Periférico de Catia | Marisol Colmenares | 40 | 189156760 | Caracas | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Sin información |
 | Periférico de Catia | Marlene Teran (?) | 22 |  | La Silsa (?) | Registro de emergencia | caída |
 | Periférico de Catia | Martínez Yamilith | 30 |  | Se. Grativia | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Amiga / Caída 7:46 |
@@ -2504,12 +2924,17 @@
 | Periférico de Catia | Moreno Yader | 24 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · B/edemat guiñat morita / Mamá / Caída 2:56 |
 | Periférico de Catia | Moreno Yorber | 70 |  | B/ Federico Quiroz (?) | Registro de emergencia | caída |
 | Periférico de Catia | Muñoz Alfredo | 62 |  |  | MI (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
+| Periférico de Catia | Naiber Lopez | 22 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Periférico de Catia | Nazar Heiverson (?) | 44 |  | Brisas de Propatria (?) | Registro de emergencia | caída |
 | Periférico de Catia | Nelson Hedaine (?) | 49 |  | Calle Caribe | Registro de emergencia | caída |
 | Periférico de Catia | Nelson Nadine | 49 |  | Calle Caribe, Japon | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · TRM |
 | Periférico de Catia | Nelsor Zabala | 49 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Ajenas |
+| Periférico de Catia | Nerio Nuñez | 40 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Periférico de Catia | Niangel Nieto | 18 | 319620870 | Sin información | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Cirugía General |
 | Periférico de Catia | Nieto Milanger | 18 |  |  | Trauma (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
+| Periférico de Catia | Nievez Rogmel | 30 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Periférico de Catia | Nombre Apellido / Segundo Nombre |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Periférico de Catia | Nombre y Apellido Edad |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Periférico de Catia | Nuñez Maria | 40 |  | La Guaira, La Coca | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · TRM |
 | Periférico de Catia | Ojelita Galbán (?) | 46 |  | — | Registro de emergencia | caída |
 | Periférico de Catia | Olga Ramírez | 70 | 51396010 | Sin información | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Emergencia |
@@ -2549,6 +2974,7 @@
 | Periférico de Catia | Plane Bemb (?) | 52 |  |  | Trauma (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
 | Periférico de Catia | Plata Benito | 52 |  | Carayaca | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · TRM |
 | Periférico de Catia | Quetoy Ysabel | 36 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Esposa / Her. cuta 8l / Caída 7:14 |
+| Periférico de Catia | Quintana Jismar | 3 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Periférico de Catia | Raul Martinez | 68 |  | Catia la Mar | Sin información | Fuente: GSheet VENEZUELA HOSPITALES (203000) · lesión: Sin información · N° lista manuscrita: 23 |
 | Periférico de Catia | Renic Núñez (?) | 54 |  | Federico Quiroz (?) | Registro de emergencia | caída |
 | Periférico de Catia | Reyes Mary | 40 |  | La Guaira, Lo Coco | Registro de emergencia | caída |
@@ -2566,6 +2992,7 @@
 | Periférico de Catia | Rodríguez Sanely | 15 |  | Los Frailes (?) | Registro de emergencia | golpe (?) |
 | Periférico de Catia | Roomel Reina | 30 |  | Santa Maria, Aragua | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · H.I |
 | Periférico de Catia | Rosa Garce | 31 | 20604161 | La Guaira: Playa Grande | Traumatología Femenino | Fuente: Drive SISMO_1554 26JUN26 |
+| Periférico de Catia | Rosa Garce 31 a | 20604161 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Periférico de Catia | Roshel Nievez | 30 |  |  | Trauma (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
 | Periférico de Catia | Rosman Reina | Sin información |  | Santa Cruz | Sin información | Fuente: GSheet VENEZUELA HOSPITALES (203000) · lesión: Sin información · N° lista manuscrita: 3 |
 | Periférico de Catia | Rosmel Majia | 17 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Solo |
@@ -2576,17 +3003,23 @@
 | Periférico de Catia | Salazar Caroline / Salazar Canciles | 6 |  | Ly/ Guiñare | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Sobrín / Caída 7:30 |
 | Periférico de Catia | Salazar Coraline (?) | 6 |  | La Guaira | Registro de emergencia | caída |
 | Periférico de Catia | Sánchez María | 30 |  | — | Registro de emergencia | quemada (?) |
+| Periférico de Catia | Santonia Yolitza | 46 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Periférico de Catia | Seeisangely Zapata | 20 |  | La Guaira, Maiquetia | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · TRM |
 | Periférico de Catia | Semeria Irllis | 49 |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Cirugía General |
+| Periférico de Catia | Seville Joneht | 49 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Periférico de Catia | Silvera Leoneidy | 30 |  |  | Trauma Shock (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
+| Periférico de Catia | Silvia Yanez 72 a | 3557870 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Periférico de Catia | Simón Contreras | 64 | 56855190 | Sin información | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Cirugía General |
 | Periférico de Catia | Sivira Leoneidy | 30 | 25175345 |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Cirugía General |
 | Periférico de Catia | Sofía López | 15 |  | La Guaira: Caribe | Pediatría | Fuente: Drive SISMO_1554 26JUN26 |
+| Periférico de Catia | Sofía López 15 a |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Periférico de Catia | Solazar Carolina | 6 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Periférico de Catia | Sorislet Millán | 39 | 181426950 | Sin información | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Cirugía General |
 | Periférico de Catia | Soya Estefania | 14 |  |  | Trauma (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
 | Periférico de Catia | Spinola Kelly | 38 | 17482090 |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Cirugía General |
+| Periférico de Catia | Steban Jhonsoo | 24 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Periférico de Catia | Tania Terán | 55 | 114099970 | Sin información | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Cirugía General |
+| Periférico de Catia | Tania Terán 55 a | 11409987 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Periférico de Catia | Terán Audia | 54 | 11055173 |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Cirugía General |
 | Periférico de Catia | Terán Ezequiel | 15 |  |  | MI (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
 | Periférico de Catia | Terán Tenía | 55 | 11409997 |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Cirugía General |
@@ -2599,6 +3032,8 @@
 | Periférico de Catia | Valencia Flix | 22 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Sola |
 | Periférico de Catia | Valencia Heiverton | 44 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Sola |
 | Periférico de Catia | Valeri López | 12 |  | La Guaira: Caribe | Pediatría | Fuente: Drive SISMO_1554 26JUN26 |
+| Periférico de Catia | Valeri López 12 a |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Periférico de Catia | Valeria Gorrin 22 a | 30114918 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Periférico de Catia | Vegas Jenco | 14 | 34273706 |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Cirugía/Trauma |
 | Periférico de Catia | Villamizar Abdalis | 28 |  |  | Trauma (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
 | Periférico de Catia | Villamizar Abdaly |  |  | — | Registro de emergencia |  |
@@ -2611,11 +3046,15 @@
 | Periférico de Catia | Yarlys Contreras |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Periférico de Catia | Yasey Mirabal | 16 |  | La Guaira | Sin información | Fuente: GSheet VENEZUELA HOSPITALES (203000) · lesión: Sin información · N° lista manuscrita: 76 |
 | Periférico de Catia | Yeison Blanco | 17 |  | La Guaira | Ingresados Piso de Cirugía | Fuente: Drive SISMO_1554 26JUN26 |
+| Periférico de Catia | Yeison Blanco 17 a |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Periférico de Catia | Yeleni Chirino | 58 |  | Playa Grande | Sin información | Fuente: GSheet VENEZUELA HOSPITALES (203000) · lesión: Sin información · N° lista manuscrita: 79 |
 | Periférico de Catia | Yeleny Chirino | 58 | 12389975 | La Guaira: Playa Grande | Traumatología en Pasillo | Fuente: Drive SISMO_1554 26JUN26 |
+| Periférico de Catia | Yeleny Chirino 58 a | 12389975 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Periférico de Catia | Yelitza Caffarin | 46 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · TRM |
 | Periférico de Catia | Yenic Suarez | 40 |  | Calle Real A. Ruiz | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · TRM |
+| Periférico de Catia | Yenny González 47 a | 13828545 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Periférico de Catia | Yenny Sevilla (?) | 36 |  | Blandín (?) | Registro de emergencia | caída |
+| Periférico de Catia | Yeritma Cortez 58 a | 6340991 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Periférico de Catia | Yhusela Colmenares | 50 |  | Cromoven / Catia | Sin información | Fuente: GSheet VENEZUELA HOSPITALES (203000) · lesión: Sin información · N° lista manuscrita: 31 \ |
 | Periférico de Catia | Yohan Peña (?) | 51 |  | Caribe, Soternio (?) | Registro de emergencia | caída |
 | Periférico de Catia | Yolitza Sarfonia | 46 |  |  | Trauma (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
@@ -2624,6 +3063,7 @@
 | Periférico de Catia | Yonson Esteben | 24 | 295717330 | Sin información | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Cirugía General |
 | Periférico de Catia | Yorber Peña | 36 |  |  | Cirugía (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
 | Periférico de Catia | Yorimar Cortez | 58 | 63409910 | Sin información | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Cirugía General |
+| Periférico de Catia | Yropeza Gracisy | 20 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Periférico de Catia | Yulibeth Martínez (?) | 30 |  | La cortada de Catia (?) | Registro de emergencia | caída |
 | Periférico de Catia | Yurbely Martins | 6 |  |  | Pediatría (26/06) | Fuente: Drive SISMO_1554 26JUN26 |
 | Periférico de Catia | Yurmis González | 47 | 138285450 | Sin información | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Cirugía General |
@@ -2694,9 +3134,12 @@
 | Hosp. Universitario de Caracas (UCV) | Guzman Angelica | 48 | 13717596 | LA GUAIRA | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: 0424-2668717 |
 | Hosp. Universitario de Caracas (UCV) | Guzman Richartson | 27 | 26938811 | La Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Politraumatismo |
 | Hosp. Universitario de Caracas (UCV) | Hanma Antonio | 66 | 5072832 | AV PASCUAL | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: 0424-2183524 |
+| Hosp. Universitario de Caracas (UCV) | HARIMON SILVA |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Universitario de Caracas (UCV) | Henrique Maria | 46 | 14213277 | La Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Politraumatismo |
 | Hosp. Universitario de Caracas (UCV) | Ibarra Wilmer | 45 | 15335705 | La Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Politraumatismo |
 | Hosp. Universitario de Caracas (UCV) | Ibarra Wuikmer/wilmer | 45 | 15332705 | LA GUAIRA | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: 0412-9646938 |
+| Hosp. Universitario de Caracas (UCV) | JAIME MOΥΑΝΟ | 28 | 26346745 | MARICHE | POLITRAUMATISMO | Fuente: GSheet consolidado todos los archivos (27JUN) · POLITRAUMATISMO |
+| Hosp. Universitario de Caracas (UCV) | JUAN BAUTISTA GOSLING |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Universitario de Caracas (UCV) | La Vende Victor | 18 | 3344528 | La Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Politraumatismo |
 | Hosp. Universitario de Caracas (UCV) | La Verde Victor | 18 | 30334452 | LA GUAIRA | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: 0412-8162456 |
 | Hosp. Universitario de Caracas (UCV) | López Edis | 70 | 6045544 | CATIA TAMARINDO / LA GUAIRA | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: 0412-2928549 |
@@ -2765,129 +3208,243 @@
 | Hosp. Universitario de Caracas (UCV) | Wu Hua Juan | 47 | 8229616 | LA GUAIRA | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: 0412-3958541 |
 | Hosp. Universitario de Caracas (UCV) | Wu Susana | 14 | 36533334 | La Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Politraumatismo |
 | Hosp. Universitario de Caracas (UCV) | Wu Susup | 14 | 34553337 | LA GUAIRA | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: 0412-3758541 |
+| Hosp. Universitario de Caracas (UCV) | YOSELIN CASTELANO |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Universitario de Caracas (UCV) | Zambrano Domini | 39 | 18274233 | CATIA | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: 0412-2913570 |
 | Hosp. Universitario de Caracas (UCV) | Zambrano Donmani | 39 | 18714233 | Catia | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Politraumatismo |
+| Hosp. Vargas de Caracas | Abello MATILDE | 36 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Vargas de Caracas | Abreu PAULINA | 8 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Vargas de Caracas | Acevedo JORGE | 70 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Vargas de Caracas | Acosta ALEXANDER | 47 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Vargas de Caracas | Acosta HASAEL | 13 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Vargas de Caracas | Acosta ISRAEL | 10 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Vargas de Caracas | Acosta Jairo |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Pacientes x Sismo Edo La Guaira |
 | Hosp. Vargas de Caracas | Adad Figueroa | 14 | 33916334 | La Guaira | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Politraumatismo |
 | Hosp. Vargas de Caracas | Adolfo Diaz Varona |  | 22751340 |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: F |
 | Hosp. Vargas de Caracas | Adonai Díaz Ozuna | 28 | 26459990 | Caraballeda (?) | Priorización 25/06 | Fuente: Hosp. Vargas de Caracas 25-26JUN (foto) · Pediátrico |
+| Hosp. Vargas de Caracas | Adonais Díaz OZUNA |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Vargas de Caracas | Adonais Diaz Ozuna1 |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Vargas de Caracas | Aguilar Yoanny |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Vargas de Caracas | Aguilera Yuleini | 39 | 18215359 | La Guaira | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Politraumatismo |
+| Hosp. Vargas de Caracas | Aide ARTEAGA |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Vargas de Caracas | Alaor GUTIÉRREZ | 31 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Vargas de Caracas | Alayan SOHYN | 25 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Vargas de Caracas | Albany Garcia1 |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Vargas de Caracas | Albert BRACAMONTE |  | 41042819 | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Vargas de Caracas | Albert Recamonde | 29 | 25794255 |  | Nocturno 25/06 | Fuente: Hosp. Vargas de Caracas 25-26JUN (foto) · Traumatología |
 | Hosp. Vargas de Caracas | Albony Guiou |  |  | Cuarto 3 | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: F |
 | Hosp. Vargas de Caracas | Alexander Castillo |  | 14007890 | Traumatología – consult | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: F |
+| Hosp. Vargas de Caracas | Alexander Castillo1 |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Vargas de Caracas | Alexander GONZÁLEZ |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Vargas de Caracas | Alexander Rodríguez |  | 31707515 |  | Pizarra 26/06 | Fuente: Hosp. Vargas de Caracas 25-26JUN (foto) |
 | Hosp. Vargas de Caracas | Alexis Berdecia |  | 11546371 |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: F |
 | Hosp. Vargas de Caracas | Alexis Mesa |  | 18309145 | Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: F · Fallecida |
 | Hosp. Vargas de Caracas | Ali Yosef |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Vargas de Caracas | Allen Samuel |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Vargas de Caracas | Alvarez Eva |  | 13853724 |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
+| Hosp. Vargas de Caracas | America Leal1 |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Vargas de Caracas | Aminta Aroa Moreno |  |  | Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: F |
+| Hosp. Vargas de Caracas | Ana GILDERT | 4 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Vargas de Caracas | Ana HILBERT | 4 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Vargas de Caracas | Ana Panguera (?) | 75 |  |  | Pizarra 26/06 | Fuente: Hosp. Vargas de Caracas 25-26JUN (foto) |
 | Hosp. Vargas de Caracas | Andrea Garcia |  | 33140119 |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: F |
+| Hosp. Vargas de Caracas | Andrea Garcia1 |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Vargas de Caracas | Andrea Jose |  | 646450 | Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: F · Pediátrico |
 | Hosp. Vargas de Caracas | Anez Maria Angelica |  |  | Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Vargas de Caracas | Ángel Caffero | 66 | 3424929 | La Guaira | Nocturno 25/06 | Fuente: Hosp. Vargas de Caracas 25-26JUN (foto) |
 | Hosp. Vargas de Caracas | Anibal Rosa |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Vargas de Caracas | Annarilis Marrero |  | 15164118 | Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: F |
+| Hosp. Vargas de Caracas | Anyi PÉREZ | 45 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Vargas de Caracas | Arana Humberlin |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
+| Hosp. Vargas de Caracas | Arbelo VALERY | 10 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Vargas de Caracas | Arias Fran | 18 | 27127733 | La Guaira | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Politraumatismo – Aplastamiento |
+| Hosp. Vargas de Caracas | Armaiza MARTINA | 74 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Vargas de Caracas | Arrieta Ayala DORIS |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Vargas de Caracas | Arrieta DOTIS | 65 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Vargas de Caracas | Arrieta JORIS | 65 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Vargas de Caracas | Audia Terán1 |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Vargas de Caracas | Avellano Sindia |  | 6349850 |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Vargas de Caracas | Avello Silvia |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Vargas de Caracas | Baes Maria |  | 31178460 |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Vargas de Caracas | Baez Maria A. |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Vargas de Caracas | Baez Maria Anyelica |  |  | Guaira | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 |
 | Hosp. Vargas de Caracas | Balas Laura | 22 | 30041612 | La Guaira | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Politraumatismo |
+| Hosp. Vargas de Caracas | Balbueno WILMER | 37 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Vargas de Caracas | Baras Esmeralda | 54 | 10582063 | La Guaira | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Politraumatismo |
 | Hosp. Vargas de Caracas | Barrego Jose |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Vargas de Caracas | Barreto RICARDO | 42 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Vargas de Caracas | Barriento Aliana |  | 30939329 |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Vargas de Caracas | Bautista Juana |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · ⚠ FALLECIDA |
 | Hosp. Vargas de Caracas | Bazzan Yussef |  |  | Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Vargas de Caracas | Bencomo NORGUIS | 37 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Vargas de Caracas | Blamir Gutiérrez |  |  |  | UCC | Fuente: Hosp. Vargas de Caracas 25-26JUN (foto) |
+| Hosp. Vargas de Caracas | Blanca YHOSKA | 10 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Vargas de Caracas | Blanco Briceño CARMEN |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Vargas de Caracas | Blanco Frank |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Hosp. Vargas de Caracas | Blanco JESICA | 53 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Vargas de Caracas | Blanco JOSÉ | 6 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Vargas de Caracas | Boada Cesar |  | 9098772 |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Vargas de Caracas | Boada Evelyn | 26 |  | La Guaira | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Politraumatismo |
+| Hosp. Vargas de Caracas | Bolívar YOSCAILI |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Vargas de Caracas | Borrego Jose |  | 26327360 | Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Vargas de Caracas | Bosparte RONNY | 33 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Vargas de Caracas | Boweyo Jose |  | 263273600 |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
+| Hosp. Vargas de Caracas | Bradián GARCÍA | 8 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Vargas de Caracas | Brito YINA | 50 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Vargas de Caracas | Bruces SAUL | 26 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Vargas de Caracas | Bubal CLARA | 62 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Vargas de Caracas | Cabarca YENDERLIN | 13 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Vargas de Caracas | Cabarcas YENDELI | 13 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Vargas de Caracas | Cabarcas YENJALI | 13 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Vargas de Caracas | Cabreras Omar |  | 2087329 |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
+| Hosp. Vargas de Caracas | Camila ARELLANO | 17 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Vargas de Caracas | Camila Díaz | 7 |  |  | Emergencia Pediátrica (26/06) | Fuente: Hosp. Vargas de Caracas 25-26JUN (foto) |
 | Hosp. Vargas de Caracas | Canelón Meiber |  | 22862728 |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Vargas de Caracas | Canisas Gala |  | 22490906 |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: M |
 | Hosp. Vargas de Caracas | Cannabis Coronel |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: F |
+| Hosp. Vargas de Caracas | Cardozo CARLA | 25 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Vargas de Caracas | Caridad Victoria | 29 | 26327685 | La Guaira | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Politraumatismo |
+| Hosp. Vargas de Caracas | Carina CABINA |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Vargas de Caracas | Carla AGUILERA | 82 | 30260905 | Formato Identificación | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) · Polit |
 | Hosp. Vargas de Caracas | Carla Martínez | 21 | 30708993 | La Guaira | Nocturno 25/06 | Fuente: Hosp. Vargas de Caracas 25-26JUN (foto) |
+| Hosp. Vargas de Caracas | Carlos CASTRO |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Vargas de Caracas | Carmen Brito | 65 | 5432813 |  | Nocturno 25/06 | Fuente: Hosp. Vargas de Caracas 25-26JUN (foto) · MI |
+| Hosp. Vargas de Caracas | Carmen Vargas1 |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Vargas de Caracas | Carmen Velasquez | 14 |  | Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: F |
+| Hosp. Vargas de Caracas | Carmen Velasquez1 |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Vargas de Caracas | Carolina Olivares |  |  |  | Sala 19 (26/06) | Fuente: Hosp. Vargas de Caracas 25-26JUN (foto) |
+| Hosp. Vargas de Caracas | Carrasquel SANTIAGO | 14 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Vargas de Caracas | Cartas Miguel |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
+| Hosp. Vargas de Caracas | Carvelo MARÍA | 16 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Vargas de Caracas | Castañeda MARÍA | 65 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Vargas de Caracas | Castaño DONNA | 12 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Vargas de Caracas | Castellanos Luci |  | 15826899 |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Vargas de Caracas | Castro Edebun |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Vargas de Caracas | Castro Erick | 5 | 11631045 | La Guaira | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Politraumatismo |
+| Hosp. Vargas de Caracas | Catalina SÁNCHEZ | 64 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Vargas de Caracas | Cebarco YENDERLI | 13 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Vargas de Caracas | Celis Tania | 62 | 9696241 | La Guaira | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Politraumatismo |
 | Hosp. Vargas de Caracas | Cepe Aquiles | 91 | 1582202 | La Guaira | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Politraumatismo |
 | Hosp. Vargas de Caracas | Cermin Baule (?) | 64 | 5225140 |  | Obs. Femenino | Fuente: Hosp. Vargas de Caracas 25-26JUN (foto) |
+| Hosp. Vargas de Caracas | Cesar Marquez1 |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Vargas de Caracas | Cezzen Jolelany |  |  | Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Vargas de Caracas | Chacón CARLOS | 13 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Vargas de Caracas | Chacon Freddy |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Vargas de Caracas | Charles Leidi | 33 | 20558903 | La Guaira (Bombona) | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Politraumatismo – No Habla |
+| Hosp. Vargas de Caracas | Claudia BANDE | 76 | 3503367 | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Vargas de Caracas | Claudia Verde1 |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Vargas de Caracas | Claudines Verde |  |  | Hlam | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: F |
+| Hosp. Vargas de Caracas | CMILA DIAZ ROMERO |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Vargas de Caracas | Colmenares Darwin |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Vargas de Caracas | Colmenares Darwin / Colimenares Darwin |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 |
 | Hosp. Vargas de Caracas | Contreras Jeanspier |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
+| Hosp. Vargas de Caracas | Córdova ARNALDO | 19 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Vargas de Caracas | Coronel Yanel |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Vargas de Caracas | Coronel Yonel |  |  | Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Vargas de Caracas | Criquely Murga |  | 32191309 | Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: M |
 | Hosp. Vargas de Caracas | Crisi Vargas |  | 22550084 | Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: F |
+| Hosp. Vargas de Caracas | Crismaly Marrero |  | 151642930 | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Vargas de Caracas | Crismarly Marrero1 |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Vargas de Caracas | Crismerli Marrero |  |  |  | Sala 19 (26/06) | Fuente: Hosp. Vargas de Caracas 25-26JUN (foto) |
+| Hosp. Vargas de Caracas | Cristofer Gil1 |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Vargas de Caracas | Cruz Carmen |  | 6325140 |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
+| Hosp. Vargas de Caracas | Curvelo MARÍA | 16 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Vargas de Caracas | Da Silva ANTONY | 19 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Vargas de Caracas | Da Silva ENGEERLUETH | 21 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Vargas de Caracas | Daibertí GONZÁLEZ |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Vargas de Caracas | Dan Villecos |  | 26059358 | Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: M |
+| Hosp. Vargas de Caracas | Daniel López1 |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Vargas de Caracas | Daniela Climent |  | 10213915 | Sala 19 | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: F · Tapado – Trauma |
 | Hosp. Vargas de Caracas | Danita Diaz Varona |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: F · Pediátrico |
+| Hosp. Vargas de Caracas | Danker Pintor1 |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Vargas de Caracas | Danker PINTORI |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Vargas de Caracas | Darbely Garcia |  | 17710318 | Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: F |
+| Hosp. Vargas de Caracas | Darberdyn Gonzalez1 |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Vargas de Caracas | Darwin Colmenares1 |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Vargas de Caracas | Darwin Colmenárez |  | 25867267 | del Peaje | Priorización 25/06 | Fuente: Hosp. Vargas de Caracas 25-26JUN (foto) |
 | Hosp. Vargas de Caracas | Dauberli González |  |  |  | Sala 19 (26/06) | Fuente: Hosp. Vargas de Caracas 25-26JUN (foto) |
 | Hosp. Vargas de Caracas | Daujirisbeth Uzcátegui |  |  |  | Sala 19 (26/06) | Fuente: Hosp. Vargas de Caracas 25-26JUN (foto) |
+| Hosp. Vargas de Caracas | DAYBETH UZCATEGUI |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Vargas de Caracas | Dayilbeth Uzcategui1 |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Vargas de Caracas | Dayliber Bioatoja |  | 26590820 | Guaira – Politraumatismo consult | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: F |
 | Hosp. Vargas de Caracas | De Abreu Geraldin |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Vargas de Caracas | De Abreu Geraldine |  | 18709145 | Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Vargas de Caracas | De Castillo LUCI | 48 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Vargas de Caracas | De Cepe Yolanda | 88 | 14464454 | La Guaira | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Politraumatismo |
+| Hosp. Vargas de Caracas | De Cope YOLANDE | 88 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Vargas de Caracas | Delgado EDIMER | 23 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Vargas de Caracas | Delgado Lisbeth |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Vargas de Caracas | Denis Ruja | 41 | 19445341 | La Guaira | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Politraumatismo |
+| Hosp. Vargas de Caracas | Desmont LEWIS | 10 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Vargas de Caracas | Dias Muguel |  | 31777653 |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Vargas de Caracas | Diaz Maryenis |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Vargas de Caracas | Diaz Mayerlin |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Hosp. Vargas de Caracas | Díaz Mercades KARLET | 82 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Vargas de Caracas | Diaz Ozuna Adonis |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Vargas de Caracas | Diaz Ozuna Adonis / Diaz Ozuna Adonais |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 |
 | Hosp. Vargas de Caracas | Diaz Romero Camila | 94 |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Pacientes x Sismo Edo La Guaira |
+| Hosp. Vargas de Caracas | Discamo PEDRO | 46 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Vargas de Caracas | Dismon LEWIN | 10 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Vargas de Caracas | Divito ROSA | 64 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Vargas de Caracas | Doilbeth UZCÁTEGUI |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Vargas de Caracas | Domelin Olmedo |  | 25867263 | Sala 19 | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: F |
 | Hosp. Vargas de Caracas | Doria Ekarle | 23 |  | Accidente Moto | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Politraumatismo |
 | Hosp. Vargas de Caracas | Duarte Es Tleny | 34 |  | La Guaira | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Politraumatismo |
+| Hosp. Vargas de Caracas | Duna ACOSTA | 31 | 12533142 | Formato Identificación | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) · Sala 4 |
 | Hosp. Vargas de Caracas | Dunilop Binitu |  | 22516346 | Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: M · Fallecido |
 | Hosp. Vargas de Caracas | Dunker Brito | 34 | 22761340 | La Guaira | Priorización 25/06 | Fuente: Hosp. Vargas de Caracas 25-26JUN (foto) |
+| Hosp. Vargas de Caracas | Echarlo LEIDY | 33 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Vargas de Caracas | Edardo Oreste (?) | 50 |  |  | UCC | Fuente: Hosp. Vargas de Caracas 25-26JUN (foto) |
 | Hosp. Vargas de Caracas | Edgar González (?) | 13 |  | La Guaira | Priorización 25/06 | Fuente: Hosp. Vargas de Caracas 25-26JUN (foto) · Pediátrico |
+| Hosp. Vargas de Caracas | Edgary Gonzalez1 |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Vargas de Caracas | Edis TANIA | 62 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Vargas de Caracas | Édison CASTRO |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Vargas de Caracas | Efoide JESÚS | 30 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Vargas de Caracas | Eliax CASTELLERO | 61 | 20790543 | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Vargas de Caracas | Elibert Quintero |  | 29786597 |  | Pizarra 26/06 | Fuente: Hosp. Vargas de Caracas 25-26JUN (foto) |
+| Hosp. Vargas de Caracas | Elican TRUJILLO | 19 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Vargas de Caracas | Elita Hayore |  | 12150067 |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: F |
+| Hosp. Vargas de Caracas | Elita Maryore1 |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Vargas de Caracas | Eliver Quintero | 37 | 29736597 |  | Trauma Shock | Fuente: Hosp. Vargas de Caracas 25-26JUN (foto) |
+| Hosp. Vargas de Caracas | Emeli FERNÁNDEZ |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Vargas de Caracas | Emerson Lopez1 |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Vargas de Caracas | Enarle DORIA | 13 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Vargas de Caracas | ENDER QUINTERO |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Vargas de Caracas | Enrique Perez1 |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Vargas de Caracas | Erelin BOADA | 54 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Vargas de Caracas | Erimber Quintero |  |  | La Guaira | Nocturno 25/06 | Fuente: Hosp. Vargas de Caracas 25-26JUN (foto) · polit. |
+| Hosp. Vargas de Caracas | Erinber Quintero1 |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Vargas de Caracas | Esanpero Hildremar |  | 19721253 |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Vargas de Caracas | Esbeth Delgado | 20 | 32446991 | Caracas | Priorización 25/06 | Fuente: Hosp. Vargas de Caracas 25-26JUN (foto) |
 | Hosp. Vargas de Caracas | Esperanza Gonzalez |  | 31541118 | Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: F |
 | Hosp. Vargas de Caracas | Esteban Castro | 76 | 3551367 | Pinto Salinas | Nocturno 25/06 | Fuente: Hosp. Vargas de Caracas 25-26JUN (foto) · Descompensado ✱ |
+| Hosp. Vargas de Caracas | Esteban Castro1 |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Vargas de Caracas | Estefany Gesu1 |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Vargas de Caracas | Estrejo Luis |  | 37143398 |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
+| Hosp. Vargas de Caracas | Evangelina Gonzalez1 |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Vargas de Caracas | Evelin Guerra1 |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Vargas de Caracas | Falcon Julia |  | 17190030 |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
+| Hosp. Vargas de Caracas | Fernández EMILÉ |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Vargas de Caracas | Fernandez Emily | 31 | 21622464 | La Guaira | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Politraumatismo – Aplastamiento MI |
+| Hosp. Vargas de Caracas | Fernández JOSKEIDY | 35 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Vargas de Caracas | Fernandez Juan |  | 10815359 |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
+| Hosp. Vargas de Caracas | Fernández NEISY | 38 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Vargas de Caracas | Figueroa Maryon |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Pacientes x Sismo Edo La Guaira |
+| Hosp. Vargas de Caracas | Flor PÉREZ |  | 15514191 | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) · FALLECIDO |
 | Hosp. Vargas de Caracas | Fossis Leandro |  | 17587273 |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Vargas de Caracas | Francia Jorge |  | 27915258 |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Vargas de Caracas | Francisco Coronel |  |  | Sala M 30 | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: F |
 | Hosp. Vargas de Caracas | Frank Campos |  |  |  | Sala 19 (26/06) | Fuente: Hosp. Vargas de Caracas 25-26JUN (foto) |
 | Hosp. Vargas de Caracas | Frederick Toro |  | 27319576 |  | Pizarra 26/06 | Fuente: Hosp. Vargas de Caracas 25-26JUN (foto) |
 | Hosp. Vargas de Caracas | Fredy Pereira | 37 | 22444604 |  | Obs. Masculino | Fuente: Hosp. Vargas de Caracas 25-26JUN (foto) |
+| Hosp. Vargas de Caracas | Frein CAMPOS |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Vargas de Caracas | Fuentes ALBERTO | 32 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Vargas de Caracas | Fuentes ARBETO | 52 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Vargas de Caracas | Fuentes Gilbert |  | 13483204 |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Vargas de Caracas | Fuentes Wilmer |  | 13716210 |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Vargas de Caracas | Galain Tulia |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
+| Hosp. Vargas de Caracas | Galis YALESKA | 23 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Vargas de Caracas | Galiz Yaleska | 23 | 30314231 | La Guaira | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Politraumatismo |
+| Hosp. Vargas de Caracas | Garalito Espitia YOHANY |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Vargas de Caracas | Garcia Albani |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Vargas de Caracas | Garcia Albany |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Vargas de Caracas | Garcia Gn |  |  | Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: F |
@@ -2895,8 +3452,12 @@
 | Hosp. Vargas de Caracas | Garcia Jolishe |  |  | Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Vargas de Caracas | Garcia Jose | 34 | 10801488 | La Guaira | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Politraumatismo |
 | Hosp. Vargas de Caracas | Garcia Narin Saavedki |  | 21395683 | Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: F |
+| Hosp. Vargas de Caracas | García ODALIS | 43 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Vargas de Caracas | García YENNY | 34 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Vargas de Caracas | Garcia Yoliber | 22 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · ⚠ FALLECIDO |
 | Hosp. Vargas de Caracas | Gazzan Yussef |  |  | Guaira | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 |
+| Hosp. Vargas de Caracas | Gelvi YENTESKE | 88 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Vargas de Caracas | Geraldin De Abreu1 |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Vargas de Caracas | Gesu Estefany |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Vargas de Caracas | Gesu Estefany / Giesu Estefany |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 |
 | Hosp. Vargas de Caracas | Gezzen Jestefany |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
@@ -2904,14 +3465,19 @@
 | Hosp. Vargas de Caracas | Gil Cristoper |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Vargas de Caracas | Gil Ehilyn |  | 31178311 |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Vargas de Caracas | Gil Patricia |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Vargas de Caracas | Gilma MAYORA | 24 |  | Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Vargas de Caracas | Giron Roimy |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Pacientes x Sismo Edo La Guaira |
 | Hosp. Vargas de Caracas | Gleason Grein |  | 31426812 | Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: F |
+| Hosp. Vargas de Caracas | Gomeli MORENO | 31 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Vargas de Caracas | Gomez Vanesa |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Vargas de Caracas | Gomez Wilmer |  | 10482646 |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Vargas de Caracas | Gomez Yaritza |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Vargas de Caracas | Gomez Yolibel |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
+| Hosp. Vargas de Caracas | Goncalve LUCI | 61 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Vargas de Caracas | Goncalves Lucy | 61 |  | La Guaira | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Politraumatismo |
 | Hosp. Vargas de Caracas | Gonzales Angelina |  |  | Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Vargas de Caracas | González ALEXANDRA | 42 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Vargas de Caracas | González CARLOS | 41 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Vargas de Caracas | Gonzalez Daiberly |  | 30527436 |  | Ingreso por sismo (lista consolidada) | Fuente: Drive SISMO 2026 VZLA |
 | Hosp. Vargas de Caracas | Gonzalez Daiberly / Gonzalez Darbedlyn |  | 305274360 |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 |
 | Hosp. Vargas de Caracas | Gonzalez Daiberlyn |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
@@ -2921,60 +3487,107 @@
 | Hosp. Vargas de Caracas | Gonzalez Edgary |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Vargas de Caracas | Gonzalez Evangelina |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Vargas de Caracas | Gonzalez Maura |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Vargas de Caracas | González VALERI | 10 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Vargas de Caracas | Gonzalez Valeria |  | 31383685 | Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Vargas de Caracas | González VALERY | 10 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Vargas de Caracas | Gonzalez Vanesa |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Vargas de Caracas | Gonzalez Winston |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Vargas de Caracas | Gonzalez Wisthon |  | 11563403 |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Vargas de Caracas | Gonzalez Yailyn | 26 | 27439695 | La Guaira | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Politraumatismo |
 | Hosp. Vargas de Caracas | Gonzalez Yhajahira |  | 2765012 |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
+| Hosp. Vargas de Caracas | Graalbito YOSEANI | 32 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Vargas de Caracas | Gualina Padón EFREN |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Vargas de Caracas | Guangelin González | 96 | 3154122 |  | Obs. Femenino | Fuente: Hosp. Vargas de Caracas 25-26JUN (foto) |
 | Hosp. Vargas de Caracas | Guerra Evelin |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Vargas de Caracas | Guerra Rosa PINO | 39 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Vargas de Caracas | Guerra Williams |  | 5235870 |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Vargas de Caracas | Guerreiro Jesus | 44 | 15448399 | La Guaira | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Politraumatismo |
+| Hosp. Vargas de Caracas | Guerrero DELVERSON | 20 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Vargas de Caracas | Guevara Aleni |  | 20289079 |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
+| Hosp. Vargas de Caracas | Gustavo A. Rico1 |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Vargas de Caracas | Gustavo Antonio Ruiz |  |  | Sala 14 | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: F |
 | Hosp. Vargas de Caracas | Guzman Josefina |  | 4817701 |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
+| Hosp. Vargas de Caracas | Guzmán PAOLA | 17 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Vargas de Caracas | Hassan Josef |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Vargas de Caracas | Heberth Chiquinquira |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Vargas de Caracas | Héctor Ilaves |  |  |  | Heridos atendidos en emergencia | Fuente: Google Sheets consolidada (hoja 1949) |
 | Hosp. Vargas de Caracas | Héctor Llaves | Sin información |  | Sin información | Emergencia | Fuente: GSheet VENEZUELA HOSPITALES (203000) · lesión: Sin información · Foto: lista 'Heridos atendidos en la emergencia', Hospital Vargas \ |
 | Hosp. Vargas de Caracas | Heilyn Gil |  |  |  | Heridos atendidos en emergencia | Fuente: Google Sheets consolidada (hoja 1949) |
 | Hosp. Vargas de Caracas | Henriquez Isquiel | 55 |  | La Guaira – No Hablaba | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Politraumatismo |
+| Hosp. Vargas de Caracas | Hernández CÉSAR | 48 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Vargas de Caracas | Hernández DEIBY | 46 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Vargas de Caracas | Hernández FRANCISCO | 62 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Vargas de Caracas | Herrera CLADIKA | 25 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Vargas de Caracas | Herrera Jhoan |  | 30186534 |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
+| Hosp. Vargas de Caracas | Herrera Merlano GLADUSKA |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Vargas de Caracas | Herrera Valentina |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
+| Hosp. Vargas de Caracas | Hilary Peroza1 |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Vargas de Caracas | Hilary RODRÍGUEZ | 32 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Vargas de Caracas | Hilden ANZ | 4 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Vargas de Caracas | Hilders ANA | 9 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Vargas de Caracas | Hipólito Hernández | 64 | 5140332 |  | Nocturno 25/06 | Fuente: Hosp. Vargas de Caracas 25-26JUN (foto) · MI ✱ |
 | Hosp. Vargas de Caracas | Hurgueto Kimberly | 39 | 20007393 | La Guaira | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Politraumatismo |
+| Hosp. Vargas de Caracas | Iaskara CASTILLO | 28 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Vargas de Caracas | Iaskara Castillo VALERIO |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Vargas de Caracas | Ibarra ANA | 74 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Vargas de Caracas | Isaac Álvarez | 58 | 7952809 |  | Triaje II | Fuente: Hosp. Vargas de Caracas 25-26JUN (foto) |
 | Hosp. Vargas de Caracas | Isaguirre Luis |  | 20558133 |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
+| Hosp. Vargas de Caracas | Iscala YENNY | 42 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Vargas de Caracas | Isquiebdi HENRAIQUE | 58 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Vargas de Caracas | Italbis Delgado |  | 12346891 | Cueva | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: F |
+| Hosp. Vargas de Caracas | Izquiel ENRIQUE | 63 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Vargas de Caracas | Janet ANHALABI | 23 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Vargas de Caracas | Janitza Gioia |  | 12500467 | Cueva | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: F |
 | Hosp. Vargas de Caracas | Jermany Olivo |  | 12460700 |  | Pizarra 26/06 | Fuente: Hosp. Vargas de Caracas 25-26JUN (foto) |
 | Hosp. Vargas de Caracas | Jessica Olmedo |  |  | Sala 19 | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: F |
+| Hosp. Vargas de Caracas | Jesús EPAÍDE | 30 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Vargas de Caracas | Jesús GUCAREIRO | 44 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Vargas de Caracas | Jhoanna ÁLVAREZ |  | 16422069 | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Vargas de Caracas | Jhohann Álvarez | 42 | 16452067 |  | Obs. Masculino | Fuente: Hosp. Vargas de Caracas 25-26JUN (foto) |
 | Hosp. Vargas de Caracas | Jhonainer Suárez | 15 |  |  | Emergencia Pediátrica (26/06) | Fuente: Hosp. Vargas de Caracas 25-26JUN (foto) |
 | Hosp. Vargas de Caracas | Jhosúa Lovero | 9 |  |  | Emergencia Pediátrica (26/06) | Fuente: Hosp. Vargas de Caracas 25-26JUN (foto) |
+| Hosp. Vargas de Caracas | Jiménez AXEL | 4 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Vargas de Caracas | Jiménez AXIEL | 4 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Vargas de Caracas | Jinderli GUARCA | 13 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Vargas de Caracas | Joalira GROTA | 63 | 12750262 | Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Vargas de Caracas | Joani Aguilar |  |  |  | Sala 19 (26/06) | Fuente: Hosp. Vargas de Caracas 25-26JUN (foto) |
 | Hosp. Vargas de Caracas | Johan Muñoz | 41 | 19978371 |  | Obs. Masculino | Fuente: Hosp. Vargas de Caracas 25-26JUN (foto) |
 | Hosp. Vargas de Caracas | Johan Rodríguez |  | 17112685 |  | Nocturno 25/06 | Fuente: Hosp. Vargas de Caracas 25-26JUN (foto) · Neurocirugía de la cabeza |
 | Hosp. Vargas de Caracas | Jose Ali |  | 11640596 | Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: M |
+| Hosp. Vargas de Caracas | Jose Barrego1 |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Vargas de Caracas | José DÍAS | 46 | 12958307 | Formato Identificación | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Vargas de Caracas | José Díaz | 41 | 17758509 |  | Nocturno 25/06 | Fuente: Hosp. Vargas de Caracas 25-26JUN (foto) |
 | Hosp. Vargas de Caracas | José Figuere | 7 |  |  | Emergencia Pediátrica (26/06) | Fuente: Hosp. Vargas de Caracas 25-26JUN (foto) |
 | Hosp. Vargas de Caracas | José Luis Hurtado | 38 | 18952762 | La Guaira | Nocturno 25/06 | Fuente: Hosp. Vargas de Caracas 25-26JUN (foto) · Sala 4 |
 | Hosp. Vargas de Caracas | José Pérez |  | 28304891 | La Guaira | Nocturno 25/06 | Fuente: Hosp. Vargas de Caracas 25-26JUN (foto) · Pediatría ✱ |
 | Hosp. Vargas de Caracas | Jose Ropas |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: F |
+| Hosp. Vargas de Caracas | José Villegas1 |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Vargas de Caracas | José VOLLEGAS |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Vargas de Caracas | Josef Alí |  | 34063891 | La Guaira | Priorización 25/06 | Fuente: Hosp. Vargas de Caracas 25-26JUN (foto) · Traslado Clínica Leopoldo |
+| Hosp. Vargas de Caracas | Josef Hassan1 |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Vargas de Caracas | Joseph MIRANDA | 24 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Vargas de Caracas | Joya GARCÍA |  | 41142685 | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Vargas de Caracas | Juan Carlos PASSO |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Vargas de Caracas | JUAN CARLOS PESSO |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Vargas de Caracas | Juan Carlos Rosso1 |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Vargas de Caracas | Kallerley Garcia |  | 15967267 | Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: M |
+| Hosp. Vargas de Caracas | Katiuska Pérez1 |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Vargas de Caracas | Katiusra Pérez |  | 18817136 | La Guaira | Priorización 25/06 | Fuente: Hosp. Vargas de Caracas 25-26JUN (foto) |
 | Hosp. Vargas de Caracas | Keila Martínez |  |  |  | Sala 19 (26/06) | Fuente: Hosp. Vargas de Caracas 25-26JUN (foto) |
 | Hosp. Vargas de Caracas | Kerry Medina |  | 6086109 | La Jaso | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: F |
 | Hosp. Vargas de Caracas | Kiara Casiola | 9 |  |  | Emergencia Pediátrica (26/06) | Fuente: Hosp. Vargas de Caracas 25-26JUN (foto) |
+| Hosp. Vargas de Caracas | Kiara Rodriguez1 |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Vargas de Caracas | Kilon Luciano (?) | 6 |  |  | Emergencia Pediátrica (26/06) | Fuente: Hosp. Vargas de Caracas 25-26JUN (foto) |
 | Hosp. Vargas de Caracas | Lara Inon |  | 12485868 | Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: F |
 | Hosp. Vargas de Caracas | Leal America |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Vargas de Caracas | Leandro Fossia |  |  |  | Heridos atendidos en emergencia | Fuente: Google Sheets consolidada (hoja 1949) |
 | Hosp. Vargas de Caracas | Ledezma Griselda |  | 2987711 |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Vargas de Caracas | Ledezma Liseth |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
+| Hosp. Vargas de Caracas | León DAREALIN | 24 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Vargas de Caracas | Leonardo Sisteno (?) | 12 |  |  | Emergencia Pediátrica (26/06) | Fuente: Hosp. Vargas de Caracas 25-26JUN (foto) |
+| Hosp. Vargas de Caracas | Lisbeth Delgado1 |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Vargas de Caracas | Liscano PEDRO | 46 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Vargas de Caracas | Lizbeth ORLANDO | 20 | 29446491 | Caracas | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Vargas de Caracas | Llarvez Hector |  | 19606465 |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Vargas de Caracas | Lopez Daniel |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Vargas de Caracas | Lopez Emerson |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
@@ -2982,18 +3595,35 @@
 | Hosp. Vargas de Caracas | Lopez Nazare |  |  | Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Vargas de Caracas | Lopez Nazareth |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Vargas de Caracas | Lopez Osmary |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
+| Hosp. Vargas de Caracas | López WILLIAM | 28 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Vargas de Caracas | Losco Visbal CLARA |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Vargas de Caracas | Luci VALERO | 46 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Vargas de Caracas | Lucy de CASTILLO | 48 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Vargas de Caracas | Luis Castellano |  |  |  | Heridos atendidos en emergencia | Fuente: Google Sheets consolidada (hoja 1949) |
 | Hosp. Vargas de Caracas | Luis Mendoza | 14 |  |  | Emergencia Pediátrica (26/06) | Fuente: Hosp. Vargas de Caracas 25-26JUN (foto) |
 | Hosp. Vargas de Caracas | Luque Erick |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Vargas de Caracas | Magalis Apura |  | 15164293 | Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: F |
 | Hosp. Vargas de Caracas | Magdalena Rodríguez |  |  |  | Heridos atendidos en emergencia | Fuente: Google Sheets consolidada (hoja 1949) |
+| Hosp. Vargas de Caracas | Mahmud ANHALABI | 56 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Vargas de Caracas | Mara VIDMA |  | 28301591 | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Vargas de Caracas | Marabito JOSEANI | 32 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Vargas de Caracas | Marbelbis Monasterio |  |  |  | Pizarra 26/06 | Fuente: Hosp. Vargas de Caracas 25-26JUN (foto) |
+| Hosp. Vargas de Caracas | Marcano STEVEN | 7 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Vargas de Caracas | Maria A. Baez1 |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Vargas de Caracas | MARIA ANGELICA BAEZ |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Vargas de Caracas | Maria Angelica Bag |  | 311784600 | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Vargas de Caracas | María Elena PANTANA |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Vargas de Caracas | Maria Elena Santa |  |  | San Bernardino | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: F |
+| Hosp. Vargas de Caracas | Maria Elena Santana1 |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Vargas de Caracas | María Elena Secretain (?) | 51 |  | La Guaira | Priorización 25/06 | Fuente: Hosp. Vargas de Caracas 25-26JUN (foto) |
+| Hosp. Vargas de Caracas | Maria Olivares1 |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Vargas de Caracas | María Pernic (?) |  |  |  | Sala 19 (26/06) | Fuente: Hosp. Vargas de Caracas 25-26JUN (foto) |
+| Hosp. Vargas de Caracas | Maria Pimentel1 |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Vargas de Caracas | Maria Pirdez |  | 27026323 | Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: F |
 | Hosp. Vargas de Caracas | Maria Quintana |  |  | Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: F |
+| Hosp. Vargas de Caracas | Maria Vielma1 |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Vargas de Caracas | Marin Antonella | 17 | 34064183 | La Guaira | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Politraumatismo |
+| Hosp. Vargas de Caracas | Marisol ÁBILLA | 40 | 6039225 | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Vargas de Caracas | Marisol Arcilla | 60 | 6259934 |  | Trauma Shock | Fuente: Hosp. Vargas de Caracas 25-26JUN (foto) |
 | Hosp. Vargas de Caracas | Marques Deyorelis |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Vargas de Caracas | Marquez Ana | 24 | 28304997 | La Guaira | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Politraumatismo |
@@ -3002,49 +3632,90 @@
 | Hosp. Vargas de Caracas | Marrero Crismarly |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Vargas de Caracas | Marrero Crismarly / Marrero Crismaly |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Vargas de Caracas | Marrero Nohemi | 20 | 32271433 | La Guaira | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Politraumatismo |
+| Hosp. Vargas de Caracas | Marrupo ARIANA | 37 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Vargas de Caracas | Martinez Cristina |  | 19721240 |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
+| Hosp. Vargas de Caracas | Martínez ISAAC | 10 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Vargas de Caracas | Martínez JESÚS | 7 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Vargas de Caracas | Martínez JOAN | 10 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Vargas de Caracas | Martínez JOHAN | 10 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Vargas de Caracas | Maryone Elita / Maryore Elita |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 |
 | Hosp. Vargas de Caracas | Maryore Elita |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Vargas de Caracas | Maryori Figueroa | 45 | 15544121 | La Guaira | Nocturno 25/06 | Fuente: Hosp. Vargas de Caracas 25-26JUN (foto) · polit. |
+| Hosp. Vargas de Caracas | Maryori Figueroa1 |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Vargas de Caracas | Matías Palmar | 14 |  |  | Emergencia Pediátrica (26/06) | Fuente: Hosp. Vargas de Caracas 25-26JUN (foto) |
 | Hosp. Vargas de Caracas | Matos Aracelys |  | 6927171 |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Vargas de Caracas | Matos Yamileth |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Pacientes x Sismo Edo La Guaira |
 | Hosp. Vargas de Caracas | Matteto Crismaly |  | 15164295 |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
 | Hosp. Vargas de Caracas | Matuzalen Gledys |  | 26415500 |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
+| Hosp. Vargas de Caracas | Maubios VÁSQUEZ | 18 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Vargas de Caracas | Maura Gonzalez1 |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Vargas de Caracas | Maure Elita |  | 13069223 | Junquito | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Vargas de Caracas | Mauro Diaz | 55 | 17934645 | La Guaira | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Politraumatismo |
+| Hosp. Vargas de Caracas | Mauro FIGUERA |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Vargas de Caracas | Mayorca JESÚS | 26 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Vargas de Caracas | Mayore Elita | Sin información | 130692230 | El Junquito | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Sin información |
 | Hosp. Vargas de Caracas | Medina Raina |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Vargas de Caracas | Medina Reina |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 |
+| Hosp. Vargas de Caracas | Méndez ASTRID | 38 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Vargas de Caracas | Mendota Carmen | 48 | 14589306 | La Guaira | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Politraumatismo |
+| Hosp. Vargas de Caracas | Mendoza CARMEN | 48 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Vargas de Caracas | Mendoza Lourdes |  | 18465401 |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Vargas de Caracas | Mía Pérez | 2 |  |  | Emergencia Pediátrica (26/06) | Fuente: Hosp. Vargas de Caracas 25-26JUN (foto) |
+| Hosp. Vargas de Caracas | Miel FRONTADO | 7 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Vargas de Caracas | Misaira Pérez1 |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Vargas de Caracas | Mónica Urrutia |  |  |  | Sala 19 (26/06) | Fuente: Hosp. Vargas de Caracas 25-26JUN (foto) |
 | Hosp. Vargas de Caracas | Monica Vielma |  | 18406003 | Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: F |
 | Hosp. Vargas de Caracas | Montoya Nejide |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Vargas de Caracas | Montoya Neride |  | 22480906 |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Vargas de Caracas | Moreno Crisneily |  | 15164243 |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
+| Hosp. Vargas de Caracas | Moreno GISMELI | 31 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Vargas de Caracas | Moreno JUS | 31 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Vargas de Caracas | Moreno Naileth |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Vargas de Caracas | Moreno Naileth / Moreno Napleth |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 |
 | Hosp. Vargas de Caracas | Moreno Vaileth |  | 21015899 |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
+| Hosp. Vargas de Caracas | Morrufo ARIONA | 37 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Vargas de Caracas | Naiguel Lopez |  |  | Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: F |
+| Hosp. Vargas de Caracas | Naileth Moreno1 |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Vargas de Caracas | Nairoby RAMÍREZ |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Vargas de Caracas | Napolitano Edward |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Vargas de Caracas | Naura Almeida |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: F |
 | Hosp. Vargas de Caracas | Nazaret López |  |  | La Guaira | Priorización 25/06 | Fuente: Hosp. Vargas de Caracas 25-26JUN (foto) · C14 |
+| Hosp. Vargas de Caracas | Nazareth Lopez1 |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Vargas de Caracas | Nazareth Oreas (?) |  |  |  | Sala 19 (26/06) | Fuente: Hosp. Vargas de Caracas 25-26JUN (foto) |
+| Hosp. Vargas de Caracas | Nejide Montoya1 |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Vargas de Caracas | Nelide Montoyo |  | 22480306 | Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: F |
 | Hosp. Vargas de Caracas | Nerde Montaya (?) | 32 | 22480908 | La Guaira | Priorización 25/06 | Fuente: Hosp. Vargas de Caracas 25-26JUN (foto) |
 | Hosp. Vargas de Caracas | Nesaria Dela |  | 15550954 | Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: F |
 | Hosp. Vargas de Caracas | Néstor Mora | 65 | 6472158 | La Guaira | Nocturno 25/06 | Fuente: Hosp. Vargas de Caracas 25-26JUN (foto) · Politec. |
+| Hosp. Vargas de Caracas | Neyide MONTOYA |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Vargas de Caracas | Nheila MARTÍNEZ |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Vargas de Caracas | Nicolás Cárdenas | 85 | 17920745 |  | Obs. Masculino | Fuente: Hosp. Vargas de Caracas 25-26JUN (foto) |
 | Hosp. Vargas de Caracas | Nieves Marlenis |  | 84555057 |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
+| Hosp. Vargas de Caracas | Nohemy MARRERO | 20 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Vargas de Caracas | Norbi CASTAÑEDA |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Vargas de Caracas | Noris PERNA |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Vargas de Caracas | Nuestro Villecon |  | 22750136 |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: F |
+| Hosp. Vargas de Caracas | Obregón DIEGO | 15 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Vargas de Caracas | Obuber MANUEL | 38 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Vargas de Caracas | Odre Reyes | 38 | 27958370 |  | Nocturno 25/06 | Fuente: Hosp. Vargas de Caracas 25-26JUN (foto) · Politec. |
+| Hosp. Vargas de Caracas | Oduper MANUEL | 38 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Vargas de Caracas | Olivares Maria |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Vargas de Caracas | Ordones (ILEGIBLE) | 85 | 28254795 | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Vargas de Caracas | Ordoz LUIZONA |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Vargas de Caracas | Orihuela LIANA | 51 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Vargas de Caracas | Ornasento SEBASTIÁN | 16 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Vargas de Caracas | Orosco Yorman |  | 23527437 |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Vargas de Caracas | Osnaduy López (?) |  |  | Catia | Priorización 25/06 | Fuente: Hosp. Vargas de Caracas 25-26JUN (foto) |
 | Hosp. Vargas de Caracas | Oyarbes Hector |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
+| Hosp. Vargas de Caracas | Padion DOUGLAS | 20 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Vargas de Caracas | Padón Javo CIRILO |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Vargas de Caracas | Padrón DOUGLAS | 20 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Vargas de Caracas | Padron Jean Franco | 42 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Politraumatismo |
+| Hosp. Vargas de Caracas | Parra ESTEFANÍA | 15 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Vargas de Caracas | Parra Misul GABRIELA |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Vargas de Caracas | Patricia Gil1 |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Vargas de Caracas | Pedilla RODOSKI | 4 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Vargas de Caracas | Pedro LASCANO | 40 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Vargas de Caracas | Pedron David | 42 | 18141519 | La Guaira | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Politraumatismo |
 | Hosp. Vargas de Caracas | Peidomo Valeria |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Vargas de Caracas | Peña Dilio |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Pacientes x Sismo Edo La Guaira; Sala 4 |
@@ -3052,34 +3723,55 @@
 | Hosp. Vargas de Caracas | Pereira Daniel | 4 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Vargas de Caracas | Pereira Jose |  | 15285857 |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Vargas de Caracas | Perez Enrique |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Vargas de Caracas | Pérez FRANCISCA | 63 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Vargas de Caracas | Perez Hilary |  | 29536123 | Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Vargas de Caracas | Perez Katiuska |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Vargas de Caracas | Perez Misaira |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Vargas de Caracas | Perez Misarra | Sin información | 155509540 | La Guaira | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Sin información |
 | Hosp. Vargas de Caracas | Perez Nestor |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Pacientes x Sismo Edo La Guaira |
 | Hosp. Vargas de Caracas | Perez Odra |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Pacientes x Sismo Edo La Guaira |
+| Hosp. Vargas de Caracas | Pérez PAENYI | 14 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Vargas de Caracas | Peroza Hilary |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Vargas de Caracas | Piar Paula |  | 26045569 |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Vargas de Caracas | Pimentel Maria |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Vargas de Caracas | Pinto Danker |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Revisar |
 | Hosp. Vargas de Caracas | Pinton Danker |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Vargas de Caracas | Portillo OMAR | 40 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Vargas de Caracas | Posso Joan Carlos |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Vargas de Caracas | Posso Juan Carlos |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 |
+| Hosp. Vargas de Caracas | Powirizbeth UZCÁTEGUI |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Vargas de Caracas | Primera Columna (Izquierda): |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Vargas de Caracas | Quessu Estefani |  | 31428812 | Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Vargas de Caracas | Quintana RAMÍREZ | 32 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Vargas de Caracas | Quintero Erinber |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
+| Hosp. Vargas de Caracas | Radel BONJRAND |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Vargas de Caracas | Raina Medina1 |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Vargas de Caracas | Ramírez Escalante MARIANGEL |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Vargas de Caracas | Ramírez JOSÉ | 27 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Vargas de Caracas | Ramirez Nairobis | 32 | 25176001 | La Guaira | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Politraumatismo |
+| Hosp. Vargas de Caracas | Ramírez NAUROBY | 32 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Vargas de Caracas | Rendi SEBASTIEN | 7 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Vargas de Caracas | Renny Mata | 21 | 31993189 |  | Nocturno 25/06 | Fuente: Hosp. Vargas de Caracas 25-26JUN (foto) · MI ✱ |
+| Hosp. Vargas de Caracas | Requena DILIA | 56 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Vargas de Caracas | Requena Yusneily |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Vargas de Caracas | Requjon De Abreu Geraldin |  | 12094993 | Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: F |
+| Hosp. Vargas de Caracas | Revoredo LUIS | 67 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Vargas de Caracas | Rey JELLCEL | 29 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Vargas de Caracas | Rey JENNICEL | 29 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Vargas de Caracas | Ricardo Maquiabelo |  |  |  | Sala 19 (26/06) | Fuente: Hosp. Vargas de Caracas 25-26JUN (foto) |
 | Hosp. Vargas de Caracas | Rico Gustavo A. |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Vargas de Caracas | Rico Gustavo Anibal |  |  | Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Golipani |
 | Hosp. Vargas de Caracas | Riera Carlos Luis |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Vargas de Caracas | Rivas Bricet | 47 | 13357989 | La Guaira | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Politraumatismo |
+| Hosp. Vargas de Caracas | Rivas López FRONIN |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Vargas de Caracas | Rivas Santiago | 16 | 33285940 | La Guaira | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Politraumatismo |
+| Hosp. Vargas de Caracas | Rivero DANIEL | 60 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Vargas de Caracas | Roda ALEIDA | 71 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Vargas de Caracas | Roda ANDERSON | 9 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Vargas de Caracas | Roda Galicia | 7 | 24208194 | La Guaira | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Politraumatismo |
 | Hosp. Vargas de Caracas | Rodriguez Antonia |  |  | Guaira | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 |
 | Hosp. Vargas de Caracas | Rodriguez Dionis |  | 36542050 |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
+| Hosp. Vargas de Caracas | Rodríguez EDUARDO | 65 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Vargas de Caracas | Rodriguez Gerani | 21 | 21204553 | La Guaira | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Politraumatismo |
 | Hosp. Vargas de Caracas | Rodriguez Jesus | 28 | 25969769 | La Guaira | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Politraumatismo |
 | Hosp. Vargas de Caracas | Rodriguez Kiara |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
@@ -3093,55 +3785,116 @@
 | Hosp. Vargas de Caracas | Romero Nestor |  | 5005566 |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Vargas de Caracas | Ronny Ginan | 43 | 19679213 | La Guaira | Nocturno 25/06 | Fuente: Hosp. Vargas de Caracas 25-26JUN (foto) · **Fallecido** |
 | Hosp. Vargas de Caracas | Roybel Eduardo Luna | 37 | 22336192 |  | Nocturno 25/06 | Fuente: Hosp. Vargas de Caracas 25-26JUN (foto) |
+| Hosp. Vargas de Caracas | Roykel Eduardo DE LUNA | 43 | 23506113 | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Vargas de Caracas | Ruit DANNIS | 41 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Vargas de Caracas | Ruiz DONNIS | 41 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Vargas de Caracas | Ruiz Nelia |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
+| Hosp. Vargas de Caracas | Salazar ARTURO | 13 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Vargas de Caracas | Salazar Guirlenys |  | 22022191 |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
+| Hosp. Vargas de Caracas | Salazar HELEN | 23 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Vargas de Caracas | Saltierra Leonardo |  | 26838425 |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
+| Hosp. Vargas de Caracas | Sánchez ROSA | 77 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Vargas de Caracas | Sandoval Nelly | 62 | 11057636 | La Guaira | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Politraumatismo |
 | Hosp. Vargas de Caracas | Santana Maria Elena |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Vargas de Caracas | Saúl RAMÍREZ |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Vargas de Caracas | Sebastián DORRECIMIENTO | 46 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Vargas de Caracas | Sebastián LANDI | 7 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Vargas de Caracas | Segunda Columna (Centro): |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Vargas de Caracas | Segura Blanco SOFÍA |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Vargas de Caracas | Sequera SOFÍA | 15 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Vargas de Caracas | Serdier Luz Marina |  | 6931566 |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
+| Hosp. Vargas de Caracas | Serrano González NANCY |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Vargas de Caracas | Silva JOANDAI | 9 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Vargas de Caracas | Silva YOAIBER | 7 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Vargas de Caracas | Sin Identificar Femenino | 70 |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · ⚠ FALLECIDA – Sin identificar |
 | Hosp. Vargas de Caracas | Sin Identificar Masculino |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · ⚠ FALLECIDO – Sin identificar |
 | Hosp. Vargas de Caracas | Solisbe García |  |  | La Guaira | Priorización 25/06 | Fuente: Hosp. Vargas de Caracas 25-26JUN (foto) · **Fallecida** |
+| Hosp. Vargas de Caracas | Stiven SÁNCHEZ | 24 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Vargas de Caracas | Suárez Granado RENÉ |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Vargas de Caracas | Suarez Marlene |  | 4110985 |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Vargas de Caracas | Suarez Yosneiker |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
+| Hosp. Vargas de Caracas | Tania CECIS | 62 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Vargas de Caracas | Tanio CELIS | 62 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Vargas de Caracas | Tatiana Mendoza | 12 |  |  | Emergencia Pediátrica (26/06) | Fuente: Hosp. Vargas de Caracas 25-26JUN (foto) |
 | Hosp. Vargas de Caracas | Tejeda Gladis |  | 2641506 |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Vargas de Caracas | Teran Audia |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Vargas de Caracas | Tercera Columna (Derecha): |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Vargas de Caracas | Tolishe Garcia |  | 20523436 | Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: F |
+| Hosp. Vargas de Caracas | Toralbo NUBIA | 68 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Vargas de Caracas | Torrealbq NUVIA | 68 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Vargas de Caracas | Torres Luna | 2 | 37441738 | La Guaira | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Politraumatismo |
+| Hosp. Vargas de Caracas | Torres MILAGROS | 46 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Vargas de Caracas | Totumo Maria |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · ⚠ FALLECIDA |
 | Hosp. Vargas de Caracas | Tovar Tibisay |  | 5604699 |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Vargas de Caracas | Trebol Luis Jose |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
+| Hosp. Vargas de Caracas | Trujillo CHAN | 19 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Vargas de Caracas | Trujillo ELIAH |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Vargas de Caracas | Trujillo ELIAN | 19 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Vargas de Caracas | Trujillo ETIAN |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Vargas de Caracas | Trujillo MERIAM | 19 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Vargas de Caracas | Tubor Tibisay |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Internado |
+| Hosp. Vargas de Caracas | Ubaldina UZIÁN | 72 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Vargas de Caracas | Ubaldina Vivas | 71 |  |  | UCC | Fuente: Hosp. Vargas de Caracas 25-26JUN (foto) |
 | Hosp. Vargas de Caracas | Urbina Cesar |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Vargas de Caracas | Uribe Veronica |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Vargas de Caracas | Uzategui Dayibeth |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 · Pacientes x Sismo Edo La Guaira |
+| Hosp. Vargas de Caracas | Valeria Perdomo1 |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Vargas de Caracas | Vanesa Gonzalez1 |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Vargas de Caracas | Vargas Carmen |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Vargas de Caracas | Varya Carmen |  | 22550086 | Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Hosp. Vargas de Caracas | Vasávez GLADYS | 72 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Vargas de Caracas | Vasconulo ANDREINA |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Vargas de Caracas | Vasque LUIS | 77 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Vargas de Caracas | Vasquez Rosaeys | 18 | 32334040 | La Guaira – Petare | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Politraumatismo |
 | Hosp. Vargas de Caracas | Vasquez Rosalis | 18 | 32334090 | La Guaira | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Politraumatismo |
+| Hosp. Vargas de Caracas | Vega ISABEL | 50 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Vargas de Caracas | Vega MARÍA | 54 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Vargas de Caracas | Vega SAMUEL | 11 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Vargas de Caracas | Velazque Carmen |  | 16705956 | Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Vargas de Caracas | Velazquez Carmen | Sin información | 167059560 | La Guaira | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 · Sin información |
+| Hosp. Vargas de Caracas | Velázquez LIDICE | 12 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Vargas de Caracas | Velázquez LIDIS |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Vargas de Caracas | Velazquez Luis |  | 20303112 |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Vargas de Caracas | Velez Julian Jose |  | 6207465 |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
+| Hosp. Vargas de Caracas | Vequiola MAURO | 55 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Vargas de Caracas | Verde Claudia |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Vargas de Caracas | Veronic Borrego |  | 26373503 | Sala 19 | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: F |
+| Hosp. Vargas de Caracas | Veronica Uribe1 |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Vargas de Caracas | Veronika Uribe |  | 220265270 | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Vargas de Caracas | Víctor MORA | 29 | 15181888 | Formato Identificación | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Vargas de Caracas | Victoria CASTILLO | 10 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Vargas de Caracas | Vieira MARÍA | 74 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Vargas de Caracas | Vieira MARIO | 74 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Vargas de Caracas | Vielma Maria |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Vargas de Caracas | Vielma Maria / Vpelma Maria |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 |
+| Hosp. Vargas de Caracas | Viera JOSÉ | 41 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Vargas de Caracas | Viera José LUIS | 41 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Vargas de Caracas | Vílchez BRAYAN | 23 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Vargas de Caracas | Villegas Jose |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Vargas de Caracas | Villegas Juana |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hosp. Vargas de Caracas | Vivas Ubelinda |  | 5645025 |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
+| Hosp. Vargas de Caracas | Winston Gonzalez1 |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Vargas de Caracas | Yajai García |  |  |  | Sala 19 (26/06) | Fuente: Hosp. Vargas de Caracas 25-26JUN (foto) |
 | Hosp. Vargas de Caracas | Yamileth Mater | 48 | 14672605 | La Guaira | Nocturno 25/06 | Fuente: Hosp. Vargas de Caracas 25-26JUN (foto) · Paciente bajo los escombros |
+| Hosp. Vargas de Caracas | Yanel Coronel1 |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Vargas de Caracas | Yaritza Gómez1 |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Vargas de Caracas | Yaritza Govia (?) | 53 | 12950267 | La Guaira | Priorización 25/06 | Fuente: Hosp. Vargas de Caracas 25-26JUN (foto) |
 | Hosp. Vargas de Caracas | Yenderly Ravelo | 3 |  |  | Emergencia Pediátrica (26/06) | Fuente: Hosp. Vargas de Caracas 25-26JUN (foto) |
+| Hosp. Vargas de Caracas | Yessica APONTE | 19 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Vargas de Caracas | Yessica BLANCO |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Vargas de Caracas | Yeti Melian |  | 14314725 |  | Pizarra 26/06 | Fuente: Hosp. Vargas de Caracas 25-26JUN (foto) |
+| Hosp. Vargas de Caracas | Yinderli CAVAREA | 13 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Vargas de Caracas | Yoalbis SILVA | 7 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Vargas de Caracas | Yoanny Aguilar1 |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Vargas de Caracas | Yoanny Maros |  | 14953283 | Guaira | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: F |
 | Hosp. Vargas de Caracas | Yondri Piñero | 29 |  |  | Pizarra 26/06 | Fuente: Hosp. Vargas de Caracas 25-26JUN (foto) |
 | Hosp. Vargas de Caracas | Yorjel Coronel |  |  | La Guaira | Priorización 25/06 | Fuente: Hosp. Vargas de Caracas 25-26JUN (foto) |
 | Hosp. Vargas de Caracas | Yorman Orozco |  |  |  | Heridos atendidos en emergencia | Fuente: Google Sheets consolidada (hoja 1949) |
+| Hosp. Vargas de Caracas | Yoscarli BOLÍVAR | 12 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Vargas de Caracas | Yosef Ali1 |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Vargas de Caracas | Yovana Hassan |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: F · Pediátrico |
+| Hosp. Vargas de Caracas | Yuliany MORA | 52 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hosp. Vargas de Caracas | Zamora SAMY | 38 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Militar Univ. Dr. Carlos Arvelo | Acosta Ambar | 19 | 31950088 | PNA | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: San Juan |
 | Hosp. Militar Univ. Dr. Carlos Arvelo | Aguilar Carmen | 21 |  | PNA | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: San Martín |
 | Hosp. Militar Univ. Dr. Carlos Arvelo | Aguilar Raul | 63 | 648196 | PNA | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: San Juan |
@@ -3176,6 +3929,7 @@
 | Hosp. Militar Univ. Dr. Carlos Arvelo | Elias Melo | 33 | 20888810 | PNA | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: La Guaira |
 | Hosp. Militar Univ. Dr. Carlos Arvelo | Elvis Etolino | 19 | 32335642 | PNA | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: La Guaira |
 | Hosp. Militar Univ. Dr. Carlos Arvelo | Espinoza German | 57 | 10810746 | PNA | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: Paraíso |
+| Hosp. Militar Univ. Dr. Carlos Arvelo | ESPINOZA GUZMAN | 57 | 10810748 | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Hosp. Militar Univ. Dr. Carlos Arvelo | Fernández Lila | 42 |  | Sin información | Sin información | Fuente: GSheet VENEZUELA HOSPITALES (203000) · lesión: Sin información · N° lista: 88 |
 | Hosp. Militar Univ. Dr. Carlos Arvelo | Florian Cedeño Alberto | 28 | 26898085 | S/M3 | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: Guarenas |
 | Hosp. Militar Univ. Dr. Carlos Arvelo | Fragoza Peña Maria | 69 | 4556514 | PNA | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 · Tel: La Guaira |
@@ -3407,17 +4161,31 @@
 | Hosp. Ana Francisca Pérez de León II | Zoraida Yanez | Sin información | 13673492 | La Guaira/Curiepe y zonas aledañas | Sin información | Fuente: GSheet VENEZUELA HOSPITALES (203000) · lesión: Sin información · Lista impresa Ciaclab — Pérez de León II/Petare \ |
 | Clínica El Ávila | Aguilar Johanny |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Clínica El Ávila | Aguilar Maribel |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Clínica El Ávila | ARNOLDO TERAN | 36 | 19610109 | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Clínica El Ávila | Badel Ricardo |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Clínica El Ávila | Benitez Frenesi |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Clínica El Ávila | Berk Cim |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Clínica El Ávila | Bolgnese Sofia |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Clínica El Ávila | Bolognesi Sofia |  |  |  | Registro hospitalario (26JUN 15:12) | Fuente: Consolidado 26JUN26 15:12 |
+| Clínica El Ávila | BRUNO ROMERO | 87 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Clínica El Ávila | Carli Bautista | Sin información |  | La Guaira | Traumatismo | Fuente: GSheet VENEZUELA HOSPITALES (203000) · lesión: Traumatismo · Registro manuscrito; nombre incierto |
+| Clínica El Ávila | Carli HERNÁNDEZ | 20 | 28458908 | La Guaira | Polit Región Umb | Fuente: GSheet consolidado todos los archivos (27JUN) · Ingreso · Polit Región Umb |
+| Clínica El Ávila | CARLOS SALAZAR | 64 | 6488550 | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Clínica El Ávila | Cecilia SURECK | 79 | 9963484 | La Guaira | Traumatismo Contudo | Fuente: GSheet consolidado todos los archivos (27JUN) · Ingreso · Traumatismo Contudo |
+| Clínica El Ávila | Cim Berk ARISOY | 33 | 5572078 | La Guaira | FC Tobillo | Fuente: GSheet consolidado todos los archivos (27JUN) · Ingreso · FC Tobillo |
 | Clínica El Ávila | Costa Jose Luis |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Clínica El Ávila | Delgado Victoria |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Clínica El Ávila | Diego DÍAZ | 20 |  | La Guaira | Politraumatismo | Fuente: GSheet consolidado todos los archivos (27JUN) · Ingreso · Politraumatismo |
+| Clínica El Ávila | Donato ENRO | 70 | 4565942 | La Guaira | Poli | Fuente: GSheet consolidado todos los archivos (27JUN) · Ingreso · Poli |
+| Clínica El Ávila | Dorys ZORRILO | 38 |  | La Guaira | Tx Musculoesquelético/Asma | Fuente: GSheet consolidado todos los archivos (27JUN) · Ingreso · Tx Musculoesquelético/Asma |
+| Clínica El Ávila | Elias BALADÍN | 62 |  | La Guaira | Escoraciones | Fuente: GSheet consolidado todos los archivos (27JUN) · Ingreso · Escoraciones |
+| Clínica El Ávila | Enrique DAMATA | 42 | 16032740 | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) · Ingreso |
+| Clínica El Ávila | Erik MONTEREY SANTO | 52 |  | La Guaira | Herida Fácil | Fuente: GSheet consolidado todos los archivos (27JUN) · Ingreso · Herida Fácil |
 | Clínica El Ávila | Feng Juchi |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Clínica El Ávila | Feng Sonia |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Clínica El Ávila | Fernandez Rosalida |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Clínica El Ávila | FRENESI BEMITEZ | 31 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Clínica El Ávila | GILBER JASPE | 63 | 6440419 | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Clínica El Ávila | Gina Marbelis |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Clínica El Ávila | Gonzalez Gabriel |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Clínica El Ávila | Gonzalez Greisy |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
@@ -3427,24 +4195,60 @@
 | Clínica El Ávila | Gonzalez Sofia |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Clínica El Ávila | Gonzalez Yoani |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Clínica El Ávila | Grecia Gonzalez |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
+| Clínica El Ávila | Greisley LOVERA | 63 | 19910500 | La Guaira | Fx Costal Polit | Fuente: GSheet consolidado todos los archivos (27JUN) · Ingreso · Fx Costal Polit |
+| Clínica El Ávila | GREISLY LOVERA | 37 | 18910500 | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Clínica El Ávila | HAIDEV RIVAS | 78 | 2958321 | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Clínica El Ávila | Hamping FENG | 35 | 83812553 | La Guaira | Poli | Fuente: GSheet consolidado todos los archivos (27JUN) · Ingreso · Poli |
+| Clínica El Ávila | Haros V. RIVAS | 76 |  | La Guaira | Tx Rodillo D | Fuente: GSheet consolidado todos los archivos (27JUN) · Ingreso · Tx Rodillo D |
 | Clínica El Ávila | Ialongo Ana |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Clínica El Ávila | Ivan Carlos Plata | Sin información |  | La Guaira | Traumatismo | Fuente: GSheet VENEZUELA HOSPITALES (203000) · lesión: Traumatismo · Registro manuscrito |
 | Clínica El Ávila | Ivan Pacheco | Sin información |  | La Guaira | Traumatismo | Fuente: GSheet VENEZUELA HOSPITALES (203000) · lesión: Traumatismo · Registro manuscrito; apellido incierto |
+| Clínica El Ávila | Javier SUÁREZ | 53 | 11690335 | La Guaira | Poli PGB | Fuente: GSheet consolidado todos los archivos (27JUN) · Ingreso · Poli PGB |
+| Clínica El Ávila | Jesús Arturo NÚÑEZ | 71 | 4356767 | La Guaira | Mareo/náuseas/Losartan | Fuente: GSheet consolidado todos los archivos (27JUN) · Ingreso · Mareo/náuseas/Losartan |
+| Clínica El Ávila | JOHANI AGUILAR | 43 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Clínica El Ávila | Juan Carlos DAMASCO | 57 | 10114024 | La Guaira | Tx Craneocefálico | Fuente: GSheet consolidado todos los archivos (27JUN) · Ingreso · Tx Craneocefálico |
+| Clínica El Ávila | Juan PACHECO | 50 | 13374571 | La Guaira | Tx Rodilla Izquierda | Fuente: GSheet consolidado todos los archivos (27JUN) · Ingreso · Tx Rodilla Izquierda |
+| Clínica El Ávila | Karin AGUILAR | 65 | 6123953 | La Guaira | Poli Inestab. Hemodinámica | Fuente: GSheet consolidado todos los archivos (27JUN) · Ingreso · Poli Inestab. Hemodinámica |
+| Clínica El Ávila | Kimr RIVAS |  | 28358321 | La Guaira | Tx TV de Catia | Fuente: GSheet consolidado todos los archivos (27JUN) · Ingreso · Tx TV de Catia |
+| Clínica El Ávila | Lalongo DE BASILIO | 87 | 81181 | La Guaira | Poli Inestab. Hemodinámica | Fuente: GSheet consolidado todos los archivos (27JUN) · Ingreso · Poli Inestab. Hemodinámica |
+| Clínica El Ávila | Laura MARQUINA | 42 | 17323315 | La Guaira | Politraumatismo | Fuente: GSheet consolidado todos los archivos (27JUN) · Ingreso · Politraumatismo |
+| Clínica El Ávila | Leandro GONZÁLEZ | 28 | 27027480 | La Guaira | Rx Tobillo Izq/Fx Esternal-Costal | Fuente: GSheet consolidado todos los archivos (27JUN) · Ingreso · Rx Tobillo Izq/Fx Esternal-Costal |
+| Clínica El Ávila | LI QUANTUI | 49 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Clínica El Ávila | LUILAN FUNG | 62 | 1603379 | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Clínica El Ávila | Lulián FUNG |  | 21023311 | La Guaira | Rx TV de Catia | Fuente: GSheet consolidado todos los archivos (27JUN) · Ingreso · Rx TV de Catia |
+| Clínica El Ávila | Luz GIL | 54 | 6338662 | La Guaira | Herida Labio Externo | Fuente: GSheet consolidado todos los archivos (27JUN) · Ingreso · Herida Labio Externo |
+| Clínica El Ávila | Marbelis GINO | 28 |  | La Guaira | HTA/Ansiedad | Fuente: GSheet consolidado todos los archivos (27JUN) · Ingreso · HTA/Ansiedad |
+| Clínica El Ávila | María Alejandra JANES | 70 | 11234099 | La Guaira | Tx Rodilla Izquierda | Fuente: GSheet consolidado todos los archivos (27JUN) · Ingreso · Tx Rodilla Izquierda |
+| Clínica El Ávila | MARIA ALEJANDRA RODRIGUEZ | 45 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Clínica El Ávila | María Fernanda PRADO | 37 | 34055623 | La Guaira | Fx Costal Polit | Fuente: GSheet consolidado todos los archivos (27JUN) · Ingreso · Fx Costal Polit |
 | Clínica El Ávila | Maria Jaime | Sin información |  | La Guaira | Traumatismo | Fuente: GSheet VENEZUELA HOSPITALES (203000) · lesión: Traumatismo · Registro manuscrito |
+| Clínica El Ávila | Marialy MARCANO | 58 | 6480632 | La Guaira | Tx Mano Izquierda | Fuente: GSheet consolidado todos los archivos (27JUN) · Ingreso · Tx Mano Izquierda |
+| Clínica El Ávila | Maribel AGUILERA | 32 |  | La Guaira | Sx Convulsivo | Fuente: GSheet consolidado todos los archivos (27JUN) · Ingreso · Sx Convulsivo |
+| Clínica El Ávila | Marta NOVA | 45 |  | La Guaira | Tx Rodilla Derecha | Fuente: GSheet consolidado todos los archivos (27JUN) · Ingreso · Tx Rodilla Derecha |
 | Clínica El Ávila | Martinez Erik |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Clínica El Ávila | Mero Vanesa |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Clínica El Ávila | Millan Furgencia |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Clínica El Ávila | Millan Yurimar |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Clínica El Ávila | Morillo Alejandro |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Clínica El Ávila | Morillo Barbara |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Clínica El Ávila | NICOLLETTE NUOVO | 77 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Clínica El Ávila | Novoa Marta |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Clínica El Ávila | Nuovo Nicolette |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Clínica El Ávila | Oenia ACOSTA | 60 | 6889138 | La Guaira | Tx Lóbulo Izq/Traumatismo | Fuente: GSheet consolidado todos los archivos (27JUN) · Ingreso · Tx Lóbulo Izq/Traumatismo |
+| Clínica El Ávila | Pablo GONZÁLEZ | 88 | 1868258 | La Guaira | TCE | Fuente: GSheet consolidado todos los archivos (27JUN) · Ingreso · TCE |
+| Clínica El Ávila | Reina BAUTISTA | 70 | 5090093 | La Guaira | Polit | Fuente: GSheet consolidado todos los archivos (27JUN) · Ingreso · Polit |
+| Clínica El Ávila | RICARDO BODUL | 63 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Clínica El Ávila | Ricardo Gonzalez | Sin información |  | La Guaira | Traumatismo | Fuente: GSheet VENEZUELA HOSPITALES (203000) · lesión: Traumatismo · Registro manuscrito |
+| Clínica El Ávila | RINIA GAMES | 50 | 13290236 | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Clínica El Ávila | Robert REYES | 47 | 13680249 | La Guaira | Poli PGB | Fuente: GSheet consolidado todos los archivos (27JUN) · Ingreso · Poli PGB |
 | Clínica El Ávila | Rodriguez Juan |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Clínica El Ávila | Rodriguez Marialejandra |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Clínica El Ávila | Rodriguez Miguel |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Clínica El Ávila | Rosalinda FERNÁNDEZ | 28 |  | La Guaira | Politraumatismo | Fuente: GSheet consolidado todos los archivos (27JUN) · Ingreso · Politraumatismo |
 | Clínica El Ávila | Salah Hasem |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Clínica El Ávila | Tovar Alejandro |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
+| Clínica El Ávila | YURIMA MILLAN | 29 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Clínica El Ávila | Yuriman MILLÁN | 29 |  | La Guaira | Tx Musculoesquelético | Fuente: GSheet consolidado todos los archivos (27JUN) · Ingreso · Tx Musculoesquelético |
 | Clínica El Ávila | Zerpa Graciela |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Clínica El Ávila | Zorrillo Doris |  |  |  | Registro hospitalario (UCV 25JUN26) | Fuente: Consolidado UCV 25JUN26 |
 | Hosp. Dr. Ricardo Baquero González | Ana Abreu | 36 | 22036031 |  | Lista impresa / emergencia | Fuente: Google Sheets consolidada (hoja 1949) |
@@ -3495,31 +4299,49 @@
 | Hospital J.M. de los Ríos (Niños) | Torrealba Rodriguez Sebastian |  |  |  | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Hospital J.M. de los Ríos (Niños) | Torrealba Rodriguez Sebastian Ciudad Caribia |  |  |  | Ingreso por sismo (lista consolidada) | Fuente: Drive SISMO 2026 VZLA |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Abigail Renott (?) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Adolfo GUARENAS |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Adrián Díaz (menor) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA · menor |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Adrian Diaz Menor |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Adrián Hurtado (menor) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA · menor |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Adrian JAEN |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Adriani Acosta (menor) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA · menor |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Adrianny Díaz (menor) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA · menor |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Adriannys Diaz |  |  | La Guaira (Campo de Golf) | Centro de acopio — campo de golf | Fuente: Centro de Acopio La Guaira (Campo de Golf) 26JUN26 · menor |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Adriannys Diaz Menor |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Adrielys DELGADO |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Agedo QUINTERO |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Aira GARCÍA |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Aixa Sanoja |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Alan Acosta (menor) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA · menor |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Alanís CARMONA |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Albert Delgado (menor) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA · menor |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Albert Medina |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Aldo Delgado |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Alejandro Cordova |  |  | La Guaira (Campo de Golf) | Centro de acopio — campo de golf | Fuente: Centro de Acopio La Guaira (Campo de Golf) 26JUN26 |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Alexander MEDINO |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Alexandra MONDERO |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Alexandra Monedero |  |  | La Guaira (Campo de Golf) | Centro de acopio — campo de golf | Fuente: Centro de Acopio La Guaira (Campo de Golf) 26JUN26 |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Alexandra Morales |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Alexandra SOLÍS |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Alfonzo Marrofo |  |  | La Guaira (Campo de Golf) | Centro de acopio — campo de golf | Fuente: Centro de Acopio La Guaira (Campo de Golf) 26JUN26 |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Alfonzo MARRUPO |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Alonis Carmona |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Álvaro RANGEL |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Amairo figuera |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Amairu Figuera |  |  | La Guaira (Campo de Golf) | Centro de acopio — campo de golf | Fuente: Centro de Acopio La Guaira (Campo de Golf) 26JUN26 |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Amairú Figueroa (?) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Amarilis RADA |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Ambar Figuera |  |  | La Guaira (Campo de Golf) | Centro de acopio — campo de golf | Fuente: Centro de Acopio La Guaira (Campo de Golf) 26JUN26 |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Ambar Figueroa |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Americo Narvaez |  |  | La Guaira (Campo de Golf) | Centro de acopio — campo de golf | Fuente: Centro de Acopio La Guaira (Campo de Golf) 26JUN26 |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Amilcar Jaimes |  |  | La Guaira (Campo de Golf) | Centro de acopio — campo de golf | Fuente: Centro de Acopio La Guaira (Campo de Golf) 26JUN26 |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Amoint FIGUERO |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Amtrico NARBOEZ |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Ana Acosta |  |  | La Guaira (Campo de Golf) | Centro de acopio — campo de golf | Fuente: Centro de Acopio La Guaira (Campo de Golf) 26JUN26 |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Ana Contreras |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Ana Karina Andrade |  |  | La Guaira (Campo de Golf) | Centro de acopio — campo de golf | Fuente: Centro de Acopio La Guaira (Campo de Golf) 26JUN26 |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Ana Salazar |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Andelis MACENTES |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Andreína Corvo |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Andy León (menor) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA · menor |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Angel Alvarez |  |  | La Guaira (Campo de Golf) | Centro de acopio — campo de golf | Fuente: Centro de Acopio La Guaira (Campo de Golf) 26JUN26 |
@@ -3530,63 +4352,95 @@
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Angelica Bello |  |  | La Guaira (Campo de Golf) | Centro de acopio — campo de golf | Fuente: Centro de Acopio La Guaira (Campo de Golf) 26JUN26 |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Angelis Garcia |  |  | La Guaira (Campo de Golf) | Centro de acopio — campo de golf | Fuente: Centro de Acopio La Guaira (Campo de Golf) 26JUN26 · menor |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Angelo Blanco (?) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Anly Mathias |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Anly Vásquez |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Anmael VILLARREAL |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Anthony ELBENGUR |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Anthony Salazar |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Anthwon RIVAS |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Antonella RIVAS |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Anyanlis Arionnis MEZA |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Anyela Planas (menor) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA · menor |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Anyela Poleo |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Anyeli Camargo |  |  | La Guaira (Campo de Golf) | Centro de acopio — campo de golf | Fuente: Centro de Acopio La Guaira (Campo de Golf) 26JUN26 |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Anyeli Camargo ROGER |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Anyelimar (?) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Anyelimar BLANCO |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Anyelin Isaac |  |  | La Guaira (Campo de Golf) | Centro de acopio — campo de golf | Fuente: Centro de Acopio La Guaira (Campo de Golf) 26JUN26 |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Anyerlin ISAAC |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Arelia SERRANO |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Arelig Serrano |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Arelis Serrano |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Ariana López |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Ariana Urruchuto (Torres?) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Ariangelis Romero (menor) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA · menor |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Ariangely Galíndez (menor) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA · menor |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Ariangely Romero |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Arianna MARRUPO |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Arianni Contramaestre (menor) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA · menor |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Ariannis Contramaestre |  |  | La Guaira (Campo de Golf) | Centro de acopio — campo de golf | Fuente: Centro de Acopio La Guaira (Campo de Golf) 26JUN26 · menor |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Ariari Mendoza (?) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Ariyanlis Arionnis Meza (menor) (?) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA · menor |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Armando MENDOZA |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Aron Ochoa |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Asdrúbal Ulloa |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | ase Vasquez (posiblemente "Jose Vasquez") |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Ashley BLANCO |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Ashly Acosta (menor) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA · menor |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Aura Garcia |  |  | La Guaira (Campo de Golf) | Centro de acopio — campo de golf | Fuente: Centro de Acopio La Guaira (Campo de Golf) 26JUN26 |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Aurielys Delgado |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Auriscar Jimenez |  |  | La Guaira (Campo de Golf) | Centro de acopio — campo de golf | Fuente: Centro de Acopio La Guaira (Campo de Golf) 26JUN26 |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Axel Irene RADA |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Barbara Moreno |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Belen DELGADO |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Belkys Caraballo |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Belkys Castillo |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Belkys Dugarte |  |  | La Guaira (Campo de Golf) | Centro de acopio — campo de golf | Fuente: Centro de Acopio La Guaira (Campo de Golf) 26JUN26 |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Benjamin DEWENTT |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Benjamín José Dewentt (?) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Beryah Pérez (?) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Beryaki PÉREZ |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Beryali Perez |  |  | La Guaira (Campo de Golf) | Centro de acopio — campo de golf | Fuente: Centro de Acopio La Guaira (Campo de Golf) 26JUN26 |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Biomela Plácido MARÍA |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Bladimir Gómez |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Bonnie Pugarita (?) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Boomaily Slano |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Brandi Peñaloza |  |  | La Guaira (Campo de Golf) | Centro de acopio — campo de golf | Fuente: Centro de Acopio La Guaira (Campo de Golf) 26JUN26 |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Brandi PEÑALUZO |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Branyeska Landaeta |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Brianyeska LANDAETA |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Brigith Milano (menor) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA · menor |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Brisith Milano |  |  | La Guaira (Campo de Golf) | Centro de acopio — campo de golf | Fuente: Centro de Acopio La Guaira (Campo de Golf) 26JUN26 · menor |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Carla Paredes |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Carlos Farías (?) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Carlos HERNÁNDEZ |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Carlos López |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Carlos Montilla |  |  | La Guaira (Campo de Golf) | Centro de acopio — campo de golf | Fuente: Centro de Acopio La Guaira (Campo de Golf) 26JUN26 |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Carlos Ontiveros |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Carlos Paredes |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Carmen Aracely Ontiveros |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Carmen Fuentes |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Carolina FIGUERO |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Catherine CARRASQUEL |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Chairon Yépez (?) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Charlie Jaramillo |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Charon YÉPEZ |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Ciro Yepez |  |  | La Guaira (Campo de Golf) | Centro de acopio — campo de golf | Fuente: Centro de Acopio La Guaira (Campo de Golf) 26JUN26 |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Claudia Blanco |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Columna 6 (Derecha) |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Columna Derecha: |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Coromoto Larez |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Crismar Rodríguez (menor) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA · menor |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Cruz Jose Salazar D. |  |  | La Guaira (Campo de Golf) | Centro de acopio — campo de golf | Fuente: Centro de Acopio La Guaira (Campo de Golf) 26JUN26 |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Dailenys Rodríguez |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Daimari Pantoja |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Dainelis Hernández |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Daisy VILLEGAS |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Dalia Gomez |  |  | La Guaira (Campo de Golf) | Centro de acopio — campo de golf | Fuente: Centro de Acopio La Guaira (Campo de Golf) 26JUN26 |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Damian Osuna |  |  | La Guaira (Campo de Golf) | Centro de acopio — campo de golf | Fuente: Centro de Acopio La Guaira (Campo de Golf) 26JUN26 · menor |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Daniel León |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Daniel Martínez (menor) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA · menor |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Daniel ZAMPLARIO |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Daniela Rodríguez |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Daniela Tovar |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Danilo Mendoza |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
@@ -3601,20 +4455,28 @@
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Dayena Olivares |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Dayron Jaimes |  |  | La Guaira (Campo de Golf) | Centro de acopio — campo de golf | Fuente: Centro de Acopio La Guaira (Campo de Golf) 26JUN26 |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Deibert Pantoja |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Deilisbeth HERRAIRA |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Deilysbeth Ferreira |  |  | La Guaira (Campo de Golf) | Centro de acopio — campo de golf | Fuente: Centro de Acopio La Guaira (Campo de Golf) 26JUN26 |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Deisy Palacios |  |  | La Guaira (Campo de Golf) | Centro de acopio — campo de golf | Fuente: Centro de Acopio La Guaira (Campo de Golf) 26JUN26 |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Delmira OJEDA |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Dennis Rangel |  |  | La Guaira (Campo de Golf) | Centro de acopio — campo de golf | Fuente: Centro de Acopio La Guaira (Campo de Golf) 26JUN26 |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Derlysbeth Ferreira |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Derwin Manuel Medina O. |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Dhona SÁNCHEZ |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Diana (?) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Diana Conde |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Diego Rangel |  |  | La Guaira (Campo de Golf) | Centro de acopio — campo de golf | Fuente: Centro de Acopio La Guaira (Campo de Golf) 26JUN26 · menor |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Diona CONDE |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Dolores Margarita Garcia R. |  |  | La Guaira (Campo de Golf) | Centro de acopio — campo de golf | Fuente: Centro de Acopio La Guaira (Campo de Golf) 26JUN26 |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Domingo Blanco Verde (?) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Domingo Blanco VERDU |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Douglas Castillo |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Dylan Moreno |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Eberto Barrios |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Edgar Armanza (?) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Edgar Boing |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Edgar Rojas (?) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Eduarys ÁLVAREZ |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Edwin Efraín García |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Eidert Yépez |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Eikel Hermoso |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
@@ -3623,6 +4485,9 @@
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Elías Hermoso |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Elías Yánez (menor) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA · menor |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Eliecer Martínez (menor) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA · menor |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Eloday SILVA |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Emmanuel CALDERÓN |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Enais ORIAS |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Enais Orios (?) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Ender Rodríguez |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Eneida Sánchez |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
@@ -3630,37 +4495,56 @@
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Enrique León |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Enyer Navarro |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Enyeri León |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Eramar GARCÍA |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Ericka Suárez |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Escar Gonzalez |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Eulogio Rodríguez |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Fabiana Jaimes |  |  | La Guaira (Campo de Golf) | Centro de acopio — campo de golf | Fuente: Centro de Acopio La Guaira (Campo de Golf) 26JUN26 |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Fabiola AGUILAR |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Fabiola Avilán |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Felipe Gómes |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Filomela Plácido (?) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Floraura DÍAS |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Florenis BALDOWIN |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Franceska Marrofo |  |  | La Guaira (Campo de Golf) | Centro de acopio — campo de golf | Fuente: Centro de Acopio La Guaira (Campo de Golf) 26JUN26 |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Franchesca MARRUPO |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Francia |  |  | La Guaira (Campo de Golf) | Centro de acopio — campo de golf | Fuente: Centro de Acopio La Guaira (Campo de Golf) 26JUN26 |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Francisco Avilán |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Francisco Salinas |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Frankie Milano |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Franyeli MORENO |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Franyerli Moreno |  |  | La Guaira (Campo de Golf) | Centro de acopio — campo de golf | Fuente: Centro de Acopio La Guaira (Campo de Golf) 26JUN26 |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Frayeli Moreno |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Freddy Rodríguez |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Freielyn AGUERO |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Freimari SNAGUIRRÉ |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Freymary IZAGOIRRE |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Freymary Izaguirre |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Gari GRATEROL |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Genderson Jhoan García (menor) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA · menor |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Genderson Jhoan Garciam |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Génesis Rodríguez |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Georgeleys Galindez |  |  | La Guaira (Campo de Golf) | Centro de acopio — campo de golf | Fuente: Centro de Acopio La Guaira (Campo de Golf) 26JUN26 |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Geraldine Castillo |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Gerdis Cejas |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Gori Graterol (menor) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA · menor |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Greicy Hernandez |  |  | La Guaira (Campo de Golf) | Centro de acopio — campo de golf | Fuente: Centro de Acopio La Guaira (Campo de Golf) 26JUN26 |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Gusmar Rodriguez |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Gustavo Peralta |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Hana RODRÍGUEZ |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Harbelys Iriarte |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Harold APONTE |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Harry Corro |  |  | La Guaira (Campo de Golf) | Centro de acopio — campo de golf | Fuente: Centro de Acopio La Guaira (Campo de Golf) 26JUN26 |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Hayderlyn Martínez (?) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Heinota Ojeda (?) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Henderson GUTIÉRREZ |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Henry VILLARREAL |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Hugo MIRELES |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Ibeola Avilán (?) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Ida Dimas |  |  | La Guaira (Campo de Golf) | Centro de acopio — campo de golf | Fuente: Centro de Acopio La Guaira (Campo de Golf) 26JUN26 |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Ida Santana |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Ignamary Marval (?) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Ihonny VASQUEZ |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Ilana Rodríguez (?) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Ingrid Milano |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Ingrid Milano Merchoreli (?) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
@@ -3671,7 +4555,9 @@
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Isabela Berbesí |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Israel Milano (menor) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA · menor |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Jackson Rondón |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Jann Fer CÓRDEZ |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Jasmín Puerta |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Jasmín PUESTA |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Javier Hernández |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Javier Navarro |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Jean Andrade Farías (menor) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA · menor |
@@ -3679,28 +4565,42 @@
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Jean Franco Farías (menor) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA · menor |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Jean León (menor) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA · menor |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Jean Parera (?) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Jean RAMÍREZ |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Jeferson Milano (menor) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA · menor |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Jeferson Suárez Montilla |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Jefferson CORUPA |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Jefferson GUTIÉRREZ |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Jeiny Martinez |  |  | La Guaira (Campo de Golf) | Centro de acopio — campo de golf | Fuente: Centro de Acopio La Guaira (Campo de Golf) 26JUN26 |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Jeison Rodríguez (?) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Jelio Rivas |  |  | La Guaira (Campo de Golf) | Centro de acopio — campo de golf | Fuente: Centro de Acopio La Guaira (Campo de Golf) 26JUN26 |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Jenifer Guerere |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Jenifer Guerire (?) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Jenni Veroes (?) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Jennifer CARDONA |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Jennifer PARGAS |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Jennifer Quiñonez |  |  | La Guaira (Campo de Golf) | Centro de acopio — campo de golf | Fuente: Centro de Acopio La Guaira (Campo de Golf) 26JUN26 |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Jeremías Dewentt (?) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Jerry Garcia |  |  | La Guaira (Campo de Golf) | Centro de acopio — campo de golf | Fuente: Centro de Acopio La Guaira (Campo de Golf) 26JUN26 |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Jesu AGUERO |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Jesús ÁLVAREZ |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Jesus Hernandez |  |  | La Guaira (Campo de Golf) | Centro de acopio — campo de golf | Fuente: Centro de Acopio La Guaira (Campo de Golf) 26JUN26 |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Jesús León |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Jesús Salazar |  |  | La Guaira (Campo de Golf) | Centro de acopio — campo de golf | Fuente: Centro de Acopio La Guaira (Campo de Golf) 26JUN26 |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Jesusmari GARCÍA |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Jheimatan HERNÁNDEZ |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Jhoan Martinez |  |  | La Guaira (Campo de Golf) | Centro de acopio — campo de golf | Fuente: Centro de Acopio La Guaira (Campo de Golf) 26JUN26 |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Jhon Atupa POLA |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Jhonatan Hernandez |  |  | La Guaira (Campo de Golf) | Centro de acopio — campo de golf | Fuente: Centro de Acopio La Guaira (Campo de Golf) 26JUN26 |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Jhonny Vasquez |  |  | La Guaira (Campo de Golf) | Centro de acopio — campo de golf | Fuente: Centro de Acopio La Guaira (Campo de Golf) 26JUN26 |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Joatty DIMAS |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Joel Alberto García (menor) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA · menor |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Joel Guevara |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Joel Ramos |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Johalis Romero |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Johandry Sucre (?) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Johandry SUERE |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Johen Dávila (menor) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA · menor |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Johnny ELETT |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Johnny Eliett |  |  | La Guaira (Campo de Golf) | Centro de acopio — campo de golf | Fuente: Centro de Acopio La Guaira (Campo de Golf) 26JUN26 |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Jonailfer Zerpa |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Jonny Aparicio |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
@@ -3714,13 +4614,17 @@
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Jose Garcia |  |  | La Guaira (Campo de Golf) | Centro de acopio — campo de golf | Fuente: Centro de Acopio La Guaira (Campo de Golf) 26JUN26 |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | José Gregorio Ca… (?) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Jose Gregorio Cadenas |  |  | La Guaira (Campo de Golf) | Centro de acopio — campo de golf | Fuente: Centro de Acopio La Guaira (Campo de Golf) 26JUN26 |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | José Leonardo CANCHO |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | José Pérez |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | José QUIÑÓNEZ |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | José Renott |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | José Torres |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | José Uscátegui |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Josefina Delgado |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Josefina Villamizar Vera |  |  | La Guaira (Campo de Golf) | Centro de acopio — campo de golf | Fuente: Centro de Acopio La Guaira (Campo de Golf) 26JUN26 |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Josefina Villamizer VERA |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Josehlis Vásquez (?) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Joselvis Vasquez |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Josemy Vásquez |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Joset Rodríguez (?) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Josli Coa (?) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
@@ -3729,11 +4633,16 @@
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Josué Nieves |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Juan Diego Merchan |  |  | La Guaira (Campo de Golf) | Centro de acopio — campo de golf | Fuente: Centro de Acopio La Guaira (Campo de Golf) 26JUN26 |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Judith Gonzáles |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Judith GONZÁLEZ |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Judith MONCADA |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Julie Rodriguez |  |  | La Guaira (Campo de Golf) | Centro de acopio — campo de golf | Fuente: Centro de Acopio La Guaira (Campo de Golf) 26JUN26 · menor |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Julio César |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Julio Chacon |  |  | La Guaira (Campo de Golf) | Centro de acopio — campo de golf | Fuente: Centro de Acopio La Guaira (Campo de Golf) 26JUN26 |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Julio Santana |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Julio Urbano |  |  | La Guaira (Campo de Golf) | Centro de acopio — campo de golf | Fuente: Centro de Acopio La Guaira (Campo de Golf) 26JUN26 |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Juondiego MERECHAN |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Kalis farias |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Kamedy RENOTT |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Karlis Farias |  |  | La Guaira (Campo de Golf) | Centro de acopio — campo de golf | Fuente: Centro de Acopio La Guaira (Campo de Golf) 26JUN26 |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Katharin Salas |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Katherin Roa |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
@@ -3743,10 +4652,15 @@
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Keiber Suarez |  |  | La Guaira (Campo de Golf) | Centro de acopio — campo de golf | Fuente: Centro de Acopio La Guaira (Campo de Golf) 26JUN26 |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Keily Navarro |  |  | La Guaira (Campo de Golf) | Centro de acopio — campo de golf | Fuente: Centro de Acopio La Guaira (Campo de Golf) 26JUN26 |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Keimberly Navarro |  |  | La Guaira (Campo de Golf) | Centro de acopio — campo de golf | Fuente: Centro de Acopio La Guaira (Campo de Golf) 26JUN26 |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Kelismar NARBOEZ |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Kelismar Narvaez |  |  | La Guaira (Campo de Golf) | Centro de acopio — campo de golf | Fuente: Centro de Acopio La Guaira (Campo de Golf) 26JUN26 · menor |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Kelly HENRÍQUEZ |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Kemberly NAVARRO |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Kemedy Renott |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Kenedy Renott (?) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Kevin Navarro |  |  | La Guaira (Campo de Golf) | Centro de acopio — campo de golf | Fuente: Centro de Acopio La Guaira (Campo de Golf) 26JUN26 |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Kleiber Garcia |  |  | La Guaira (Campo de Golf) | Centro de acopio — campo de golf | Fuente: Centro de Acopio La Guaira (Campo de Golf) 26JUN26 |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Klenic BRENA |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Landro Cadenas |  |  | La Guaira (Campo de Golf) | Centro de acopio — campo de golf | Fuente: Centro de Acopio La Guaira (Campo de Golf) 26JUN26 |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Landru Cadenas |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Laurimar de Yepez |  |  | La Guaira (Campo de Golf) | Centro de acopio — campo de golf | Fuente: Centro de Acopio La Guaira (Campo de Golf) 26JUN26 |
@@ -3755,12 +4669,16 @@
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Leonel Mendoza |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Leudy León |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Liber Sánchez |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Libia PÉREZ |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Liraidys Garcia |  |  | La Guaira (Campo de Golf) | Centro de acopio — campo de golf | Fuente: Centro de Acopio La Guaira (Campo de Golf) 26JUN26 |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Lirofoys GARCÍA |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Lista 2 (Campo Golf Caribe Sobreviviente 2): |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Lois Rosales |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Loreangel Galíndez |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Loreany Galíndez (?) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Loromoto Larez (?) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Lourdes Ramos |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Luciano JOHNSON |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Luciano Salmeron |  |  | La Guaira (Campo de Golf) | Centro de acopio — campo de golf | Fuente: Centro de Acopio La Guaira (Campo de Golf) 26JUN26 |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Luis Díaz |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Luis E. Martinez |  |  | La Guaira (Campo de Golf) | Centro de acopio — campo de golf | Fuente: Centro de Acopio La Guaira (Campo de Golf) 26JUN26 · menor |
@@ -3771,11 +4689,14 @@
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Magali Cabrera (?) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Manuel Castillo |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Manuel Chivico |  |  | La Guaira (Campo de Golf) | Centro de acopio — campo de golf | Fuente: Centro de Acopio La Guaira (Campo de Golf) 26JUN26 |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Manuel CHIVITO |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Mara Palo |  |  | La Guaira (Campo de Golf) | Centro de acopio — campo de golf | Fuente: Centro de Acopio La Guaira (Campo de Golf) 26JUN26 |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Marbelis Jaen |  |  | La Guaira (Campo de Golf) | Centro de acopio — campo de golf | Fuente: Centro de Acopio La Guaira (Campo de Golf) 26JUN26 |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Marbelis JALEN |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Marbelys Gonzalez |  |  | La Guaira (Campo de Golf) | Centro de acopio — campo de golf | Fuente: Centro de Acopio La Guaira (Campo de Golf) 26JUN26 |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Marbelys Iriarte |  |  | La Guaira (Campo de Golf) | Centro de acopio — campo de golf | Fuente: Centro de Acopio La Guaira (Campo de Golf) 26JUN26 |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Marco Palacio (?) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Marco PALAO |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Marcos Planas |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Mari Briceño (?) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Maria Calderon |  |  | La Guaira (Campo de Golf) | Centro de acopio — campo de golf | Fuente: Centro de Acopio La Guaira (Campo de Golf) 26JUN26 |
@@ -3783,19 +4704,26 @@
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | María Montilla |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | María Pérez (menor) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA · menor |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Maria Rodriguez |  |  | La Guaira (Campo de Golf) | Centro de acopio — campo de golf | Fuente: Centro de Acopio La Guaira (Campo de Golf) 26JUN26 |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Mariannys ARANGUREN |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Marielui Monasterio (?) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Marielvi Monasterio |  |  | La Guaira (Campo de Golf) | Centro de acopio — campo de golf | Fuente: Centro de Acopio La Guaira (Campo de Golf) 26JUN26 |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Marielvy FIGUERO |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Marilvis Diaz |  |  | La Guaira (Campo de Golf) | Centro de acopio — campo de golf | Fuente: Centro de Acopio La Guaira (Campo de Golf) 26JUN26 |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Marilyn Pugarita (?) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Mario MONTILLA |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Mariolimar Benítez |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Marionnys Avangoren (?) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Marlene Andrade |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Marlenis DÍAZ |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | (niña menor) Martínez Camargo |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Mary Martínez |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Mathias Garcia |  |  | La Guaira (Campo de Golf) | Centro de acopio — campo de golf | Fuente: Centro de Acopio La Guaira (Campo de Golf) 26JUN26 · menor |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Mathías Vásquez |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Mayderlyn MARTÍNEZ |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Mercedes Pernía |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Michel Chirico (?) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Michel CHIUICO |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Michel Chivico |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Michell Hernández (menor) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA · menor |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Miguel Cejas |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Miguel Planas (menor) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA · menor |
@@ -3803,49 +4731,68 @@
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Miguel Rojas (menor) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA · menor |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Milagros Hernández |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Milagros Torres |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Misyeny Galidenz (menor) |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Misyeny Galíndez (menor) (?) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA · menor |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Moreno Yaneth |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Mullen MEDINA |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Nahemi Graterol (menor) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA · menor |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Nahomi GRATEROL |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Nahomi Rodríguez |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Nairobi Flores |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Nathalia SUÁREZ |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Nathaly Medina |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Natia Gómez (?) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Nelicar Mendoza |  |  | La Guaira (Campo de Golf) | Centro de acopio — campo de golf | Fuente: Centro de Acopio La Guaira (Campo de Golf) 26JUN26 |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Nelimar González Medina |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Nelly Adjunta |  |  | La Guaira (Campo de Golf) | Centro de acopio — campo de golf | Fuente: Centro de Acopio La Guaira (Campo de Golf) 26JUN26 |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Nelson Silva |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Nelsy PALACIOS |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Nelyari BLANCO |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Néstor Milano |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Nhivia Escalante |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Nicole HERNÁNDEZ |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Nilie Rodríguez (menor) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA · menor |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Niña menor Martinez Camargo |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Nirxon RAMÍREZ |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Nivia Escalante |  |  | La Guaira (Campo de Golf) | Centro de acopio — campo de golf | Fuente: Centro de Acopio La Guaira (Campo de Golf) 26JUN26 |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Nixon Ramírez |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Noel Silva (menor) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA · menor |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Norelkys Castillo |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Onas Cadenas |  |  | La Guaira (Campo de Golf) | Centro de acopio — campo de golf | Fuente: Centro de Acopio La Guaira (Campo de Golf) 26JUN26 |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Onos Cadenas (?) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Oriana URRUCHUTO |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Orianni Rodríguez (menor) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA · menor |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Oris Blanco |  |  | La Guaira (Campo de Golf) | Centro de acopio — campo de golf | Fuente: Centro de Acopio La Guaira (Campo de Golf) 26JUN26 |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Orlando Dewentt |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Orlando José Dewentt |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Oscar González (?) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Oswaldo Berbi |  |  | La Guaira (Campo de Golf) | Centro de acopio — campo de golf | Fuente: Centro de Acopio La Guaira (Campo de Golf) 26JUN26 |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | otty Dimas |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Paola Avilan |  |  | La Guaira (Campo de Golf) | Centro de acopio — campo de golf | Fuente: Centro de Acopio La Guaira (Campo de Golf) 26JUN26 |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Paola Mendoza |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Quirstar JIMÉNEZ |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Rafael Viralles (?) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Raiza Gonzáles |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Raiza GONZÁLEZ |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Ramón Medina |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Rebeca Regalado |  |  | La Guaira (Campo de Golf) | Centro de acopio — campo de golf | Fuente: Centro de Acopio La Guaira (Campo de Golf) 26JUN26 |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Reinal Suescum |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Reinier CARRASQUEL |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Richard González |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Robert Adrián MADRID |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Robert Rodríguez |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Rodelis Peralta |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Rogelis Peralta |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Roger Camargo |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Roger Nieves |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Ronaiker Olivares |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Ronaiker Olivore |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Ronangel Olivares |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Ronielas Peralta |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Ronner Camargo |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Ronni Pugarita (?) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Rosa Delgado |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Rosa MÁRQUEZ |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Rosana Medina |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Rosana Monge |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Roselma Santana |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
@@ -3858,27 +4805,39 @@
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Sam Olivares |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Samantha Garcia |  |  | La Guaira (Campo de Golf) | Centro de acopio — campo de golf | Fuente: Centro de Acopio La Guaira (Campo de Golf) 26JUN26 · menor |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Sarai Contramaestre (menor) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA · menor |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Saray Sepolpeda |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Saray Sepúlveda |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Sharon Yepez |  |  | La Guaira (Campo de Golf) | Centro de acopio — campo de golf | Fuente: Centro de Acopio La Guaira (Campo de Golf) 26JUN26 |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Shrina CEBALLOS |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Sliven MENENTES |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Soe Santander (?) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Sofia Garcia |  |  | La Guaira (Campo de Golf) | Centro de acopio — campo de golf | Fuente: Centro de Acopio La Guaira (Campo de Golf) 26JUN26 · menor |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Sofía Hernández (menor) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA · menor |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Soili Romero |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Solaiby FARRAES |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Solaiby Farres |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Solaiby feirees |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Solaidy Farraez |  |  | La Guaira (Campo de Golf) | Centro de acopio — campo de golf | Fuente: Centro de Acopio La Guaira (Campo de Golf) 26JUN26 |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Solaidy FARRES |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Soli Romero |  |  | La Guaira (Campo de Golf) | Centro de acopio — campo de golf | Fuente: Centro de Acopio La Guaira (Campo de Golf) 26JUN26 |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Soni Martínez |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Sonia Marcano |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Sorelis Romero |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Sotty Dimas |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Tabiana Toimes (?) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Tamara RADA |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Team Ramirez |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Teobaldo Hernández |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Thiago Arratia |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Tita SÁNCHEZ |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Tosmaily Solano (?) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Usiel Bello (menor) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA · menor |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Valentina Romero |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Venite CARRASQUEL |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Víctor CALDERÓN |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Victor Ramirez |  |  | La Guaira (Campo de Golf) | Centro de acopio — campo de golf | Fuente: Centro de Acopio La Guaira (Campo de Golf) 26JUN26 |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Víctor Ruiz |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Vierma CASTILLO |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Vilmer Castillo |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Viviana Mendoza |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Welyari Blanco (?) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
@@ -3890,19 +4849,29 @@
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | William Milano |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Williams López |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Williennis Rodriguez |  |  | La Guaira (Campo de Golf) | Centro de acopio — campo de golf | Fuente: Centro de Acopio La Guaira (Campo de Golf) 26JUN26 |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Willmar GARCÍA |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Willmer Gomez |  |  | La Guaira (Campo de Golf) | Centro de acopio — campo de golf | Fuente: Centro de Acopio La Guaira (Campo de Golf) 26JUN26 |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Wilmar Gómez |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Wilmar Palomino |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Wilmar TORRES |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Wilmarys GONZÁLEZ |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Wilmer Palomino |  |  | La Guaira (Campo de Golf) | Centro de acopio — campo de golf | Fuente: Centro de Acopio La Guaira (Campo de Golf) 26JUN26 |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Wilmer Torres |  |  | La Guaira (Campo de Golf) | Centro de acopio — campo de golf | Fuente: Centro de Acopio La Guaira (Campo de Golf) 26JUN26 |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Winsday ARENA |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Yainelis Ochoa |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Yajaira Martínez Barrio |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Yanay Margarita (?) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Yanay Margarita Villam |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Yanay Margarita VILLAMEL |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Yandar VILLEGAS |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Yanderson Díaz |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Yandreina CORVO |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Yanetsi Peralta |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Yanetzi Peralta |  |  | La Guaira (Campo de Golf) | Centro de acopio — campo de golf | Fuente: Centro de Acopio La Guaira (Campo de Golf) 26JUN26 |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Yaritza Iriarte |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Yarnelis Ochea (?) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Yarnelis Ochoa |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Yassibith CARVAJELINO |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Yefferson Suárez |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Yeibert Pugarita (?) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Yeikelis García |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
@@ -3913,31 +4882,44 @@
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Yeison Rada (?) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Yeleisy Castillo |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Yelibeth Peña |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Yelicar MENDOZA |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Yelimar Pérez |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Yelinar Perez |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Yelitza Marcano |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Yenderson Sandoval |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Yenifer Galidenz (menor) |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Yenifer Galíndez (menor) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA · menor |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Yeorgelys Galíndez (?) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Yerson Rodriguez |  |  | La Guaira (Campo de Golf) | Centro de acopio — campo de golf | Fuente: Centro de Acopio La Guaira (Campo de Golf) 26JUN26 |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Yesica Pérez (?) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Yetxi Vivas |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Yilmer Castillo |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Yisimor PONTAJE |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Yohan Corvo |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Yolai MÍREZ |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Yoleidy Perez |  |  | La Guaira (Campo de Golf) | Centro de acopio — campo de golf | Fuente: Centro de Acopio La Guaira (Campo de Golf) 26JUN26 |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Yoliannys Rosales |  |  | La Guaira (Campo de Golf) | Centro de acopio — campo de golf | Fuente: Centro de Acopio La Guaira (Campo de Golf) 26JUN26 |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Yolimar Benavides (?) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Yolimar BENAVIDEZ |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Yolionnys ROSALES |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Yonaiker Díaz |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Yondeiber Morales |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Yonderber Morales |  |  | La Guaira (Campo de Golf) | Centro de acopio — campo de golf | Fuente: Centro de Acopio La Guaira (Campo de Golf) 26JUN26 |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Yonielys Diaz |  |  | La Guaira (Campo de Golf) | Centro de acopio — campo de golf | Fuente: Centro de Acopio La Guaira (Campo de Golf) 26JUN26 |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Yonnie Almeida |  |  | La Guaira (Campo de Golf) | Centro de acopio — campo de golf | Fuente: Centro de Acopio La Guaira (Campo de Golf) 26JUN26 |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Yonnie ALMEIDO |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Yorber Garcia |  |  | La Guaira (Campo de Golf) | Centro de acopio — campo de golf | Fuente: Centro de Acopio La Guaira (Campo de Golf) 26JUN26 |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Yosdon HOITINEZ |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Yosguan Rodriguez |  |  | La Guaira (Campo de Golf) | Centro de acopio — campo de golf | Fuente: Centro de Acopio La Guaira (Campo de Golf) 26JUN26 |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Yosmely Idriarte (?) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Yosneidy Medina |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Yostin Diaz |  |  | La Guaira (Campo de Golf) | Centro de acopio — campo de golf | Fuente: Centro de Acopio La Guaira (Campo de Golf) 26JUN26 |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Yphollenny DOMÍNGUEZ |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Yubelkys García (?) |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Yuleidy Pérez |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Yulianny Rosales |  |  | Playa Los Cocos | Sobreviviente — campo de golf Caribe | Fuente: Drive SISMO 2026 VZLA |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Yurmary DOMÍNGUEZ |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Yusmely IDRIARTE |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
 | Campo de Golf Caribe — sobrevivientes (Playa Los Cocos) | Yusmely Iriarte |  |  | La Guaira (Campo de Golf) | Centro de acopio — campo de golf | Fuente: Centro de Acopio La Guaira (Campo de Golf) 26JUN26 |
 | Seguro Social La Guaira (IVSS) | Abrahan Gonzales | 8 |  | Caribe OPP2 | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
 | Seguro Social La Guaira (IVSS) | Aderson Reginfo |  | 79956940 | OPP 27 | Registro hospitalario (dropbox 26JUN) | Fuente: Consolidado dropbox 26JUN26 |
@@ -4542,6 +5524,532 @@
 | Hospital General de Lídice (Dr. Jesús Yerena) | Vanessa Roche | 33 |  |  | Listado general (24-26/06) | Fuente: Hosp. Gral. de Lídice (Dr. Jesús Yerena) 24-26JUN |
 | Hospital General de Lídice (Dr. Jesús Yerena) | Wilfredo Quintero | 50 |  |  | Listado general (24-26/06) | Fuente: Hosp. Gral. de Lídice (Dr. Jesús Yerena) 24-26JUN |
 | Hospital General de Lídice (Dr. Jesús Yerena) | Yeny Díaz | 61 | 7858766 |  | Listado general (24-26/06) | Fuente: Hosp. Gral. de Lídice (Dr. Jesús Yerena) 24-26JUN |
+| Sin identificar (Hospital pared azul) | Aderfy Oleche CONTERO |  |  | La Guaira | Triage | Fuente: GSheet consolidado todos los archivos (27JUN) · Triage |
+| Sin identificar (Hospital pared azul) | Alexis José PINES |  |  | La Guaira | Cirugía | Fuente: GSheet consolidado todos los archivos (27JUN) · Cirugía |
+| Sin identificar (Hospital pared azul) | Amilkar ESTABILITO | 61 |  | La Guaira | Cirugía/Traumatología | Fuente: GSheet consolidado todos los archivos (27JUN) · Cirugía/Traumatología |
+| Sin identificar (Hospital pared azul) | Anderson MENDOZA |  | 27399207 | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Sin identificar (Hospital pared azul) | Andres LAYA |  | 31290288 | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Sin identificar (Hospital pared azul) | Ángel ORTEGA |  |  | La Guaira | Rx | Fuente: GSheet consolidado todos los archivos (27JUN) · Rx |
+| Sin identificar (Hospital pared azul) | Ángel PAREDY | 12 |  | La Guaira | Traumatología | Fuente: GSheet consolidado todos los archivos (27JUN) · Traumatología |
+| Sin identificar (Hospital pared azul) | Angeliy GONZÁLEZ | 37 |  | La Guaira | Posito Asesou | Fuente: GSheet consolidado todos los archivos (27JUN) · Posito Asesou |
+| Sin identificar (Hospital pared azul) | Angi ZANABRIA |  | 13344792 | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Sin identificar (Hospital pared azul) | Anyerlys GONZÁLEZ | 37 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Sin identificar (Hospital pared azul) | Bladimir LISENCO | 80 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Sin identificar (Hospital pared azul) | Breian VIVIAN | 24 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Sin identificar (Hospital pared azul) | Briceño AHIKAR |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Sin identificar (Hospital pared azul) | Brígida SARMIENTO | 5 |  | La Guaira | Posito Asesno | Fuente: GSheet consolidado todos los archivos (27JUN) · Posito Asesno |
+| Sin identificar (Hospital pared azul) | Brioneley REBELLO |  |  | La Guaira | Medicina Interna | Fuente: GSheet consolidado todos los archivos (27JUN) · Medicina Interna |
+| Sin identificar (Hospital pared azul) | Brionely CEBALTO |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Sin identificar (Hospital pared azul) | Brito ANTONELLA | 10 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Sin identificar (Hospital pared azul) | Camila JORÍAZ | 7 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Sin identificar (Hospital pared azul) | Carreño Derek JESUE | 5 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Sin identificar (Hospital pared azul) | Celeste YITORA |  |  | La Guaira | Traumatología | Fuente: GSheet consolidado todos los archivos (27JUN) · Traumatología |
+| Sin identificar (Hospital pared azul) | César CHEMELO | 5 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Sin identificar (Hospital pared azul) | Chirinos MAXIMILIANO | 6 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Sin identificar (Hospital pared azul) | Clariangela HUTINGS | 30 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Sin identificar (Hospital pared azul) | Cruz HARMONDS |  |  | La Guaira | Cirugía Observ. | Fuente: GSheet consolidado todos los archivos (27JUN) · Cirugía Observ. |
+| Sin identificar (Hospital pared azul) | Dayana CARDONA |  |  | La Guaira | Neurocirugía | Fuente: GSheet consolidado todos los archivos (27JUN) · Neurocirugía |
+| Sin identificar (Hospital pared azul) | Diego MEDINA | 30 | 3129113 | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Sin identificar (Hospital pared azul) | Duglos PORRAS | 35 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Sin identificar (Hospital pared azul) | Ejdemer MILANO | 13 |  | La Guaira | Traumatología/Cirugía | Fuente: GSheet consolidado todos los archivos (27JUN) · Traumatología/Cirugía |
+| Sin identificar (Hospital pared azul) | Elimer LÓPEZ | 40 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Sin identificar (Hospital pared azul) | Eman GLADYS |  |  | La Guaira | Traumatología | Fuente: GSheet consolidado todos los archivos (27JUN) · Traumatología |
+| Sin identificar (Hospital pared azul) | Emili RAMOS | 10 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Sin identificar (Hospital pared azul) | Enrique DÍAZ |  |  | La Guaira | Traumatología | Fuente: GSheet consolidado todos los archivos (27JUN) · Traumatología |
+| Sin identificar (Hospital pared azul) | Evan Armando RIVAS | 20 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Sin identificar (Hospital pared azul) | Fabricio GUTIÉRREZ |  |  | La Guaira | Posito/Traumatología | Fuente: GSheet consolidado todos los archivos (27JUN) · Posito/Traumatología |
+| Sin identificar (Hospital pared azul) | Feliciano GIAMPOLO |  |  | La Guaira | Triaje Cirugía | Fuente: GSheet consolidado todos los archivos (27JUN) · Triaje Cirugía |
+| Sin identificar (Hospital pared azul) | Flores YORDANO | 10 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Sin identificar (Hospital pared azul) | Fredy BENITES |  |  | La Guaira | Traumatología HTA | Fuente: GSheet consolidado todos los archivos (27JUN) · Traumatología HTA |
+| Sin identificar (Hospital pared azul) | García GABRIEL | 9 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Sin identificar (Hospital pared azul) | García JULIETH | 8 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Sin identificar (Hospital pared azul) | Gealdo RAMÍREZ |  | 6121983 | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Sin identificar (Hospital pared azul) | Giménez MATHIAS | 12 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Sin identificar (Hospital pared azul) | Glenidys RODRÍGUEZ | 25 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Sin identificar (Hospital pared azul) | Herrera ALFONSO | 10 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Sin identificar (Hospital pared azul) | Irma DÍAZ |  |  | La Guaira | Triaje Neuro | Fuente: GSheet consolidado todos los archivos (27JUN) · Triaje Neuro |
+| Sin identificar (Hospital pared azul) | Isaac AARON | 8 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Sin identificar (Hospital pared azul) | Isaac ALFONZO |  |  | La Guaira | Neurocirugía | Fuente: GSheet consolidado todos los archivos (27JUN) · Neurocirugía |
+| Sin identificar (Hospital pared azul) | Isabela REVOREDO | 10 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Sin identificar (Hospital pared azul) | Ivón ESPINOZA | 43 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Sin identificar (Hospital pared azul) | Jaimon LISBOT |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Sin identificar (Hospital pared azul) | Jesús DUARTE | 91 | 3142521 | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Sin identificar (Hospital pared azul) | Jhonaiker SUÁREZ | 13 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Sin identificar (Hospital pared azul) | Jhorda LOVERO | 9 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Sin identificar (Hospital pared azul) | José FIGUERE | 7 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Sin identificar (Hospital pared azul) | José Luis SOSA |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Sin identificar (Hospital pared azul) | Joys GONZÁLEZ | 13 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Sin identificar (Hospital pared azul) | Juan GARCÍA |  | 22761609 | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Sin identificar (Hospital pared azul) | Kamila SALAZAR | 23 |  | La Guaira | Cirugía AHA | Fuente: GSheet consolidado todos los archivos (27JUN) · Cirugía AHA |
+| Sin identificar (Hospital pared azul) | Keisy MONTES | 23 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Sin identificar (Hospital pared azul) | Kevi GONZÁLEZ | 32 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Sin identificar (Hospital pared azul) | Kiara CASIDA | 9 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Sin identificar (Hospital pared azul) | Kilon LUCIANO | 6 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Sin identificar (Hospital pared azul) | Ladua ELIANYERLIS | 1 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Sin identificar (Hospital pared azul) | Ligia Inés Hendix MENDOZA | 17 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Sin identificar (Hospital pared azul) | Luis MENDOZA | 14 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Sin identificar (Hospital pared azul) | Luisar GONZÁLEZ | 45 |  | La Guaira | Tomografía | Fuente: GSheet consolidado todos los archivos (27JUN) · Tomografía |
+| Sin identificar (Hospital pared azul) | Maite HERNÁNDEZ | 46 |  | La Guaira | Cirugía/Neurocirugía | Fuente: GSheet consolidado todos los archivos (27JUN) · Caso Social · Cirugía/Neurocirugía |
+| Sin identificar (Hospital pared azul) | Mandy YUSLEDY | 8 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Sin identificar (Hospital pared azul) | Marco REINA | 49 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) · FALLECIDO |
+| Sin identificar (Hospital pared azul) | María ANDRADE | 62 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Sin identificar (Hospital pared azul) | Mariote MAKTERÁN | 67 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Sin identificar (Hospital pared azul) | Martínez JYAIKEL | 8 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Sin identificar (Hospital pared azul) | Matías PALMOR | 14 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Sin identificar (Hospital pared azul) | Méndez YOINELIS | 11 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Sin identificar (Hospital pared azul) | Mia PÉREZ | 2 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Sin identificar (Hospital pared azul) | Miétes ANDRÉS | 10 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Sin identificar (Hospital pared azul) | Moreno DOMINUS | 26 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Sin identificar (Hospital pared azul) | Natia JIMÉNEZ | 12 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Sin identificar (Hospital pared azul) | Nelly DEFRENTES | 63 |  | La Guaira | Neurocirugía/Traumatología | Fuente: GSheet consolidado todos los archivos (27JUN) · Neurocirugía/Traumatología |
+| Sin identificar (Hospital pared azul) | Niña GONZÁLEZ |  | 15815565 | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Sin identificar (Hospital pared azul) | Prili DONANTE |  | 34055880 | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Sin identificar (Hospital pared azul) | Rada REINIER | 5 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Sin identificar (Hospital pared azul) | Ramiel FAJARDO | 33 |  | La Guaira | Traumatología | Fuente: GSheet consolidado todos los archivos (27JUN) · Traumatología |
+| Sin identificar (Hospital pared azul) | Ramírez HILARY | 10 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Sin identificar (Hospital pared azul) | Ramos EMILYS | 10 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Sin identificar (Hospital pared azul) | Revoredo ISABELLA | 10 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Sin identificar (Hospital pared azul) | Roberith MÁRQUEZ | 21 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Sin identificar (Hospital pared azul) | Rombos VITTORIA | 13 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Sin identificar (Hospital pared azul) | Ronfí RAMÓN | 34 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Sin identificar (Hospital pared azul) | Rosalinda VIERA | 51 |  | La Guaira | Posito Asesou | Fuente: GSheet consolidado todos los archivos (27JUN) · Posito Asesou |
+| Sin identificar (Hospital pared azul) | Ruiz JUNIOR | 8 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Sin identificar (Hospital pared azul) | Salcedo SEBASTIÁN | 9 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Sin identificar (Hospital pared azul) | Sebastián MENDOZA | 13 |  | La Guaira | Traumatología | Fuente: GSheet consolidado todos los archivos (27JUN) · Traumatología |
+| Sin identificar (Hospital pared azul) | Silva SAMARA | 9 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Sin identificar (Hospital pared azul) | Tarry LÓPEZ |  |  | La Guaira | Cirugía Observ./Alta | Fuente: GSheet consolidado todos los archivos (27JUN) · Cirugía Observ./Alta |
+| Sin identificar (Hospital pared azul) | Tartaga HENDAZ | 12 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Sin identificar (Hospital pared azul) | Tatiana LISENCO | 53 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Sin identificar (Hospital pared azul) | Valeria OSETA |  |  | La Guaira | Medicina Int./Traumatología | Fuente: GSheet consolidado todos los archivos (27JUN) · Medicina Int./Traumatología |
+| Sin identificar (Hospital pared azul) | Valesca TORRES | 14 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Sin identificar (Hospital pared azul) | Victor TORRALBA |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Sin identificar (Hospital pared azul) | Villatta AARON | 8 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Sin identificar (Hospital pared azul) | Wile GUERRERO | 40 |  | La Guaira | Traumatología | Fuente: GSheet consolidado todos los archivos (27JUN) · Traumatología |
+| Sin identificar (Hospital pared azul) | Yadamo FLORES | 10 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Sin identificar (Hospital pared azul) | Yerderly RAVELO | 3 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Sin identificar (Hospital pared azul) | Yoan SALAZAR |  |  | La Guaira | Triaje Leve | Fuente: GSheet consolidado todos los archivos (27JUN) · Triaje Leve |
+| Sin identificar (Hospital pared azul) | Yoluiys ESTEVES |  |  | La Guaira | Traumatología | Fuente: GSheet consolidado todos los archivos (27JUN) · Traumatología |
+| Sin identificar (Hospital pared azul) | Yosenia CORONADO | 40 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Sin identificar (Hospital pared azul) | Yuloidy ROMERO |  |  | La Guaira | Triaje Neuro | Fuente: GSheet consolidado todos los archivos (27JUN) · Triaje Neuro |
+| Sin identificar (Hospital pared azul) | Yury PULIDO | 41 |  | La Guaira | Cirugía | Fuente: GSheet consolidado todos los archivos (27JUN) · Cirugía |
+| Ministerio de Salud / Centro de asistencia | Abreu ISABEL | 36 |  | La Guaira | Trauma | Fuente: GSheet consolidado todos los archivos (27JUN) · Trauma |
+| Ministerio de Salud / Centro de asistencia | Benites KARLI | 43 |  | La Guaira | Trauma | Fuente: GSheet consolidado todos los archivos (27JUN) · Trauma |
+| Ministerio de Salud / Centro de asistencia | Carmen MARÍN | 53 |  | La Guaira | M.I. | Fuente: GSheet consolidado todos los archivos (27JUN) · M.I. |
+| Ministerio de Salud / Centro de asistencia | Carrasco GYOTISBEL | 47 |  | La Guaira | Cirugía | Fuente: GSheet consolidado todos los archivos (27JUN) · Cirugía |
+| Ministerio de Salud / Centro de asistencia | Carrero JIGNEY | 45 |  | La Guaira | Trauma | Fuente: GSheet consolidado todos los archivos (27JUN) · Trauma |
+| Ministerio de Salud / Centro de asistencia | Castro LIEN | 6 |  | La Guaira | Pediátrico | Fuente: GSheet consolidado todos los archivos (27JUN) · Pediátrico |
+| Ministerio de Salud / Centro de asistencia | Cerrano MIGUEL | 11 |  | La Guaira | Trauma | Fuente: GSheet consolidado todos los archivos (27JUN) · Trauma |
+| Ministerio de Salud / Centro de asistencia | Chacín ALDO | 54 |  | La Guaira | Cirugía | Fuente: GSheet consolidado todos los archivos (27JUN) · Cirugía |
+| Ministerio de Salud / Centro de asistencia | Chirino ALEXANDRA | 21 |  | La Guaira | Trauma | Fuente: GSheet consolidado todos los archivos (27JUN) · Trauma |
+| Ministerio de Salud / Centro de asistencia | Chirino YCLEINI | 57 |  | La Guaira | Trauma | Fuente: GSheet consolidado todos los archivos (27JUN) · Trauma |
+| Ministerio de Salud / Centro de asistencia | Colmenares GUEDE | 58 |  | La Guaira | Trauma | Fuente: GSheet consolidado todos los archivos (27JUN) · Trauma |
+| Ministerio de Salud / Centro de asistencia | Cordero JOSÉ | 46 |  | La Guaira | Trauma | Fuente: GSheet consolidado todos los archivos (27JUN) · Trauma |
+| Ministerio de Salud / Centro de asistencia | Cortez YUNIMAR | 58 |  | La Guaira | Trauma | Fuente: GSheet consolidado todos los archivos (27JUN) · Trauma |
+| Ministerio de Salud / Centro de asistencia | Darío REUBEN | 20 |  | La Guaira | Trauma | Fuente: GSheet consolidado todos los archivos (27JUN) · Trauma |
+| Ministerio de Salud / Centro de asistencia | Delgado ORLANDO | 45 |  | La Guaira | Trauma | Fuente: GSheet consolidado todos los archivos (27JUN) · Trauma |
+| Ministerio de Salud / Centro de asistencia | Dereet TORRES | 17 |  | La Guaira | Cirugía | Fuente: GSheet consolidado todos los archivos (27JUN) · Cirugía |
+| Ministerio de Salud / Centro de asistencia | Ereu ANYISNAY | 23 |  | La Guaira | M.I. | Fuente: GSheet consolidado todos los archivos (27JUN) · M.I. |
+| Ministerio de Salud / Centro de asistencia | Farías ÁLVARO | 56 |  | La Guaira | Trauma Schock | Fuente: GSheet consolidado todos los archivos (27JUN) · Trauma Schock |
+| Ministerio de Salud / Centro de asistencia | Franklin ALFONSO | 65 |  | La Guaira | Trauma | Fuente: GSheet consolidado todos los archivos (27JUN) · Trauma |
+| Ministerio de Salud / Centro de asistencia | Garcés MIGUEL | 28 |  | La Guaira | Trauma | Fuente: GSheet consolidado todos los archivos (27JUN) · Trauma |
+| Ministerio de Salud / Centro de asistencia | Garcés Rosa ÁNGEL | 32 |  | La Guaira | Trauma | Fuente: GSheet consolidado todos los archivos (27JUN) · Trauma |
+| Ministerio de Salud / Centro de asistencia | Geeen JHOR | 42 |  | La Guaira | Medicina | Fuente: GSheet consolidado todos los archivos (27JUN) · Medicina |
+| Ministerio de Salud / Centro de asistencia | González ANA | 51 |  | La Guaira | Trauma | Fuente: GSheet consolidado todos los archivos (27JUN) · Trauma |
+| Ministerio de Salud / Centro de asistencia | González EDGAR | 48 |  | La Guaira | Cirugía | Fuente: GSheet consolidado todos los archivos (27JUN) · Cirugía |
+| Ministerio de Salud / Centro de asistencia | González ORLANDO | 72 |  | La Guaira | TMA | Fuente: GSheet consolidado todos los archivos (27JUN) · TMA |
+| Ministerio de Salud / Centro de asistencia | González YURMIS | 47 |  | La Guaira | Trauma | Fuente: GSheet consolidado todos los archivos (27JUN) · Trauma |
+| Ministerio de Salud / Centro de asistencia | Greisy OROPEZA | 20 |  | La Guaira | Trauma | Fuente: GSheet consolidado todos los archivos (27JUN) · Trauma |
+| Ministerio de Salud / Centro de asistencia | Guillen MARIANA | 6 |  | La Guaira | Pediatría | Fuente: GSheet consolidado todos los archivos (27JUN) · Pediatría |
+| Ministerio de Salud / Centro de asistencia | Gustavo AVILE | 52 |  | La Guaira | TRA | Fuente: GSheet consolidado todos los archivos (27JUN) · TRA |
+| Ministerio de Salud / Centro de asistencia | Hernals ARANZA | 11 |  | La Guaira | Pediátrico | Fuente: GSheet consolidado todos los archivos (27JUN) · Pediátrico |
+| Ministerio de Salud / Centro de asistencia | Janeht SEVILLE | 49 |  | La Guaira | Trauma | Fuente: GSheet consolidado todos los archivos (27JUN) · Trauma |
+| Ministerio de Salud / Centro de asistencia | Jesuo VEGAS | 27 |  | La Guaira | Trauma | Fuente: GSheet consolidado todos los archivos (27JUN) · Trauma |
+| Ministerio de Salud / Centro de asistencia | Jhonson STEBON | 24 |  | La Guaira | Trauma | Fuente: GSheet consolidado todos los archivos (27JUN) · Trauma |
+| Ministerio de Salud / Centro de asistencia | José AGRE | 49 |  | La Guaira | Trauma | Fuente: GSheet consolidado todos los archivos (27JUN) · Trauma |
+| Ministerio de Salud / Centro de asistencia | Kenic MUÑEZ | 40 |  | La Guaira | Trauma | Fuente: GSheet consolidado todos los archivos (27JUN) · Trauma |
+| Ministerio de Salud / Centro de asistencia | Kung ALFREDO | 45 |  | La Guaira | Trauma | Fuente: GSheet consolidado todos los archivos (27JUN) · Trauma |
+| Ministerio de Salud / Centro de asistencia | Lemus DILSIA | 49 |  | La Guaira | Trauma | Fuente: GSheet consolidado todos los archivos (27JUN) · Trauma |
+| Ministerio de Salud / Centro de asistencia | León KARLOS | 49 |  | La Guaira | Trauma | Fuente: GSheet consolidado todos los archivos (27JUN) · Trauma |
+| Ministerio de Salud / Centro de asistencia | López NEIBER | 22 |  | La Guaira | Trauma | Fuente: GSheet consolidado todos los archivos (27JUN) · Trauma |
+| Ministerio de Salud / Centro de asistencia | López VALERIA | 28 |  | La Guaira | Trauma | Fuente: GSheet consolidado todos los archivos (27JUN) · Trauma |
+| Ministerio de Salud / Centro de asistencia | María YOBANA | 64 |  | La Guaira | Trauma | Fuente: GSheet consolidado todos los archivos (27JUN) · Trauma |
+| Ministerio de Salud / Centro de asistencia | Marlene TERÁN | 6 |  | La Guaira | Trauma | Fuente: GSheet consolidado todos los archivos (27JUN) · Trauma |
+| Ministerio de Salud / Centro de asistencia | Marx YÉPEZ | 6 |  | La Guaira | Pediátrico | Fuente: GSheet consolidado todos los archivos (27JUN) · Pediátrico |
+| Ministerio de Salud / Centro de asistencia | Mato CARLOS | 26 |  | La Guaira | Trauma | Fuente: GSheet consolidado todos los archivos (27JUN) · Trauma |
+| Ministerio de Salud / Centro de asistencia | Medina NELSON | 40 |  | La Guaira | Trauma Scho | Fuente: GSheet consolidado todos los archivos (27JUN) · Trauma Scho |
+| Ministerio de Salud / Centro de asistencia | Mejía YÁNEZ | 50 |  | La Guaira | Trauma | Fuente: GSheet consolidado todos los archivos (27JUN) · Trauma |
+| Ministerio de Salud / Centro de asistencia | Milagros LINARES | 30 |  | La Guaira | M.I. | Fuente: GSheet consolidado todos los archivos (27JUN) · M.I. |
+| Ministerio de Salud / Centro de asistencia | Mora HILARIO | 13 |  | La Guaira | Trauma | Fuente: GSheet consolidado todos los archivos (27JUN) · Trauma |
+| Ministerio de Salud / Centro de asistencia | Nateran VALERF | 7 |  | La Guaira | Pediátrico | Fuente: GSheet consolidado todos los archivos (27JUN) · Pediátrico |
+| Ministerio de Salud / Centro de asistencia | Nieto MILÁNGER | 18 |  | La Guaira | Trauma | Fuente: GSheet consolidado todos los archivos (27JUN) · Trauma |
+| Ministerio de Salud / Centro de asistencia | Patricia MONDIOLE | 51 |  | La Guaira | Trauma | Fuente: GSheet consolidado todos los archivos (27JUN) · Trauma |
+| Ministerio de Salud / Centro de asistencia | Perdomo YOINER | 32 |  | La Guaira | Trauma | Fuente: GSheet consolidado todos los archivos (27JUN) · Trauma |
+| Ministerio de Salud / Centro de asistencia | Pestana Vargas MADELIN | 35 |  | La Guaira | Trauma | Fuente: GSheet consolidado todos los archivos (27JUN) · Trauma |
+| Ministerio de Salud / Centro de asistencia | Pico YENNY | 49 |  | La Guaira | Trauma | Fuente: GSheet consolidado todos los archivos (27JUN) · Trauma |
+| Ministerio de Salud / Centro de asistencia | Plome BOMB | 52 |  | La Guaira | Trauma | Fuente: GSheet consolidado todos los archivos (27JUN) · Trauma |
+| Ministerio de Salud / Centro de asistencia | Quintona JISMAR | 3 |  | La Guaira | Trauma | Fuente: GSheet consolidado todos los archivos (27JUN) · Trauma |
+| Ministerio de Salud / Centro de asistencia | Rangel ENDER | 46 |  | La Guaira | Trauma | Fuente: GSheet consolidado todos los archivos (27JUN) · Trauma |
+| Ministerio de Salud / Centro de asistencia | Rivero EDUYELIS | 6 |  | La Guaira | Trauma | Fuente: GSheet consolidado todos los archivos (27JUN) · Trauma |
+| Ministerio de Salud / Centro de asistencia | Rodríguez MIGUEL | 56 |  | La Guaira | Trauma | Fuente: GSheet consolidado todos los archivos (27JUN) · Trauma |
+| Ministerio de Salud / Centro de asistencia | Roskel NICVEZ | 30 |  | La Guaira | Trauma | Fuente: GSheet consolidado todos los archivos (27JUN) · Trauma |
+| Ministerio de Salud / Centro de asistencia | Silvera LEONIDY | 30 |  | La Guaira | Trauma Schock | Fuente: GSheet consolidado todos los archivos (27JUN) · Trauma Schock |
+| Ministerio de Salud / Centro de asistencia | Soya ESTEFANÍA | 14 |  | La Guaira | Trauma | Fuente: GSheet consolidado todos los archivos (27JUN) · Trauma |
+| Ministerio de Salud / Centro de asistencia | Terán AUDIA | 54 |  | La Guaira | Trauma | Fuente: GSheet consolidado todos los archivos (27JUN) · Trauma |
+| Ministerio de Salud / Centro de asistencia | Terán EZEQUIEL | 15 |  | La Guaira | M.I. | Fuente: GSheet consolidado todos los archivos (27JUN) · M.I. |
+| Ministerio de Salud / Centro de asistencia | Tortoza OSCAR | 37 |  | La Guaira | Trauma | Fuente: GSheet consolidado todos los archivos (27JUN) · Trauma |
+| Ministerio de Salud / Centro de asistencia | Villamizar ABDALIS | 28 |  | La Guaira | Trauma | Fuente: GSheet consolidado todos los archivos (27JUN) · Trauma |
+| Ministerio de Salud / Centro de asistencia | Villamizar REINO |  |  | La Guaira | Trauma | Fuente: GSheet consolidado todos los archivos (27JUN) · Trauma |
+| Ministerio de Salud / Centro de asistencia | Yolitza SARFONIA | 62 |  | La Guaira | M.I. | Fuente: GSheet consolidado todos los archivos (27JUN) · M.I. |
+| Ministerio de Salud / Centro de asistencia | Yorber PEÑA | 30 |  | La Guaira | Cirugía | Fuente: GSheet consolidado todos los archivos (27JUN) · Cirugía |
+| Ministerio de Salud / Centro de asistencia | Yurbely MARTINS |  |  | La Guaira | Trauma | Fuente: GSheet consolidado todos los archivos (27JUN) · Trauma |
+| Ministerio de Salud / Centro de asistencia | Zacaría ALEXIS | 36 |  | La Guaira | Cirugía | Fuente: GSheet consolidado todos los archivos (27JUN) · Cirugía |
+| Ministerio de Salud / Centro de asistencia | Zapata LUISANGELIS | 20 |  | La Guaira | Trauma | Fuente: GSheet consolidado todos los archivos (27JUN) · Trauma |
+| Ministerio de Salud / Centro de asistencia | Zaya ESTEFANÍA | 14 |  | La Guaira | Cirugía | Fuente: GSheet consolidado todos los archivos (27JUN) · Cirugía |
+| Ministerio de Salud / Centro de asistencia | Zulozar CAROLINE |  |  | La Guaira | Trauma | Fuente: GSheet consolidado todos los archivos (27JUN) · Trauma |
+| Centro desplazados / refugio | Acevedo MIZ |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Acosta Bastidas Yanelis del Valle CAROLINE |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Adrián HURTADO |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Albarran MARÍA |  |  | La Vega | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Albert MEDINA |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Alexandra MORALES |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Alvarado Contrera Yorgin ANDAS |  |  | Caraballeda | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Anaque Vuelta María JOSÉ |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Andy LEÓN |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Angarita Carrillo Carmen VICTORIA |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Aponte Borges CARLOS |  |  | La Guaira/El Valle | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Ariana LÓPEZ |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Ariangely GALÍNDEZ |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Ariangely ROMERO |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Arianni CONTRAMAESTRE |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Balboa ADRIANA |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Balceto Acosta Sebastián JOSÉ |  |  | Catia | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Baptista Herrera Yerman ENNEMUL |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Barcelo DIEGO |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Belkys CARABALLO |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Bladimir GÓMEZ |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Blanco JONIOR |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Bolívar Yetselle DANIELA |  |  | Tanaguarena | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Bracho Contreras JORLY |  |  | Barinas | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Brito ANTONELLA |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Brito Morales Brayan DAVID |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Brizuela GABRIEL |  |  | Playa Verde | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Bueno Díaz MERIDA |  |  | Catia | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Carlos LÓPEZ |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Carreño Espinoza Zoleika YAMEI |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Carreño Romero Asly JENZISE |  |  | La Guaira Caribe | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Carreño Romero Derek JOSUÉ |  |  | Caribe-La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Caruzzo Valentina VIVIANS |  |  | Playa Grande | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Castillo ESTAÇANI |  |  | Catia La Mar | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Cauripanz Lucenz Génesis MARÍA |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Charlie JARAMILLO |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Chirinos Martines Maximiliano JOSÉ |  |  | La Guaira Hotel Eduardo | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Chirinos Miranda DULCE |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Claudia BLANCO |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Colina Angarita Alphandri ABEL |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Contreras JOSÉ |  |  | La Vega | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Cordero Parra Williams JOSÉ |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Cordona DAYANA |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Correa DAINAR |  |  | La Guaira-Los Corales | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Crismar RODRÍGUEZ |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Da Silva JAIRO |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Dailenys RODRÍGUEZ |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Daimari PANTOJA |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Dalia GÓMEZ |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Daniel LEÓN |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Danilo MENDOZA |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | De Freita NELLY |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Deibert PANTOJA |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Delgado Torres MAOLY |  |  | La Guaira Caribe | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Díaz HIRMENIA |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Díaz Romero Onaugelys HAURAO |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Doas Lozada Atris ADRIANA |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Dorante ERICK |  |  | Tanaguarena-La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Douglas CASTILLO |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Duon Palencia Giannis DOHENY |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Edgar ARMANZA |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Edgar ROJAS |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Eidert YÉPEZ |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Eliecer Rodríguez MARTÍNEZ |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Eman GLADYS |  |  | Catia La Mar | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Eneida SÁNCHEZ |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Enrique LEÓN |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Enyeri LEÓN |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Espinoza Bello Karen DANIELA |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Espinoza Milagro ADRIÁN |  |  | La Guaira Caribe | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Estebulo MELO |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Esteves Carreño Yolinnys ALBERTO |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Euclides MELO |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Euclides META |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Fernández Freits Rodrigo FELIPE |  |  | Los Corales | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Fernández MANUEL |  |  | La Guaira-Playa Grande | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Fernández Monilo ALBERTO |  |  | Los Corales | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Fernández Pineda ANA |  |  | San Martín | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Fernández SANTIAGO |  |  | La Guaira-Playa Grande | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Figuera CARMELO |  |  | La Guaira Caraballera | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Figuera MORILDA |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Figuera YEANGEL |  |  | La Guaira Tanaguarena | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Francisco José Oropeza TORRES |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | García Martina Kellman BAYANS |  |  | Marquetira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | García Meléndez Oleinis VALENTINA |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | García Mendoza DIEGO |  |  | Caraballeda | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | García Verde Gabriel EZEQUIL |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Génesis RODRÍGUEZ |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Geraldine CASTILLO |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Giampolo FELICIANO |  |  | El Junquito | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | González de Arismendi Mileinis YANETT |  |  | La Guaira/Playa Verde | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | González GABRIEL |  |  | La Guaira Caribe | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | González Isturiz ISABEL |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | González Luisz VERONICZ |  |  | La Guaira Catia La Mar | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | González Martínez Velásquez Fabián HAURAO |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | González Pérez Valfio ORION |  |  | Ordínete | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Grama Rodríguez Eduard ALEXANDER |  |  | Tanaguarena | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Hernández CARLINA |  |  | Caraballeda | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Hernández CRUZ |  |  | Av. Bolívar | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Hernonds Romírez MAITE |  |  | La Guaira Caribe/Caraballeda | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Herrera Ido ALFONSO |  |  | La Guaira Los Corales | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Hieles Torres ARDES |  |  | La Guaira Los Bordes | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Infante YHELENA |  |  | La Guaira-Caraballeda | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Jackson RONDÓN |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Javier NAVARRO |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Jean LEÓN |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Jenni VEROES |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Jesús LEÓN |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Jiménez Rangel Mathias ALEJANDRO |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Joel RAMOS |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Jorge DELGADO |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | José G. RODRÍGUEZ |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | José Gregorio CADENAS |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | José RENOTT |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Josué NIEVES |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Katherin ROA |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | La Rosa NOEL |  |  | La Guaira Hotel Eduard | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Landro CADENAS |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Larez GIEL |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Lemus MARÍA |  |  | La Guaira-Caribe | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | León Sarmiento SOFÍA |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | León YULIET |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Leonardo MENDOZA |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Leudy LEÓN |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Lisenco TATIANA |  |  | La Guaira Maiheria | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Lisenco ULADIMIO |  |  | La Guaira Caraballeda | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Loabel Soniz MARÍA |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Loreany GALÍNDEZ |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Lorya ANDRÉS |  |  | La Guaira-Caribe | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Lourdes RAMOS |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Lujano ELÍAS |  |  | La Guaira-Playa Grande | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Malave Alfonso Samara VALENTINA |  |  | Caraballeda | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Malave Cordero Alani ISABELA |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Malavé TAMARA |  |  | La Guaira-Caraballeda | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | María Elena CALDERA |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | María PÉREZ |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Mariño AMILCAR |  |  | La Guaira Caraballeda | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Martínez Martínez Marlyn MARGARITO |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Martínez NADIUSKA |  |  | La Guaira Caribe | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Martínez Wilian JOSÉ |  |  | Catia La Mar | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Mayora ANGÉLICA |  |  | Caraballeda | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Mayora MARÍA |  |  | La Guaira-Caribe | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Medina ALMANDO |  |  | La Guaira Playa Grande | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Medina Diego ALEJANDRO |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Medina Hernández HANER |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Medina Parra Fernando JOSÉ |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Medline Ofareje María SOFÍA |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Meléndez Pastran Clainys ABXANDRE |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Méndez YOLIMAR |  |  | Catia La Mar | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Mendoa SEBASTIÁN |  |  | La Guaira Tanaguarena | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Mendoza ANDERSON |  |  | Plaza Grande La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Mendoza LUZ |  |  | El Junquito | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Minorís YIMMY |  |  | Guarenas | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Misyeny GALÍNDEZ |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Morbelys IRIARTE |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Moreno DIMEXIS |  |  | La Guaira Caraballeda | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Murillo Montoya Anabella VICTORIA |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Nathaly MEDINA |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Navas Yodalis MERCEDES |  |  | Ciudad Caribia | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Nilie RODRÍGUEZ |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Oitosa Fuentes Josus EDUARDO |  |  | Catia | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Olivio LILIAN |  |  | La Guaira-Caribe | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Onas CADENAS |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Orama ÁNGEL |  |  | La Guaira-Tanaguarena | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Orianni RODRÍGUEZ |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Ortega Pacheco Cristian MIGUEL |  |  | Tanaguarena | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Oscala MOISLER |  |  | La Guaira-Tanaguarena | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Pacheco Díaz Casier EDUARDO |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Palma Mota José ANTONIO |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Paredes Reyes ÁNGEL |  |  | La Guaira Los Corales | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Párez JESÚS |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Parica Péricez Laían DIAKE |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Pérez Montilla RAMÓN |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Petit JOSCAR |  |  | La Vega-Camurichico | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Pimenteu Tabores DAVILERI |  |  | Catia | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Pinoza MILAGIO |  |  | La Guaira Caraballeda | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Polanco Yauripanz Lizn SANTIAGO |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Pulido Morales YULO |  |  | La Guaira-Caribe | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Quintero ALFREDO |  |  | La Guaira Playa Caribe | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Ramírez de Reyes Barbea DIONER |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Ramón MEDINA |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Ramos Díaz Félix EDUARDO |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Revoredo ISABELA |  |  | La Guaira Caribe | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Rodríguez GLENDY |  |  | La Guaira Caraballeda | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Rodríguez Heruru Freddy ALUX |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Rodríguez YASKEILY |  |  | La Guaira-Caribe | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Rodríguez YONEIVAR |  |  | La Guaira-Caribe | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Roger NIEVES |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Romírez Hilary XARTELYS |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Ronangel OLIVARES |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Rondón DAYANARA |  |  | Parque Carabobo | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Rosana MEDINA |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Sala CAMILA |  |  | La Guaira Los Bordes | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Salazar Zambrano Johan ALEXANDER |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Sanabria ANGI |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Sandoval López Jesarny SOFÍA |  |  | Junquito | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Saraí CONTRAMAESTRE |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Soe SANTANDER |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Soili ROMERO |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Sojo Lozada Reina ALEJANDRA |  |  | San Martín | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Sorelis ROMERO |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Sosa Álvarez Elianyely NAZARETH |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Sosa Azueta José LUIS |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Tirado Lovez Yoniar DAVID |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Torcate JACINTA |  |  | El Valle | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Toro VALESKA |  |  | La Guaira-Tanaguarena | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Torrealba VÍCTOR |  |  | La Guaira-Pariata | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Torres Jhon ALBERTO |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Torres Soz Jenny CAROLINA |  |  | Junquito Km 25 | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Uzcátegui JOSÉ |  |  | Los Corales-La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Valentina ROMERO |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Vargas DAMIAN |  |  | Catia-Agua Salud | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Villastro Aron ISAAC |  |  | La Guaira-Tanaguarena | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Willmar GÓMEZ |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Wilmar PALOMINO |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Yaritza IRIARTE |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Yeikelis GARCÍA |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Yeison FORFÁN |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Yelibeth PEÑA |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Yelimer PÉREZ |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Yelitza MARCANO |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Yenifer GALÍNDEZ |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Yeorgelys GALÍNDEZ |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Yépez Domínguez CARLOS |  |  | Barquisimeto | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Yesica PÉREZ |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Yétxi VIVAS |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Yoleidy PÉREZ |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Yondeiber MORALES |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Yosneidy MEDINA |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Centro desplazados / refugio | Zarmiento BRISSIDA |  |  | La Guaira Playa Grande/Tanaguarena | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hospital Ciudad Caribia | Adsony TOHORMES | 50 | 12866403 | La Guaira - Caribe | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hospital Ciudad Caribia | Alexandra GONZÁLEZ |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hospital Ciudad Caribia | Alfredo AGUILAR | 57 | 10487289 | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) · Traslado a CDD Los Mercedes |
+| Hospital Ciudad Caribia | Alvaro HERRERO |  | 22504476 | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) · Alta mejoría |
+| Hospital Ciudad Caribia | Anabella DÁVILA | 13 | 31439901 | La Guaira - Los Corales | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hospital Ciudad Caribia | Antonella MARÍN |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hospital Ciudad Caribia | Asheley VELIZ | 19 | 31748046 | La Guaira - Caribe | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hospital Ciudad Caribia | Balas LAURA |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hospital Ciudad Caribia | Carlos GONZÁLEZ |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hospital Ciudad Caribia | Carlos SANTOS | 73 | 3403495 | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) · Traslado a CDD Los Mercedes |
+| Hospital Ciudad Caribia | Claret SUÁREZ | 75 | 10471600 | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) · Traslado a Hospital Militar |
+| Hospital Ciudad Caribia | Cleiuer ESCOBAR | 28 | 27552520 | La Guaira - Ciudad Caribia | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hospital Ciudad Caribia | David PEDRÓN |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hospital Ciudad Caribia | Eduardo MAYOR | 41 | 16091866 | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) · Traslado a Hospital Militar |
+| Hospital Ciudad Caribia | Fernández YOSKEIDY |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hospital Ciudad Caribia | Frank ARIAS |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hospital Ciudad Caribia | Galicia RODAS |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hospital Ciudad Caribia | Galvi YANIESKE |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hospital Ciudad Caribia | Julio SUÁREZ |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hospital Ciudad Caribia | Kairyn GONZÁLEZ |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hospital Ciudad Caribia | María CASTAÑEDA |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hospital Ciudad Caribia | Mariela BORGES | 57 | 9855570 | La Guaira - Caribe | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hospital Ciudad Caribia | Mayuri VELEZ | 51 | 12717904 | La Guaira - Caraballeda | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hospital Ciudad Caribia | Nelly SANDOVAL |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hospital Ciudad Caribia | Ninoska VETENCOURT | 55 | 13224566 | La Guaira - Los Corales | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hospital Ciudad Caribia | Rosibel DEWUENTT | 27 | 27042604 | La Guaira - Caribe | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hospital Ciudad Caribia | Rudi ARTEAGA |  | 10581795 | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) · Alta mejoría |
+| Hospital Ciudad Caribia | Santiago CARRASQUEL |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hospital Ciudad Caribia | Tania CELIS |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hospital Ciudad Caribia | Tomasa ROQUE | 84 | 5094730 | La Guaira - Caribe | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hospital Ciudad Caribia | Torres LUNE |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hospital Ciudad Caribia | Valeria DE LA OZ | 25 | 29521698 | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) · Alta mejoría |
+| Hospital Ciudad Caribia | Yeisneidy FERNÁNDEZ |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hospital Ciudad Caribia | Yoleida GONZÁLEZ |  |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Fuente desconocida | Sofia Colmenares | 7 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Fuente desconocida | Valella Gorrín | 22 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Fuente desconocida | Yamileth Hernández | 61 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Fuente desconocida | Yaneska González | 40 |  | La Guaira | Procedencia: La Guaira | Fuente: GSheet consolidado todos los archivos (27JUN) · Procedencia: La Guaira |
+| Fuente desconocida | Yeison Tovar | 17 |  | La Guaira | Registro consolidado | Fuente: GSheet consolidado todos los archivos (27JUN) |
+| Hospital Victorino Santaella | ARTEAGA FRANKLIN | 13 |  | LA GUAIRA | POLITRAUMATISMO | Fuente: Hospital Victorino Santaella (27JUN) · PEDRIATICO |
+| Hospital Victorino Santaella | ARTEAGA JUAN | 7 |  | LA GUAIRA | POLITRAUMATISMO | Fuente: Hospital Victorino Santaella (27JUN) · PEDRIATICO |
+| Hospital Victorino Santaella | BENITEZ STEFANY | 31 |  | LA GUAIRA | POLITRAUMATISMO | Fuente: Hospital Victorino Santaella (27JUN) |
+| Hospital Victorino Santaella | CAMEJO SAMUEL | 41 |  | LA GUAIRA | POLITRAUMATISMO | Fuente: Hospital Victorino Santaella (27JUN) |
+| Hospital Victorino Santaella | CAMEJO YENIFER | 41 |  | LA GUAIRA | POLITRAUMATISMO | Fuente: Hospital Victorino Santaella (27JUN) |
+| Hospital Victorino Santaella | CANO RODRIGO | 24 |  | LA GUAIRA | POLITRAUMATISMO | Fuente: Hospital Victorino Santaella (27JUN) |
+| Hospital Victorino Santaella | CASTRO MARIO | 60 |  | LA GUAIRA | POLITRAUMATISMO | Fuente: Hospital Victorino Santaella (27JUN) |
+| Hospital Victorino Santaella | CHAGUAN JORGE | 70 |  | CHARALLAVE | POLITRAUMATISMO | Fuente: Hospital Victorino Santaella (27JUN) · FALLECIDO |
+| Hospital Victorino Santaella | DIAZ ARIANA | 19 |  | LA GUAIRA | POLITRAUMATISMO | Fuente: Hospital Victorino Santaella (27JUN) |
+| Hospital Victorino Santaella | DUAN ELEAZAR | 53 |  | LA GUAIRA | POLITRAUMATISMO | Fuente: Hospital Victorino Santaella (27JUN) |
+| Hospital Victorino Santaella | DUVEN ELEAZAR | 52 |  | LA GUAIRA | POLITRAUMATISMO | Fuente: Hospital Victorino Santaella (27JUN) |
+| Hospital Victorino Santaella | ENRIQUE KENYERLI | 19 |  | LA GUAIRA | POLITRAUMATISMO | Fuente: Hospital Victorino Santaella (27JUN) |
+| Hospital Victorino Santaella | GARCIA JESUS | 50 |  | LA GUAIRA | POLITRAUMATISMO | Fuente: Hospital Victorino Santaella (27JUN) |
+| Hospital Victorino Santaella | GUTIERREZ AISBER | 42 |  | LA GUAIRA | POLITRAUMATISMO | Fuente: Hospital Victorino Santaella (27JUN) |
+| Hospital Victorino Santaella | LANDAETA YOULET |  |  | LA GUAIRA | POLITRAUMATISMO | Fuente: Hospital Victorino Santaella (27JUN) · ALTA |
+| Hospital Victorino Santaella | LAYA ANDRES | 25 |  | LA GUAIRA | POLITRAUMATISMO | Fuente: Hospital Victorino Santaella (27JUN) |
+| Hospital Victorino Santaella | LAYA MARBELLA | 41 |  | LA GUAIRA | POLITRAUMATISMO | Fuente: Hospital Victorino Santaella (27JUN) |
+| Hospital Victorino Santaella | LOZADA MOISES | 34 |  | LA GUAIRA | POLITRAUMATISMO | Fuente: Hospital Victorino Santaella (27JUN) |
+| Hospital Victorino Santaella | MADRID JOSUE | 43 |  | LA GUAIRA | POLITRAUMATISMO | Fuente: Hospital Victorino Santaella (27JUN) |
+| Hospital Victorino Santaella | MARQUEZ CESAR | 47 |  | LA GUAIRA | POLITRAUMATISMO | Fuente: Hospital Victorino Santaella (27JUN) |
+| Hospital Victorino Santaella | MAYORCA FANNY | 47 |  | LA MATICA LOS TEQUES | POLITRAUMATISMO | Fuente: Hospital Victorino Santaella (27JUN) · FALLECIDO |
+| Hospital Victorino Santaella | MEDINA KAREN | 30 |  |  | POLITRAUMATISMO | Fuente: Hospital Victorino Santaella (27JUN) · FALLECIDO |
+| Hospital Victorino Santaella | MORENO MAIRA | 42 |  | LA GUAIRA | POLITRAUMATISMO | Fuente: Hospital Victorino Santaella (27JUN) · PRIVADA DE LIBERTAD |
+| Hospital Victorino Santaella | MUENTES ANABELL | 20 |  | LA GUAIRA | POLITRAUMATISMO | Fuente: Hospital Victorino Santaella (27JUN) |
+| Hospital Victorino Santaella | MUENTES VALERIA | 14 |  | LA GUAIRA | POLITRAUMATISMO | Fuente: Hospital Victorino Santaella (27JUN) · PEDRIATICO |
+| Hospital Victorino Santaella | MUJICA ENJERBERT | 53 |  |  | POLITRAUMATISMO | Fuente: Hospital Victorino Santaella (27JUN) · FALLECIDO |
+| Hospital Victorino Santaella | OCHOA ASHLY | 32 |  | LA GUAIRA | POLITRAUMATISMO APLASTAMIENTO | Fuente: Hospital Victorino Santaella (27JUN) |
+| Hospital Victorino Santaella | OLIVARES MIGUEL | 24 |  | LA GUAIRA | POLITRAUMATISMO | Fuente: Hospital Victorino Santaella (27JUN) |
+| Hospital Victorino Santaella | QUINTERO ARTURO | 71 |  |  | POLITRAUMATISMO | Fuente: Hospital Victorino Santaella (27JUN) · FALLECIDO |
+| Hospital Victorino Santaella | RIVERO LUCIANO | 9 |  | LA GUAIRA | POLITRAUMATISMO | Fuente: Hospital Victorino Santaella (27JUN) |
+| Hospital Victorino Santaella | RODRIGUEZ CARMEN | 73 |  | LA GUAIRA | POLITRAUMATISMO | Fuente: Hospital Victorino Santaella (27JUN) |
+| Hospital Victorino Santaella | SALAYA GERMAN | 73 |  | LA GUAIRA | POLITRAUMATISMO | Fuente: Hospital Victorino Santaella (27JUN) |
+| Hospital Victorino Santaella | SEQUERA MARITZA | 75 |  | LA GUAIRA | POLITRAUMATISMO | Fuente: Hospital Victorino Santaella (27JUN) |
+| Hospital Victorino Santaella | SILAYA RAUL | 62 |  | LA GUAIRA | POLITRAUMATISMO | Fuente: Hospital Victorino Santaella (27JUN) |
+| Hospital Victorino Santaella | SILVA KIMBERLY | 18 |  | LA GUAIRA | POLITRAUMATISMO | Fuente: Hospital Victorino Santaella (27JUN) |
+| Sobrevivientes — Parque del Oeste | Abreil Prieto | 1 |  | Parque del Oeste | Sobreviviente | Fuente: Sobrevivientes Parque del Oeste (27JUN) |
+| Sobrevivientes — Parque del Oeste | Altuve | 34 |  | Parque del Oeste | Sobreviviente | Fuente: Sobrevivientes Parque del Oeste (27JUN) |
+| Sobrevivientes — Parque del Oeste | Andri Mora | 42 |  | Parque del Oeste | Sobreviviente | Fuente: Sobrevivientes Parque del Oeste (27JUN) |
+| Sobrevivientes — Parque del Oeste | Aranza Mora | - |  | Parque del Oeste | Sobreviviente | Fuente: Sobrevivientes Parque del Oeste (27JUN) |
+| Sobrevivientes — Parque del Oeste | Beth Yedy Rodriguez | 43 |  | Parque del Oeste | Sobreviviente | Fuente: Sobrevivientes Parque del Oeste (27JUN) |
+| Sobrevivientes — Parque del Oeste | Carlie Mora | 24 |  | Parque del Oeste | Sobreviviente | Fuente: Sobrevivientes Parque del Oeste (27JUN) |
+| Sobrevivientes — Parque del Oeste | Edgar Rodriguez | 9 |  | Parque del Oeste | Sobreviviente | Fuente: Sobrevivientes Parque del Oeste (27JUN) |
+| Sobrevivientes — Parque del Oeste | Eile Guevara | 24 |  | Parque del Oeste | Sobreviviente | Fuente: Sobrevivientes Parque del Oeste (27JUN) |
+| Sobrevivientes — Parque del Oeste | Elizabeth Guerrero | 54 |  | Parque del Oeste | Sobreviviente | Fuente: Sobrevivientes Parque del Oeste (27JUN) |
+| Sobrevivientes — Parque del Oeste | Eloy Guevara | 49 |  | Parque del Oeste | Sobreviviente | Fuente: Sobrevivientes Parque del Oeste (27JUN) |
+| Sobrevivientes — Parque del Oeste | Emeli Guevara | - |  | Parque del Oeste | Sobreviviente | Fuente: Sobrevivientes Parque del Oeste (27JUN) |
+| Sobrevivientes — Parque del Oeste | Emelier Guevara | 11 |  | Parque del Oeste | Sobreviviente | Fuente: Sobrevivientes Parque del Oeste (27JUN) |
+| Sobrevivientes — Parque del Oeste | Enyeli Quijada | 19 |  | Parque del Oeste | Sobreviviente | Fuente: Sobrevivientes Parque del Oeste (27JUN) |
+| Sobrevivientes — Parque del Oeste | Enyerli Altuve | - |  | Parque del Oeste | Sobreviviente | Fuente: Sobrevivientes Parque del Oeste (27JUN) |
+| Sobrevivientes — Parque del Oeste | Eric Guevara | 7 |  | Parque del Oeste | Sobreviviente | Fuente: Sobrevivientes Parque del Oeste (27JUN) |
+| Sobrevivientes — Parque del Oeste | Gael Vital | 1 |  | Parque del Oeste | Sobreviviente | Fuente: Sobrevivientes Parque del Oeste (27JUN) |
+| Sobrevivientes — Parque del Oeste | Isaac Mendoza | 5 |  | Parque del Oeste | Sobreviviente | Fuente: Sobrevivientes Parque del Oeste (27JUN) |
+| Sobrevivientes — Parque del Oeste | Luis Enrique Silva | 73 |  | Parque del Oeste | Sobreviviente | Fuente: Sobrevivientes Parque del Oeste (27JUN) |
+| Sobrevivientes — Parque del Oeste | Maikel Guevara | 14 |  | Parque del Oeste | Sobreviviente | Fuente: Sobrevivientes Parque del Oeste (27JUN) |
+| Sobrevivientes — Parque del Oeste | Marisol Rodriguez | 31 |  | Parque del Oeste | Sobreviviente | Fuente: Sobrevivientes Parque del Oeste (27JUN) |
+| Sobrevivientes — Parque del Oeste | Mark Alejandro Rodriguez | 11 |  | Parque del Oeste | Sobreviviente | Fuente: Sobrevivientes Parque del Oeste (27JUN) |
+| Sobrevivientes — Parque del Oeste | Mayra Rodriguez | 46 |  | Parque del Oeste | Sobreviviente | Fuente: Sobrevivientes Parque del Oeste (27JUN) |
+| Sobrevivientes — Parque del Oeste | Miauril Prieto | 11 meses |  | Parque del Oeste | Sobreviviente | Fuente: Sobrevivientes Parque del Oeste (27JUN) |
+| Sobrevivientes — Parque del Oeste | Mileidy Gimenez | 23 |  | Parque del Oeste | Sobreviviente | Fuente: Sobrevivientes Parque del Oeste (27JUN) |
+| Sobrevivientes — Parque del Oeste | Militza Gimenez | 51 |  | Parque del Oeste | Sobreviviente | Fuente: Sobrevivientes Parque del Oeste (27JUN) |
+| Sobrevivientes — Parque del Oeste | Oneida Margarita Mata | 36 |  | Parque del Oeste | Sobreviviente | Fuente: Sobrevivientes Parque del Oeste (27JUN) |
+| Sobrevivientes — Parque del Oeste | Reiner Madriz | 2 |  | Parque del Oeste | Sobreviviente | Fuente: Sobrevivientes Parque del Oeste (27JUN) |
+| Sobrevivientes — Parque del Oeste | Richard Madriz | - |  | Parque del Oeste | Sobreviviente | Fuente: Sobrevivientes Parque del Oeste (27JUN) |
+| Sobrevivientes — Parque del Oeste | Samuel Pereio | 14 |  | Parque del Oeste | Sobreviviente | Fuente: Sobrevivientes Parque del Oeste (27JUN) |
+| Sobrevivientes — Parque del Oeste | Sofia Guevara | - |  | Parque del Oeste | Sobreviviente | Fuente: Sobrevivientes Parque del Oeste (27JUN) |
+| Sobrevivientes — Parque del Oeste | Wilianny Perez | 37 |  | Parque del Oeste | Sobreviviente | Fuente: Sobrevivientes Parque del Oeste (27JUN) |
+| Sobrevivientes — Parque del Oeste | Yalende Rodriguez Avila | 17 |  | Parque del Oeste | Sobreviviente | Fuente: Sobrevivientes Parque del Oeste (27JUN) |
+| Sobrevivientes — Parque del Oeste | Yara Alijandris Rodriguez | 22 |  | Parque del Oeste | Sobreviviente | Fuente: Sobrevivientes Parque del Oeste (27JUN) |
+| Sobrevivientes — Parque del Oeste | Yeini Madriz | 7 |  | Parque del Oeste | Sobreviviente | Fuente: Sobrevivientes Parque del Oeste (27JUN) |
+| Sobrevivientes — Parque del Oeste | Yendri Mora | 11 |  | Parque del Oeste | Sobreviviente | Fuente: Sobrevivientes Parque del Oeste (27JUN) |
+| Sobrevivientes — Parque del Oeste | Yoelis Sibel Guerrero | 19 |  | Parque del Oeste | Sobreviviente | Fuente: Sobrevivientes Parque del Oeste (27JUN) |
+| Sobrevivientes — Parque del Oeste | Yolvelis Guerrero | 16 |  | Parque del Oeste | Sobreviviente | Fuente: Sobrevivientes Parque del Oeste (27JUN) |
+| Sobrevivientes — Parque del Oeste | Yonder Alberto Ramos | 30 |  | Parque del Oeste | Sobreviviente | Fuente: Sobrevivientes Parque del Oeste (27JUN) |
+| Sobrevivientes — Parque del Oeste | Yosmely Mora | - |  | Parque del Oeste | Sobreviviente | Fuente: Sobrevivientes Parque del Oeste (27JUN) |
+| Sobrevivientes — Parque del Oeste | Yosmerly Mora | - |  | Parque del Oeste | Sobreviviente | Fuente: Sobrevivientes Parque del Oeste (27JUN) |
 
 ## Notas de consolidación
 
@@ -4568,3 +6076,5 @@
 - **Actualización 27JUN26 (Hospital General de Lídice — Dr. Jesús Yerena):** grupo nuevo; de 54 registros se añadieron las **43 no repetidas** (dedup por cédula global y nombre).
 - **Actualización 27JUN26 (lista por servicio 10:30):** de 21 registros se añadieron las **17 no repetidas** (dedup por nombre en el grupo Domingo Luciani).
 - **Actualización 27JUN26 (Pérez Carreño, registro correlativo):** de 145 registros se añadieron las **71 no repetidas** (dedup por cédula global y nombre).
+- **Actualización 27JUN26 (consolidado «todos los archivos»):** de 3765 candidatos se añadieron las **1494 no repetidas** (dedup por cédula global y nombre por grupo).
+- **Revalidación 27JUN26 (Dropbox 15:12):** de 2743 registros se añadieron las **5 que faltaban** (dedup por cédula global y nombre por grupo).
